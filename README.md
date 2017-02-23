@@ -5,6 +5,12 @@ Russian translation for game Oxygen Not Included
 
 http://steamcommunity.com/id/oniki/
 
+# Участники перевода
+*Участник \ Строки*
+Ony - 0-3000
+SealOfTheTime - 6999-9999
+
+
 # Инструкции
 
 ## Creating a Translation File
