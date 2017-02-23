@@ -23,13 +23,13 @@ msgstr "Дупликант должен работать над этим, что
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
-msgid "Ожидает культивации"
-msgstr ""
+msgid msgid "Awaiting compostables"
+msgstr "Ожидает культивации"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
-msgstr "Компост должен периодически культивироваться Дупликантами для производства <style=\"solid\">Fertilizer</style>"
+msgstr "Компост должен периодически культивироваться Дупликантами для производства <style=\"solid\">Удобрения</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
@@ -39,7 +39,7 @@ msgstr "Ожидает доставки"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected <style=\"seed\">Seed</style>"
-msgstr "Ожидает доставки выбранного <style=\"seed\">Seed</style>"
+msgstr "Ожидает доставки выбранного <style=\"seed\">Семени</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME"
@@ -59,7 +59,7 @@ msgstr "Сломано"
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
 msgid "This building was broken by a <style=\"stress\">Stressed</style> Duplicant\n\nIt must be repaired"
-msgstr "Это здание было сломано a <style=\"stress\">Stressed</style> Duplicant\n\nНеобходима починка"
+msgstr "Это здание было сломано в результате <style=\"stress\">Стреса</style> Дупликантом\n\nНеобходима починка"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
@@ -99,7 +99,7 @@ msgstr "Труба заблокирована"
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP"
 msgid "This pipe system is not serviceable"
-msgstr ""
+msgstr "Эта труба не обслуживается"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME"
@@ -194,57 +194,57 @@ msgstr "Выделяет {ElementTypes}: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.TOOLTIP"
 msgid "This object is releasing {ElementTypes} at a rate of {FlowRate}"
-msgstr ""
+msgstr "Этот объект выделяет {ElementTypes} со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME"
 msgid "Emitting CO2: {FlowRate}"
-msgstr ""
+msgstr "Выделяет CO2: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.TOOLTIP"
 msgid "Producing CO2 at {FlowRate}"
-msgstr ""
+msgstr "Производит CO2 at {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.NAME"
 msgid "Emitting {ElementType}: {FlowRate}"
-msgstr ""
+msgstr "Выделяет {ElementType}: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.TOOLTIP"
 msgid "Producing {ElementType} at {FlowRate}"
-msgstr ""
+msgstr "Производит {ElementType} at {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME"
 msgid "Emitting <style=\"gas\">{Element}</style>: {FlowRate}"
-msgstr ""
+msgstr "Выделяет <style=\"gas\">{Element}</style>: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP"
 msgid "Producing <style=\"gas\">{Element}</style> at {FlowRate}"
-msgstr ""
+msgstr "Производит <style=\"gas\">{Element}</style> at {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME"
 msgid "Emitting Light"
-msgstr ""
+msgstr "Выделяет Свет"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP"
-msgid "Open the Light Overlay [{LightGridOverlay}] to view this <style=\"light\">Light</style>'s visibility radius"
-msgstr ""
+msgid "Open the Light Overlay [{LightGridOverlay}] to view this <style=\"light\">Свет</style>'s visibility radius"
+msgstr "Открыть оверлей Освещения [{LightGridOverlay}] чтобы посмотреть радиус <style=\"light\">Освещения</style> этого источника"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME"
 msgid "Emitting <style=\"oxygen\">Oxygen</style>: {FlowRate}"
-msgstr ""
+msgstr "Выделяет <style=\"oxygen\">Кислород</style>: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP"
 msgid "Producing <style=\"oxygen\">Oxygen</style> at {FlowRate}"
-msgstr ""
+msgstr "Producing <style=\"oxygen\">Кислород</style> со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME"
