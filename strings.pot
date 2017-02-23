@@ -4,37 +4,37 @@
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
 msgid "Assigned to: {Assignee}"
-msgstr "Назначен: {Assignee}"
+msgstr "Закреплено за: {Assignee}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP"
 msgid "Only {Assignee} can use this amenity"
-msgstr "Только {Assignee} может использовать это удобство"
+msgstr "Только {Assignee} может использовать это устройство"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME"
 msgid "Awaiting decoration"
-msgstr "Ожидает декорации"
+msgstr "Ожидает декорирования"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP"
 msgid "A Duplicant must work on this to create art"
-msgstr "Дупликант должен работать с этим, чтобы создавать произведения искусства"
+msgstr "Дупликант должен работать над этим, что создать предмет искусства"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
-msgid "Requires flipping"
-msgstr "Необходимо ворошить"
+msgid msgid "Awaiting compostables"
+msgstr "Ожидает культивации"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
-msgstr "Компост необходимо периодически ворошить, чтобы производить <style=\"solid\">Удобрение</style>"
+msgstr "Компост должен периодически культивироваться Дупликантами для производства <style=\"solid\">Удобрения</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
 msgid "Awaiting delivery"
-msgstr "Ожидает поставки"
+msgstr "Ожидает доставки"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP"
@@ -44,12 +44,12 @@ msgstr "Ожидает доставки выбранного <style=\"seed\">С�
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME"
 msgid "Awaiting compostables"
-msgstr "Ожидает перегноя"
+msgstr "Ожидает компоста"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.TOOLTIP"
 msgid "More waste material is required to begin to composting process"
-msgstr "Требуется больше мусора, чтобы начать процесс компостирования"
+msgstr "Необходимо больше компоста, чтобы начать процесс переработки"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME"
@@ -59,77 +59,77 @@ msgstr "Сломано"
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
 msgid "This building was broken by a <style=\"stress\">Stressed</style> Duplicant\n\nIt must be repaired"
-msgstr "Эта постройка была сломана <style=\"stress\">Нервным</style> Дупликантом\n\nЕё необходимо починить"
+msgstr "Это здание было сломано в результате <style=\"stress\">Стреса</style> Дупликантом\n\nНеобходима починка"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
 msgid "Building Disabled"
-msgstr "Постройка Выключена"
+msgstr "Здание отключено"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP"
 msgid "This building has been disabled."
-msgstr "Эта постройка была выключена"
+msgstr "Это здание было отключено"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME"
 msgid "Cannot cool further"
-msgstr "Невозможно охладить сильнее"
+msgstr "Невозможно охладить еще больше"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP"
 msgid "This building cannot cool the surrounding area any further"
-msgstr "Эта постройка больше не может охлаждать окружающее пространство"
+msgstr "Это здание не может охладить окружающую область еще больше"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
 msgid "Pending Door State Change: {ControlState}"
-msgstr "В ожидании смены состояния двери: {ControlState}"
+msgstr "Ожидает переключения двери в состояние:  {ControlState}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP"
 msgid "Waiting for a Duplicant to change control state"
-msgstr "В ожидании смены состояния Дупликантом"
+msgstr "Ожидает Дупликанта для смены состояния"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME"
 msgid "Pipe Blocked"
-msgstr "Труба Заблокирована"
+msgstr "Труба заблокирована"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP"
 msgid "This pipe system is not serviceable"
-msgstr "Этот трубопровод неисправен"
+msgstr "Эта труба не обслуживается"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME"
 msgid "Unreachable"
-msgstr "Невозможно добраться"
+msgstr "Недостижимо"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this construction site"
-msgstr "Дупликанты не могут добраться до строительной площадки"
+msgstr "Дупликанты не могут достичь этой области постройки"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.NAME"
 msgid "Cooling"
-msgstr "Охлаждает"
+msgstr "Охлаждается"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP"
 msgid "This building is cooling the surrounding area"
-msgstr "Эта постройка охлаждает окружающее пространство"
+msgstr "Это здание охлаждает окружающюю его область"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO"
 msgid "Auto"
-msgstr "Автомат"
+msgstr "Автоматический"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.CLOSED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.CLOSED"
 msgid "Closed"
-msgstr "Закрыта"
+msgstr "Закрыто"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.NAME"
@@ -139,32 +139,32 @@ msgstr "Текущее состояние: {ControlState}"
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.OPENED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.OPENED"
 msgid "Opened"
-msgstr "Открыта"
+msgstr "Открыто"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP"
 msgid "Current State: {ControlState}\n\nAuto: Duplicants will open and close this door as needed\nClosed: This door will remain closed\nOpen: This door will remain open"
-msgstr "Текущее Состояние: {ControlState}\n\nАвтомат: Дупликанты будут открывать и закрывать дверь по необходимости\nЗакрыта: Эта дверь останется закрытой\nОткрыта: Эта дверь останется открытой"
+msgstr "Текущее состояние: {ControlState}\n\nАвтоматически: Дупликанты будут открывать и закрывать дверь, когда это необходимо\nЗакрыто: Эта дверь остается закрыта, Дупликанты не будут ее использовать\nОткрыто: Эта дверь будет открыта постоянно"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
 msgid "Unreachable"
-msgstr "Невозможно добарться"
+msgstr "Недостижимо"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this area"
-msgstr "Дупликанты не могут добраться до этой зоны"
+msgstr "Дупликанты не могут достичь этой области"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.NAME"
 msgid "Consuming {ElementTypes}: {FlowRate}"
-msgstr "Потребляет {ElementTypes: {FlowRate}"
+msgstr "Потребляет {ElementTypes}: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP"
 msgid "This building is utilizing ambient {ElementTypes} from the environment"
-msgstr "Эта постройка очищает окружение от {ElementTypes}"
+msgstr "Это здание использует {ElementTypes} из окружающей среды"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME"
@@ -174,127 +174,127 @@ msgstr "Использует {ElementTypes}: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.TOOLTIP"
 msgid "This building is using {ElementTypes} from storage at a rate of {FlowRate}"
-msgstr "Эта постройка использует {ElementTypes} из хранилища в размере {FlowRate}"
+msgstr "Это здание использует {ElementTypes} из запасов со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME"
 msgid "Emitting {ElementTypes}: {FlowRate}"
-msgstr "Испускает {ElementTypes}: {FlowRate}"
+msgstr "Выделяет {ElementTypes}: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.TOOLTIP"
 msgid "This building is releasing {ElementTypes} at a rate of {FlowRate}"
-msgstr "Эта постройка выпускает {ElementTypes} в окружение со скоростью {FlowRate}"
+msgstr "Это здание выделяет {ElementTypes} со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME"
 msgid "Emitting {ElementTypes}: {FlowRate}"
-msgstr "Испускает {ElementTypes}: {FlowRate}"
+msgstr "Выделяет {ElementTypes}: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.TOOLTIP"
 msgid "This object is releasing {ElementTypes} at a rate of {FlowRate}"
-msgstr "Этот объект выпускает {ElementTypes} в окружение с скоростью {FlowRate}"
+msgstr "Этот объект выделяет {ElementTypes} со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME"
 msgid "Emitting CO2: {FlowRate}"
-msgstr "Испускает CO2: {FlowRate}"
+msgstr "Выделяет CO2: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.TOOLTIP"
 msgid "Producing CO2 at {FlowRate}"
-msgstr "Производит CO2 со скоростью {FlowRate}"
+msgstr "Производит CO2 at {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.NAME"
 msgid "Emitting {ElementType}: {FlowRate}"
-msgstr "Производит {ElementType}: {FlowRate}"
+msgstr "Выделяет {ElementType}: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.TOOLTIP"
 msgid "Producing {ElementType} at {FlowRate}"
-msgstr "Производит {ElementType} со скорость {FlowRate}"
+msgstr "Производит {ElementType} at {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME"
 msgid "Emitting <style=\"gas\">{Element}</style>: {FlowRate}"
-msgstr "Испускает <style=\"gas\">{Element}</style>: {FlowRate}"
+msgstr "Выделяет <style=\"gas\">{Element}</style>: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP"
 msgid "Producing <style=\"gas\">{Element}</style> at {FlowRate}"
-msgstr "Производит <style=\"gas\">{Element}</style> со скоростью {FlowRate}"
+msgstr "Производит <style=\"gas\">{Element}</style> at {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME"
 msgid "Emitting Light"
-msgstr "Испускает свет"
+msgstr "Выделяет Свет"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP"
-msgid "Open the Light Overlay [{LightGridOverlay}] to view this <style=\"light\">Light</style>'s visibility radius"
-msgstr "Включите Световую Карту [{LightGridOverlay}], чтобы увидеть радис этого <style=\"light\">светильника</style>"
+msgid "Open the Light Overlay [{LightGridOverlay}] to view this <style=\"light\">Свет</style>'s visibility radius"
+msgstr "Открыть оверлей Освещения [{LightGridOverlay}] чтобы посмотреть радиус <style=\"light\">Освещения</style> этого источника"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME"
 msgid "Emitting <style=\"oxygen\">Oxygen</style>: {FlowRate}"
-msgstr "Испускает <style=\"oxygen\">Кислород</style>: {FlowRate}"
+msgstr "Выделяет <style=\"oxygen\">Кислород</style>: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP"
 msgid "Producing <style=\"oxygen\">Oxygen</style> at {FlowRate}"
-msgstr "Производит кислород <style=\"oxygen\">Кислород</style> со скоростью {FlowRate}"
+msgstr "Producing <style=\"oxygen\">Кислород</style> со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME"
 msgid "Entombed"
-msgstr "Засыпан"
+msgstr "Завалено"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME"
 msgid "Building entombment"
-msgstr "Постройка засыпана"
+msgstr "Здание завалено"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP"
 msgid "These buildings are entombed and need to be dug out:"
-msgstr "Эти постройки засыпаны и должны быть откопаны"
+msgstr "Эти здания завалены и требуют раскопки для продолжения функционирования"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.TOOLTIP"
 msgid "Must be dug out by a Duplicant"
-msgstr "Должно быть откопано Дупликантом"
+msgstr "Должно быть раскопано Дупликантом"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME"
 msgid "No Fabrications Queued"
-msgstr "Нет заказов"
+msgstr "Производственная очередь пуста"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.TOOLTIP"
 msgid "Queue a recipe to begin fabrication"
-msgstr "Закажите рецепт, чтобы начать производство"
+msgstr "Добавьте рецепт в очередь, чтобы начать производство"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NAME"
 msgid "Building Flooded"
-msgstr "Постройка затоплена"
+msgstr "Здание затоплено"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_NAME"
 msgid "Flooding"
-msgstr "Тонет"
+msgstr "Затоплено"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_TOOLTIP"
 msgid "These buildings are flooded:"
-msgstr "Эти постройки затоплены:"
+msgstr "Эти здания затоплены:"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.TOOLTIP"
 msgid "Building cannot function at current saturation"
-msgstr "Здание не может работать при текущем насыщении"
+msgstr "Здание не может функционировать при текущем насыщении"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.NAME"
@@ -304,7 +304,7 @@ msgstr "Уборная готова"
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.TOOLTIP"
 msgid "This bathroom is ready to receive visitors"
-msgstr "Эта ванная готова к работе"
+msgstr "Этот туалет готов для принятия посетителей"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.NAME"
@@ -314,17 +314,17 @@ msgstr "Уборная используется"
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.TOOLTIP"
 msgid "This bathroom is occupied"
-msgstr "Эта ванная занята"
+msgstr "Туалет занят"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.NAME"
 msgid "Empty Pipe"
-msgstr "Пустая Труба"
+msgstr "Труба пуста"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.TOOLTIP"
 msgid "There is no <style=\"Gas\">Gas</style> in the pipe"
-msgstr "В трубе нету <style=\"Gas\">газа</style>"
+msgstr "В этой трубе нет <style=\"Gas\">Газа</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.NAME"
@@ -334,22 +334,22 @@ msgstr "Не качает"
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.TOOLTIP"
 msgid "This pump is not active"
-msgstr "Эта помпа не активна"
+msgstr "Эта труба не активна"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.NAME"
 msgid "Gas Vent Obstructed"
-msgstr "Газоотвод заблокирован"
+msgstr "Вентиляционный выход завален"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.TOOLTIP"
 msgid "Cannot release gas through this vent"
-msgstr "Невозможно выпустить газ через это отверстие"
+msgstr "Невозможно выпустить газ через данный вентиляционный выход"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.NAME"
 msgid "Gas Vent Overpressurized"
-msgstr "Газоотвод испытывает избыточное давление"
+msgstr "Вентиляционное отверстие не может функционирования из-за избыточного давления"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.TOOLTIP"
@@ -15290,4 +15290,3 @@ msgstr ""
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr ""
-
