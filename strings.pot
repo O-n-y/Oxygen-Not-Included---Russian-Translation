@@ -1193,7 +1193,7 @@ msgstr "Уменьшает опасность возникновения <style=
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
 msgid "Air Deodorizer"
-msgstr "Очиститель Воздуха"
+msgstr "Освежитель Воздуха"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
@@ -1327,37 +1327,37 @@ msgstr "Улучшает <style=\"decor\">Мнение о Декоре</style> �
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
 msgid "Ceiling Lamp"
-msgstr ""
+msgstr "Люстра"
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC"
 msgid "Everyone appreciates a little clean air."
-msgstr ""
+msgstr "Каждый оценит немного чистого воздуха."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT"
 msgid "Filters <style=\"gas\">Carbon Dioxide</style> and removes it from the air."
-msgstr ""
+msgstr "Фильтрует <style=\"gas\">Углекислый Газ</style> и удаляет его из воздуха."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME"
 msgid "Air Scrubber"
-msgstr ""
+msgstr "Воздухоочистительная установка"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
 msgid "Don't waste your waste!"
-msgstr ""
+msgstr "Безотходное производство!"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
 msgid "Breaks <style=\"solid\">Contaminated Dirt</style> down into <style=\"solid\">Fertilizer</style>."
-msgstr ""
+msgstr "Перерабатывает <style=\"solid\">Загрязненную Землю</style> в <style=\"solid\">Удобрение</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
 msgid "Compost"
-msgstr ""
+msgstr "Компост"
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC"
