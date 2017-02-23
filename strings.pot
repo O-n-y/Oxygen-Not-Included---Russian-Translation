@@ -1287,7 +1287,7 @@ msgstr "Кроватка"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
 msgid "Mediocre Painting"
-msgstr "Живопись Среднего качества"
+msgstr "Посредственная Живопись"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.DESC"
@@ -1302,27 +1302,27 @@ msgstr "Увеличивает <style=\"decor\">Мнение о Декоре</st
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME"
 msgid "Masterpiece"
-msgstr ""
+msgstr "Шедевр"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.NAME"
 msgid "Blank Canvas"
-msgstr ""
+msgstr "Пустой Холст"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME"
 msgid "Crude Painting"
-msgstr ""
+msgstr "Грубый Рисунок"
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC"
 msgid "This light imitates the Duplicants' natural aboveground habitat.\nSort of. Maybe."
-msgstr ""
+msgstr "Этот свет имитирует естественную надземную среду обитания Дупликантов. Вроде того. Возможно."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT"
 msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
-msgstr ""
+msgstr "Улучшает <style=\"decor\">Мнение о Декоре</style> и уменьшает <style=\"stress\">Стресс</style> создавая <style=\"light\">Свет</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"

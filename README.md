@@ -10,7 +10,7 @@ http://steamcommunity.com/id/oniki/
 * Ony - 0 по 2998
 * ShaTiK - 2999 по 3998
 * 1u3Bac: - 3999 по 4997
-* SealOfTheTime - 6999-9999
+* SealOfTheTime - 6999-9019
 
 
 
