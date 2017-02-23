@@ -6999,82 +6999,82 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot reach their assigned quarantine zones:"
-msgstr ""
+msgstr "Эти Дупликанты не могут добраться до назначенных зон карантина"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.TOOLTIP"
 msgid "This Duplicant cannot reach their quarantine zone"
-msgstr ""
+msgstr "Этот Дупликант не может добраться до своей зоны карантина"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.NAME"
 msgid "Quarantined"
-msgstr ""
+msgstr "В карантине"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.TOOLTIP"
 msgid "This Duplicant has been isolated from the colony"
-msgstr ""
+msgstr "Эти Дупликанты были изолированы от колонии"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NAME"
 msgid "Cannot reach food"
-msgstr ""
+msgstr "Не способен добраться до еды"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_NAME"
 msgid "Food beyond reach"
-msgstr ""
+msgstr "Еда не в зоне досягаемости"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot access the colony's <style=\"food\">Food</style>:"
-msgstr ""
+msgstr "Эти Дупликанты не могут получить доступ к <style=\"food\">пище</style> колонии"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.TOOLTIP"
 msgid "There is <style=\"food\">Food</style> in the colony but this Duplicant cannot reach it"
-msgstr ""
+msgstr "В колонии есть <style=\"food\">еда</style>, но эти Дупликанты не могут до нее добраться"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.NAME"
 msgid "Recovering breath"
-msgstr ""
+msgstr "Переводит дыхание"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.TOOLTIP"
 msgid "This Duplicant had to hold their breath for too long and needs a breather"
-msgstr ""
+msgstr "Этому Дупликанту пришлось надолго задерживать дыхание, а потому нужна передышка"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr ""
+msgstr "Красная Тревога"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.TOOLTIP"
 msgid "Your Duplicants will not eat, sleep, or take leisure time during a state of Red Alert"
-msgstr ""
+msgstr "Ваши Дупликанты не будут есть, спать, или отлынивать от работы во время Красной Тревоги"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.NAME"
 msgid "Relaxing"
-msgstr ""
+msgstr "Отдыхает"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.TOOLTIP"
 msgid "This Duplicant's just taking it easy"
-msgstr ""
+msgstr "Этот Дупликант просто расслабляется"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант переносит материалы в {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.NAME"
