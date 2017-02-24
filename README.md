@@ -1,6 +1,6 @@
 # Oxygen-Not-Included---Russian-Translation
 
-Русская локализация для игры Oxygen Not Included
+Русская локализация для игры "Oxygen Not Included"
 
 # Участники перевода
 *Участник \ Строки*
