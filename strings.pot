@@ -1602,62 +1602,62 @@ msgstr "Газовый Фильтр"
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC"
 msgid "It's like walking on a dream!"
-msgstr ""
+msgstr "Это как походка во сне!"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
 msgid "Used as wall and floor tile to build rooms.\n\nBlocks the flow of <style=\"liquid\">Liquid</style> without obstructing the flow of <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "Используется как стена и пол, чтобы строить комнаты.\n\nБлокирует прохождение <style=\"liquid\">Жидкости</style>без блокировки потока <style=\"gas\">Газа</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
 msgid "Gas Permeable Tile"
-msgstr ""
+msgstr "Газопроницаемый блок"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
 msgid "Get your colony all pumped up!"
-msgstr ""
+msgstr "Накачайте вашу колонию газом!"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.EFFECT"
 msgid "Draws in <style=\"gas\">Gas</style> and runs it through the connected <style=\"GasPiping\">Gas Pipe</style>."
-msgstr ""
+msgstr "Закачивает <style=\"gas\">Газ</style> из окружающей среды и гонитего по соединенным <style=\"GasPiping\">Газовым Трубам</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME"
 msgid "Gas Pump"
-msgstr ""
+msgstr "Газовый Насос"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC"
 msgid "It's the metal pipe equivalent of kinking a garden hose."
-msgstr ""
+msgstr "Эта металическая труба эквивалент перегиба садового шланга."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT"
-msgid "Increases or decreases <style=\"gas\">Gas</style> volume in pipes to maintain ideal <style=\"GasPiping>Gas Pipe</style> pressure."
-msgstr ""
+msgid "Increases or decreases <style=\"gas\">Gas</style> volume in pipes to maintain ideal <style=\"GasPiping\">Gas Pipe</style> pressure."
+msgstr "Увеличивает или уменьшает объем <style=\"gas\">Газа</style> в трубах, для поддержания идеального давления в  <style=\"GasPiping\">Газовых Трубах</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME"
 msgid "Gas Valve"
-msgstr ""
+msgstr "Газовый Клапан"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.DESC"
 msgid "Sometimes you just gotta vent."
-msgstr ""
+msgstr "Иногда вам просто нужно вентиляционное отверстие."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT"
 msgid "An output point for <style=\"GasPiping\">Gas Pipes</style>."
-msgstr ""
+msgstr "Выходное отверстие <style=\"GasPiping\">Газовых Труб</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
 msgid "Gas Vent"
-msgstr ""
+msgstr "Вентиляционное отверстие для газовых труб"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC"
