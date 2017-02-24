@@ -18,20 +18,21 @@ http://steamcommunity.com/id/oniki/
 
 # Инструкции
 
-## Creating a Translation File
+## Создание файла перевода
 
-    Open the Oxygen Not Included folder by right clicking on Oxygen Not Included in Steam, going to the Local Files tab and clicking Browse Local Files.
-    Open the mods folder which is located in "OxygenNotIncluded_Data/StreamingAssets/Mods"
-    Copy the "strings_template.pot" file and rename it "strings.po"
-    Fill in all lines that start with "msgstr"
+    Откройте папку Oxygen Not Included через правый клик мышки в свойставх игры в Steam, перейдите в локальные файлы и откройте их.
+	Откройте "mods" папку, которая расположена по пути "OxygenNotIncluded_Data/StreamingAssets/Mods"
+	Скопируйте "strings_template.pot" файл и переименуйте его в "strings.po"
+	Заполните строки между "" с названием "msgstr"
 
-Note: you will need to not translate any words inside {} or <> brackets as those are specifically used by the game.
+Примечание: не нужно переводить любые слова в таких скобках {} или таких <>, потому что они используются игрой.
 
 
-## Using a Translation File
+## Использование файла перевода
 
-    Download a translation file.
-    Rename it to "strings.po" if need be.
-    Open the Oxygen Not Included folder by right clicking on Oxygen Not Included in Steam, going to the Local Files tab and clicking Browse Local Files.
-    Open the mods folder which is located in "OxygenNotIncluded_Data/StreamingAssets/Mods"
-    Copy the "strings.po" file into that folder.
+	Загрузите файл перевода.
+	Переименуйте его в "strings.po", если нужно.
+	Откройте папку Oxygen Not Included через правый клик мышки в свойставх игры в Steam, перейдите в локальные файлы и откройте их.
+	Откройте "mods" папку, которая расположена по пути "OxygenNotIncluded_Data/StreamingAssets/Mods"
+	Скопируйте загруженный "strings.po" файл в эту папку.
+

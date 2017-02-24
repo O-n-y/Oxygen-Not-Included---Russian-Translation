@@ -5027,142 +5027,142 @@ msgstr "Беа"
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.DESC"
 msgid "This {0} is convinced she can remember bits of her past prints. Everyone else is convinced she's making it up."
-msgstr ""
+msgstr "{0} убеждена, что она может вспомнить обрывки ее прошлого до печати. Все остальные убеждены, что она все выдумала."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.NAME"
 msgid "Bertie"
-msgstr ""
+msgstr "Берти"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.DESC"
 msgid "This {0} always feels great after a bubble bath and a good long cry."
-msgstr ""
+msgstr "{0} всегда чувствует себя прекрасно после ванны с пузырьками и очень долгого плача."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.NAME"
 msgid "Bertrand"
-msgstr ""
+msgstr "Бертранд"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.DESC"
 msgid "{0}s have zero redeeming qualities. People only ever keep them around because they make genius puns."
-msgstr ""
+msgstr "У {0} нулевые положительные качества. Люди всегда держат их вокруг, потому что они делают гениальные каламбуры."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.NAME"
 msgid "Blanche"
-msgstr ""
+msgstr "Бланси"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BRADY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRADY.DESC"
 msgid "{0}s are pretty cool when they can manage to suppress their natural narcissism."
-msgstr ""
+msgstr "{0} это очень здорово, когда они могут управлять собой, чтобы подавить их естественноый нарциссизм."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BRADY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRADY.NAME"
 msgid "Brady"
-msgstr ""
+msgstr "Брэди"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.DESC"
 msgid "This {0} is severely disappointed by the colony's lack of cute, pudgy birds."
-msgstr ""
+msgstr "{0} сильно разочарован отсутствием в колонии симпатичных и толстеньких птичек."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.NAME"
 msgid "Braynen"
-msgstr ""
+msgstr "Брайнен"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC"
 msgid "This {0} is constantly challenging others to fight her, regardless of whether or not she can actually take them."
-msgstr ""
+msgstr "{0} постоянно бросает вызов другим, независимо от того, что она может получить."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME"
 msgid "Bubbles"
-msgstr ""
+msgstr "Бабл"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC"
 msgid "Only the bleak void of space could understand the depths of a {0}'s tortured soul."
-msgstr ""
+msgstr "Только в мрачной пустоте космоса можно понять глубины измученной душы у {0}."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME"
 msgid "Burt"
-msgstr ""
+msgstr "Берт"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.DESC"
 msgid "This {0} has a dark, terrible secret... She LOVES scrapbooking."
-msgstr ""
+msgstr "{0} имеет темную и страшную ТАЙНУ... любит скрапбукинг."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.NAME"
 msgid "Camilla"
-msgstr ""
+msgstr "Камилла"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CASPER.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASPER.DESC"
 msgid "This {0} can't wait to die so their poetry can be appreciated posthumously."
-msgstr ""
+msgstr "{0} не может дождаться смерти, чтоб его стихи были оценены посмертно."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CASPER.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASPER.NAME"
 msgid "Casper"
-msgstr ""
+msgstr "Каспер"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CASS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASS.DESC"
 msgid "This {0} is painfully aware that she spits when she talks. She avoids joining in on most conversations because of it."
-msgstr ""
+msgstr "Больно осознавать, что {0} плюется, когда говорит. Она избегает вступления в большинстве разговоров из-за этого."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CASS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASS.NAME"
 msgid "Cass"
-msgstr ""
+msgstr "Касс"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CECIL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CECIL.DESC"
 msgid "There's a technical term for a {0}'s personality... \"Dweeb\"."
-msgstr ""
+msgstr "Есть технический термин для описания {0} ... \"СЛАБАК\"."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CECIL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CECIL.NAME"
 msgid "Cecil"
-msgstr ""
+msgstr "Сесил"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.DESC"
 msgid "This {0} is paralyzed by the knowledge that others have memories and perceptions of her she can't control."
-msgstr ""
+msgstr "{0} парализована пониманием, что другие имеют воспоминания и восприятие, которые она не может их контролировать."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.NAME"
 msgid "Celeste"
-msgstr ""
+msgstr "Селеста"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.DESC"
 msgid "A {0}'s one dream is to shed their mortal coil and converge with all of time and space. It shouldn't be too much to ask."
-msgstr ""
+msgstr "У {0} одна мечта, чтобы все покидали бренный мир и сходились во времени и пространстве. Это не должно быть слишком."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.NAME"
 msgid "Chuanli"
-msgstr ""
+msgstr "Чуанли"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.DAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DAN.DESC"
 msgid "Every {0} has this unshakable feeling that his life has already happened and he's just watching it as if in a movie."
-msgstr ""
+msgstr "Каждый {0} имеет непоколебимое чувство, что в его жизни это уже произошло и он просто смотрит, как будто в кино."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.DAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DAN.NAME"
 msgid "Dan"
-msgstr ""
+msgstr "Дэн"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.DORRIS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DORRIS.DESC"
