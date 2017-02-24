@@ -10017,7 +10017,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Oxylite</style> deposit to emit <style=\"oxygen\">Oxygen</style>"
-msgstr "Окружающее депозит <style=\"solid\">Оксилита</style>" давление воздуха слишком высоко для вырабатывания <style=\"oxygen\">Кислорода</style>"
+msgstr "Окружающее залежь <style=\"solid\">Оксилита</style>" давление воздуха слишком высоко для вырабатывания <style=\"oxygen\">Кислорода</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.NAME"
@@ -10027,7 +10027,7 @@ msgstr "{BlockedString}"
 #. STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Oxylite</style> deposit has no room to emit <style=\"oxygen\">Oxygen</style>"
-msgstr "Этому депозиту <style=\"solid\">Оксилита</style> некуда выделять <style=\"oxygen\">Кислород</style>"
+msgstr "Этой залежи <style=\"solid\">Оксилита</style> некуда выделять <style=\"oxygen\">Кислород</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.NAME"
