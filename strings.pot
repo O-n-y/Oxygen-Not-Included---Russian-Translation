@@ -11099,22 +11099,22 @@ msgstr ""
 #. STRINGS.UI.CANCELPLACEINRECEPTACLE
 msgctxt "STRINGS.UI.CANCELPLACEINRECEPTACLE"
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #. STRINGS.UI.CANCELREMOVALFROMRECEPTACLE
 msgctxt "STRINGS.UI.CANCELREMOVALFROMRECEPTACLE"
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #. STRINGS.UI.CHANGEPERCYCLE
 msgctxt "STRINGS.UI.CHANGEPERCYCLE"
 msgid "Change per cycle: {0}"
-msgstr ""
+msgstr "Изменения за цикл: {0}"
 
 #. STRINGS.UI.CHANGEPERSECOND
 msgctxt "STRINGS.UI.CHANGEPERSECOND"
 msgid "Change per second: {0}"
-msgstr ""
+msgstr "Изменения за секунду: {0}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE"
@@ -11124,17 +11124,17 @@ msgstr ""
 #. STRINGS.UI.CHARACTERCONTAINER_NEED
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_NEED"
 msgid "{0}: {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE"
 msgid " {0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE"
 msgid "ATTRIBUTES"
-msgstr ""
+msgstr "Характеристики"
 
 #. STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT"
@@ -11144,32 +11144,32 @@ msgstr ""
 #. STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE"
 msgid "TRAITS"
-msgstr ""
+msgstr "Особенности"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST"
 msgid "COLONY LOST"
-msgstr ""
+msgstr "Колония потеряна"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION"
 msgid "All Duplicants are dead or incapacitated."
-msgstr ""
+msgstr "Все Дупликанты умерли или недееспособны."
 
 #. STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON"
 msgid "DISMISS"
-msgstr ""
+msgstr "Распустить"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON"
 msgid "MAIN MENU"
-msgstr ""
+msgstr "Главное меню"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT"
 msgid "Press <color=#F44A47>[ESC]</color> to return to a previous colony, or begin a new one."
-msgstr ""
+msgstr "Нажмите <color=#F44A47>[ESC]</color> для возвращения к прошлой колонии, или создания новой."
 
 #. STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO"
@@ -11179,17 +11179,17 @@ msgstr ""
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT"
 msgid "Can't reach"
-msgstr ""
+msgstr "Нет доступа"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCURE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCURE"
 msgid "Can cure"
-msgstr ""
+msgstr "Можно вылечить"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANMOVETO
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANMOVETO"
 msgid "Can't reach"
-msgstr ""
+msgstr "Нет доступа"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP"
@@ -11959,7 +11959,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE"
 msgid "GRAPHICS OPTIONS"
-msgstr ""
+msgstr "Настройка графики"
 
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.DUPLICATE
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.DUPLICATE"
@@ -11974,37 +11974,37 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.UNBOUND_ACTION
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.UNBOUND_ACTION"
 msgid "{0} is unbound. Are you sure you want to continue?"
-msgstr ""
+msgstr "{0} отсоединяется. Вы точно хотите продолжить?"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
 msgid " <b><color=#ff0000>(Auto Save: This file will get deleted as new Auto Saves are created)</color></b>"
-msgstr ""
+msgstr " <b><color=#ff0000>(Авто сохранение: Этот файл будет удален и будет записанно новое Авто сохранене)</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE"
 msgid "Are you sure you want to delete {0}?\nYou cannot undo this action."
-msgstr ""
+msgstr "Вы уверены что хотите удалить {0} ?\nВы не сможете отменить это действие."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE"
 msgid "<b><color=#ff0000>Could not load file {0}. Its data may be corrupted.</color></b>"
-msgstr ""
+msgstr "<b><color=#ff0000>Невозможно загрузить файл {0}. Данные возможно повреждены.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON"
 msgid "Delete Slot"
-msgstr ""
+msgstr "Удалить слот"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW"
 msgid "<b><color=#ff0000>Could not load file {0}. File is using build {1}. This build is {2}.</color></b>"
-msgstr ""
+msgstr "<b><color=#ff0000>Невозможно загрузить файл {0}. Файл использует версию {1} игры. Эта версия {2}.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS"
 msgid "<b>File:</b> {0}\n\n<b>Save Date:</b>\n{1}\n\n<b>Base Name:</b> {2}\n<b>Duplicants Alive:</b> {3}\n<b>Cycles Survived:</b> {4}"
-msgstr ""
+msgstr "<b>Файл:</b> {0}\n\n<b>Время сохранения:</b>\n{1}\n\n<b>Название базы:</b> {2}\n<b>Дупликантов живо:</b> {3}\n<b>Прожито циклов:</b> {4}"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.TITLE"
