@@ -1784,17 +1784,17 @@ msgstr "Температуроустойчивые Провода"
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC"
 msgid "Gives your Duplicants nice, toasty feet.\nPlus it's purple!"
-msgstr ""
+msgstr "Дает Вашим Дупликантам хороший, прожаренный блок. Плюс он Сиреневый!"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT"
 msgid "Used as wall and floor tile to build rooms.\n\nReduces <style=\"heat\">Heat</style> transfer between walls."
-msgstr ""
+msgstr "Используется как блок для стены и пола для строительства комнат.\n\nУменьшает передачу <style=\"heat\">Тепла</style> между стенами."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME"
 msgid "Insulated Tile"
-msgstr ""
+msgstr "Температуроустойчивые Блоки"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.DESC"
