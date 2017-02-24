@@ -9479,97 +9479,97 @@ msgstr "Для выполнения задач Дупликанты должны
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME"
 msgid "TIP: Duplicant Movement"
-msgstr ""
+msgstr "ПОДСКАЗКА: Перемещения Дупликантов"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP"
 msgid "Understanding your Duplicants' maneuverability"
-msgstr ""
+msgstr "Изучите то, как перемещаются Ваши Дупликанты"
 
 #. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME"
 msgid "Missing materials"
-msgstr ""
+msgstr "Недостаточно материалов"
 
 #. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.TOOLTIP"
 msgid "These resources are not available:"
-msgstr ""
+msgstr "Следующие ресурсы недоступны:"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
 msgid "<style=\"liquid\">Contaminated Water</style> is a yucky substance that emits <style=\"gas\">Contaminated Oxygen</style> and can cause <style=\"disease\">Disease</style> in your Duplicants.\n\nSmall accidents can be cleaned up by clicking and dragging with the <color=#833A5FFF>MOP TOOL</color> [M], while larger bodies may be worth filtering. Dirty water also <style=\"stress\">Stresses</style> out any Duplicants that come into contact with it, so it is best removed quickly for your colony's safety."
-msgstr ""
+msgstr "<style=\"liquid\">Загрязненная вода</style> - гадкая субстанция, испускающая <style=\"gas\">Загрязненный Кислород</style>. Может вызывать <style=\"disease\">Болезни</style> у Ваших Дупликантов.\n\nНебольшие 'происшествия' можно устранить при помощи инструмента <color=#833A5FFF>ШВАБРА</color>. Для этого выберите этот инструмент на нижней панели или нажмите [M] и выделите участок, который необходимо прибрать. Большие же объемы <style=\"liquid\">Загрязненной воды</style>стоит отфильтровать. Контакт с грязной водой вызывает <style=\"stress\">Стресс</style> у Ваших Дупликантов - поэтому рекомендуем как можно быстрее убирать такую воду из Вашей колонии."
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
 msgid "TIP: Contaminated Water"
-msgstr ""
+msgstr "ПОДСКАЗКА: Загрязненная вода"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP"
 msgid "Learn how to prevent <style=\"disease\">Disease</style> outbreaks"
-msgstr ""
+msgstr "Узнайте как предотвращать вспышки <style=\"disease\">Болезней</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME"
 msgid "Duplicants are nearly dry"
-msgstr ""
+msgstr "Дупликанты почти высохли"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.TOOLTIP"
 msgid "These Duplicants will dry off soon:"
-msgstr ""
+msgstr "Следующие Дупликанты скоро высохнут:"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.NAME"
 msgid "Colony requires a <style=\"power\">Power</style> source"
-msgstr ""
+msgstr "Колонии требуется источник <style=\"power\">Энергии</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.TOOLTIP"
 msgid "<style=\"power\">Power</style> is required to operate electrical buildings"
-msgstr ""
+msgstr "Для работы зданий на электричестве требуется <style=\"power\">Энергия</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.NAME"
 msgid "Colony requires a food source"
-msgstr ""
+msgstr "Колонии требуется источник еды"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP"
 msgid "Your colony will exhaust their <style=\"food\">Food</style> if they don't find a steady food source"
-msgstr ""
+msgstr "Запасы провианта Вашей колонии иссякнут если Вы не найдете постоянный источник еды"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME"
 msgid "Insufficient oxygen generation"
-msgstr ""
+msgstr "Недостаточное производство кислорода"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP"
 msgid "Your colony has produced {EmittingRate} of <style=\"oxygen\">Oxygen</style> today\nYour Duplicants have consumed {ConsumptionRate} of <style=\"oxygen\">Oxygen</style> today"
-msgstr ""
+msgstr "Сегодня Ваша колония произвела {EmittingRate} <style=\"oxygen\">Кислорода</style> \nСегодня Ваши Дупликанты потребили {ConsumptionRate} <style=\"oxygen\">Кислорода</style> "
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
 msgid "Colony requires beds"
-msgstr ""
+msgstr "Колонии требуются кровати"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP"
 msgid "Your Duplicants would appreciate a place to sleep"
-msgstr ""
+msgstr "Вашим Дупликантам нужны спальные места"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME"
 msgid "Colony requires toilets"
-msgstr ""
+msgstr "Колонии требуются туалеты"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP"
 msgid "Your Duplicants have nowhere to relieve themselves"
-msgstr ""
+msgstr "Вашим Дупликантам негде справить нужду"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME"
@@ -9594,422 +9594,422 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.NAME"
 msgid "No storage regions designated"
-msgstr ""
+msgstr "Нет обозначенных зон хранения"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP"
 msgid "You have no defined storage regions.\nUse the <color=#833A5FFF>CREATE STORAGE TOOL</color> [Y] to create storage for these items:\n{0}"
-msgstr ""
+msgstr "У Вас нет обозначенных зон хранения.\nИспользуйте <color=#833A5FFF>Инструмент создания хранилищ</color> [Y] для создания хралищиа для следующих предметов:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME"
 msgid "Output blocked"
-msgstr ""
+msgstr "Вывод заблокирован"
 
 #. STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.TOOLTIP"
 msgid "A blocked pipe is stopping this system from functioning"
-msgstr ""
+msgstr "Забившася труба остановила работу этой системы"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY"
 msgid "Duplicants will choose what work they do based on the priorities you set. To set priorities, use the priority buttons under the tool menu. Many buildings also let you change their priority on selection."
-msgstr ""
+msgstr "Дупликанты выбирают работу на основании выставленных Вами приоритетов. Для расстановки приоритетов воспользуйтесь клавишами приоритета, расположенными под меню инструментов. Также в ряде случаев Вы можете выставить приоритет в меню самого здания."
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
 msgid "TIP: Priorities"
-msgstr ""
+msgstr "ПОДСКАЗКА: Приоритеты"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
 msgid "Understanding your Duplicants' priorities"
-msgstr ""
+msgstr "Узнайте как работают приоритеты Ваших Дупликантов"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr ""
+msgstr "Тревога"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP"
 msgid "The colony is prioritizing work over their individual well-being"
-msgstr ""
+msgstr "Во время тревоги приоритетной для Ваших Дупликантов является работа, а не их собственное благополучие."
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY"
 msgid "Eureka!\n<style=\"research\">{0} Technology</style> was unlocked through the power of science!\n\nNew buildings have become available:\n<style=\"misc\">{1}</style>"
-msgstr ""
+msgstr "Эврика!\nСилой научного познания была открыта <style=\"research\">{0} Технология</style>!\n\nСтали доступны новые здания:\n<style=\"misc\">{1}</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME"
 msgid "Research Complete"
-msgstr ""
+msgstr "Исследование выполнено"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP"
 msgid "<style=\"research\">{0}</style> research complete!"
-msgstr ""
+msgstr "<style=\"research\">{0}</style> исследование выполнено!"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME"
 msgid "Resources melted"
-msgstr ""
+msgstr "Ресурсы расплавились"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.TOOLTIP"
 msgid "These resources have melted:"
-msgstr ""
+msgstr "Следующие ресурсы расплавились:"
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
 msgid "Duplicants crave structure and will only eat, sleep, work or bathe during the times you allot for these activities.\n\nTo make the best use of your time, open the <color=#833A5FFF>SCHEDULE TAB</color> [U] to adjust your colony's agenda and plan how your Duplicants should utilize their day."
-msgstr ""
+msgstr "Дупликанты жаждут порядка. Вы сами говорите им когда они будут есть, спать, работать или мыться.\n\nЧтобы наилучшим образом распорядится временем откройте <color=#833A5FFF>РАСПИСАНИЕ</color> [U] - в нем Вы можете распланировать чем Ваши Дуплканты будут заниматься в течении дня"
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME"
 msgid "TIP: Scheduling"
-msgstr ""
+msgstr "ПОДСКАЗКА: Расписание"
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.TOOLTIP"
 msgid "Learn how to schedule your Duplicants' time"
-msgstr ""
+msgstr "Узнайте как распланировать время Ваших Дупликантов"
 
 #. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.MESSAGEBODY"
 msgid "Duplicants are incredibly resourceful and will automatically use any materials in their reach. However, a Duplicant's productivity can be improved by storing resources closer to where they'll need them.\n\nUse the <color=#833A5FFF>STORAGE REGION TOOL</color> [Y + T] to mark an area as storage, and the <color=#833A5FFF>STORAGE OVERLAY</color> [F6] to assign resource types to it."
-msgstr ""
+msgstr "Дупликанты невероятно находчивы и автоматически будут использовать любые материалы, до каких могут добраться. Вместе с тем Вы можете повыстить продуктивность Дупликантов, если Вы будете хранить ресурсы там, где они нужны.\n\nИспользуйте  <color=#833A5FFF>ИНСТРУМЕНТ ЗОН ХРАНЕНИЯ</color> [Y + T] для обозначения зон хранения. Далее используйте <color=#833A5FFF>КАРТУ ХРАНИЛИЩ</color> [F6] чтобы выбрать, какие ресурсы будут размещаться в данном хранилище."
 
 #. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.NAME"
 msgid "TIP: Storage Regions"
-msgstr ""
+msgstr "ПОДСКАЗКА: Зоны хранения"
 
 #. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.TOOLTIP"
 msgid "Learn how to improve efficiency through organization"
-msgstr ""
+msgstr "Узнайте как повысить эффективность при помощи четкой организации"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY"
 msgid "Duplicants are fragile creatures and must be kept mentally healthy in order to function. Subpar conditions will increase Duplicants' <style=\"stress\">Stress</style>, while improved conditions will decrease it. Too much <style=\"stress\">Stress</style> will cause Duplicants to have a nervous breakdown.\n\nSelect a Duplicant and mouse over <style=\"stress\">Stress</style> in their <color=#833A5FFF>INFORMATION TAB</color> to view their individual <style=\"stress\">Stress</style> factors."
-msgstr ""
+msgstr "Дупликанты - очень нежные создания: для функционирования они должны быть психических здоровы. Плохие условия повышают <style=\"stress\">Стресс</style> Дупликанта, хорошие же условия - уменьшают. Слишком большой <style=\"stress\">Стресс</style> вызывает у Дупликантов нервный срыв.\n\nВыберите Дуплканта и в <color=#833A5FFF>ИНФОРМАЦИОННОЙ ПАНЕЛИ</color> наведите курсор на <style=\"stress\">Стресс</style> чтобы увидеть их индивидуальные факторы <style=\"stress\">Стресса</style>."
 
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME"
 msgid "TIP: Stress Management"
-msgstr ""
+msgstr "ПОДСКАЗКА: Управление стрессом"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP"
 msgid "Learn how to keep Duplicants happy and productive"
-msgstr ""
+msgstr "Узнайте как поддерживать хорошее настроение и продуктивность Дупликантов"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.NAME"
 msgid "Structural collapse"
-msgstr ""
+msgstr "Обрушение структуры"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.TOOLTIP"
 msgid "These buildings have collapsed:"
-msgstr ""
+msgstr "Следующие здания обрушились:"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME"
 msgid "Structural damage"
-msgstr ""
+msgstr "Структурные повреждения"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP"
 msgid "A building's structural integrity has been compromised"
-msgstr ""
+msgstr "Структурная целостность здания была нарушена"
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY"
 msgid "Duplicants will perform pending job tasks in order of highest priority to lowest. For example, Duplicants will always harvest <style=\"food\">food</style> before they build, and always build new structures before they dig.\n\nOpen the <color=#833A5FFF>JOBS TAB</color> [J] to set which job tasks Duplicants may perform, or specialize skilled Duplicants for specific types of work."
-msgstr ""
+msgstr "Дупликанты всегда выполняют поставленные задачи в порядке приоритета - от высшего к низшему. Например, Дупликанты всегда будут сначала собирать <style=\"food\">урожай</style> и потом строить, а строить они будут до того, как приступят к земляным работам.\n\nВ <color=#833A5FFF>ПАНЕЛИ РАБОТ</color> [J] Вы можете указать, какие виды работы Дуплканты могут выполнять - или сделать из опытного Дупликанта специалиста в определенной области."
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME"
 msgid "TIP: Task Priorities"
-msgstr ""
+msgstr "ПОДСКАЗКА: Приоритеты задач"
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.TOOLTIP"
 msgid "Learn how to manage Duplicants' priorities"
-msgstr ""
+msgstr "Узнайте как управлять приоритетами Дупликантов"
 
 #. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME"
 msgid "Materials are out of reach"
-msgstr ""
+msgstr "Материалы вне зоны досягаемости"
 
 #. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.TOOLTIP"
 msgid "Duplicants cannot retrieve these resources:"
-msgstr ""
+msgstr "Дупликанты не могут собрать следующие ресурсы:"
 
 #. STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME"
 msgid "Vent blocked"
-msgstr ""
+msgstr "Воздуховод заблокирован"
 
 #. STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.TOOLTIP"
 msgid "A blocked pipe is stopping this system from functioning"
-msgstr ""
+msgstr "Заблокированная труба не дает этой системе функционировать"
 
 #. STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.NAME"
 msgid "Vent overpressurized"
-msgstr ""
+msgstr "Воздуховод заблокирован высоким давлением"
 
 #. STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.TOOLTIP"
 msgid "A pipe system has exited the ideal pressure range"
-msgstr ""
+msgstr "Система вышла из идеального диапазона давлений"
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY"
 msgid "Duplicants are generally self-motivated and do not need to be individually managed in order to perform tasks in the colony.\n\nYou can use the <color=#833A5FFF>DIG TOOL</color> [G] and the <color=#833A5FFF>BUILD MENU</color> in the lower left of the screen to begin planning job tasks. Once you have a few placed, your Duplicants will automatically get to work for you."
-msgstr ""
+msgstr "Дупликанты в целом достаточно инициативны и не требуют индивидуального контроля для выполнения задач в колонии.\n\nПри помощи инструментов <color=#833A5FFF>КОПАТЬ</color> [G] и <color=#833A5FFF>СТРОИТЬ</color> вы можете запланировать различные задачи. После того, как задача была запланирована, Ваши Дупликанты автоматически начнут работу."	
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME"
 msgid "TIP: Colony Management"
-msgstr ""
+msgstr "ПОДСКАЗКА: Управление колонией"
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.TOOLTIP"
 msgid "Learn how to get Duplicants to do your bidding"
-msgstr ""
+msgstr "Узнайте как заставить Дупликантов исполнять Вашу волю"
 
 #. STRINGS.MISC.PLACERS.DIGPLACER.NAME
 msgctxt "STRINGS.MISC.PLACERS.DIGPLACER.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Копать"
 
 #. STRINGS.MISC.PLACERS.MOPPLACER.NAME
 msgctxt "STRINGS.MISC.PLACERS.MOPPLACER.NAME"
 msgid "Mop"
-msgstr ""
+msgstr "Вытирать"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME"
 msgid "Bleachstone blocked"
-msgstr ""
+msgstr "Белильный камень блокирован"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Bleachstone</style> deposit is not exposed to air and cannot emit <style=\"gas\">Chlorine</style>"
-msgstr ""
+msgstr "Эта жила <style=\"solid\">Белильного камня</style> не подвергается воздействию воздуха и поэтому не может выделять <style=\"gas\">Хлорин</style>"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.NAME"
 msgid "Inert"
-msgstr ""
+msgstr "Инертен"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Bleachstone</style> deposit to emit <style=\"gas\">Chlorine</style>"
-msgstr ""
+msgstr "Атмосферное давление слишком высокое, поэтому эта жила <style=\"solid\">Белильного камня</style> не может выделять <style=\"gas\">Хлорин</style>"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.NAME"
 msgid "{BlockedString}"
-msgstr ""
+msgstr "{BlockedString}"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Bleachstone</style> deposit has no room to emit <style=\"gas\">Chlorine</style>"
-msgstr ""
+msgstr "Этой жиле <style=\"solid\">Белильного камня</style> некуда выделять <style=\"gas\">Хлорин</style>"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.NAME"
 msgid "Emitting <style=\"gas\">{Element}</style>: {FlowRate}"
-msgstr ""
+msgstr "Выделяет <style=\"gas\">{Element}</style>: {FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.TOOLTIP"
 msgid "Producing <style=\"gas\">{Element}</style> at {FlowRate}"
-msgstr ""
+msgstr "Производит <style=\"gas\">{Element}</style> at {FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.NAME"
 msgid "Inert"
-msgstr ""
+msgstr "Инертен"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Bleachstone</style> deposit to emit <style=\"gas\">Chlorine</style>"
-msgstr ""
+msgstr "Атмосферное давление слишком высокое, поэтому эта жила <style=\"solid\">Белильного камня</style> не может выделять <style=\"gas\">Хлорин</style>"
 
 #. STRINGS.MISC.STATUSITEMS.BURIEDITEM.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.NAME"
 msgid "Buried Object"
-msgstr ""
+msgstr "Объект завален"
 
 #. STRINGS.MISC.STATUSITEMS.BURIEDITEM.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.TOOLTIP"
 msgid "Something seems to be hidden here"
-msgstr ""
+msgstr "Похоже здесь что-то спрятано"
 
 #. STRINGS.MISC.STATUSITEMS.CLEANING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.NAME"
 msgid "Cleaning"
-msgstr ""
+msgstr "Убирает"
 
 #. STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP"
 msgid "This building is currently being cleaned"
-msgstr ""
+msgstr "В данный момент это здание убирают"
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.NAME"
 msgid "{EdibleName} count: {EdibleCount} ({RationCount})"
-msgstr ""
+msgstr "{EdibleName} количество: {EdibleCount} ({RationCount})"
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP"
 msgid "Can provide <style=\"food\">{RationCount}</style> of energy to Duplicants"
-msgstr ""
+msgstr "Может обеспечить <style=\"food\">{RationCount}</style> энергии Дупликантам"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.NAME"
 msgid "{Category}"
-msgstr ""
+msgstr "{Category}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.TOOLTIP"
 msgid "This object belongs to the {Category} resource category"
-msgstr ""
+msgstr "Этот объект принадлежит к {Category} категории ресурсов"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.NAME"
 msgid "{Mass}"
-msgstr ""
+msgstr "{Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.TOOLTIP"
 msgid "This object has a mass of {Mass}"
-msgstr ""
+msgstr "Масса этого объекта составляет {Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.NAME"
 msgid "{Temp}"
-msgstr ""
+msgstr "{Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.TOOLTIP"
 msgid "This object is currently {Temp}"
-msgstr ""
+msgstr "Температура этого объекта в данный момент {Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME"
 msgid "Severe"
-msgstr ""
+msgstr "Сильно"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP"
 msgid "This Duplicant is in serious need of <style=\"medicine\">Medical</style> attention"
-msgstr ""
+msgstr "Этому Дупликанту очень нужна <style=\"medicine\">Медицинская</style> помощь"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.NAME"
 msgid "Conclusive"
-msgstr ""
+msgstr "Окончательное"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.TOOLTIP"
 msgid "This Duplicant won't be getting back up"
-msgstr ""
+msgstr "Этот Дупликант уже не встанет"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.NAME"
 msgid "Paralyzing"
-msgstr ""
+msgstr "Парализующее"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.TOOLTIP"
 msgid "This Duplicant will die if they do not receive <style=\"medicine\">Medical</style> attention"
-msgstr ""
+msgstr "Этот Дупликант умрет если не получит <style=\"medicine\">Медицинскую</style> помощь"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.NAME"
 msgid "Moderate"
-msgstr ""
+msgstr "Умеренное"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.TOOLTIP"
 msgid "This Duplicant needs some patching up"
-msgstr ""
+msgstr "Этого Дупликанта нужно немного залатать"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.NAME"
 msgid "None"
-msgstr ""
+msgstr "Никакого"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.TOOLTIP"
 msgid "This Duplicant is in peak condition"
-msgstr ""
+msgstr "Этот Дупликант здоров как бык"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.NAME"
 msgid "Minor"
-msgstr ""
+msgstr "Незначительное"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.TOOLTIP"
 msgid "This Duplicant has a few scrapes and bruises"
-msgstr ""
+msgstr "У этого Дупликанта пара синяков и царапин"
 
 #. STRINGS.MISC.STATUSITEMS.HIT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HIT.NAME"
 msgid "{targetName} took {damageAmount} damage from {attackerName}'s attack!"
-msgstr ""
+msgstr "{attackerName} атаковал {targetName} и нанес ему {damageAmount}!"
 
 #. STRINGS.MISC.STATUSITEMS.OPERATING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.NAME"
 msgid "Being Used"
-msgstr ""
+msgstr "Используется"
 
 #. STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP"
 msgid "This building is currently in use"
-msgstr ""
+msgstr "Это здание в данный момент используют"
 
 #. STRINGS.MISC.STATUSITEMS.OREMASS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.NAME"
 msgid "{Mass}"
-msgstr ""
+msgstr "{Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP"
 msgid "This object has a mass of {Mass}"
-msgstr ""
+msgstr "Масса этого объекта составляет {Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.ORETEMP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.NAME"
 msgid "{Temp}"
-msgstr ""
+msgstr "{Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP"
 msgid "This object is currently {Temp}"
-msgstr ""
+msgstr "Температура этого объекта в данный момент {Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.NAME"
 msgid "Oxylite blocked"
-msgstr ""
+msgstr "Оксилит блокирован"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Oxylite</style> deposit is not exposed to air and cannot emit <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "Эта жила <style=\"solid\">Оксилита</style> не подвергается воздействию воздуха и поэтому не может выделять <style=\"oxygen\">Кислород</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.NAME"
