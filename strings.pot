@@ -9017,347 +9017,347 @@ msgstr ""
 #. STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.RECIPEDESC
 msgctxt "STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.RECIPEDESC"
 msgid "A medical-grade destinkifier."
-msgstr ""
+msgstr "Медицинский развонючиватель"
 
 #. STRINGS.MISC.NOTIFICATIONS.ALLOCATED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.ALLOCATED.NAME"
 msgid "Resource allocated"
-msgstr ""
+msgstr "Ресурс рапределен"
 
 #. STRINGS.MISC.NOTIFICATIONS.ALLOCATED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.ALLOCATED.TOOLTIP"
 msgid "These resources are reserved for a planned building:"
-msgstr ""
+msgstr "Эти ресурсы зарезервированы запланированным зданием:"
 
 #. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.NAME"
 msgid "Resource available"
-msgstr ""
+msgstr "Ресурс доступен"
 
 #. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP"
 msgid "These resources are now available:"
-msgstr ""
+msgstr "Следующие ресурсы теперь доступны:"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
 msgid "- Use the <color=#833A5FFF>WASD</color> keys to pan your camera and the <color=#833A5FFF>MOUSE WHEEL</color> to zoom in or out. <color=#833A5FFF>[H]</color> will return your screen to the Printing Pod.\n\n- Your simulation can be sped up or slowed down by using the speed buttons in the top left, or by pressing <color=#833A5FFF>[TAB]</color>.\n\n- <color=#833A5FFF>[SPACE]</color> will pause or resume your game."
-msgstr ""
+msgstr "- Используйте клавиши <color=#833A5FFF>WASD</color> для перемещения камеры и <color=#833A5FFF>КОЛЕСО МЫШИ</color> для приближения или отдаления камеры. Клавиша <color=#833A5FFF>[H]</color> сфокусирует камеру на Печатной Капсуле.\n\n- Скорость симуляции может быть увеличена или уменьшена при помощи кнопок в левом верхнем углу экрана или при помощи нажатия клавиши <color=#833A5FFF>[TAB]</color>.\n\n- Клавиша <color=#833A5FFF>[ПРОБЕЛ]</color> активирует и деактивирует режим паузы."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME"
 msgid "TIP: Basic Controls"
-msgstr ""
+msgstr "ПОДСКАЗКА: Базовое управление"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP"
 msgid "Helpful tips to get you started"
-msgstr ""
+msgstr "Полезные подсказки, чтобы помочь вам на первых порах"
 
 #. STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME"
 msgid "A Duplicant has broken a building"
-msgstr ""
+msgstr "Дупликант сломал здание"
 
 #. STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.TOOLTIP"
 msgid "These buildings are nonfunctional because a Duplicant broke them in a fit of <style=\"stress\">Rage</style>:"
-msgstr ""
+msgstr "Следующие здания в данный момент не работают, так как Дупликант сломал их в приступе <style=\"stress\">Ярости</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCLOSETOMELTINGPOINT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCLOSETOMELTINGPOINT.NAME"
 msgid "Buildings approaching melting point"
-msgstr ""
+msgstr "Здания приближаются к точке плавления"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCLOSETOMELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCLOSETOMELTINGPOINT.TOOLTIP"
 msgid "These buildings are about to meltdown:\n{0}"
-msgstr ""
+msgstr "Следующие здания вот-вот расплавятся:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.NAME"
 msgid "Buildings collapsed"
-msgstr ""
+msgstr "Здания обрушились"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.TOOLTIP"
 msgid "These buildings have collapsed from a lack of foundation:\n{0}"
-msgstr ""
+msgstr "Следующие здания обрушились из-за того, что не имели фундамента:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGMELTINGDOWN.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGMELTINGDOWN.NAME"
 msgid "Building meltdown"
-msgstr ""
+msgstr "Здание расплавилось"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGMELTINGDOWN.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGMELTINGDOWN.TOOLTIP"
 msgid "These buildings have melted down:\n{0}"
-msgstr ""
+msgstr "Следующие здания расплавились:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.COLONYLOST.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONYLOST.NAME"
 msgid "Colony Lost"
-msgstr ""
+msgstr "Колония потеряна"
 
 #. STRINGS.MISC.NOTIFICATIONS.COLONYLOST.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONYLOST.TOOLTIP"
 msgid "All Duplicants are dead or incapacitated"
-msgstr ""
+msgstr "Все Дупликанты мертвы или выведены из строя"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.NAME"
 msgid "Duplicants have been crushed to death"
-msgstr ""
+msgstr "Дупликант был насмерть задавлен"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_CRUSHED.TOOLTIP"
 msgid "These Duplicants have been crushed:"
-msgstr ""
+msgstr "Следующие Дупликанты были задавлены:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.NAME"
 msgid "Duplicants have succumb to illness"
-msgstr ""
+msgstr "Дупликант погиб от болезни"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DISEASE.TOOLTIP"
 msgid "These Duplicants died from an untreated <style=\"disease\">Disease</style>:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли от неизлеченной <style=\"disease\">Болезни</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.NAME"
 msgid "Duplicants have drowned to death"
-msgstr ""
+msgstr "Дупликанты утонули"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_DROWNED.TOOLTIP"
 msgid "These Duplicants have drowned:"
-msgstr ""
+msgstr "Следующие Дупликанты утонули:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_ELECTROCUTED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ELECTROCUTED.NAME"
 msgid "Duplicants have been electrocuted to death"
-msgstr ""
+msgstr "Дупликантов убило током"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_ELECTROCUTED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ELECTROCUTED.TOOLTIP"
 msgid "These Duplicants died by electrocution:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли от удара током:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.NAME"
 msgid "Duplicants have been entombed"
-msgstr ""
+msgstr "Дупликанты были завалены"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_ENTOUMBED.TOOLTIP"
 msgid "These Duplicants are trapped and need assistance:"
-msgstr ""
+msgstr "Следующие Дупликанты замурованы и им нужна помощь:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_EXPLOSION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_EXPLOSION.NAME"
 msgid "Duplicants have died in an explosion"
-msgstr ""
+msgstr "Дупликантов убило взрывом"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_EXPLOSION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_EXPLOSION.TOOLTIP"
 msgid "These Duplicants died in an explosion:"
-msgstr ""
+msgstr "Следующих Дупликантов убило взрывом:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.NAME"
 msgid "Duplicants have fallen to their death"
-msgstr ""
+msgstr "Дупликанты разбились насмерть"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FELL.TOOLTIP"
 msgid "These Duplicants fell to their deaths:"
-msgstr ""
+msgstr "Следующие Дупликанты разбились насмерть:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.NAME"
 msgid "A Duplicant has frozen to death"
-msgstr ""
+msgstr "Дупликант замерз насмерть"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.TOOLTIP"
 msgid "These Duplicants died from extremely low <style=\"heat\">Heat</style>:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли от чрезвычайно низкой <style=\"heat\">Температуры</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.NAME"
 msgid "A Duplicant has overheated to death"
-msgstr ""
+msgstr "Дупликант перегрелся насмерть"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.TOOLTIP"
 msgid "These Duplicants died from extreme <style=\"heat\">Heat</style>:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли от чрезвычайно высокой <style=\"heat\">Температуры</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.NAME"
 msgid "Duplicants have died from overpressurization"
-msgstr ""
+msgstr "Дупликанты умерли от избыточного давления"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_OVERPRESSURE.TOOLTIP"
 msgid "These Duplicants died in a high pressure environment:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли от слишком высокого давления:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.NAME"
 msgid "Duplicants have succumb to poisoning"
-msgstr ""
+msgstr "Дупликанты умерли от отравления"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_POISONED.TOOLTIP"
 msgid "These Duplicants died as a result of poisoning:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли от отравления:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.NAME"
 msgid "Duplicants have died from rapid decompression"
-msgstr ""
+msgstr "Дупликанты умерли от быстрой потери давления"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_RAPIDDECOMPRESSION.TOOLTIP"
 msgid "These Duplicants died in a low pressure environment:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли от слишком низкого давления:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.NAME"
 msgid "Duplicants have starved to death"
-msgstr ""
+msgstr "Дупликанты умерли от голода"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.TOOLTIP"
 msgid "These Duplicants died from a lack of <style=\"food\">Food</style>:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли от недостатка <style=\"food\">Еды</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.NAME"
 msgid "Duplicants have suffocated in the cold"
-msgstr ""
+msgstr "Дупликанты задохнулись в холоде"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOCOLD.TOOLTIP"
 msgid "These Duplicants have asphyxiated in <style=\"heat\">Cold</style> air:"
-msgstr ""
+msgstr "Следующие Дупликанты задохнулись <style=\"heat\">Холодным</style> воздухом:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.NAME"
 msgid "Duplicants have suffocated in the heat"
-msgstr ""
+msgstr "Дупликанты задохнулись в жаре"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDAIRTOOHOT.TOOLTIP"
 msgid "These Duplicants have asphyxiated in <style=\"heat\">Hot</style> air:"
-msgstr ""
+msgstr "Следующие Дупликанты задохнулись <style=\"heat\">Горячим</style> воздухом:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDGAS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDGAS.NAME"
 msgid "Duplicants have suffocated in gas"
-msgstr ""
+msgstr "Дупликанты задохнулись газом"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDGAS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDGAS.TOOLTIP"
 msgid "These Duplicants died from breathing <style=\"gas\">Gas</style> with no <style=\"oxygen\">Oxygen</style>:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли от того, что дышали <style=\"gas\">Газом</style> без <style=\"oxygen\">Кислорода</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.NAME"
 msgid "Duplicants have suffocated to death"
-msgstr ""
+msgstr "Дупликанты задохнулись насмерть"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATEDTANKEMPTY.TOOLTIP"
 msgid "These Duplicants were unable to reach <style=\"oxygen\">Oxygen</style> and died:"
-msgstr ""
+msgstr "Следующие Дупликанты не смогли добраться до <style=\"oxygen\">Кислорода</style> и умерли:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME"
 msgid "A Duplicant has suffocated to death"
-msgstr ""
+msgstr "Дупликант задохнулся насмерть"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.TOOLTIP"
 msgid "These Duplicants died from a lack of <style=\"oxygen\">Oxygen</style>:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли от недостатка <style=\"oxygen\">Кислорода</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_TRAGICDEMISE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_TRAGICDEMISE.NAME"
 msgid "A Duplicant has met a tragic end"
-msgstr ""
+msgstr "Дупликант скончался"
 
 #. STRINGS.MISC.NOTIFICATIONS.DEATH_TRAGICDEMISE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_TRAGICDEMISE.TOOLTIP"
 msgid "These Duplicants experienced a unique death:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли необычным образом:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY"
 msgid "New Duplicants are no longer available for printing.\nCountdown to the next production was rebooted."
-msgstr ""
+msgstr "Новые Дупликанты более недоступны для печати.\n"Отсчет до следующей печати был перезагружен.
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.NAME"
 msgid "New Duplicants have been reabsorbed"
-msgstr ""
+msgstr "Новые Дупликанты были реабсорбированы"
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.TOOLTIP"
 msgid "The printable Duplicants have been reabsorbed"
-msgstr ""
+msgstr "Доступные для печати Дупликанты были реабсорбированы"
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.NAME"
 msgid "Duplicants have died"
-msgstr ""
+msgstr "Дупликанты умерли"
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTDIED.TOOLTIP"
 msgid "These Duplicants have died:"
-msgstr ""
+msgstr "Следующие Дупликанты умерли:"
 
 #. STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME"
 msgid "A fabricator is idle"
-msgstr ""
+msgstr "Фабрикатор стоит без дела"
 
 #. STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.TOOLTIP"
 msgid "These fabricators have no recipes queued:"
-msgstr ""
+msgstr "Следующие фабрикаторы не имеют задач в очереди:"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
 msgid "Duplicants will seek out and collect water and other <style=\"liquid\">Liquids</style> up to two tiles away and deliver it to buildings."
-msgstr ""
+msgstr "Дупликанты будут искать и собирать воду и прочие <style=\"liquid\">Жидкости</style> в радиусе до двух клеток и доставлять ее в здания"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
 msgid "TIP: Fetching Water"
-msgstr ""
+msgstr "ПОДСКАЗКА: Сбор воды"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP"
 msgid "Understanding water fetching"
-msgstr ""
+msgstr "Как работает сбор воды"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.NAME"
 msgid "Food shortage"
-msgstr ""
+msgstr "Мало еды"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP"
 msgid "Your colony's <style=\"food\">Food</style> reserves are low\n\nYou have {0} of food available\nYour Duplicants are consuming {1} per day"
-msgstr ""
+msgstr "Запасы <style=\"food\">Еды</style> в Вашей колонии на низком уровне\n\nВ Вашем распоряжении есть {0} еды\nВаши Дупликанты потребляют {1} в день"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME"
 msgid "The colony is entering a cloud of gas"
-msgstr ""
+msgstr "Ваша колония вошла в газовое облако"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.TOOLTIP"
@@ -9367,7 +9367,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.NAME"
 msgid "The gas cloud is receding"
-msgstr ""
+msgstr "Газовое облако рассеивается"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.TOOLTIP"
@@ -9377,7 +9377,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME"
 msgid "The colony is once again in open space"
-msgstr ""
+msgstr "Колония снова в открытом космосе"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.TOOLTIP"
@@ -9387,7 +9387,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME"
 msgid "The gas cloud is at its densest point"
-msgstr ""
+msgstr "Газовое облако достигло максимальной концентрации"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.TOOLTIP"
@@ -9397,87 +9397,87 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.NAME"
 msgid "A gas cloud approaches"
-msgstr ""
+msgstr "Приближается газовое облако"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.TOOLTIP"
 msgid "A toxic gas cloud will soon envelop the colony"
-msgstr ""
+msgstr "Облако токсичного газа скоро накроет колонию"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.NAME"
 msgid "Healing"
-msgstr ""
+msgstr "Лечится"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP"
 msgid "The Duplicant is recovering from an injury"
-msgstr ""
+msgstr "Дупликант поправляется после ранения"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.NAME"
 msgid "New trait developed"
-msgstr ""
+msgstr "Появилась новая черта"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.SUFFIX
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.SUFFIX"
 msgid " has developed {0}"
-msgstr ""
+msgstr " появилась {0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP"
 msgid "These Duplicants' injuries weren't set properly. They developed a new trait as a result:"
-msgstr ""
+msgstr "Ранения следующих Дупликантов плохо зажили. В результате у них появились новые черты:"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME"
 msgid "New Duplicants have been reabsorbed"
-msgstr ""
+msgstr "Новые Дупликанты были реабсорбированы"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP"
 msgid "The printable Duplicants have been reabsorbed"
-msgstr ""
+msgstr "Доступные для печати Дупликанты были реабсорбированы"
 
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME"
 msgid "Duplicants' expectations increased"
-msgstr ""
+msgstr "Ожидания Дуплкантов повысились"
 
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP"
 msgid "Duplicants require better amenities over time.\nThese Duplicants have increased their expectations:"
-msgstr ""
+msgstr "Со временем Дупликанты требуют все больше удобств.\nСледующие Дупликанты повысили свои ожидания:"
 
 #. STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.NAME"
 msgid "Invalid construction location"
-msgstr ""
+msgstr "Недопустимое место для строительства"
 
 #. STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.TOOLTIP"
 msgid "These buildings cannot be constructed in the planned areas:\n"
-msgstr ""
+msgstr "Следующие здания не могут быть построены в запланированных местах:\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME"
 msgid "Skill increase"
-msgstr ""
+msgstr "Навык увеличен"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX"
 msgid " - {0} is now at {1}"
-msgstr ""
+msgstr "- {0} теперь {1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP"
 msgid "Hardwork and repetition have improved these Duplicants' skills:"
-msgstr ""
+msgstr "Терпение и труд увеличили навыки следующих Дупликантов:"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY"
 msgid "Duplicants must have accessible paths to their job tasks in order to work. When placing tasks, keep in mind that Duplicants can only climb obstacles two tiles high and are themselves two tiles tall.\n\nIf you are unsure if a task you've placed is accessible, select a Duplicant and click <color=#833A5FFF>SHOW NAVIGATION</color> to view all areas within their reach."
-msgstr ""
+msgstr "Для выполнения задач Дупликанты должны иметь свободный путь к месту выполнения задачи. При назначении задач имейте в виду следующее: Дупликанты могут преодолевать препятствия только в две клетки высотой, сами же Дупликанты имеют рост в две клетки.\n\nЕсли Вы не уверены, есть ли физический доступ к поставленной задаче, выберите Дупликанта и нажмите <color=#833A5FFF>ПОКАЗАТЬ ПУТЬ</color> чтобы увидеть все доступные Дупликанту зоны."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME"
