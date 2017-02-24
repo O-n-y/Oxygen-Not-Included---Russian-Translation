@@ -64,3 +64,4 @@ http://steamcommunity.com/id/oniki/
 # Базовые понятия
 * Duplicant - Дупликант
 * Power - Электроэнергия
+* Mush bar - Мшистый батончик
