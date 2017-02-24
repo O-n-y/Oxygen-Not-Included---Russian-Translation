@@ -1744,12 +1744,12 @@ msgstr "Поддерживает необходимую температору �
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT"
 msgid "Transports <style=\"gas\">Gas</style> between <style=\"GasPiping\">Intakes</style> and <style=\"GasPiping\">Outputs</style> with minimal change in <style=\"heat\">Temperature</style>.\n\nCan be run through floor and wall tiles."
-msgstr "Транспортирует <style=\"gas\">Газ</style> между <style=\"GasPiping\">Входными Вентиляционными отверстиями</style> и <style=\"GasPiping\">Выходными Вентиляционными отверстиями</style> с минимальным изменением <style=\"heat\">Температуры</style>.\n\nМожет быть проложен через блоки стен и пола."
+msgstr "Транспортирует <style=\"gas\">Газ</style> между <style=\"GasPiping\">Входными отверстиями</style> и <style=\"GasPiping\">Выходными отверстиями</style> с минимальным изменением <style=\"heat\">Температуры</style>.\n\nМожет быть проложен через блоки стен и пола."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME"
 msgid "Insulated Gas Pipe"
-msgstr "Температуроустойчивые Трубы"
+msgstr "Температуроустойчивые Газовые Трубы"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC"
@@ -1759,27 +1759,27 @@ msgstr "Поддерживает необходимую температору �
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT"
 msgid "Transports <style=\"liquid\">Liquid</style> between <style=\"LiquidPiping\">Intakes</style> and <style=\"LiquidPiping\">Outputs</style> with minimal change in <style=\"heat\">Temperature</style>.\n\nCan be run through floor and wall tiles."
-msgstr ""
+msgstr "Транспортирует <style=\"liquid\">Жидкость</style> между <style=\"LiquidPiping\">Входными отверстиями</style> и <style=\"LiquidPiping\">Выходными отверстиями</style> труб с минимальным изменением <style=\"heat\">Температуры</style>.\n\nМожет быть проложен через блоки стен и пола.."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME"
 msgid "Insulated Liquid Pipe"
-msgstr ""
+msgstr "Температуроустойчивые Трубы для Жидкости"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.DESC"
 msgid "This stuff won't go melting if things get heated."
-msgstr ""
+msgstr "Эти провода выдержат даже самые высокие температуры"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.EFFECT"
 msgid "Connects buildings to <style=\"power\">Power</style> sources in extreme <style=\"heat\">Heat</style>.\n\nCan be run through wall and floor tiles."
-msgstr ""
+msgstr "Соединяет здания с источниками <style=\"power\">Электричества</style> в <style=\"heat\">Горячей</style> окружающей среде.\n\nМожет быть проложен через блоки стен и пола."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME"
 msgid "Insulated Wire"
-msgstr ""
+msgstr "Температуроустойчивые Провода"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC"

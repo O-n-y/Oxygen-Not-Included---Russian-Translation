@@ -64,6 +64,7 @@ http://steamcommunity.com/id/oniki/
 
 # Базовые понятия
 * Duplicant - Дупликант
-* Power - Электроэнергия
+* Power - Электричество
 * Mush bar - Мшистый батончик
 * Tile - Блок
+* Wire - Провод
