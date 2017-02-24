@@ -2999,132 +2999,132 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
 msgid "Requires Fertilizer"
-msgstr ""
+msgstr "Требуются удобрения"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP"
 msgid "This <style=\"plant\">Plant</style> needs additional nutrients to grow"
-msgstr ""
+msgstr "Этому <style=\"plant\">Растению</style> требуются дополнительные питательные вещества для роста"
 
 #. STRINGS.CREATURES.STATUSITEMS.PRESERVED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PRESERVED.NAME"
 msgid "Preserved"
-msgstr ""
+msgstr "Не портится"
 
 #. STRINGS.CREATURES.STATUSITEMS.PRESERVED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PRESERVED.TOOLTIP"
 msgid "This food can be stored indefinitely"
-msgstr ""
+msgstr "Эта еда может храниться в течении неограниченного времени""
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME"
 msgid "Ready for harvest"
-msgstr ""
+msgstr "Готово к сбору урожая"
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.TOOLTIP"
 msgid "This <style=\"plant\">Plant</style> can be harvested for <style=\"food\">Food</style>"
-msgstr ""
+msgstr "С этого <style=\"plant\">Растения</style> пора собирать <style=\"food\">Урожай</style>"
 
 #. STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.NAME"
 msgid "Refrigerated"
-msgstr ""
+msgstr "Охлаждено"
 
 #. STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.TOOLTIP"
 msgid "Proper storage is keeping this food from spoiling quickly"
-msgstr ""
+msgstr "Подходящие условия хранения не дают этой еде быстро протухнуть"
 
 #. STRINGS.CREATURES.STATUSITEMS.ROTTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ROTTING.NAME"
 msgid "Unrefrigerated"
-msgstr ""
+msgstr "Не охлаждено"
 
 #. STRINGS.CREATURES.STATUSITEMS.ROTTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ROTTING.TOOLTIP"
 msgid "This food will begin to spoil in temperatures above <style=\"heat\">{RotTemperature}</style>"
-msgstr ""
+msgstr "Эта еда начнет портиться при температуре выше <style=\"heat\">{RotTemperature}</style>"
 
 #. STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME"
 msgid "Sleeping"
-msgstr ""
+msgstr "Спит"
 
 #. STRINGS.CREATURES.STATUSITEMS.SLEEPING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SLEEPING.TOOLTIP"
 msgid "This creature is replenishing its stamina"
-msgstr ""
+msgstr "Это существо переводит дыхание"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME"
 msgid "Rotten"
-msgstr ""
+msgstr "Гнилое
 
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP"
 msgid "This food is well past its prime and shouldn't be consumed by Duplicants"
-msgstr ""
+msgstr "Это еда совсем не первой свежести и Дупликантам не стоит употреблять ее в пищу"
 
 #. STRINGS.CREATURES.STATUSITEMS.STALE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.NAME"
 msgid "Stale"
-msgstr ""
+msgstr "Лежалое"
 
 #. STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP"
 msgid "This food is approaching its expiry date"
-msgstr ""
+msgstr "Эта еда приближается к своему сроку годности"
 
 #. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME"
 msgid "Struggling"
-msgstr ""
+msgstr "Испытывает затруднения"
 
 #. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP"
 msgid "This creature is trying to get away"
-msgstr ""
+msgstr "Это существо пытается убежать"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME"
 msgid "Suffocating"
-msgstr ""
+msgstr "Задыхается"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.TOOLTIP"
 msgid "Cannot breathe"
-msgstr ""
+msgstr "Не может дышать"
 
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.NAME"
 msgid "Fatigued"
-msgstr ""
+msgstr "Устал"
 
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP"
 msgid "This creature needs to rest"
-msgstr ""
+msgstr "Этому существу нужен отдых"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.NAME"
 msgid "Stifled"
-msgstr ""
+msgstr "Задыхается"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
 msgid "Current conditions prevent this <style=\"plant\">Plant</style> from growing further"
-msgstr ""
+msgstr "Текущие условия не позволяют этому <style=\"plant\">Растению</style> расти дальше"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC"
 msgid "The Air Consumption attribute determines how much <style=\"oxygen\">Oxygen</style> per minute a Duplicant requires to live."
-msgstr ""
+msgstr "Потребление воздуха определяет сколько <style=\"oxygen\">Кислорода</style> в минуту требуется Дупликанту для того, чтобы жить."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME"
 msgid "Air Consumption Rate"
-msgstr ""
+msgstr "Скорость потребления воздуха"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.PROFESSION_NAME"
@@ -3134,42 +3134,42 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC"
 msgid "Creativity affects the speed and quality of a Duplicant's artistic creations."
-msgstr ""
+msgstr "Творческие способности влияют на скорость и качество художественных творений Дупликанта"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME"
 msgid "Creativity"
-msgstr ""
+msgstr "Творческие способности"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.PROFESSION_NAME"
 msgid "Artist"
-msgstr ""
+msgstr "Художник"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER"
 msgid "$value% Decorating Speed"
-msgstr ""
+msgstr "$value% Скорость декорирования"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC"
 msgid "The Athletics attribute determines a Duplicant's movement speed."
-msgstr ""
+msgstr "Атрибут Атлетика определяет скорость перемещения Дупликанта"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME"
 msgid "Athletics"
-msgstr ""
+msgstr "Атлетика"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME"
 msgid "Runner"
-msgstr ""
+msgstr "Бегун"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER"
 msgid "$value% Movement Speed"
-msgstr ""
+msgstr "$value% Скорость перемещения"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC"
@@ -3179,7 +3179,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME"
 msgid "Bladder Change"
-msgstr ""
+msgstr "Изменение мочевого пузыря"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC"
@@ -3189,107 +3189,107 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME"
 msgid "Calories Burn Rate"
-msgstr ""
+msgstr "Темп сжигания калорий"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC"
 msgid "The Construction attribute determines a Duplicant's building speed."
-msgstr ""
+msgstr "Атрибут Строительство определяет скорость, с которой Дупликант строит объекты"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME"
 msgid "Construction"
-msgstr ""
+msgstr "Строительство"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.PROFESSION_NAME"
 msgid "Architect"
-msgstr ""
+msgstr "Архитектор"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER"
 msgid "$value% Construction Speed"
-msgstr ""
+msgstr "$value% Скорость строительства"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC"
 msgid "The Cooking attribute determines a Duplicant's <style=\"food\">Food</style> production speed."
-msgstr ""
+msgstr "Атрибут Кулинария определяет, с какой скоростью Дупликант готовит <style=\"food\">Еду</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME"
 msgid "Cooking"
-msgstr ""
+msgstr "Кулинария"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.PROFESSION_NAME"
 msgid "Chef"
-msgstr ""
+msgstr "Повар"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER"
 msgid "$value% Cooking Speed"
-msgstr ""
+msgstr "$value% Скорость приготовления еды"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC"
 msgid "<style=\"decor\">Decor</style> affects a Duplicant's Room Opinion."
-msgstr ""
+msgstr "<style=\"decor\">Декор</style> влияет на то, как Дуплкант оценивает комнату"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME"
 msgid "Decor"
-msgstr ""
+msgstr "Декор"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC"
 msgid "Not meeting a Duplicant's expectations increases their <style=\"stress\">Stress</style>."
-msgstr ""
+msgstr "Если требования Дупликанта не удовлетворяются, у них повышается <style=\"stress\">Стресс</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
 msgid "Decor Expectation"
-msgstr ""
+msgstr "Требования к декору"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC"
 msgid "Distance of the <style=\"decor\">Decor</style> effect."
-msgstr ""
+msgstr "Дистанция эффекта <style=\"decor\">Декора</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME"
 msgid "Decor Radius"
-msgstr ""
+msgstr "Радиус декора"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC"
 msgid "The Digging attribute determines a Duplicant's mining speed."
-msgstr ""
+msgstr "Атрибут Земляные работы определяет, с какой скоростью Дупликант может копать"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME"
 msgid "Digging"
-msgstr ""
+msgstr "Земляные работы"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.PROFESSION_NAME"
 msgid "Miner"
-msgstr ""
+msgstr "Шахтер"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER"
 msgid "$value% Digging Speed"
-msgstr ""
+msgstr "$value% Скорость копания"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC"
 msgid "<style=\"hygiene\">Hygiene</style> affects a Duplicant's sense of cleanliness."
-msgstr ""
+msgstr "<style=\"hygiene\">Гигиена</style> влияет на то, насколько чистым себя ощущает Дупликант"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.NAME"
 msgid "Hygiene"
-msgstr ""
+msgstr "Гигиена"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.PROFESSION_NAME"
@@ -3299,12 +3299,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.DESC"
 msgid "The Insulation attribute determines how much a Duplicant's temperature fluctuates with their environment's."
-msgstr ""
+msgstr "Атрибут Тепловая защита определяет, насколько температура Дупликанта зависит от внешней среды"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME"
 msgid "Insulation"
-msgstr ""
+msgstr "Тепловая защита"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.PROFESSION_NAME"
@@ -3314,52 +3314,52 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER"
 msgid "$value% Temperature Retention"
-msgstr ""
+msgstr "$value% Удержание температуры"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
 msgid "The Learning attribute determines a Duplicant's skill training and <style=\"research\">Research</style> effectiveness."
-msgstr ""
+msgstr "Атрибут Познание влияет на изучение Дупликантом навыков, а также на эффективность <style=\"research\">Исследований</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
 msgid "Learning"
-msgstr ""
+msgstr "Познание"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME"
 msgid "Scientist"
-msgstr ""
+msgstr "Ученый"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHPOINTS
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHPOINTS"
 msgid "$value Research Points Per Day"
-msgstr ""
+msgstr "$value Пункты исследования в день"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER"
 msgid "$value% Skill Leveling"
-msgstr ""
+msgstr "$value% Скорость развития навыков"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC"
 msgid "The Tinkering attribute determines a Duplicant's efficiency when operating machines."
-msgstr ""
+msgstr "Атрибут Механика определяет, насколько эффективно Дупликант работает с аппаратами"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME"
 msgid "Tinkering"
-msgstr ""
+msgstr "Механика"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.PROFESSION_NAME"
 msgid "Technician"
-msgstr ""
+msgstr "Техник"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER"
 msgid "$value% Tinkering Speed"
-msgstr ""
+msgstr "$value% Скорость Механики"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC"
@@ -3369,7 +3369,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.NAME"
 msgid "Underwater Movement"
-msgstr ""
+msgstr "Перемещение под водой"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.PROFESSION_NAME"
@@ -3379,27 +3379,27 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.DESC"
 msgid "The Medicine attribute determines a Duplicant's <style=\"disease\">Disease</style> resistance and ability to heal after injury."
-msgstr ""
+msgstr "Атрибут Лечебное дело определяет устойчивость Дупликанта к <style=\"disease\">Болезням</style>, а также способность к восстановлению после ранений."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.NAME"
 msgid "Medicine"
-msgstr ""
+msgstr "Лечебное дело"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.PROFESSION_NAME"
 msgid "Physician"
-msgstr ""
+msgstr "Терапевт"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER"
 msgid "$value% Disease Resistance"
-msgstr ""
+msgstr "$value% Устойчивость к болезням"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
 msgid "This Duplicant is most proficient at {0}"
-msgstr ""
+msgstr "Этот Дупликант наиболее опытен в {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC"
@@ -3409,47 +3409,47 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina Change"
-msgstr ""
+msgstr "Изменение Выносливости"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
 msgid "The Strength attribute determines a Duplicant's carrying capacity and combat effectiveness."
-msgstr ""
+msgstr "Атрибут Сила определяет боевую эффективность Дупликанта, а также переносимый им вес"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
 msgid "Strength"
-msgstr ""
+msgstr "Сила"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.PROFESSION_NAME"
 msgid "Body Builder"
-msgstr ""
+msgstr "Боди-билдер"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER"
 msgid "$value% Carrying Weight"
-msgstr ""
+msgstr "$value% Переносимый вес"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC"
 msgid "Modifies the rate at which a Duplicant's <style=\"stress\">Stress</style> changes."
-msgstr ""
+msgstr "Изменяет скорость изменения <style=\"stress\">Стресса</style> Дупликанта"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME"
 msgid "Stress Change"
-msgstr ""
+msgstr "Изменение Стресса"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC"
 msgid "Modifies the speed with which a Duplicant completes their \"personal business\"."
-msgstr ""
+msgstr "Изменяет скорость, с которой Дупликант \"ходит по своим делам\"."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
 msgid "Bladder Efficiency"
-msgstr ""
+msgstr "Эффективность Мочевого пузыря"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.PROFESSION_NAME"
@@ -3464,537 +3464,537 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME"
 msgid "Toxicity Change"
-msgstr ""
+msgstr "Изменение Токсичности"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC"
 msgid "This Duplicant has no discernible skills to speak of"
-msgstr ""
+msgstr "Этот Дупликант не имеет никаких значимых навыков"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_NAME"
 msgid "Lump"
-msgstr ""
+msgstr "Дубина"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC"
 msgid "Sculpt or paint art pieces to improve colony <style=\"decor\">Decor</style>."
-msgstr ""
+msgstr "Ваяйте скульптуры или пишите картины, чтобы улучшить <style=\"decor\">Декор</style> колонии"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME"
 msgid "Art"
-msgstr ""
+msgstr "Художественное творчество"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC"
 msgid "Construct new buildings."
-msgstr ""
+msgstr "Строительство новых зданий"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME"
 msgid "Build"
-msgstr ""
+msgstr "Строить"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC"
 msgid "Attack wild creatures."
-msgstr ""
+msgstr "Атаковать диких животных"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME"
 msgid "Combat"
-msgstr ""
+msgstr "Военные действия"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC"
 msgid "Deliver <style=\"solid\">Contaminated Dirt</style> to compost to produce <style=\"solid\">Fertilizer</style>."
-msgstr ""
+msgstr "Сбросьте <style=\"solid\">Загрязненную почву</style> в компостную яму для производства <style=\"solid\">Удобрения</style>"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME"
 msgid "Compost"
-msgstr ""
+msgstr "Изготовление компоста"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC"
 msgid "Produce <style=\"food\">Food</style> for Duplicants with food preparation buildings."
-msgstr ""
+msgstr "Готовка <style=\"food\">Еды</style> для Дупликантов в зданиях приготовления пищи."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
 msgid "Cook"
-msgstr ""
+msgstr "Готовка"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC"
 msgid "Transport materials to critical utility buildings and high priority storage."
-msgstr ""
+msgstr "Транспортировка материалов в критические хозяйственные здания и высоко приоритетные хранилища."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Разноска"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC"
 msgid "Excavate raw materials."
-msgstr ""
+msgstr "Добыча материалов"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Земляные работы"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC"
 msgid "Run on manual generators to produce <style=\"power\">Power</style>."
-msgstr ""
+msgstr "Бег в ручном генераторе для производства <style=\"power\">Энергии</style>"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.NAME"
 msgid "Generate"
-msgstr ""
+msgstr "Производство энергии"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.DESC"
 msgid "Pick the <style=\"food\">Food</style> from <style=\"plant\">Plants</style>."
-msgstr ""
+msgstr "Сбор <style=\"food\">Еды</style> с <style=\"plant\">Растений</style>"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME"
 msgid "Harvest"
-msgstr ""
+msgstr "Сбор урожая"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC"
 msgid "Work <style=\"research\">Research Stations</style> to unlock new technologies."
-msgstr ""
+msgstr "Работайте в <style=\"research\">Научно-исследовательских станциях</style> чтобы открывать новые технологии."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME"
 msgid "Research"
-msgstr ""
+msgstr "Исследования"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC"
 msgid "Move materials to noncritical buildings and normal priority storage."
-msgstr ""
+msgstr "Транспортировка материалов в некритические здания и хранилища нормального приоритета."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME"
 msgid "Sweep"
-msgstr ""
+msgstr "Уборка"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
 msgid "Manually enable, disable or adjust building switches and filters."
-msgstr ""
+msgstr "Ручное включение, выключение и настройка переключателей и фильтров в зданиях."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME"
 msgid "Toggle"
-msgstr ""
+msgstr "Переключение"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.NAME"
 msgid "Arting"
-msgstr ""
+msgstr "Творит"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.STATUS"
 msgid "Going to decorate"
-msgstr ""
+msgstr "Идет декорировать"
 
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.NAME"
 msgid "Attack"
-msgstr ""
+msgstr "Атака"
 
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS"
 msgid "Attacking"
-msgstr ""
+msgstr "Атакует"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME"
 msgid "BeIncapacitated"
-msgstr ""
+msgstr "Убивают"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS"
 msgid "Dying"
-msgstr ""
+msgstr "Умирает"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.NAME"
 msgid "Build"
-msgstr ""
+msgstr "Строит"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILD.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.STATUS"
 msgid "Going to build"
-msgstr ""
+msgstr "Идет строить"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Земляные работы"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
 msgid "Going to dig"
-msgstr ""
+msgstr "Идет копать"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Доставка"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Несет материалы"
 
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME"
 msgid "Clean"
-msgstr ""
+msgstr "Уборка"
 
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS"
 msgid "Going to clean"
-msgstr ""
+msgstr "Идет убирать"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME"
 msgid "Compost"
-msgstr ""
+msgstr "Компост"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS"
 msgid "Going to compost"
-msgstr ""
+msgstr "Идет производить компост"
 
 #. STRINGS.DUPLICANTS.CHORES.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.NAME"
 msgid "Cooking"
-msgstr ""
+msgstr "Готовит"
 
 #. STRINGS.DUPLICANTS.CHORES.COOK.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.STATUS"
 msgid "Going to cook"
-msgstr ""
+msgstr "Идет готовить"
 
 #. STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Доставка"
 
 #. STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Несет материалы"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME"
 msgid "DebugGoTo"
-msgstr ""
+msgstr "DebugИдти"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS"
 msgid "DebugGoTo"
-msgstr ""
+msgstr "DebugИдти"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr ""
+msgstr "Деконструкция"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
 msgid "Going to deconstruct"
-msgstr ""
+msgstr "Идет деконструировать"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
 msgid "DeliverFood"
-msgstr ""
+msgstr "ДоставкаЕды"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS"
 msgid "Delivering food"
-msgstr ""
+msgstr "Несет еду"
 
 #. STRINGS.DUPLICANTS.CHORES.DIE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.NAME"
 msgid "Die"
-msgstr ""
+msgstr "Умирать"
 
 #. STRINGS.DUPLICANTS.CHORES.DIE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.STATUS"
 msgid "Dying"
-msgstr ""
+msgstr "Умирает"
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Копать"
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.STATUS"
 msgid "Going to dig"
-msgstr ""
+msgstr "Идет копать"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME"
 msgid "Doctor"
-msgstr ""
+msgstr "Доктор"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS"
 msgid "Nursing"
-msgstr ""
+msgstr "Уход за больным"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME"
 msgid "Drop Unused Inventory"
-msgstr ""
+msgstr "Выложить ненужные предметы"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS"
 msgid "Dropping unused inventory"
-msgstr ""
+msgstr "Выкладывает ненужные предметы"
 
 #. STRINGS.DUPLICANTS.CHORES.EAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.NAME"
 msgid "Eat"
-msgstr ""
+msgstr "Есть"
 
 #. STRINGS.DUPLICANTS.CHORES.EAT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.STATUS"
 msgid "Going to eat"
-msgstr ""
+msgstr "Идет есть"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME"
 msgid "EmoteHighPriority"
-msgstr ""
+msgstr "EmoteВысокийПриоритет"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS"
 msgid "High Priority Emote"
-msgstr ""
+msgstr "Высокий Приоритет Emote"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
 msgid "Emptying Storage"
-msgstr ""
+msgstr "Разгрузка хранилища"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS"
 msgid "Going to empty storage"
-msgstr ""
+msgstr "Идет разгружать хранилище"
 
 #. STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME"
 msgid "Entombed"
-msgstr ""
+msgstr "Завалено"
 
 #. STRINGS.DUPLICANTS.CHORES.ENTOMBED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.STATUS"
 msgid "Entombed"
-msgstr ""
+msgstr "Завалено"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.NAME"
 msgid "Equip"
-msgstr ""
+msgstr "Экипироваться"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS"
 msgid "Moving to equip"
-msgstr ""
+msgstr "Идет экипироваться"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME"
 msgid "Fabricating"
-msgstr ""
+msgstr "Создает"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS"
 msgid "Going to fabricate"
-msgstr ""
+msgstr "Идет создавать"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Доставка"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Несет материалы"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Доставка"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Несет материалы"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Доставка"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Несет материалы"
 
 #. STRINGS.DUPLICANTS.CHORES.FLEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.NAME"
 msgid "Flee"
-msgstr ""
+msgstr "Убегать"
 
 #. STRINGS.DUPLICANTS.CHORES.FLEE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.STATUS"
 msgid "Fleeing"
-msgstr ""
+msgstr "Убегает"
 
 #. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.NAME"
 msgid "Flip"
-msgstr ""
+msgstr "Перетряхивать"
 
 #. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.STATUS"
 msgid "Going to flip compost"
-msgstr ""
+msgstr "Идет перетряхнуть компост"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME"
 msgid "Generate Power"
-msgstr ""
+msgstr "Генерировать энергию"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS"
 msgid "Going to generate power"
-msgstr ""
+msgstr "Идет генерировать энергию"
 
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.NAME"
 msgid "Harvest"
-msgstr ""
+msgstr "Сбор урожая"
 
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS"
 msgid "Going to harvest"
-msgstr ""
+msgstr "Идет собирать урожай"
 
 #. STRINGS.DUPLICANTS.CHORES.HEAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.NAME"
 msgid "Heal"
-msgstr ""
+msgstr "Лечить"
 
 #. STRINGS.DUPLICANTS.CHORES.HEAL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.STATUS"
 msgid "Healing"
-msgstr ""
+msgstr "Лечит"
 
 #. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME"
 msgid "Heal"
-msgstr ""
+msgstr "Heal"
 
 #. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS"
 msgid "Healing"
-msgstr ""
+msgstr "Лечит"
 
 #. STRINGS.DUPLICANTS.CHORES.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.NAME"
 msgid "Idle"
-msgstr ""
+msgstr "Незанят"
 
 #. STRINGS.DUPLICANTS.CHORES.IDLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.STATUS"
 msgid "Idle"
-msgstr ""
+msgstr "Незанят"
 
 #. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME"
 msgid "Use Fan"
-msgstr ""
+msgstr "Использовать вентилятор"
 
 #. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.STATUS"
 msgid "Going to use fan"
-msgstr ""
+msgstr "Идет использовать вентилятор"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.NAME"
 msgid "ManualControlGoTo"
-msgstr ""
+msgstr "РучноеУправлениеИдтиВ"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.STATUS"
 msgid "Moving to position"
-msgstr ""
+msgstr "Идет на позицию"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLIDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLIDLE.NAME"
 msgid "Manual Idle"
-msgstr ""
+msgstr "Ручной незанят"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLIDLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLIDLE.STATUS"
 msgid "Idle"
-msgstr ""
+msgstr "незанят"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.NAME"
 msgid "ManualControlGoTo"
-msgstr ""
+msgstr "РучноеУправлениеИдтиВ"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.STATUS"
 msgid "Moving to position"
-msgstr ""
+msgstr "Идет на позицию"
 
 #. STRINGS.DUPLICANTS.CHORES.MENTALBREAK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MENTALBREAK.NAME"
 msgid "MentalBreak"
-msgstr ""
+msgstr "Нервный срыв"
 
 #. STRINGS.DUPLICANTS.CHORES.MENTALBREAK.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MENTALBREAK.STATUS"
 msgid "Mental break"
-msgstr ""
+msgstr "Нервный срыв"
 
 #. STRINGS.DUPLICANTS.CHORES.MOP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.NAME"
 msgid "Mop"
-msgstr ""
+msgstr "Вытирать"
 
 #. STRINGS.DUPLICANTS.CHORES.MOP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.STATUS"
 msgid "Going to mop"
-msgstr ""
+msgstr "Идет вытирать"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.NAME"
 msgid "Move To"
-msgstr ""
+msgstr "Идти в"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS"
 msgid "Moving to location"
-msgstr ""
+msgstr "Идет на место"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME"
