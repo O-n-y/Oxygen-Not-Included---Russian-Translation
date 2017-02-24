@@ -60,3 +60,7 @@ http://steamcommunity.com/id/oniki/
 	Откройте "mods" папку, которая расположена по пути "OxygenNotIncluded_Data/StreamingAssets/Mods"
 	Скопируйте загруженный "strings.po" файл в эту папку.
 
+
+# Базовые понятия
+* Duplicant - Дупликант
+* Power - Электроэнергия
