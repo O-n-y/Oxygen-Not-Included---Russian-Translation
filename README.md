@@ -66,3 +66,4 @@ http://steamcommunity.com/id/oniki/
 * Duplicant - Дупликант
 * Power - Электроэнергия
 * Mush bar - Мшистый батончик
+* Tile - Блок
