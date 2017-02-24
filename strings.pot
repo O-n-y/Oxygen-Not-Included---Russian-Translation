@@ -6442,7 +6442,7 @@ msgstr "Погребен"
 #. STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME"
 msgid "Entombed"
-msgstr "Entombed"
+msgstr "Погребен"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP"
@@ -6547,12 +6547,12 @@ msgstr "Этот Дупликант будет очень признателен
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME"
 msgid "Generating power"
-msgstr "Генерирует энергию"
+msgstr "Генерирует электричество"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.TOOLTIP"
 msgid "This Duplicant is using the {Target} to produce electrical <style=\"power\">Power</style>"
-msgstr "Этот Дупликант использует {Target} для генерации электрической <style=\"power\">Энергии</style>"
+msgstr "Этот Дупликант использует {Target} для генерации <style=\"power\">Электричества</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME"
@@ -6587,7 +6587,7 @@ msgstr "Этот Дупликант собирает ресурсы с {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NAME"
 msgid "Feeling ill"
-msgstr "Плохо"
+msgstr "Чувствует себя плохо"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_NAME"
@@ -6687,12 +6687,12 @@ msgstr "Этот Дупликант близок к гибели! Требует
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME"
 msgid "Lashing out"
-msgstr "Взбесился"
+msgstr "Выпускает пар"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NOTIFICATION_NAME"
 msgid "Lashing out"
-msgstr "Взбесился"
+msgstr "Выпускает пар"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NOTIFICATION_TOOLTIP"
@@ -6727,7 +6727,7 @@ msgstr "Этот Дупликант работает в зоне чрезвыч�
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.NAME"
 msgid "Manually task"
-msgstr "Руководится напрямую"
+msgstr "Ручное управление задачей"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.TOOLTIP"
@@ -6747,7 +6747,7 @@ msgstr "Этот Дупликант под ручным контролем и м
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.NAME"
 msgid "Manual idle"
-msgstr "Ручное бездействие"
+msgstr "Ручное управление, нет приказов"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.TOOLTIP"
@@ -6787,7 +6787,7 @@ msgstr "Этот Дупликант транспортирует материа�
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME"
 msgid "Mopping"
-msgstr "Вытерает"
+msgstr "Вытирает"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP"
