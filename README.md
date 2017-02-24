@@ -11,6 +11,7 @@ http://steamcommunity.com/id/oniki/
 * ShaTiK		2999-3998, 9019-10019
 * 1u3Bac:		3999-4997
 * Honcharuk:		4998-6000
+* Cores:		6001-7000
 * SealOfTheTime:	6999-9019
 
 
