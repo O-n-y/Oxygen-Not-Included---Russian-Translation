@@ -12602,162 +12602,162 @@ msgstr "Карта Газопровода"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED"
 msgid "Connected"
-msgstr ""
+msgstr "Соединено"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONSUMER"
 msgid "Output"
-msgstr ""
+msgstr "Вывод"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "Intake via pipes"
-msgstr ""
+msgstr "Точка забора через трубы"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW"
 msgid "Gas flows from Output"
-msgstr ""
+msgstr "Газ выходит через Вывод"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DISCONNECTED"
 msgid "Disconnected"
-msgstr ""
+msgstr "Отсоединено"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.FILTERED"
 msgid "Filtered Output"
-msgstr ""
+msgstr "Отфильтрованный Вывод"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NAME"
 msgid "GAS PLUMBING OVERLAY"
-msgstr ""
+msgstr "КАРТА ГАЗОПРОВОДА"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK"
 msgid "Gas Network {0}"
-msgstr ""
+msgstr "Газопровод {0}"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.PRODUCER"
 msgid "Intake"
-msgstr ""
+msgstr "Точка забора"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED"
 msgid "Connected to a <style=\"GasPiping\">Gas Pipe</style>"
-msgstr ""
+msgstr "Подключено к <style=\"GasPiping\">Газопроводной трубе</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER"
 msgid "Point where a building sends gas into pipes\n* Must be connected to a <style=\"GasDestination\">Destination</style>"
-msgstr ""
+msgstr "Точка, где здание отправляет газ в трубы\n* Должна быть подключена к <style=\"GasDestination\">Получателю</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED"
 msgid "Not connected to a <style=\"GasPiping\">Gas Pipe</style>"
-msgstr ""
+msgstr "Не подключено к <style=\"GasPiping\">Газопроводной трубе</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.NETWORK"
 msgid "Gas network {0}"
-msgstr ""
+msgstr "Газопровод {0}"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.PRODUCER"
 msgid "Point where a building receives gas from pipes\n* Must be connected to a <style=\"GasSource\">Source</style>"
-msgstr ""
+msgstr "Точка, где здание получает газ из труб\n* Должна быть подключена к <style=\"GasSource\">Источнику</style>"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.BUTTON"
 msgid "Light Overlay"
-msgstr ""
+msgstr "Карта Освещения"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.DARK
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.DARK"
 msgid "Unlit area"
-msgstr ""
+msgstr "Неосвещенная зона"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.LITAREA
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.LITAREA"
 msgid "Lit area"
-msgstr ""
+msgstr "Освещенная зона"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.NAME"
 msgid "LIGHT OVERLAY"
-msgstr ""
+msgstr "КАРТА ОСВЕЩЕННИЯ"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.DARK
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.DARK"
 msgid "Duplicants cannot see in these areas"
-msgstr ""
+msgstr "Дупликанты не могут видеть в этих зонах"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.LITAREA
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.LITAREA"
 msgid "Duplicants have adequate lighting in these areas"
-msgstr ""
+msgstr "Дупликантам достаточно освещения в этих зонах"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.NAME"
 msgid "LIGHT OVERLAY"
-msgstr ""
+msgstr "КАРТА ОСВЕЩЕННИЯ"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON"
 msgid "Liquid Plumbing Overlay"
-msgstr ""
+msgstr "Карта Водопровода"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED"
 msgid "Connected"
-msgstr ""
+msgstr "Соединено"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONSUMER"
 msgid "Output"
-msgstr ""
+msgstr "Вывод"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "Intake via pipes"
-msgstr ""
+msgstr "Точка забора через трубы"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW"
 msgid "Liquid flows from Output"
-msgstr ""
+msgstr "Жидкости вытекают из Вывода"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DISCONNECTED"
 msgid "Disconnected"
-msgstr ""
+msgstr "Отсоединено"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.FILTERED"
 msgid "Filtered Output"
-msgstr ""
+msgstr "Отфильтрованный Вывод"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NAME"
 msgid "LIQUID PLUMBING OVERLAY"
-msgstr ""
+msgstr "КАРТА ВОДОПРОВОДА"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NETWORK"
 msgid "Liquid Network {0}"
-msgstr ""
+msgstr "Водопровод {0}"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.PRODUCER"
 msgid "Intake"
-msgstr ""
+msgstr "Точка забора"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED"
 msgid "Connected to a <style=\"LiquidPiping\">Liquid Pipe</style>"
-msgstr ""
+msgstr "Подключено к <style=\"LiquidPiping\">Водопроводной трубе</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER"
@@ -12767,237 +12767,237 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED"
 msgid "Not connected to a <style=\"LiquidPiping\">Liquid Pipe</style>"
-msgstr ""
+msgstr "Не подключено к <style=\"LiquidPiping\">Водопроводной трубе</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED"
 msgid "Point where a building sends one filtered liquid into pipes\n* Must be connected to a <style=\"LiquidDestination\">Intake</style>"
-msgstr ""
+msgstr "Точка, где здание посылает одну отфильтрованную жидкость в трубы\n* Должна быть соединена с <style=\"LiquidDestination\">Точкой забора</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK"
 msgid "Liquid network {0}"
-msgstr ""
+msgstr "Водопровод {0}"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.PRODUCER"
 msgid "Point where a building receives liquid from pipes\n* Must be connected to a <style=\"LiquidSource\">Output</style>"
-msgstr ""
+msgstr "Точка, где здание получает жидкость из труб\n* Должна быть соединена с <style=\"LiquidSource\">Выводом</style>"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.BUTTON"
 msgid "Oxygen Overlay"
-msgstr ""
+msgstr "Карта Кислорода"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1"
 msgid "Very Breathable"
-msgstr ""
+msgstr "Насыщенный"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2"
 msgid "Breathable"
-msgstr ""
+msgstr "Нормальный"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3"
 msgid "Barely Breathable"
-msgstr ""
+msgstr "Минимальный"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4"
 msgid "Unbreathable"
-msgstr ""
+msgstr "Кислорода нет"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5"
 msgid "Slightly Toxic"
-msgstr ""
+msgstr "Слегка токсичный"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6"
 msgid "Very Toxic"
-msgstr ""
+msgstr "Очень токсичный"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.NAME
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.NAME"
 msgid "OXYGEN OVERLAY"
-msgstr ""
+msgstr "КАРТА КИСЛОРОДА"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1"
 msgid "High oxygen concentration"
-msgstr ""
+msgstr "Высокая концентрация кислорода"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2"
 msgid "Prominent oxygen concentration"
-msgstr ""
+msgstr "Значительная концентрация кислорода"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3"
 msgid "Prominent carbon dioxide concentration"
-msgstr ""
+msgstr "Значительная концентрация углекислого газа"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4"
 msgid "High carbon dioxide concentration"
-msgstr ""
+msgstr "Высокая концентрация углекислого газа"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5"
 msgid "Harmful gas concentration"
-msgstr ""
+msgstr "Вредоносная концентрация газа"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND6"
 msgid "Lethal gas concentration"
-msgstr ""
+msgstr "Летальная концентрация газа"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON"
 msgid "Priority Overlay"
-msgstr ""
+msgstr "Карта Приоритетов"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT"
 msgid "Priority 8"
-msgstr ""
+msgstr "Приоритет 8"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT_TOOLTIP"
 msgid "Priority 8"
-msgstr ""
+msgstr "Приоритет 8"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FIVE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FIVE"
 msgid "Priority 5"
-msgstr ""
+msgstr "Приоритет 5"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FIVE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FIVE_TOOLTIP"
 msgid "Priority 5"
-msgstr ""
+msgstr "Приоритет 5"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FOUR
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FOUR"
 msgid "Priority 4"
-msgstr ""
+msgstr "Приоритет 4"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FOUR_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FOUR_TOOLTIP"
 msgid "Priority 4"
-msgstr ""
+msgstr "Приоритет 4"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NAME
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NAME"
 msgid "PRIORITY OVERLAY"
-msgstr ""
+msgstr "КАРТА ПРИОРИТЕТОВ"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE"
 msgid "Priority 9 (Highest)"
-msgstr ""
+msgstr "Приоритет 9 (Наивысший)"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP"
 msgid "Priority 9"
-msgstr ""
+msgstr "Приоритет 9"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE"
 msgid "Priority 1 (Lowest)"
-msgstr ""
+msgstr "Приоритет 1 (Низший)"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP"
 msgid "Priority 1"
-msgstr ""
+msgstr "Приоритет 1"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN"
 msgid "Priority 7"
-msgstr ""
+msgstr "Приоритет 7"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN_TOOLTIP"
 msgid "Priority 7"
-msgstr ""
+msgstr "Приоритет 7"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SIX
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SIX"
 msgid "Priority 6"
-msgstr ""
+msgstr "Приоритет 6"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SIX_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SIX_TOOLTIP"
 msgid "Priority 6"
-msgstr ""
+msgstr "Приоритет 6"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.THREE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.THREE"
 msgid "Priority 3"
-msgstr ""
+msgstr "Приоритет 3"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.THREE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.THREE_TOOLTIP"
 msgid "Priority 3"
-msgstr ""
+msgstr "Приоритет 3"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.TWO
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.TWO"
 msgid "Priority 2"
-msgstr ""
+msgstr "Приоритет 2"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.TWO_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.TWO_TOOLTIP"
 msgid "Priority 2"
-msgstr ""
+msgstr "Приоритет 2"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.BUTTON"
 msgid "Room Overlay"
-msgstr ""
+msgstr "Карта ПОМЕЩЕНИЙ"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NAME"
 msgid "ROOM OVERLAY"
-msgstr ""
+msgstr "КАРТА ПОМЕЩЕНИЙ"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.NOROOMS
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NOROOMS"
 msgid "No rooms created"
-msgstr ""
+msgstr "Нет созданных помещений"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.ROOM
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.ROOM"
 msgid "Room {0}"
-msgstr ""
+msgstr "Помещение {0}"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.NOROOMS
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.NOROOMS"
 msgid "Duplicants have nowhere to sleep"
-msgstr ""
+msgstr "Дупликантам негде спать"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.ROOM
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.ROOM"
 msgid "Completed Duplicant bedrooms"
-msgstr ""
+msgstr "Готовых спален Дупликантов"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON"
 msgid "Exosuit Overlay"
-msgstr ""
+msgstr "Карта Экзокостюм"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.NAME"
 msgid "EXOSUIT OVERLAY"
-msgstr ""
+msgstr "КАРТА ЭКЗОКОСТЮМОВ"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.NOREGIONS
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.NOREGIONS"
 msgid "No exosuit regions created"
-msgstr ""
+msgstr "Нет заданных зон экзокостюмов"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION"
