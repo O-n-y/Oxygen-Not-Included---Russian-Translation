@@ -7,10 +7,10 @@ http://steamcommunity.com/id/oniki/
 
 # Участники перевода
 *Участник \ Строки*
-* Ony - 0 по 2998
-* ShaTiK - 2999 по 3998, 9019-10019
-* 1u3Bac: - 3999 по 4997
-* SealOfTheTime - 6999 по 9019
+* Ony - 0-2998
+* ShaTiK - 2999-3998, 9019-10019
+* 1u3Bac: - 3999-4997
+* SealOfTheTime - 6999-9019
 
 
 
