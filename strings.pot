@@ -10027,7 +10027,7 @@ msgstr "{BlockedString}"
 #. STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Oxylite</style> deposit has no room to emit <style=\"oxygen\">Oxygen</style>"
-msgstr "Этой залежи <style=\"solid\">Оксилита</style> некуда выделять <style=\"oxygen\">Кислород</style>"
+msgstr "Этим залежам <style=\"solid\">Оксилита</style> некуда выделять <style=\"oxygen\">Кислород</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.NAME"
