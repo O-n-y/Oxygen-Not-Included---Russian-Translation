@@ -6014,57 +6014,57 @@ msgstr "Мочевой пузырь"
 #. STRINGS.DUPLICANTS.STATS.BLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.BLADDER.TOOLTIP"
 msgid "Bladder\n----------\nA Duplicant will make a mess at 100% if no bathrooms are available"
-msgstr ""
+msgstr "Мочевой пузырь\n----------\nA Дупликант описается при 100% значении мочевого пузыря, если не будет санузла поблизости"
 
 #. STRINGS.DUPLICANTS.STATS.BREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.BREATH.NAME"
 msgid "Breath"
-msgstr ""
+msgstr "Дыхание"
 
 #. STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP"
 msgid "Breath\n----------\nA Duplicant will begin suffocating at 0%"
-msgstr ""
+msgstr "Дыхание\n----------\nA Дупликант станет задыхаться при 0%"
 
 #. STRINGS.DUPLICANTS.STATS.CALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.NAME"
 msgid "Calories"
-msgstr ""
+msgstr "Калории"
 
 #. STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP"
 msgid "Calories\n----------\nThis Duplicant has {0} of stored energy they can burn before starving"
-msgstr ""
+msgstr "Калории\n----------\nЭтот Дупликант имеет {0} запасенной энергии, которую он может сжечь и станет голодным"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.NAME"
 msgid "Decor"
-msgstr ""
+msgstr "Декор"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
 msgid "Decor\n----------\nA Duplicant will gain <style=\"stress\">Stress</style> while in rooms with lower <style=\"decor\">Decor</style> values than their expectations"
-msgstr ""
+msgstr "Декор\n----------\nA Дупликант будет получать <style=\"stress\">Стресс</style> находясь в комнатах, имеющих значение <style=\"decor\">Декора</style> ниже его ожиданий"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
 msgid "External Temperature"
-msgstr ""
+msgstr "Внешняя температура"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP"
 msgid "External Temperature\n----------\nThis Duplicant's immediate environment is {0}"
-msgstr ""
+msgstr "Внешняя температура\n----------\nУ этого Дупликанта ближайшее окружение - {0}"
 
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME"
 msgid "Health"
-msgstr ""
+msgstr "Здоровье"
 
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.TOOLTIP"
 msgid "Health\n----------\nA combatant will become incapacitated at zero <style=\"Health\">Health</style>"
-msgstr ""
+msgstr "Здоровье\n----------\nA воин будет небоеспособным при нуле <style=\"Health\">Здоровья</style>"
 
 #. STRINGS.DUPLICANTS.STATS.MORALE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.MORALE.NAME"
@@ -6079,32 +6079,32 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATS.STAMINA.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.NAME"
 msgid "Stamina"
-msgstr ""
+msgstr "Выносливость"
 
 #. STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP"
 msgid "Stamina\n----------\nA Duplicant will pass out from fatigue at 0%"
-msgstr ""
+msgstr "Выносливость\n----------\nA Дупликант потеряет сознание от усталости при 0%"
 
 #. STRINGS.DUPLICANTS.STATS.STRESS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.NAME"
 msgid "Stress"
-msgstr ""
+msgstr "Стресс"
 
 #. STRINGS.DUPLICANTS.STATS.STRESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.TOOLTIP"
 msgid "Stress\n----------\nA Duplicant will have a Nervous Breakdown at 100% <style=\"stress\">Stress</style>"
-msgstr ""
+msgstr "Стресс\n----------\nA Дупликант получит Нервный Срыв при 100% <style=\"stress\">Стресса</style>"
 
 #. STRINGS.DUPLICANTS.STATS.TEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.TEMPERATURE.NAME"
 msgid "Body Temperature"
-msgstr ""
+msgstr "Температура тела"
 
 #. STRINGS.DUPLICANTS.STATS.TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.TEMPERATURE.TOOLTIP"
 msgid "Body Temperature\n----------\nA healthy Duplicant's body temperature is {1}"
-msgstr ""
+msgstr "Температура тела\n----------\nA температура тела здорового Дупликанта составляет {1}"
 
 #. STRINGS.DUPLICANTS.STATS.TOXICITY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.TOXICITY.NAME"
@@ -6119,882 +6119,882 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.ARTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARTING.NAME"
 msgid "Decorating"
-msgstr ""
+msgstr "Украшения"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ARTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARTING.TOOLTIP"
 msgid "This Duplicant is expressing themselves artistically"
-msgstr ""
+msgstr "Этот Дупликант выражает себя в творчестве"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME"
 msgid "Bed beyond reach"
-msgstr ""
+msgstr "Кровать вне досягаемости"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_NAME"
 msgid "Bed beyond reach"
-msgstr ""
+msgstr "Кровать вне досягаемости"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot sleep because their bed is out of reach:"
-msgstr ""
+msgstr "Эти Дупликанты не могут спать, так как их кровать вне досягаемости:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.TOOLTIP"
 msgid "This Duplicant cannot reach their bed"
-msgstr ""
+msgstr "Этот Дупликант не может достигнуть своей кровати"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.NAME"
 msgid "Cooling down at: {TempDelta}"
-msgstr ""
+msgstr "Охлаждение при: {TempDelta}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.TOOLTIP"
 msgid "This Duplicant is regulating their <style=\"heat\">Temperature</style>"
-msgstr ""
+msgstr "Этот Дупликант регулирует его <style=\"heat\">Температуру</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.NAME"
 msgid "Heating up at: {TempDelta}"
-msgstr ""
+msgstr "Нагрев при: {TempDelta}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGHEATING.TOOLTIP"
 msgid "This Duplicant is regulating their <style=\"heat\">Temperature</style>"
-msgstr ""
+msgstr "Этот Дупликант регулирует их <style=\"heat\">Температуру</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME"
 msgid "Breaking {Target}"
-msgstr ""
+msgstr "Разбивает {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.TOOLTIP"
 msgid "This Duplicant is going totally bananas on the {Target}"
-msgstr ""
+msgstr "Этот Дупликант срывает своё бешенство на {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.NAME"
 msgid "Inhaling {ConsumptionRate} O2"
-msgstr ""
+msgstr "Вдыхает {ConsumptionRate} O2"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.TOOLTIP"
 msgid "Duplicants require <style=\"oxygen\">Oxygen</style> to live"
-msgstr ""
+msgstr "Дупликантам нужен <style=\"oxygen\">Кислород</style> для жизни"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.NAME"
 msgid "Building {Target}"
-msgstr ""
+msgstr "Строит {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDING.TOOLTIP"
 msgid "This Duplicant is constructing a {Target}"
-msgstr ""
+msgstr "Этот Дупликант конструирует {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.NAME"
 msgid "Building {Target}"
-msgstr ""
+msgstr "Строит {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDPRIORITIZEDSTATUS.TOOLTIP"
 msgid "This Duplicant is constructing a {Target}"
-msgstr ""
+msgstr "Этот Дупликант конструирует {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.NAME"
 msgid "Cleaning {Target}"
-msgstr ""
+msgstr "Очищает {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.TOOLTIP"
 msgid "This Duplicant is <style=\"hygiene\">Cleaning Up</style> {Target}"
-msgstr ""
+msgstr "Это Дупликант <style=\"hygiene\">Чистит</style> {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.NAME"
 msgid "Sweeping {Target}"
-msgstr ""
+msgstr "Подбирает {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.TOOLTIP"
 msgid "This Duplicant is sweeping away {Target}"
-msgstr ""
+msgstr "Этот Дупликант подбирает {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.NAME"
 msgid "Too cold"
-msgstr ""
+msgstr "Слишком холодно"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.NOTIFICATION_NAME"
 msgid "Too cold"
-msgstr ""
+msgstr "Слишком холодно"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are about to freeze to death:"
-msgstr ""
+msgstr "Эти Дупликанты вот-вот замерзнут насмерть:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP"
 msgid "This Duplicant is about to freeze to death"
-msgstr ""
+msgstr "Этот дупликант почти замерз до смерти"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME"
 msgid "Going to flip compost"
-msgstr ""
+msgstr "Собираюсь перевернуть компост"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.TOOLTIP"
 msgid "This Duplicant is going to flip the compost"
-msgstr ""
+msgstr "Этот Дупликант собирается перевернуть компост"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKING.NAME"
 msgid "Cooking food"
-msgstr ""
+msgstr "Готовит пищу"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKING.TOOLTIP"
 msgid "This Duplicant is cooking up something tasty"
-msgstr ""
+msgstr "Этот Дупликант готовит вкусняшку"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NAME"
 msgid "Daily calorie limit reached"
-msgstr ""
+msgstr "Дневной лимит на калории достигнут"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NOTIFICATION_NAME"
 msgid "Daily calorie limit reached"
-msgstr ""
+msgstr "Дневной лимит на калории достигнут"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have consumed their allotted <style=\"food\">Rations</style> for the day:"
-msgstr ""
+msgstr "Эти Дупликанты употребили разрешенный на этот день  <style=\"food\">Порции</style>:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.TOOLTIP"
 msgid "This Duplicant has consumed their allotted <style=\"food\">Rations</style> for the day"
-msgstr ""
+msgstr "Этот Дупликант употребил разрешенную на этот день  <style=\"food\">Порцию</style>:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEAD.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEAD.NAME"
 msgid "Dead: {Death}"
-msgstr ""
+msgstr "Погиб: {Death}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEAD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEAD.TOOLTIP"
 msgid "This Duplicant definitely isn't sleeping"
-msgstr ""
+msgstr "Этот Дупликант наверняка не спит"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME"
 msgid "Deconstructing {Target}"
-msgstr ""
+msgstr "Демонтирует {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP"
 msgid "This Duplicant is tearing down the {Target}"
-msgstr ""
+msgstr "Этот Дупликант срывает {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.NAME"
 msgid "Digging"
-msgstr ""
+msgstr "Копает"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.TOOLTIP"
 msgid "This Duplicant is excavating raw resources"
-msgstr ""
+msgstr "Этот Дупликант выкапывает необработанные ресурсы"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.NAME"
 msgid "Dropping objects"
-msgstr ""
+msgstr "Падающие объекты"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DROPPINGUNUSEDINVENTORY.TOOLTIP"
 msgid "This Duplicant is dropping what they're holding"
-msgstr ""
+msgstr "Этот Дупликант уронил переносимое им"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.NAME"
 msgid "Jazzed to start the day"
-msgstr ""
+msgstr "Радостное начало дня"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.TOOLTIP"
 msgid "This Duplicant is an Early Bird and gets a burst of energy in the morning"
-msgstr ""
+msgstr "Этот Дупликант - Жаворонок и получает прилив энергии по утрам"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант доставляет материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATING.NAME"
 msgid "Eating {Target}"
-msgstr ""
+msgstr "Ест {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATING.TOOLTIP"
 msgid "This Duplicant is replenishing their <style=\"food\">Calorie</style> stores"
-msgstr ""
+msgstr "Этот Дупликает восполняет запас его <style=\"food\">Калорий</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.NAME"
 msgid "Exhaling {EmittingRate} CO2"
-msgstr ""
+msgstr "Выдахает {EmittingRate} CO2"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP"
 msgid "Duplicants breathe out <style=\"gas\">Carbon Dioxide</style>"
-msgstr ""
+msgstr "Дупликанты выдыхают <style=\"gas\">Оксид Углерода</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME"
 msgid "Emptying {Target}"
-msgstr ""
+msgstr "Опустошает {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.TOOLTIP"
 msgid "This Duplicant is removing materials from the {Target}"
-msgstr ""
+msgstr "Этот Дупликант убирает материалы из {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYSTORAGEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NAME"
 msgid "Entombed"
-msgstr ""
+msgstr "Погребен"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME"
 msgid "Entombed"
-msgstr ""
+msgstr "Погребен"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are trapped:"
-msgstr ""
+msgstr "Эти Дупликанты оказались в ловушке:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ENTOMBED.TOOLTIP"
 msgid "This Duplicant needs someone to help dig them out!"
-msgstr ""
+msgstr "Этому Дупликанту нужна помощь чтобы выковырять его оттуда!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.NAME"
 msgid "Equipping <style=\"equipment\">{Item}</style>"
-msgstr ""
+msgstr "Экипирует <style=\"equipment\">{Item}</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.TOOLTIP"
 msgid "This Duplicant is equipping a <style=\"equipment\">{Item}</style>"
-msgstr ""
+msgstr "Этот Дупликант экипирует <style=\"equipment\">{Item}</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.NAME"
 msgid "Fabricating {Item}"
-msgstr ""
+msgstr "Изготавливает {Item}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.TOOLTIP"
 msgid "This Duplicant is making a {Item}"
-msgstr ""
+msgstr "Этот Дупликант делает {Item}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NAME"
 msgid "In Combat"
-msgstr ""
+msgstr "В Бою"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NOTIFICATION_NAME"
 msgid "Combat!"
-msgstr ""
+msgstr "Бой!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have engaged a creature in combat:"
-msgstr ""
+msgstr "Эти Дупликанты учавствуют в бою с существом:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP"
 msgid "This Duplicant is attacking a creature"
-msgstr ""
+msgstr "Этот Дупликант атакует существо"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME"
 msgid "Fleeing"
-msgstr ""
+msgstr "Отступает"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_NAME"
 msgid "Fleeing!"
-msgstr ""
+msgstr "Отступаем!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are trying to escape combat:"
-msgstr ""
+msgstr "Эти Дупликанты пытаются выйти из боя:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.TOOLTIP"
 msgid "This Duplicant is trying to escape combat"
-msgstr ""
+msgstr "Этот Дупликант пытается выйти из боя"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.NAME"
 msgid "Full bladder"
-msgstr ""
+msgstr "Мочевой пузырь полон"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FULLBLADDER.TOOLTIP"
 msgid "This Duplicant would really appreciate a toilet"
-msgstr ""
+msgstr "Этот Дупликант будет очень признателен за туалет"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.NAME"
 msgid "Generating power"
-msgstr ""
+msgstr "Генерирует электричество"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERATINGPOWER.TOOLTIP"
 msgid "This Duplicant is using the {Target} to produce electrical <style=\"power\">Power</style>"
-msgstr ""
+msgstr "Этот Дупликант использует {Target} для генерации <style=\"power\">Электричества</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.GENERIC_DELIVER.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.NAME"
 msgid "Harvesting {Target}"
-msgstr ""
+msgstr "Собирает урожай с {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.TOOLTIP"
 msgid "This Duplicant is gathering resources from a {Target}"
-msgstr ""
+msgstr "Этот Дупликант собирает ресурсы с {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NAME"
 msgid "Feeling ill"
-msgstr ""
+msgstr "Чувствует себя плохо"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_NAME"
 msgid "Illness"
-msgstr ""
+msgstr "Недомогание"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have contracted a <style=\"disease\">Disease</style>:"
-msgstr ""
+msgstr "Эти Дупликанты <style=\"disease\">Заболели</style>:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.TOOLTIP"
 msgid "This Duplicant has contracted a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "Этот Дупликант <style=\"disease\">Заболел</style>:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.NAME"
 msgid "Holding breath"
-msgstr ""
+msgstr "Задерживает дыхание"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.TOOLTIP"
 msgid "This Duplicant cannot breathe in their current location"
-msgstr ""
+msgstr "Этот Дупликант не может дышать в данном месте"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.NAME"
 msgid "Too hot"
-msgstr ""
+msgstr "Слишком горячо"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.NOTIFICATION_NAME"
 msgid "Too hot"
-msgstr ""
+msgstr "Слишком горячо"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are overheating:"
-msgstr ""
+msgstr "Эти Дупликанты перегрелись:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP"
 msgid "This Duplicant is overheating"
-msgstr ""
+msgstr "Этот Дупликант перегрелся"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.NAME"
 msgid "Hungry"
-msgstr ""
+msgstr "Голодный"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.TOOLTIP"
 msgid "This Duplicant would love a snack"
-msgstr ""
+msgstr "Этот Дупликант не прочь перекусить"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME"
 msgid "Idle"
-msgstr ""
+msgstr "Без дела"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_NAME"
 msgid "Idle"
-msgstr ""
+msgstr "Без дела"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot reach any pending job tasks:"
-msgstr ""
+msgstr "Эти Дупликанты не могут достичь места проведения работ:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP"
 msgid "This Duplicant cannot reach any pending job tasks"
-msgstr ""
+msgstr "Этот Дупликант не может достичь места проведения работ"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME"
 msgid "Incapacitated. Time until death: {TimeUntilDeath}"
-msgstr ""
+msgstr "Выведен из строя. Время до смерти: {TimeUntilDeath}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_NAME"
 msgid "Incapacitated"
-msgstr ""
+msgstr "Выведен из строя"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants need to be rescued before they kick the bucket"
-msgstr ""
+msgstr "Этих Дупликантов нужно спасать прежде, чем они сдохнут"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP"
 msgid "This Duplicant is near death! They need to be rescued quickly"
-msgstr ""
+msgstr "Этот Дупликант близок к гибели! Требуется срочное спасение"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME"
 msgid "Lashing out"
-msgstr ""
+msgstr "Выпускает пар"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NOTIFICATION_NAME"
 msgid "Lashing out"
-msgstr ""
+msgstr "Выпускает пар"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants broke buildings to relieve <style=\"stress\">Stress</style>:"
-msgstr ""
+msgstr "Эти Дупликанты крушат строения, чтобы снять <style=\"stress\">Стресс</style>:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.TOOLTIP"
 msgid "This Duplicant is breaking stuff to relieve <style=\"stress\">Stress</style>"
-msgstr ""
+msgstr "Этот Дупликант ломает вещи для снятия <style=\"stress\">Стресса</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.NAME"
 msgid "Oxygen low"
-msgstr ""
+msgstr "Низкий уровень кислорода"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.NOTIFICATION_NAME"
 msgid "Low <style=\"oxygen\">Oxygen</style> area entered"
-msgstr ""
+msgstr "Зашел в зону низкого уровня <style=\"oxygen\">Кислорода</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are working in areas with low <style=\"oxygen\">Oxygen</style>:"
-msgstr ""
+msgstr "Эти Дупликанты работают в зонах низкого содержания <style=\"oxygen\">Кислорода</style>:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LOWOXYGEN.TOOLTIP"
 msgid "This Duplicant is working in a dangerously low <style=\"oxygen\">Oxygen</style> area"
-msgstr ""
+msgstr "Этот Дупликант работает в зоне чрезвычайно низкого уровня <style=\"oxygen\">Кислорода</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.NAME"
 msgid "Manually task"
-msgstr ""
+msgstr "Ручное управление задачей"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLCHORE.TOOLTIP"
 msgid "This Duplicant is manually controlled and has been ordered to perform a specific task"
-msgstr ""
+msgstr "Этот Дупликант под ручным контролем и может выполнить конкретную задачу"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.NAME"
 msgid "Manual movement"
-msgstr ""
+msgstr "Ручное перемещение"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLGOTO.TOOLTIP"
 msgid "This Duplicant is manually controlled and has been ordered to a specific location"
-msgstr ""
+msgstr "Этот Дупликант под ручным контролем и может быть перемещен в конкретную область"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.NAME"
 msgid "Manual idle"
-msgstr ""
+msgstr "Ручное управление, нет приказов"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.TOOLTIP"
 msgid "This Duplicant is manually controlled and will be idle until given a task"
-msgstr ""
+msgstr "Этот Дупликант под ручным контролем и будет бездействовать до получения задачи"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.NAME"
 msgid "Manual control"
-msgstr ""
+msgstr "Ручное управление"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
 msgid "This Duplicant is under manual control and cannot act independently"
-msgstr ""
+msgstr "Этот Дупликант под ручным контролем и не будет действовать самовольно"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.NAME"
 msgid "Nervous breakdown"
-msgstr ""
+msgstr "Нервный срыв"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MENTALBREAK.TOOLTIP"
 msgid "<style=\"stress\">Stress</style> has completely eroded this Duplicant's ability to function"
-msgstr ""
+msgstr "<style=\"stress\">Стресс</style> полностью лишил этого Дупликанта способности к функционированию"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME"
 msgid "Mopping"
-msgstr ""
+msgstr "Вытирает"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP"
 msgid "This Duplicant is <style=\"hygiene\">Cleaning</style> up a nasty spill"
-msgstr ""
+msgstr "Этот Дупликант <style=\"hygiene\">Вытирает</style> неприятный разлив"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME"
 msgid "Exiting <style=\"equipment\">Exosuit</style> area"
-msgstr ""
+msgstr "Выходит из зоны, где требуется <style=\"equipment\">"Экзокостюм</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP"
 msgid "This Duplicant is leaving an area where an <style=\"equipment\">Exosuit</style> was required"
-msgstr ""
+msgstr "Этот Дупликант покидает зону, в которой требуется <style=\"equipment\">Экзокостюм</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME"
 msgid "Moving to safe area"
-msgstr ""
+msgstr "Идет в безопасную зону"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.TOOLTIP"
 msgid "This Duplicant is finding a safer place"
-msgstr ""
+msgstr "Этот Дупликант ищет безопасное место"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.NAME"
 msgid "Mushing microbes"
-msgstr ""
+msgstr "Мусинг микробов"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.TOOLTIP"
 msgid "This Duplicant is trying to produce something edible"
-msgstr ""
+msgstr "Этот Дупликант пытается сделать что-нибудь съедобное"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NAME"
 msgid "Nervous breakdown"
-msgstr ""
+msgstr "Нервный срыв"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NOTIFICATION_NAME"
 msgid "Nervous breakdown"
-msgstr ""
+msgstr "Нервный срыв"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have cracked under the <style=\"stress\">Stress</style> and need assistance:"
-msgstr ""
+msgstr "Эти Дупликанты расклеились от <style=\"stress\">Стресса</style> и нуждаются в помощи"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.TOOLTIP"
 msgid "<style=\"stress\">Stress</style> has completely eroded this Duplicant's ability to function"
-msgstr ""
+msgstr "<style=\"stress\">Стресс</style> полностью лишил этого Дупликанта способности к функционированию"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.NAME"
 msgid "Impassioned by the night"
-msgstr ""
+msgstr "Одержим ночью"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP"
 msgid "This Duplicant is a Night Owl and gets a burst of energy at night"
-msgstr ""
+msgstr "Этот Дупликант - Сова и получает прилив энергии ночью"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NAME"
 msgid "No food available"
-msgstr ""
+msgstr "Нет пищи"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NOTIFICATION_NAME"
 msgid "No food available"
-msgstr ""
+msgstr "Нет пищи"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have nothing to eat:"
-msgstr ""
+msgstr "Этим Дупликантам нечего есть:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.TOOLTIP"
 msgid "There is nothing in the colony for this Duplicant to eat"
-msgstr ""
+msgstr "Этому Дупликанту нечего есть в колонии"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME"
 msgid "No restrooms"
-msgstr ""
+msgstr "Нет санузлов"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_NAME"
 msgid "No restrooms built"
-msgstr ""
+msgstr "Не построены туалеты"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are distressed by the lack of toilets:"
-msgstr ""
+msgstr "Этих Дупликантов огорчает отсутствие туалетов: "
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP"
 msgid "There are no toilets available for this Duplicant"
-msgstr ""
+msgstr "Здесь нет туалетов доступных этому Дупликанту"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME"
 msgid "Restroom out of order"
-msgstr ""
+msgstr "Санузел вышел из строя"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_NAME"
 msgid "Restrooms out of order"
-msgstr ""
+msgstr "Санузлы вышли из строя"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants want to use a toilet that is out of order:"
-msgstr ""
+msgstr "Эти Дупликанты хотят использовать вышедшие из строя туалеты:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.TOOLTIP"
 msgid "The only toilets in this Duplicant's reach are out of order"
-msgstr ""
+msgstr "Санузлы в зоне доступности данного Дупликанта вышли из строя"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.NAME"
 msgid "Picking up {Target}"
-msgstr ""
+msgstr "Подбирает {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.TOOLTIP"
 msgid "This Duplicant is retrieving {Target}"
-msgstr ""
+msgstr "Этот Дупликант получает {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.NAME"
 msgid "Delivering resources to {Target}"
-msgstr ""
+msgstr "Доставляет ресурсы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr ""
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME"
 msgid "Drab decor"
-msgstr ""
+msgstr "Однобразный декор"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP"
 msgid "This Duplicant finds this room's lack of <style=\"decor\">Decor</style> depressing"
-msgstr ""
+msgstr "Этот Дупликанта удручает отсутствия в комнате <style=\"decor\">Декора</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME"
 msgid "No quarantine zone assigned"
-msgstr ""
+msgstr "Назначена зона без карантина"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_NAME"
 msgid "No quarantine zone assigned"
-msgstr ""
+msgstr "Назначена зона без карантина"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have not been assigned a room:"
-msgstr ""
+msgstr "Этим Дупликантам не были назначены комнаты:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.TOOLTIP"
 msgid "This Duplicant has not been assigned a room"
-msgstr ""
+msgstr "Этому Дупликанту не была назначена комната"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NAME"
 msgid "Unreachable quarantine zone"
-msgstr ""
+msgstr "Зона карантина недоступна"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NOTIFICATION_NAME"
 msgid "Unreachable quarantine zone"
-msgstr ""
+msgstr "Зона карантина недоступна"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NOTIFICATION_TOOLTIP"
