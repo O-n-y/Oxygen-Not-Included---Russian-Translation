@@ -4998,32 +4998,32 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC"
 msgid "{0}s enjoy writing poetry in their downtime. Dark poetry."
-msgstr ""
+msgstr "{0} наслаждается написанием стихов в свободное время. темная поэзия."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME"
 msgid "Ada"
-msgstr ""
+msgstr "Ада"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.DESC"
 msgid "The colony is convinced that this {0} was some sort of fancy monarch in a past life."
-msgstr ""
+msgstr "Колониия убеждена, что этот {0} был каким то монархом в прошлой жизни."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.NAME"
 msgid "Archibald"
-msgstr ""
+msgstr "Арчибальд"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BEA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BEA.DESC"
 msgid "A little ray of sunshine in a bleak world, {0}s loves people and they love her right back."
-msgstr ""
+msgstr "Маленький лучик солнца в мрачном мире, {0} любит людей и они любят в ответ."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BEA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BEA.NAME"
 msgid "Bea"
-msgstr ""
+msgstr "Беа"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.DESC"
