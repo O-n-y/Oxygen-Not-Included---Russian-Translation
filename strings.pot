@@ -11119,7 +11119,7 @@ msgstr "Изменения за секунду: {0}"
 #. STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE"
 msgid "ADDITIONAL"
-msgstr "Дополнительно"
+msgstr "ДОПОЛНИТЕЛЬНО"
 
 #. STRINGS.UI.CHARACTERCONTAINER_NEED
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_NEED"
@@ -11134,22 +11134,22 @@ msgstr "{0} {1}"
 #. STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE"
 msgid "ATTRIBUTES"
-msgstr "Характеристики"
+msgstr "ХАРАКТЕРИСТИКИ"
 
 #. STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT"
 msgid "Stress Response: {0}"
-msgstr "Стрессовая реакция: {0}"
+msgstr "Реакция на Стресс: {0}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE"
 msgid "TRAITS"
-msgstr "Особенности"
+msgstr "ОСОБЕННОСТИ"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST"
 msgid "COLONY LOST"
-msgstr "Колония потеряна"
+msgstr "КОЛОНИЯ ПОТЕРЯНА"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION"
@@ -11159,12 +11159,12 @@ msgstr "Все Дупликанты умерли или недееспособн
 #. STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON"
 msgid "DISMISS"
-msgstr "Распустить"
+msgstr "РАСПУСТИТЬ"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON"
 msgid "MAIN MENU"
-msgstr "Главное меню"
+msgstr "ГЛАВНОЕ МЕНЮ"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT"
@@ -11194,7 +11194,7 @@ msgstr "Нет доступа"
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP"
 msgid "Can't reach"
-msgstr "Нет доступа"
+msgstr "Не могу достать"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFETCHTARGETAVAILABLE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFETCHTARGETAVAILABLE"
@@ -11204,7 +11204,7 @@ msgstr "Не назначенно извлекаемых предметов"
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFUNCTIONAL
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFUNCTIONAL"
 msgid "Not operational"
-msgstr "Не готов к эксплуатации"
+msgstr "Не работает"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISMARKEDFORDECONSTRUCTION
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISMARKEDFORDECONSTRUCTION"
@@ -11219,7 +11219,7 @@ msgstr "Тревога"
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL"
 msgid "Not operational"
-msgstr "Не готов к эксплуатации"
+msgstr "Не работает"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISPERMITTED
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISPERMITTED"
@@ -11239,42 +11239,42 @@ msgstr "Нет необходимых ресурсов"
 #. STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE"
 msgid "UNAVAILABLE"
-msgstr "Не используемый"
+msgstr "НЕДОСТУПЕН"
 
 #. STRINGS.UI.CRAFT
 msgctxt "STRINGS.UI.CRAFT"
 msgid "FABRICATE"
-msgstr "Изготовить"
+msgstr "ПРОИЗВЕСТИ"
 
 #. STRINGS.UI.CRASHSCREEN.BODY
 msgctxt "STRINGS.UI.CRASHSCREEN.BODY"
 msgid "Help! A black hole ate my game!"
-msgstr "Напомощь! Черная дыра съела мою игру!"
+msgstr "На помощь! Черная дыра съела мою игру!"
 
 #. STRINGS.UI.CRASHSCREEN.CONTINUEBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.CONTINUEBUTTON"
 msgid "CONTINUE GAME"
-msgstr "Продолжить игру"
+msgstr "ПРОДОЛЖИТЬ ИГРУ"
 
 #. STRINGS.UI.CRASHSCREEN.HEADER
 msgctxt "STRINGS.UI.CRASHSCREEN.HEADER"
 msgid "OPTIONAL CRASH DESCRIPTION"
-msgstr "Дополнительное описание ошибки"
+msgstr "ДОПОЛНИТЕЛЬНОЕ ОПИСАНИЕ ОШИБКИ"
 
 #. STRINGS.UI.CRASHSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.QUITBUTTON"
 msgid "QUIT TO DESKTOP"
-msgstr "Выйти на рабочий стол"
+msgstr "ВЫЙТИ НА РАБОЧИЙ СТОЛ"
 
 #. STRINGS.UI.CRASHSCREEN.REPORTBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTBUTTON"
 msgid "REPORT CRASH"
-msgstr "Отчет об ошибке"
+msgstr "ОТЧЕТ ОБ ОШИБКЕ"
 
 #. STRINGS.UI.CRASHSCREEN.REPORTING
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTING"
 msgid "REPORTING, PLEASE WAIT..."
-msgstr "Отправка, подождите..."
+msgstr "ОТПРАВКА, ПОЖАЛУЙСТА ПОДОЖДИТЕ..."
 
 #. STRINGS.UI.CRASHSCREEN.THANKYOU
 msgctxt "STRINGS.UI.CRASHSCREEN.THANKYOU"
@@ -11289,17 +11289,17 @@ msgstr "Упс! Мы сожалеем, но обнаружена неизвес�
 #. STRINGS.UI.CRASHSCREEN.UPLOADINFO
 msgctxt "STRINGS.UI.CRASHSCREEN.UPLOADINFO"
 msgid "UPLOAD ADDITIONAL INFO ({0})"
-msgstr "Загрузка дополнительной информации ({0})"
+msgstr "ЗАГРУЗКА ДОПОЛНИТЕЛЬНОЙ ИНФО ({0})"
 
 #. STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON
 msgctxt "STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON"
 msgid "CLOSE"
-msgstr "Закрыть"
+msgstr "ЗАКРЫТЬ"
 
 #. STRINGS.UI.CREDITSSCREEN.TITLE
 msgctxt "STRINGS.UI.CREDITSSCREEN.TITLE"
 msgid "CREDITS"
-msgstr "Авторы"
+msgstr "АВТОРЫ"
 
 #. STRINGS.UI.DELIVERED
 msgctxt "STRINGS.UI.DELIVERED"
@@ -11309,7 +11309,7 @@ msgstr "Доставленно: {0} {1}"
 #. STRINGS.UI.DEMOOVERSCREEN.DEMOOVER
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DEMOOVER"
 msgid "END OF DEMO"
-msgstr "Закончить демо версию"
+msgstr "ЗАКОНЧИТЬ ДЕМОВЕРСИЮ"
 
 #. STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION"
@@ -11324,7 +11324,7 @@ msgstr ""
 #. STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON"
 msgid "RESET"
-msgstr "Сбросить"
+msgstr "СБРОС"
 
 #. STRINGS.UI.DEMOOVERSCREEN.TIMEREMAINING
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMEREMAINING"
@@ -11344,17 +11344,17 @@ msgstr "Оставшееся демонстрационное время"
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS"
 msgid "CONTENTS"
-msgstr "Контент"
+msgstr "КОНТЕНТ"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS"
 msgid "DETAILS"
-msgstr "Детали"
+msgstr "ДЕТАЛИ"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS"
 msgid "CARRIED ITEMS"
-msgstr "Переносимые предметы"
+msgstr "ПЕРЕНОСИМЫЕ ПРЕДМЕТЫ"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NAME"
@@ -11394,17 +11394,17 @@ msgstr "Суммарная <style=\"power\">Электричества</style> �
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES"
 msgid "BATTERIES"
-msgstr "Батареи"
+msgstr "БАТАРЕИ"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CIRCUITOVERVIEW
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CIRCUITOVERVIEW"
 msgid "CIRCUIT OVERVIEW"
-msgstr "Обзор системы"
+msgstr "ОБЗОР СИСТЕМЫ"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CONSUMERS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CONSUMERS"
 msgid "POWER CONSUMERS"
-msgstr "Потребители электричества"
+msgstr "ПОТРЕБИТЕЛИ ЭЛЕКТРИЧЕСТВА"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.DISCONNECTED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.DISCONNECTED"
@@ -11414,7 +11414,7 @@ msgstr "Нет соединения с электрической сетью"
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.GENERATORS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.GENERATORS"
 msgid "POWER GENERATORS"
-msgstr "Генераторы электричества"
+msgstr "ГЕНЕРАТОРЫ ЭЛЕКТРИЧЕСТВА"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME"
@@ -11534,17 +11534,17 @@ msgstr "Этот Дупликант был оснащен <style=\"equipment\">{
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT"
 msgid "CARRIED ITEMS"
-msgstr "Переносимые предметы"
+msgstr "ПЕРЕНОСИМЫЕ ПРЕДМЕТЫ"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_OWNABLE
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_OWNABLE"
 msgid "EQUIPMENT"
-msgstr "Оснащение"
+msgstr "ОСНАЩЕНИЕ"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_ROOMS
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_ROOMS"
 msgid "ROOMS"
-msgstr "Комнаты"
+msgstr "КОМНАТЫ"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NAME"
@@ -11579,22 +11579,22 @@ msgstr "Этот Дупликант небыл назначен: {0}"
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_DESCRIPTION
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_DESCRIPTION"
 msgid "INFORMATION"
-msgstr "Информация"
+msgstr "ИНФОРМАЦИЯ"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_NEEDS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_NEEDS"
 msgid "NEEDS"
-msgstr "Нужды"
+msgstr "НУЖДЫ"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH"
 msgid "RESEARCH"
-msgstr "Исследования"
+msgstr "ИССЛЕДОВАНИЯ"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS"
 msgid "STATUS"
-msgstr "Статус"
+msgstr "СТАТУС"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME"
@@ -11609,12 +11609,12 @@ msgstr "Статус и базовая информация"
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES"
 msgid "ATTRIBUTES"
-msgstr "Характеристики"
+msgstr "ХАРАКТЕРИСТИКИ"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS"
 msgid "TRAITS"
-msgstr "Особенности"
+msgstr "ОСОБЕННОСТИ"
 
 #. STRINGS.UI.DETAILTABS.STATS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.STATS.NAME"
@@ -11649,7 +11649,7 @@ msgstr "Будь в курсе событий, присоединившийсь 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON"
 msgid "FORUMS"
-msgstr "Форум"
+msgstr "ФОРУМ"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER"
@@ -11659,7 +11659,7 @@ msgstr "DEVELOPMENT BUILD"
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST"
 msgid "MAILING LIST"
-msgstr "Рассылка"
+msgstr "РАССЫЛКА"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.BUILDWATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.BUILDWATERMARK"
@@ -11854,7 +11854,7 @@ msgstr "Передвинуть"
 #. STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
 msgid "DAILY REPORTS"
-msgstr "Ежедневный отчет"
+msgstr "ЕЖЕДНЕВНЫЙ ОТСЧЕТ"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME"
@@ -11919,7 +11919,7 @@ msgstr "{0}s"
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "Выполнено"
+msgstr "Выполненить"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE"
@@ -11939,7 +11939,7 @@ msgstr "Подтвердить"
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "Выполнено"
+msgstr "Выполненить"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN"
