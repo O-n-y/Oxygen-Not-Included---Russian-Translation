@@ -12238,8 +12238,8 @@ msgstr "Цельсий"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
-msgid "Change temperature unit to Celsius (�C)"
-msgstr "Отображать температуру в Цельсях (�C)"
+msgid "Change temperature unit to Celsius (°)"
+msgstr "Отображать температуру в Цельсях (°)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT"
@@ -12248,8 +12248,8 @@ msgstr "Фаренгейт"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
-msgid "Change temperature unit to Fahrenheit (�F)"
-msgstr "Отображать температуру в Фаренгейтах (�F)"
+msgid "Change temperature unit to Fahrenheit (°F)"
+msgstr "Отображать температуру в Фаренгейтах (°F)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN"
