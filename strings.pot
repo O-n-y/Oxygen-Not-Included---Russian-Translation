@@ -12002,12 +12002,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW"
 msgid "<b><color=#ff0000>Could not load file {0}. File is using build {1}. This build is {2}.</color></b>"
-msgstr "<b><color=#ff0000>Невозможно загрузить файл {0}. Файл использует версию {1}. Это версия {2}.</color></b>"
+msgstr "<b><color=#ff0000>Невозможно загрузить файл {0}. Файл использует версию {1}. Текущая версия {2}.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS"
 msgid "<b>File:</b> {0}\n\n<b>Save Date:</b>\n{1}\n\n<b>Base Name:</b> {2}\n<b>Duplicants Alive:</b> {3}\n<b>Cycles Survived:</b> {4}"
-msgstr "<b>Файл:</b> {0}\n\n<b>Время сохранения:</b>\n{1}\n\n<b>Название базы:</b> {2}\n<b>Живых Дупликантов:</b> {3}\n<b>Циклов прошло:</b> {4}"
+msgstr "<b>Файл:</b> {0}\n\n<b>Время сохранения:</b>\n{1}\n\n<b>Название Колонии:</b> {2}\n<b>Дупликантов Живо:</b> {3}\n<b>Циклов прошло:</b> {4}"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.TITLE"
