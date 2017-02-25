@@ -69,3 +69,4 @@ http://steamcommunity.com/id/oniki/
 * Mush bar - Мшистый батончик
 * Tile - Блок
 * Wire - Провод
+* Insulation - Теплоизоляция
