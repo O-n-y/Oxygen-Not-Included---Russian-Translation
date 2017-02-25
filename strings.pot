@@ -1849,7 +1849,7 @@ msgstr "Мост для труб, обеспечивающий соединен�
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.EFFECT"
 msgid "Runs one section of <style=\"LiquidPiping\">Liquid Pipe</style> overtop another without joining their systems.\n\nCannot be run through wall or floor tiles."
-msgstr ""
+msgstr "Позволяет проводить одну <style=\"LiquidPiping\">Трубу для Жидкости</style> над другой без соединения их систем.\n\nНе может быть проведено через блоки стен или пола."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME"
