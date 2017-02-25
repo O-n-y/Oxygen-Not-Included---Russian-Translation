@@ -1,35 +1,82 @@
 # Oxygen-Not-Included---Russian-Translation
-Russian translation for game Oxygen Not Included
 
-Если Вы хотите участвовать в переводе игры, пожалуйста, свяжитесь со мной в Стиме, чтобы взять разные части на перевод.
-
-http://steamcommunity.com/id/oniki/
+Русская локализация для игры "Oxygen Not Included"
 
 # Участники перевода
 *Участник \ Строки*
-* Ony - 0 по 2998
-* ShaTiK - 2999 по 3998
-* 1u3Bac: - 3999 по 4997
-* SealOfTheTime - 6999 по 9019
+* Ony:			~~0-1797~~,~~1798-2157~~, 2158-2998
+* ShaTiK		~~2999-3998~~, ~~9019-10019~~,~~12005-13003~~, ~~13004-14005~~
+* henko:		3999-4997
+* Honcharuk:		4998-6000
+* Cores:		~~6004-7000~~,~~10019-11093~~,~~14009-15004~~,~~15004-15293~~
+* SealOfTheTime:	~~6999-9019~~
+* Dr. RPgK:		~~11094-12004~~
+
+*зачеркнутый - переведенный*
+
+# Как получить номера строк для перевода
+Если Вы хотите участвовать в переводе игры, пожалуйста, свяжитесь со мной в Стиме, чтобы взять разные части на перевод.
+http://steamcommunity.com/id/oniki/
 
 
+# Как начать переводить
+* Заведите аккаунт на gitgub, активируйте его - подтвердите емайл
+* Сделайте Fork - проекта (кнопка справа вверху)
+* Откройте форкнутый проект (этот проект под Вашим аккаунтом - копия)
+* Поставьте программу https://desktop.github.com/
+* После того, как программа установлена и запущена: На странице форкнутого проекта нажмите "Clone or Download" -> Open in Desktop
+* Проект склонируется Вам на жесткий диск
 
-# Инструкции
+# Начало работы
+* Перед началом внесения очередных изменений всегда синхронизируйтесь (Sync в правом верхнем углу Github Desktop)
+* Внесите изменения в файл strings.pot
+* Откройте Github Desktop, убедитесь что выбрана ветка master (это фаша форкнутая копия основного проекта)
+* Вкладка "Changes" - будет содержать список ваших изменений
+* В "Summary" укажите номера измененных строк, например: 1000-2000
+* Нажмите "Commit to master"
+* Синхронизируйтесь (Sync в правом верхнем углу Github Desktop)
+* Нажмите "Pull request" (праввый верхний угол  Github Desktop)
+* Убедитесь что выбран пул из master в Ony master
+* В "Summary" укажите номера измененных строк, например: 1000-2000
+* Нажмите "Send pull request"
+* Синхронизируйтесь (Sync в правом верхнем углу Github Desktop)
 
-## Creating a Translation File
 
-    Open the Oxygen Not Included folder by right clicking on Oxygen Not Included in Steam, going to the Local Files tab and clicking Browse Local Files.
-    Open the mods folder which is located in "OxygenNotIncluded_Data/StreamingAssets/Mods"
-    Copy the "strings_template.pot" file and rename it "strings.po"
-    Fill in all lines that start with "msgstr"
+# Инструкции по файлу перевода (от разработчиков Oxygen Not Included)
 
-Note: you will need to not translate any words inside {} or <> brackets as those are specifically used by the game.
+## Создание файла перевода
+
+    Откройте папку Oxygen Not Included через правый клик мышки в свойставх игры в Steam, перейдите в локальные файлы и откройте их.
+	Откройте "mods" папку, которая расположена по пути "OxygenNotIncluded_Data/StreamingAssets/Mods"
+	Скопируйте "strings_template.pot" файл и переименуйте его в "strings.po"
+	Заполните строки между "" с названием "msgstr"
+
+Примечание: не нужно переводить любые слова в таких скобках {} или таких <>, потому что они используются игрой.
 
 
-## Using a Translation File
+## Использование файла перевода
 
-    Download a translation file.
-    Rename it to "strings.po" if need be.
-    Open the Oxygen Not Included folder by right clicking on Oxygen Not Included in Steam, going to the Local Files tab and clicking Browse Local Files.
-    Open the mods folder which is located in "OxygenNotIncluded_Data/StreamingAssets/Mods"
-    Copy the "strings.po" file into that folder.
+	Загрузите файл перевода.
+	Переименуйте его в "strings.po", если нужно.
+	Откройте папку Oxygen Not Included через правый клик мышки в свойставх игры в Steam, перейдите в локальные файлы и откройте их.
+	Откройте "mods" папку, которая расположена по пути "OxygenNotIncluded_Data/StreamingAssets/Mods"
+	Скопируйте загруженный "strings.po" файл в эту папку.
+
+
+# Базовые понятия
+* Duplicant - Дупликант
+* Power - Электричество
+* Mush bar - Мшистый батончик
+* Tile - Блок
+* Wire - Провод
+* Insulation - Теплоизоляция
+* Entombed - Завалено
+* Fleeing - Убегает
+* Idle - Бездейсвует
+* Building - Здание
+* Sweep - Перенести
+* Deliver - Доставка
+* Transporting - Транспортирует
+* Insulated Tile - Теплоизоляционный блок
+* Disease - Болезнь
+* Skill - Характеристика
