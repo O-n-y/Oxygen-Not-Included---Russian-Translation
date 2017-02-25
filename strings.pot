@@ -2079,7 +2079,7 @@ msgstr "Дупликанты не будут готовить, пока реце
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME"
 msgid "Crafting Station"
-msgstr "Ремесленный Станок"
+msgstr "Мульти-Верстак"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC"
@@ -2114,47 +2114,47 @@ msgstr "Коробка для Рассады"
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC"
 msgid "Is there anything more thrilling than the automation of manual processes?"
-msgstr ""
+msgstr "Есть что-нибудь более захватывающее, чем автоматизации ручных процессов?"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT"
 msgid "Creates an airtight seal that maintains atmosphere and pressure between areas.\n\nFunctions as a Manual Airlock when no <style=\"power\">Power</style> is available."
-msgstr ""
+msgstr "Создает герметичное уплотнение, которое поддерживает атмосферу и давление между областями.\n\nФункионирует в качестве Ручного Шлюза при отсутствии <style=\"power\">Электричества</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
 msgid "Mechanized Airlock"
-msgstr ""
+msgstr "Механизированный Шлюз"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
 msgid "Storing food in a box?\nSeems rational!"
-msgstr ""
+msgstr "Храните еду в коробке?\nЗвучит рационально!"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
 msgid "Stores a small amount of <style=\"food\">Food</style>."
-msgstr ""
+msgstr "Хранит небольшой объем <style=\"food\">Еды</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
 msgid "Ration Box"
-msgstr ""
+msgstr "Коробка для Рациона"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC"
 msgid "Spoil your Duplicants with this hi-tech, spoilage-free food box."
-msgstr ""
+msgstr "Позволяет сохранять Еду, чтобы не портилась. Требует подключения к электрической сети."
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT"
 msgid "Drastically increases the shelf life of <style=\"food\">Food</style> by storing it at an ideal <style=\"heat\">Temperature</style>."
-msgstr ""
+msgstr "Существенно увеличивает срок жизни <style=\"food\">Еды</style> путем хранения при идеальной <style=\"heat\">Температуре</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME"
 msgid "Refrigerator"
-msgstr ""
+msgstr "Холодильник"
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC"
