@@ -75,3 +75,5 @@ http://steamcommunity.com/id/oniki/
 * Idle - Бездейсвует
 * Building - Здание
 * Sweep - Перенести
+* Deliver - Доставка
+* Transporting - Транспортирует
