@@ -73,3 +73,5 @@ http://steamcommunity.com/id/oniki/
 * Entombed - Завалено
 * Fleeing - Убегает
 * Idle - Бездейсвует
+* Building - Здание
+* Sweep - Перенести
