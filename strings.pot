@@ -15042,32 +15042,32 @@ msgstr "Перемешиваем вакуум..."
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM"
 msgid "Catalyzing Big Bang..."
-msgstr "Поджигаем Большой Взрыв"
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1"
 msgid "Catalyzing Big Bang..."
-msgstr "Поджигаем Большой Взрыв"
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2"
 msgid "Catalyzing Big Bang..."
-msgstr "Поджигаем Большой Взрыв"
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3"
 msgid "Catalyzing Big Bang..."
-msgstr "Поджигаем Большой Взрыв"
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4"
 msgid "Catalyzing Big Bang..."
-msgstr "Поджигаем Большой Взрыв"
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5"
 msgid "Catalyzing Big Bang..."
-msgstr "Поджигаем Большой Взрыв"
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6"
@@ -15117,17 +15117,17 @@ msgstr "Наращиваем беспокойство..."
 #. STRINGS.UI.WORLDGEN.PROCESSING
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING"
 msgid "Embedding metals..."
-msgstr "Заглубляем металлы..."
+msgstr "Встраиваем Металлы..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING1
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING1"
 msgid "Embedding metals..."
-msgstr "Заглубляем металлы..."
+msgstr "Встраиваем Металлы..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING2
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING2"
 msgid "Embedding metals..."
-msgstr "Заглубляем металлы..."
+msgstr "Встраиваем Металлы..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING3
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING3"
@@ -15222,12 +15222,12 @@ msgstr "Выращиваем космо-флору..."
 #. STRINGS.UI.WORLDGEN.SETTLESIM8
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM8"
 msgid "Releasing wildlife..."
-msgstr "Освобождаем живность..."
+msgstr "Наполняем Мир Живностью..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM9
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM9"
 msgid "Releasing wildlife..."
-msgstr "Освобождаем живность..."
+msgstr "Наполняем Мир Живностью..."
 
 #. STRINGS.UI.WORLDGEN.SETUPNOISE
 msgctxt "STRINGS.UI.WORLDGEN.SETUPNOISE"
@@ -15237,12 +15237,12 @@ msgstr "БУМ!"
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT"
 msgid "Freezing ice formations..."
-msgstr "Перемораживаем лед..."
+msgstr "Готовим Формации Льда..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT1"
 msgid "Freezing ice formations..."
-msgstr "Перемораживаем лед..."
+msgstr "Готовим Формации Льда..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT10"
@@ -15252,12 +15252,12 @@ msgstr "Орошаем песок..."
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT2"
 msgid "Freezing ice formations..."
-msgstr "Перемораживаем лед..."
+msgstr "Готовим Формации Льда..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT3
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT3"
 msgid "Freezing ice formations..."
-msgstr "Перемораживаем лед..."
+msgstr "Готовим Формации Льда..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT4"
