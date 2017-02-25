@@ -12239,7 +12239,7 @@ msgstr "Цельсий"
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
 msgid "Change temperature unit to Celsius (�C)"
-msgstr "Изменить отображение температуры на Цельсий (�C)"
+msgstr "Отображать температуру в Цельсях (�C)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT"
@@ -12249,7 +12249,7 @@ msgstr "Фаренгейт"
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
 msgid "Change temperature unit to Fahrenheit (�F)"
-msgstr "Изменить отображение температуры на Фаренгейт (�F)"
+msgstr "Отображать температуру в Фаренгейтах (�F)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN"
@@ -12259,7 +12259,7 @@ msgstr "Кельвин"
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP"
 msgid "Change temperature unit to Kelvin (K)"
-msgstr "Изменить отображение температуры на Кельвин (K)"
+msgstr "Отображать температуру в Кельвинах (K)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE"
@@ -12279,7 +12279,7 @@ msgstr "ЗАГРУЗКА МИРА..."
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT"
 msgid "A new world is about to be created. Please select its size."
-msgstr "Новый мир готов к созданию. Укажите его размер."
+msgstr "Новый мир готов к созданию. Выберите размер мира."
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE"
@@ -12324,7 +12324,7 @@ msgstr "Прощение"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FRIEDMUSHBARREMOVESDISEASE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FRIEDMUSHBARREMOVESDISEASE"
 msgid "Removes <style=\"disease\">Disease</style> chance from <style=\"food\">Mush Bar</style>"
-msgstr "Удаляет шанс <style=\"disease\">Болезни</style> с <style=\"food\">Мшистого Батончика</style>"
+msgstr "Удаляет вероятность заразиться <style=\"disease\">Болезнью</style> после употребления <style=\"food\">Мшистого Батончика</style>"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.BACK"
@@ -12349,7 +12349,7 @@ msgstr "Отказаться от Дупликантов?"
 #. STRINGS.UI.IMMIGRANTSCREEN.EMBARK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.EMBARK"
 msgid "EMBARK"
-msgstr "ВПЕРЕД!"
+msgstr "ПОЕХАЛИ!"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE"
@@ -12499,7 +12499,7 @@ msgstr "Карта электрической сети"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1"
 msgid "<b>BUILDING POWER</b>"
-msgstr "<b>ЭЛЕКТРИЧЕСТВО ЗДАНИЯ</b>"
+msgstr "<b>ИНФОРМАЦИЯ О ЗДАНИЯХ</b>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2"
@@ -12514,12 +12514,12 @@ msgstr "Производитель"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4"
 msgid "<b>CIRCUIT POWER</b>"
-msgstr "<b>ЭЛЕКТРИЧЕСТВО СЕТИ</b>"
+msgstr "<b>ИНФОРМАЦИЯ О СЕТИ</b>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5"
 msgid "Stable"
-msgstr "Стабилен"
+msgstr "Стабильна"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6"
@@ -12529,7 +12529,7 @@ msgstr "Под нагрузкой"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
 msgid "Broken"
-msgstr "Сломан"
+msgstr "Сломана"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.NAME"
@@ -12539,7 +12539,7 @@ msgstr "КАРТА ЭЛЕКТРИЧЕСКОЙ СЕТИ"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
 msgid "Uses <style=\"power\">Power</style> from circuit"
-msgstr "Берет <style=\"power\">Электричество</style> из сети"
+msgstr "Получает <style=\"power\">Электричество</style> из сети"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3"
@@ -12554,7 +12554,7 @@ msgstr "Оптимальное использование <style=\"power\">Эл�
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6"
 msgid "Requires more <style=\"power\">Power</style>"
-msgstr "Требует больше <style=\"power\">Электричества</style>"
+msgstr "Требуется больше <style=\"power\">Электричества</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7"
@@ -12604,17 +12604,17 @@ msgstr "Соединено"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONSUMER"
 msgid "Output"
-msgstr "Вывод"
+msgstr "Канал вывода"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "Intake via pipes"
-msgstr "Точка забора через трубы"
+msgstr "Газ приходит из трубы"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW"
 msgid "Gas flows from Output"
-msgstr "Газ выходит через Вывод"
+msgstr "Газ движется из канала вывода"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DISCONNECTED"
@@ -12624,7 +12624,7 @@ msgstr "Отсоединено"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.FILTERED"
 msgid "Filtered Output"
-msgstr "Отфильтрованный Вывод"
+msgstr "Отфильтрованный канал вывода"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NAME"
@@ -12639,7 +12639,7 @@ msgstr "Газопровод {0}"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.PRODUCER"
 msgid "Intake"
-msgstr "Точка забора"
+msgstr "Канал ввода"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED"
@@ -12649,7 +12649,7 @@ msgstr "Подключено к <style=\"GasPiping\">Газопроводной 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER"
 msgid "Point where a building sends gas into pipes\n* Must be connected to a <style=\"GasDestination\">Destination</style>"
-msgstr "Точка, где здание отправляет газ в трубы\n* Должна быть подключена к <style=\"GasDestination\">Получателю</style>"
+msgstr "Точка, в которой здание отправляет газ в трубы\n* Должно быть соединено с <style=\"GasDestination\">Получателем</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED"
@@ -12664,7 +12664,7 @@ msgstr "Газопровод {0}"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.PRODUCER"
 msgid "Point where a building receives gas from pipes\n* Must be connected to a <style=\"GasSource\">Source</style>"
-msgstr "Точка, где здание получает газ из труб\n* Должна быть подключена к <style=\"GasSource\">Источнику</style>"
+msgstr "Точка, в которой здание получает газ из труб\n* Должно быть соединено с <style=\"GasSource\">Источником</style>"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.BUTTON"
@@ -12714,17 +12714,17 @@ msgstr "Соединено"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONSUMER"
 msgid "Output"
-msgstr "Вывод"
+msgstr "Канал вывода"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "Intake via pipes"
-msgstr "Точка забора через трубы"
+msgstr "Вода приходит из трубы"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW"
 msgid "Liquid flows from Output"
-msgstr "Жидкости вытекают из Вывода"
+msgstr "Жидкости текут из канала вывода"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DISCONNECTED"
@@ -12734,7 +12734,7 @@ msgstr "Отсоединено"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.FILTERED"
 msgid "Filtered Output"
-msgstr "Отфильтрованный Вывод"
+msgstr "Отфильтрованный канал вывода"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.NAME"
@@ -12749,7 +12749,7 @@ msgstr "Водопровод {0}"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.PRODUCER"
 msgid "Intake"
-msgstr "Точка забора"
+msgstr "Канал ввода"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED"
@@ -12759,7 +12759,7 @@ msgstr "Подключено к <style=\"LiquidPiping\">Водопроводно
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER"
 msgid "Point where a building sends liquid into pipes\n* Must be connected to a <style=\"LiquidDestination\">Destination</style>"
-msgstr ""
+msgstr "Точка, в которой здание отправляет жидкости в трубы\n* Должно быть соединено с <style=\"GasDestination\">Получателем</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED"
@@ -12769,7 +12769,7 @@ msgstr "Не подключено к <style=\"LiquidPiping\">Водопрово�
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED"
 msgid "Point where a building sends one filtered liquid into pipes\n* Must be connected to a <style=\"LiquidDestination\">Intake</style>"
-msgstr "Точка, где здание посылает одну отфильтрованную жидкость в трубы\n* Должна быть соединена с <style=\"LiquidDestination\">Точкой забора</style>"
+msgstr "Точка, где здание посылает одну из отфильтрованных жидкостей в трубы\n* Должно быть соединено с <style=\"LiquidDestination\">Каналом ввода</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK"
@@ -12779,7 +12779,7 @@ msgstr "Водопровод {0}"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.PRODUCER"
 msgid "Point where a building receives liquid from pipes\n* Must be connected to a <style=\"LiquidSource\">Output</style>"
-msgstr "Точка, где здание получает жидкость из труб\n* Должна быть соединена с <style=\"LiquidSource\">Выводом</style>"
+msgstr "Точка, где здание получает жидкость из труб\n* Должно быть соединено с <style=\"LiquidSource\">Каналом вывода</style>"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.BUTTON"
@@ -12894,7 +12894,7 @@ msgstr "КАРТА ПРИОРИТЕТОВ"
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE"
 msgid "Priority 9 (Highest)"
-msgstr "Приоритет 9 (Наивысший)"
+msgstr "Приоритет 9 (Самый высокий)"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP"
@@ -12904,7 +12904,7 @@ msgstr "Приоритет 9"
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE"
 msgid "Priority 1 (Lowest)"
-msgstr "Приоритет 1 (Низший)"
+msgstr "Приоритет 1 (Самый низкий)"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP"
@@ -12984,7 +12984,7 @@ msgstr "Готовых спален Дупликантов"
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON"
 msgid "Exosuit Overlay"
-msgstr "Карта Экзокостюм"
+msgstr "Карта Экзокостюмов"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.NAME"
@@ -13089,17 +13089,17 @@ msgstr "+{0}"
 #. STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP"
 msgid "Set construction priority level\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr "Задайте приоритет строительства уровень1\n------------------\nПриоритет 1: Низший\nПриоритет 9: Наивысший"
+msgstr "Задайте приоритет строительства уровень1\n------------------\nПриоритет 1: Самый низкий\nПриоритет 9: Самый высокий"
 
 #. STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP"
 msgid "Set priority level for the currently selected tool\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr "Задайте приоритет для выбранного действия\n------------------\nПриоритет 1: Низший\nПриоритет 9: Наивысший"
+msgstr "Задайте приоритет для выбранного действия\n------------------\nПриоритет 1: Самый низкий\nПриоритет 9: Самый высокий"
 
 #. STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP"
 msgid "Set priority level for the currently selected object\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr "Задайте приоритет для выбранного объекта1\n------------------\nПриоритет 1: Низший\nПриоритет 9: Наивысший"
+msgstr "Задайте приоритет для выбранного объекта1\n------------------\nПриоритет 1: Самый низкий\nПриоритет 9: Самый высокий"
 
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
 msgctxt "STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES"
@@ -13179,7 +13179,7 @@ msgstr "РАСПИСАНИЕ"
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION"
 msgid "EAT:\nDuring Mealtime Duplicants will head to their assigned mess halls and eat."
-msgstr "ОБЕД:\nВо время обеденного перерыва Дуплканты отправляются есть за назначенными обеденными столами."
+msgstr "ОБЕД:\nВо время обеденного перерыва Дуплканты отправляются есть за заданный им обеденный стол."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME"
@@ -13189,7 +13189,7 @@ msgstr "Обедает"
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION"
 msgid "HYGIENE:\nDuring <style=\"hygiene\">Hygiene</style> hours Duplicants will head to their assigned washrooms to get cleaned up."
-msgstr "ГИГЕНА:\nВо время часов, отведенных на <style=\"hygiene\">Гигиену</style> Дупликанты приводят себя в порядок в назначенных им туалетных комнатах."
+msgstr "ГИГЕНА:\nВо время часов, отведенных на <style=\"hygiene\">Гигиену</style> Дупликанты приводят себя в порядок в заданных им туалетных комнатах."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME"
