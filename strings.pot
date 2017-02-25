@@ -10054,12 +10054,12 @@ msgstr "Окружающее депозит <style=\"solid\">Оксилита</s
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME"
 msgid "Sweep pending"
-msgstr "Ожидает переноски"
+msgstr "Ожидает уборки"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP"
 msgid "Awaiting a Duplicant to sweep"
-msgstr "Ожидает Дупликанта для переноски"
+msgstr "Ожидает Дупликанта для уборки"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
@@ -13449,17 +13449,17 @@ msgstr "Назад"
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME"
 msgid "Sweep"
-msgstr "Уборка мусора"
+msgstr "Уборка"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION"
 msgid "DRAG TO SWEEP"
-msgstr "ВЫДЕЛИТЕ, ЧТОБЫ УБРАТЬ МУСОР"
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ УБРАТЬ"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLNAME"
 msgid "Sweep tool"
-msgstr "Инструмент Уборка мусора"
+msgstr "Инструмент Уборки"
 
 #. STRINGS.UI.TOOLS.MOP.NAME
 msgctxt "STRINGS.UI.TOOLS.MOP.NAME"
@@ -14279,12 +14279,12 @@ msgstr "Добавить или убрать этот материал из хр
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTON"
 msgid "Sweep Only"
-msgstr "Только для Переноски"
+msgstr "Только для Уборки"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTONTOOLTIP"
 msgid "If enabled, only objects marked for sweeping will be stored here"
-msgstr "Если включено, то только объекты отмеченные для подбора будут храниться здесь"
+msgstr "Если включено, то только объекты отмеченные для уборки будут храниться здесь"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE"
@@ -14479,12 +14479,12 @@ msgstr "Убрать стоки из данного санузла"
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.NAME"
 msgid "Sweep"
-msgstr "Перенести"
+msgstr "Убрать"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.NAME_OFF"
 msgid "Cancel Sweeping"
-msgstr "Отменить Переноску"
+msgstr "Отменить Уборку"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP"
@@ -14494,7 +14494,7 @@ msgstr "Отнести этот объект в хранилище"
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP_OFF"
 msgid "Cancel this sweep order"
-msgstr "Отменить этот приказ на Перенос"
+msgstr "Отменить этот приказ на Уборку"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME"

@@ -74,7 +74,7 @@ http://steamcommunity.com/id/oniki/
 * Fleeing - Убегает
 * Idle - Бездейсвует
 * Building - Здание
-* Sweep - Перенести
+* Sweep - Убрать
 * Deliver - Доставка
 * Transporting - Транспортирует
 * Insulated Tile - Теплоизоляционный блок
