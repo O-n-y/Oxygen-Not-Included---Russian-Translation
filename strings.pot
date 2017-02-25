@@ -15004,102 +15004,102 @@ msgstr "Седиментируем осадочные породы..."
 #. STRINGS.UI.WORLDGEN.GENERATENOISE2
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE2"
 msgid "Multilayering sediment..."
-msgstr ""
+msgstr "Седиментируем осадочные породы..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE3
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE3"
 msgid "Multilayering sediment..."
-msgstr ""
+msgstr "Седиментируем осадочные породы..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE4
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE4"
 msgid "Superheating gases..."
-msgstr ""
+msgstr "Ионизируем газы..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE5
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE5"
 msgid "Superheating gases..."
-msgstr ""
+msgstr "Ионизируем газы..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE6"
 msgid "Superheating gases..."
-msgstr ""
+msgstr "Ионизируем газы..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE7
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE7"
 msgid "Vacuuming out vacuums..."
-msgstr ""
+msgstr "Перемешиваем вакуум..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE8
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE8"
 msgid "Vacuuming out vacuums..."
-msgstr ""
+msgstr "Перемешиваем вакуум..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE9
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE9"
 msgid "Vacuuming out vacuums..."
-msgstr ""
+msgstr "Перемешиваем вакуум..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Создаем Катализатор для Большого Взрыва!"
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6"
 msgid "Approaching event horizon..."
-msgstr ""
+msgstr "Подходим к горизонту событий..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM7
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM7"
 msgid "Approaching event horizon..."
-msgstr ""
+msgstr "Подходим к горизонту событий..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM8
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM8"
 msgid "Approaching event horizon..."
-msgstr ""
+msgstr "Подходим к горизонту событий..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM9
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM9"
 msgid "Approaching event horizon..."
-msgstr ""
+msgstr "Подходим к горизонту событий..."
 
 #. STRINGS.UI.WORLDGEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.GENERATINGWORLD"
 msgid "The Galaxy Synthesizer"
-msgstr ""
+msgstr "Синтезатор Галактики"
 
 #. STRINGS.UI.WORLDGEN.LOADING
 msgctxt "STRINGS.UI.WORLDGEN.LOADING"
 msgid "Loading world..."
-msgstr ""
+msgstr "Загружаем мир..."
 
 #. STRINGS.UI.WORLDGEN.NOHEADERS
 msgctxt "STRINGS.UI.WORLDGEN.NOHEADERS"
@@ -15109,27 +15109,27 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.NORMALISENOISE
 msgctxt "STRINGS.UI.WORLDGEN.NORMALISENOISE"
 msgid "Interpolating toxic gas..."
-msgstr ""
+msgstr "Интерполируем токсичные газы..."
 
 #. STRINGS.UI.WORLDGEN.PLACINGCREATURES
 msgctxt "STRINGS.UI.WORLDGEN.PLACINGCREATURES"
 msgid "Building the suspense..."
-msgstr ""
+msgstr "Наращиваем беспокойство..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING"
 msgid "Embedding metals..."
-msgstr ""
+msgstr "Встраиваем Металлы..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING1
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING1"
 msgid "Embedding metals..."
-msgstr ""
+msgstr "Встраиваем Металлы..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING2
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING2"
 msgid "Embedding metals..."
-msgstr ""
+msgstr "Встраиваем Металлы..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING3
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING3"
@@ -15139,154 +15139,154 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.PROCESSING4
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING4"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Прячем драгоценные руды..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING5
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING5"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Прячем драгоценные руды..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING6
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING6"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Прячем драгоценные руды..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING7
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING7"
 msgid "Excavating tunnels..."
-msgstr ""
+msgstr "Роем туннели..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING8
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING8"
 msgid "Excavating tunnels..."
-msgstr ""
+msgstr "Роем туннели..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING9
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING9"
 msgid "Excavating tunnels..."
-msgstr ""
+msgstr "Роем туннели..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSRIVERS
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSRIVERS"
 msgid "Pouring rivers..."
-msgstr ""
+msgstr "Разливаем реки..."
 
 #. STRINGS.UI.WORLDGEN.RESTARTING
 msgctxt "STRINGS.UI.WORLDGEN.RESTARTING"
 msgid "Rebooting..."
-msgstr ""
+msgstr "Перезагружаемся..."
 
 #. STRINGS.UI.WORLDGEN.RETRYCOUNT
 msgctxt "STRINGS.UI.WORLDGEN.RETRYCOUNT"
 msgid "Oh dear, let's try that again."
-msgstr ""
+msgstr "О, дорогой, давай попробуем это снова."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM"
 msgid "Infusing oxygen..."
-msgstr ""
+msgstr "Впрыскиваем кислород..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM1
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM1"
 msgid "Infusing oxygen..."
-msgstr ""
+msgstr "Впрыскиваем кислород..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM2
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM2"
 msgid "Too much oxygen. Removing..."
-msgstr ""
+msgstr "Слишком много кислорода. Убираем..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM3
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM3"
 msgid "Too much oxygen. Removing..."
-msgstr ""
+msgstr "Слишком много кислорода. Убираем..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM4
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM4"
 msgid "Ideal oxygen levels achieved..."
-msgstr ""
+msgstr "Идеальный уровень кислорода достигнут..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM5
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM5"
 msgid "Ideal oxygen levels achieved..."
-msgstr ""
+msgstr "Идеальный уровень кислорода достигнут..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM6
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM6"
 msgid "Planting space flora..."
-msgstr ""
+msgstr "Выращиваем космо-флору..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM7
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM7"
 msgid "Planting space flora..."
-msgstr ""
+msgstr "Выращиваем космо-флору..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM8
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM8"
 msgid "Releasing wildlife..."
-msgstr ""
+msgstr "Наполняем Мир Живностью..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM9
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM9"
 msgid "Releasing wildlife..."
-msgstr ""
+msgstr "Наполняем Мир Живностью..."
 
 #. STRINGS.UI.WORLDGEN.SETUPNOISE
 msgctxt "STRINGS.UI.WORLDGEN.SETUPNOISE"
 msgid "BANG!"
-msgstr ""
+msgstr "БУМ!"
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Готовим Формации Льда..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT1"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Готовим Формации Льда..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT10"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Орошаем песок..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT2"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Готовим Формации Льда..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT3
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT3"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Готовим Формации Льда..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT4"
 msgid "Melting magma..."
-msgstr ""
+msgstr "Расплавляем магму..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT5
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT5"
 msgid "Melting magma..."
-msgstr ""
+msgstr "Расплавляем магму..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT6
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT6"
 msgid "Melting magma..."
-msgstr ""
+msgstr "Расплавляем магму..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT7"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Орошаем песок..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT8
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT8"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Орошаем песок..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT9
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Орошаем песок..."
