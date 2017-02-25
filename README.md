@@ -70,3 +70,6 @@ http://steamcommunity.com/id/oniki/
 * Tile - Блок
 * Wire - Провод
 * Insulation - Теплоизоляция
+* Entombed - Завалено
+* Fleeing - Убегает
+* Idle - Бездейсвует
