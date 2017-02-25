@@ -77,3 +77,4 @@ http://steamcommunity.com/id/oniki/
 * Sweep - Перенести
 * Deliver - Доставка
 * Transporting - Транспортирует
+* Insulated Tile - Теплоизоляционный блок
