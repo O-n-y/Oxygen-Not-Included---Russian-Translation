@@ -12499,7 +12499,7 @@ msgstr "Карта электрической сети"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1"
 msgid "<b>BUILDING POWER</b>"
-msgstr "<b>ИНФОРМАЦИЯ О ЗДАНИЯХ</b>"
+msgstr "<b>ИНФОРМАЦИЯ ОБ ЭЛЕКТРИЧЕСТВЕ</b>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2"
