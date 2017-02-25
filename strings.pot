@@ -14007,942 +14007,942 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS"
 msgid "Filtered Gas Output:\n{0}"
-msgstr ""
+msgstr "Выход очищенного газа:\n{0}"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.LIQUID
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.LIQUID"
 msgid "Filtered Liquid Output:\n{0}"
-msgstr ""
+msgstr "Выход очищенной жидкости:\n{0}"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.NOELEMENTSELECTED
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.NOELEMENTSELECTED"
 msgid "No element selected"
-msgstr ""
+msgstr "Не выбран элемент"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.SELECTELEMENTHEADER
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.SELECTELEMENTHEADER"
 msgid "Select Element"
-msgstr ""
+msgstr "Выберите элемент"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.TITLE"
 msgid "Filter Outputs"
-msgstr ""
+msgstr "Фильтр вывода"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.UNFILTEREDELEMENTS.GAS
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.UNFILTEREDELEMENTS.GAS"
 msgid "Gas Output:\nAll"
-msgstr ""
+msgstr "Вывод газа:\nЛюбой"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.UNFILTEREDELEMENTS.LIQUID
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.UNFILTEREDELEMENTS.LIQUID"
 msgid "Liquid Output:\nAll"
-msgstr ""
+msgstr "Вывод жидкости:\nЛюбая"
 
 #. STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.CURRENT_THRESHOLD
 msgctxt "STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.CURRENT_THRESHOLD"
 msgid "Current Threshold: {0}%"
-msgstr ""
+msgstr "Текущий порог: {0}%"
 
 #. STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.TITLE"
 msgid "Battery Threshold"
-msgstr ""
+msgstr "Порог батареи"
 
 #. STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.MANUALGENERATORSIDESCREEN.TOOLTIP"
 msgid "Adjust how much wattage batteries should use before reactivating this generator"
-msgstr ""
+msgstr "Укажите сколько батарея должна израсходовать электричества перед включением генератора"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.GROWTHTIME
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.GROWTHTIME"
 msgid "Growth: {0}"
-msgstr ""
+msgstr "Рост: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.INITIALGROWTHTIME"
 msgid "Initial Growth: {0}"
-msgstr ""
+msgstr "Начальный рост: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NUMBEROFHARVESTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NUMBEROFHARVESTS"
 msgid "Max Harvests: {0}"
-msgstr ""
+msgstr "Плодоносит: {0} раз(-а)"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTEFFECTS"
 msgid "<b>Effects</b>:\n"
-msgstr ""
+msgstr "<b>Эффекты</b>:\n"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTREQUIREMENTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTREQUIREMENTS"
 msgid "<b>Requirements</b>:\n"
-msgstr ""
+msgstr "<b>Требования</b>:\n"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.REGROWTHTIME
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.REGROWTHTIME"
 msgid "Regrowth: {0}"
-msgstr ""
+msgstr "Отрастание: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.REQUIRESFERTILIZER"
 msgid "<style=\"solid\">Fertilizer</style>"
-msgstr ""
+msgstr "<style=\"solid\">Удобрение</style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_DESC"
 msgid "Select a seed to plant"
-msgstr ""
+msgstr "Укажите семя для посадки"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_TITLE"
 msgid "Select seed"
-msgstr ""
+msgstr "Выбор семени"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOTALHARVESTCALORIES
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOTALHARVESTCALORIES"
 msgid "<style=\"produced\">{0}</style>"
-msgstr ""
+msgstr "<style=\"produced\">{0}</style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOTALHARVESTCALORIESWITHPERUNIT
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOTALHARVESTCALORIESWITHPERUNIT"
 msgid "<style=\"produced\">{0}</style> (<style=\"produced\">{1}</style> per unit)"
-msgstr ""
+msgstr "<style=\"produced\">{0}</style> (<style=\"produced\">{1}</style> за единицу)"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD"
 msgid "Yield: {0} <style=\"food\">{1}</style>"
-msgstr ""
+msgstr "Урожайность: {0} <style=\"food\">{1}</style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELDPERHARVEST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELDPERHARVEST"
 msgid "Yield: {0} <style=\"food\">{1}</style> per harvest"
-msgstr ""
+msgstr "Урожайность: {0} <style=\"food\">{1}</style> за сбор"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.NOSELECTEDRESEARCH
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.NOSELECTEDRESEARCH"
 msgid "NO RESEARCH SELECTED"
-msgstr ""
+msgstr "ИССЛЕДОВАНИЕ НЕ ВЫБРАНО"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON"
 msgid "Open Research"
-msgstr ""
+msgstr "Откройте Исследования"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE"
 msgid "Research Station"
-msgstr ""
+msgstr "Станция Исседований"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGDELIVERY
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGDELIVERY"
 msgid "AWAITING DELIVERY: {0}"
-msgstr ""
+msgstr "ОЖИДАЕТ ДОСТАВКИ: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGREMOVAL
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGREMOVAL"
 msgid "AWAITING DIGGING UP: {0}"
-msgstr ""
+msgstr "ОЖИДАНИЕ ВЫКАПЫВАНИЯ: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGREQUEST
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGREQUEST"
 msgid "PLANT: {0}"
-msgstr ""
+msgstr "ВЫСАДИТЬ: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.ENTITYDEPOSITED
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.ENTITYDEPOSITED"
 msgid "PLANTED: {0}"
-msgstr ""
+msgstr "ВЫСАЖЕНО: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.INFORMATION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "ИНФОРМАЦИЯ"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.TITLE"
 msgid "{0} Seeds"
-msgstr ""
+msgstr "{0} Семян"
 
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.GAMEOVER
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.GAMEOVER"
 msgid "Colony Lost"
-msgstr ""
+msgstr "Колониия потеряна"
 
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.NEXTPRODUCTION
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.NEXTPRODUCTION"
 msgid "Next Production: {0}"
-msgstr ""
+msgstr "Следующая печать через: {0} секунд"
 
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.TITLE"
 msgid "Duplicant Printing"
-msgstr ""
+msgstr "Печать Дупликанта"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.ACTIVATEIF
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.ACTIVATEIF"
 msgid "Activate if:"
-msgstr ""
+msgstr "Активировать, если:"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.COLDERBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.COLDERBUTTON"
 msgid "Colder than"
-msgstr ""
+msgstr "Холоднее чем"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.CURRENTTEMPERATURE
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.CURRENTTEMPERATURE"
 msgid "Current Temperature:\n{0}"
-msgstr ""
+msgstr "Текущая температура:\n{0}"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.TITLE"
 msgid "Temperature Power Switch"
-msgstr ""
+msgstr "Переключатель с датчиком температуры"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.WARMERBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.WARMERBUTTON"
 msgid "Warmer than"
-msgstr ""
+msgstr "Теплее чем"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.WARNING
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.WARNING"
 msgid "Thermo Switches must be connected to a <style=\"power\">Power</style> grid"
-msgstr ""
+msgstr "Термо-датчик должен быть присоединен к <style=\"power\">Электрической</style> сети"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.CURRENTSTATE
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.CURRENTSTATE"
 msgid "Current State:"
-msgstr ""
+msgstr "Текущее состояние:"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.OFF
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.OFF"
 msgid "Off"
-msgstr ""
+msgstr "Выкл"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.OFFTIME
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.OFFTIME"
 msgid "Off Time:"
-msgstr ""
+msgstr "Время выключения:"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ON
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ON"
 msgid "On"
-msgstr ""
+msgstr "Вкл"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ONTIME
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ONTIME"
 msgid "On Time:"
-msgstr ""
+msgstr "Время включения:"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.TIMETOACTIVATE
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.TIMETOACTIVATE"
 msgid "Time until activation: {0}"
-msgstr ""
+msgstr "Время до активации: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.TIMETODEACTIVATE
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.TIMETODEACTIVATE"
 msgid "Time until deactivation: {0}"
-msgstr ""
+msgstr "Время до отключения: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.TITLE"
 msgid "Timed Power Switch"
-msgstr ""
+msgstr "Переключатель с таймером"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.WARNING
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.WARNING"
 msgid "Timed Switches need to be connected to work"
-msgstr ""
+msgstr "Переключатель должен быть подсоединенным для работы"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON"
 msgid "All"
-msgstr ""
+msgstr "Всё"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP"
 msgid "Store all materials in this storage"
-msgstr ""
+msgstr "Хранить все материалы в данном хранилище"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP"
 msgid "Allow {0} materials to be stored here"
-msgstr ""
+msgstr "Разрешить хранить {0} здесь"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.MATERIALBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.MATERIALBUTTONTOOLTIP"
 msgid "Add or remove this material from storage"
-msgstr ""
+msgstr "Добавить или убрать этот материал из хранилища"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTON"
 msgid "Sweep Only"
-msgstr ""
+msgstr "Только подобранные"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTONTOOLTIP"
 msgid "If enabled, only objects marked for sweeping will be stored here"
-msgstr ""
+msgstr "Если включено, то только объекты отмеченные для подбора будут храниться здесь"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE"
 msgid "Element Filter"
-msgstr ""
+msgstr "Фильтр элементов"
 
 #. STRINGS.UI.UISIDESCREENS.VALVESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.VALVESIDESCREEN.TITLE"
 msgid "Flow Control"
-msgstr ""
+msgstr "Управление потоком"
 
 #. STRINGS.UI.UNITSUFFIXES.CALORIES.CALORIE
 msgctxt "STRINGS.UI.UNITSUFFIXES.CALORIES.CALORIE"
 msgid " cal"
-msgstr ""
+msgstr " кал"
 
 #. STRINGS.UI.UNITSUFFIXES.CALORIES.KILOCALORIE
 msgctxt "STRINGS.UI.UNITSUFFIXES.CALORIES.KILOCALORIE"
 msgid " kcal"
-msgstr ""
+msgstr "ккал"
 
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.JOULE
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.JOULE"
 msgid " J"
-msgstr ""
+msgstr " Дж"
 
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.KILOJOULE
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.KILOJOULE"
 msgid " kJ"
-msgstr ""
+msgstr " кДж"
 
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.KILOWATT
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.KILOWATT"
 msgid " kW"
-msgstr ""
+msgstr " кВт"
 
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.WATT
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.WATT"
 msgid " W"
-msgstr ""
+msgstr " Вт"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.DRACHMA
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.DRACHMA"
 msgid " dr"
-msgstr ""
+msgstr " драхм"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.GRAIN
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.GRAIN"
 msgid " gr"
-msgstr ""
+msgstr " гран"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.GRAM
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.GRAM"
 msgid " g"
-msgstr ""
+msgstr " г"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.KILOGRAM
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.KILOGRAM"
 msgid " Kg"
-msgstr ""
+msgstr " Кг"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.MICROGRAM
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.MICROGRAM"
 msgid " mcg"
-msgstr ""
+msgstr " мкг"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.MILLIGRAM
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.MILLIGRAM"
 msgid " mg"
-msgstr ""
+msgstr " мг"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.POUND
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.POUND"
 msgid " lb"
-msgstr ""
+msgstr " фунт"
 
 #. STRINGS.UI.UNITSUFFIXES.PERCYCLE
 msgctxt "STRINGS.UI.UNITSUFFIXES.PERCYCLE"
 msgid "/cycle"
-msgstr ""
+msgstr "/цикл"
 
 #. STRINGS.UI.UNITSUFFIXES.PERSECOND
 msgctxt "STRINGS.UI.UNITSUFFIXES.PERSECOND"
 msgid "/s"
-msgstr ""
+msgstr "/сек"
 
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.CELSIUS
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.CELSIUS"
 msgid " ºC"
-msgstr ""
+msgstr " ºC"
 
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.FAHRENHEIT
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.FAHRENHEIT"
 msgid " ºF"
-msgstr ""
+msgstr " ºF"
 
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.KELVIN
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.KELVIN"
 msgid " K"
-msgstr ""
+msgstr " K"
 
 #. STRINGS.UI.USERMENUACTIONS.ATTACK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.ATTACK.NAME"
 msgid "Attack"
-msgstr ""
+msgstr "Атака"
 
 #. STRINGS.UI.USERMENUACTIONS.ATTACK.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.ATTACK.TOOLTIP"
 msgid "Attack this creature"
-msgstr ""
+msgstr "Атаковать это создание"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELATTACK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELATTACK.NAME"
 msgid "Cancel Attack"
-msgstr ""
+msgstr "Отменить атаку"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELATTACK.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELATTACK.TOOLTIP"
 msgid "Cancel this attack order"
-msgstr ""
+msgstr "Отменяет этот приказ атаковать"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELCLEANTOILET.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELCLEANTOILET.NAME"
 msgid "Cancel Clean"
-msgstr ""
+msgstr "Отменить уборку"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELCLEANTOILET.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELCLEANTOILET.TOOLTIP"
 msgid "Cancel this cleaning order"
-msgstr ""
+msgstr "Отменяет этот приказ очистки"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELCONSTRUCTION.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELCONSTRUCTION.NAME"
 msgid "Cancel Build"
-msgstr ""
+msgstr "Отмена строительства"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELCONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELCONSTRUCTION.TOOLTIP"
 msgid "Cancel this build order"
-msgstr ""
+msgstr "Отменяет этот приказ строить"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELDIG.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELDIG.NAME"
 msgid "Cancel Dig"
-msgstr ""
+msgstr "Отменить копание"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELDIG.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELDIG.TOOLTIP"
 msgid "Cancel this dig order"
-msgstr ""
+msgstr "Отменяет этот приказ копать"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELHARVEST.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELHARVEST.NAME"
 msgid "Cancel Harvest"
-msgstr ""
+msgstr "Отменить сбор урожая"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELHARVEST.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELHARVEST.TOOLTIP"
 msgid "Cancel this harvest order"
-msgstr ""
+msgstr "Отменяет этот приказ на сбор урожая"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELMOP.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELMOP.NAME"
 msgid "Cancel Mop"
-msgstr ""
+msgstr "Отменить вытирание"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELMOP.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELMOP.TOOLTIP"
 msgid "Cancel this mop order"
-msgstr ""
+msgstr "Отменяет этот приказ вытереть"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.NAME"
 msgid "Cancel Dig Up"
-msgstr ""
+msgstr "Отменить выкапывание растения"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.TOOLTIP"
 msgid "Cancel this dig up order"
-msgstr ""
+msgstr "Отменяет этот приказ на выкапывание растения"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEANTOILET.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEANTOILET.NAME"
 msgid "Clean Toilet"
-msgstr ""
+msgstr "Прочистить санузел"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEANTOILET.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEANTOILET.TOOLTIP"
 msgid "Remove waste from this toilet"
-msgstr ""
+msgstr "Убрать стоки из данного санузла"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.NAME"
 msgid "Sweep"
-msgstr ""
+msgstr "Подобрать"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.NAME_OFF"
 msgid "Cancel Sweeping"
-msgstr ""
+msgstr "Отменить подбор"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP"
 msgid "Move this object into storage"
-msgstr ""
+msgstr "Отнести этот объект в хранилище"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP_OFF"
 msgid "Cancel this sweep order"
-msgstr ""
+msgstr "Отменить этот приказ на подбор"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME"
 msgid "Deconstruct"
-msgstr ""
+msgstr "Разобрать"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME_OFF"
 msgid "Cancel Deconstruct"
-msgstr ""
+msgstr "Отменить разборку"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP"
 msgid "Demolish this building\n------------------\nRefunds all resources"
-msgstr ""
+msgstr "Снести это здание\n------------------\nВернет все ресурсы"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP_OFF"
 msgid "Cancel this deconstruct order"
-msgstr ""
+msgstr "Отменить этот приказ о сносе"
 
 #. STRINGS.UI.USERMENUACTIONS.DIG.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Копать"
 
 #. STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP"
 msgid "Dig out this cell"
-msgstr ""
+msgstr "Выкопать этот блок"
 
 #. STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP_OFF"
 msgid "Cancel dig order"
-msgstr ""
+msgstr "Отменить приказ копания"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME"
 msgid "Show Navigation"
-msgstr ""
+msgstr "Показать навигацию"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF"
 msgid "Hide Navigation"
-msgstr ""
+msgstr "Скрыть навигацию"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP"
 msgid "Show all areas within this Duplicant's reach"
-msgstr ""
+msgstr "Показывает все зоны, которые этот Дупликант может достигнуть"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP_OFF"
 msgid "Hide areas within this Duplicant's reach"
-msgstr ""
+msgstr "Скрывает зоны, которые Дупликант может достигнуть"
 
 #. STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME"
 msgid "Empty Storage"
-msgstr ""
+msgstr "Опустошить хранилище"
 
 #. STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME_OFF"
 msgid "Cancel Empty"
-msgstr ""
+msgstr "Отменить опустошение"
 
 #. STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.TOOLTIP"
 msgid "Remove materials from this storage region"
-msgstr ""
+msgstr "Убирает материалы из этого хранилища"
 
 #. STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.TOOLTIP_OFF"
 msgid "Cancel this empty order"
-msgstr ""
+msgstr "Отменить этот приказ на опустошение"
 
 #. STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.NAME"
 msgid "Disable Building"
-msgstr ""
+msgstr "Выключить здание"
 
 #. STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.NAME_OFF"
 msgid "Enable Building"
-msgstr ""
+msgstr "Включить здание"
 
 #. STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP"
 msgid "Halt the use of this building\n------------------\nDisabled buildings consume no energy or resources"
-msgstr ""
+msgstr "Прекратить использование этого здания\n------------------\nОтключенные здания не потребляют энергию и ресурсы"
 
 #. STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP_OFF"
 msgid "Resume the use of this building"
-msgstr ""
+msgstr "Возобновить использование этого здания"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.NAME"
 msgid "Harvest"
-msgstr ""
+msgstr "Сбор урожая"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP"
 msgid "Harvest <style=\"food\">Food</style> from this <style=\"plant\">Plant</style>"
-msgstr ""
+msgstr "Собрать <style=\"food\">Пищу</style> с этого <style=\"plant\">Растения</style>"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP_DISABLED
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP_DISABLED"
 msgid "This <style=\"plant\">Plant</style> must reach maturity before being harvested"
-msgstr ""
+msgstr "Это <style=\"plant\">Растение</style> должно созреть, перед тем как будет собрано"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.NAME"
 msgid "Manual Control"
-msgstr ""
+msgstr "Управлять вручную"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.NAME_OFF"
 msgid "Release Control"
-msgstr ""
+msgstr "Отменить ручное управление"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP"
 msgid "Manually control this Duplicant\nControlled Duplicants cannot perform tasks unless ordered"
-msgstr ""
+msgstr "Управлять этим Дупликантом вручную\nУправляемые Дупликанты не могут выполнять задачи если не приказано"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP_OFF"
 msgid "Release control of this Duplicant"
-msgstr ""
+msgstr "Отменить ручное управление этим Дупликантом"
 
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME"
 msgid "Move To"
-msgstr ""
+msgstr "Идти к"
 
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.TOOLTIP"
 msgid "Tell this Duplicant to move to a specific spot"
-msgstr ""
+msgstr "Приказать этому Дупликанту идти в конкретное место"
 
 #. STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.NAME"
 msgid "Override Task"
-msgstr ""
+msgstr "Изменить задачу"
 
 #. STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.TOOLTIP"
 msgid "Force this Duplicant to perform a specific task"
-msgstr ""
+msgstr "Принудить этого Дупликанта выполнить конкретную задачу"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME"
 msgid "Quarantine"
-msgstr ""
+msgstr "Карантин"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME_OFF"
 msgid "Cancel Quarantine"
-msgstr ""
+msgstr "Отменить Карантин"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP"
 msgid "Isolate this Duplicant"
-msgstr ""
+msgstr "Изолировать этого Дупликанта"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED"
 msgid "No quarantine zone assigned"
-msgstr ""
+msgstr "Зона карантина не назначена"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_OFF"
 msgid "Cancel this quarantine order"
-msgstr ""
+msgstr "Отменить этот приказ о карантине"
 
 #. STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.NAME"
 msgid "Empty Building"
-msgstr ""
+msgstr "Опустошить здание"
 
 #. STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.TOOLTIP"
 msgid "Take out all resources currently used by this building"
-msgstr ""
+msgstr "Забрать все ресурсы, которые в данный момент используются этим зданием"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME"
 msgid "Relocate"
-msgstr ""
+msgstr "Переместить"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME_OFF"
 msgid "Cancel Relocation"
-msgstr ""
+msgstr "Отменить перемещение"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP"
 msgid "Move this building to a new location\n------------------\nCosts no additional resources"
-msgstr ""
+msgstr "Переместить это здание в новое место\n------------------\nБез затратов ресурсов"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP_OFF"
 msgid "Cancel this relocation order"
-msgstr ""
+msgstr "Отменить этот приказ на перемещение"
 
 #. STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.NAME"
 msgid "Select Research"
-msgstr ""
+msgstr "Выбор исследования"
 
 #. STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.TOOLTIP"
 msgid "Choose a technology from the research tree"
-msgstr ""
+msgstr "Выберите исследование из древа технологий"
 
 #. STRINGS.UI.USERMENUACTIONS.TAGFILTER.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.TAGFILTER.NAME"
 msgid "Filter Settings"
-msgstr ""
+msgstr "Настройки фильтра"
 
 #. STRINGS.UI.USERMENUACTIONS.TAGFILTER.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.TAGFILTER.TOOLTIP"
 msgid "Assign materials to storage"
-msgstr ""
+msgstr "Назначить материалы в хранилище"
 
 #. STRINGS.UI.USERMENUACTIONS.UPROOT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.UPROOT.NAME"
 msgid "Dig Up"
-msgstr ""
+msgstr "Выкопать"
 
 #. STRINGS.UI.USERMENUACTIONS.UPROOT.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.UPROOT.TOOLTIP"
 msgid "Convert this <style=\"plant\">Plant</style> into a <style=\"seed\">Seed</style>"
-msgstr ""
+msgstr "Преобразует это <style=\"plant\">Растение</style> в <style=\"seed\">Семя</style>"
 
 #. STRINGS.UI.VIEWDUPLICANTS
 msgctxt "STRINGS.UI.VIEWDUPLICANTS"
 msgid "Choose a Duplicant"
-msgstr ""
+msgstr "Выберите Дупликанта"
 
 #. STRINGS.UI.VITALS
 msgctxt "STRINGS.UI.VITALS"
 msgid "VITALS"
-msgstr ""
+msgstr "ПОКАЗАТЕЛИ"
 
 #. STRINGS.UI.VITALSSCREEN_CALORIES
 msgctxt "STRINGS.UI.VITALSSCREEN_CALORIES"
 msgid "Fullness"
-msgstr ""
+msgstr "Сытость"
 
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY"
 msgid "Eaten Today"
-msgstr ""
+msgstr "Съел сегодня"
 
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
 msgid "The amount of <style=\"food\">Food</style> your Duplicant has eaten this cycle"
-msgstr ""
+msgstr "Количество <style=\"food\">Пищи</style>, которую Ваш Дупликант съел за этот цикл"
 
 #. STRINGS.UI.VITALSSCREEN_NAME
 msgctxt "STRINGS.UI.VITALSSCREEN_NAME"
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 #. STRINGS.UI.VITALSSCREEN_RATIONS
 msgctxt "STRINGS.UI.VITALSSCREEN_RATIONS"
 msgid "Calories/Day"
-msgstr ""
+msgstr "Калорий/День"
 
 #. STRINGS.UI.VITALSSCREEN_RATIONS_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_RATIONS_TOOLTIP"
 msgid "Set how many calories this Duplicant may consume daily"
-msgstr ""
+msgstr "Установить сколько калорий этот Дупликант может съесть за день"
 
 #. STRINGS.UI.VITALSSCREEN_STRESS
 msgctxt "STRINGS.UI.VITALSSCREEN_STRESS"
 msgid "Stress"
-msgstr ""
+msgstr "Стресс"
 
 #. STRINGS.UI.VITALSSCREEN_UNTIL_FULL
 msgctxt "STRINGS.UI.VITALSSCREEN_UNTIL_FULL"
 msgid "Until Full"
-msgstr ""
+msgstr "До отвала"
 
 #. STRINGS.UI.WELCOMEMESSAGEBEGIN
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBEGIN"
 msgid "BEGIN"
-msgstr ""
+msgstr "НАЧАТЬ"
 
 #. STRINGS.UI.WELCOMEMESSAGEBODY
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY"
 msgid "Your crew has awoken miles beneath the surface of an unfamiliar terrestrial body. Oddly, they have no recollection of how they got here.\n\nIt might be best to start digging."
-msgstr ""
+msgstr "Ваш экипаж проснулся глубоко под поверхностью незнакомого небесного тела. Никто не помнит, как вы сюда попали.\n\nПохоже, что пора копать."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
 msgid "! ALERT !"
-msgstr ""
+msgstr "! ТРЕВОГА !"
 
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLD"
 msgid "Shuffling DNA Blueprints..."
-msgstr ""
+msgstr "Тасование чертежей ДНК..."
 
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE"
 msgid "Tidying up for the Duplicants..."
-msgstr ""
+msgstr "Приводим в порядок Дупликантов..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS"
 msgid "Just adding water..."
-msgstr ""
+msgstr "Просто добавляем воды..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS1
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS1"
 msgid "Just adding water..."
-msgstr ""
+msgstr "Просто добавляем воды..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS2
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS2"
 msgid "Staring at the void..."
-msgstr ""
+msgstr "Глядим в бездну..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS3
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS3"
 msgid "Staring at the void..."
-msgstr ""
+msgstr "Глядим в бездну..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS4
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS4"
 msgid "Staring at the void..."
-msgstr ""
+msgstr "Глядим в бездну..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS5
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS5"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Отводим глаза от бездны..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS6
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS6"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Отводим глаза от бездны..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS7
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS7"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Отводим глаза от бездны..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS8
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS8"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Отводим глаза от бездны..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS9
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS9"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Отводим глаза от бездны..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE"
 msgid "Sorting quadrillions of atoms..."
-msgstr ""
+msgstr "Раскладываем атомы по порядку..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE1
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE1"
 msgid "Sorting quadrillions of atoms..."
-msgstr ""
+msgstr "Раскладываем атомы по порядку..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE2
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE2"
 msgid "Sorting quadrillions of atoms..."
-msgstr ""
+msgstr "Раскладываем атомы по порядку..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3"
 msgid "Ironing the fabric of creation..."
-msgstr ""
+msgstr "Гладим ткань мироздания..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE4
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE4"
 msgid "Ironing the fabric of creation..."
-msgstr ""
+msgstr "Гладим ткань мироздания..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE5
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE5"
 msgid "Ironing the fabric of creation..."
-msgstr ""
+msgstr "Гладим ткань мироздания..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6"
 msgid "Taking hot meteor shower..."
-msgstr ""
+msgstr "Принимаем горячий метеорный душ..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7"
 msgid "Tightening asteroid belts..."
-msgstr ""
+msgstr "Затягиваем астероидные пояса..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE8
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE8"
 msgid "Tightening asteroid belts..."
-msgstr ""
+msgstr "Затягиваем астероидные пояса..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE9
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE9"
 msgid "Tightening asteroid belts..."
-msgstr ""
+msgstr "Затягиваем астероидные пояса..."
 
 #. STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE
 msgctxt "STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE"
 msgid "Select the magnitude of your new galaxy."
-msgstr ""
+msgstr "Определяем масштаб вашей новой галактики."
 
 #. STRINGS.UI.WORLDGEN.CLEARINGLEVEL
 msgctxt "STRINGS.UI.WORLDGEN.CLEARINGLEVEL"
 msgid "Staring into the void..."
-msgstr ""
+msgstr "Глядим в бездну..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETE"
 msgid "Success! Space adventure awaits."
-msgstr ""
+msgstr "Успех! Космическое приключение ждет."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT"
 msgid "Cooling glass..."
-msgstr ""
+msgstr "Охлаждаем стекло..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT1"
 msgid "Cooling glass..."
-msgstr ""
+msgstr "Охлаждаем стекло..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT10"
 msgid "Adding buckets of dirt..."
-msgstr ""
+msgstr "Черпаем грязь ведрами..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT2"
 msgid "Cooling glass..."
-msgstr ""
+msgstr "Охлаждаем стекло..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT3
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT3"
 msgid "Cooling glass..."
-msgstr ""
+msgstr "Охлаждаем стекло..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT4"
@@ -14957,47 +14957,47 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT6
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT6"
 msgid "Digging holes..."
-msgstr ""
+msgstr "Копаем норы..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT7"
 msgid "Adding buckets of dirt..."
-msgstr ""
+msgstr "Черпаем грязь ведрами..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT8
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT8"
 msgid "Adding buckets of dirt..."
-msgstr ""
+msgstr "Черпаем грязь ведрами..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT9
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT9"
 msgid "Adding buckets of dirt..."
-msgstr ""
+msgstr "Черпаем грязь ведрами..."
 
 #. STRINGS.UI.WORLDGEN.CONVERTTERRAINCELLSTOEDGES
 msgctxt "STRINGS.UI.WORLDGEN.CONVERTTERRAINCELLSTOEDGES"
 msgid "Hardening diamonds..."
-msgstr ""
+msgstr "Укрепляем алмазы..."
 
 #. STRINGS.UI.WORLDGEN.DRAWWORLDBORDER
 msgctxt "STRINGS.UI.WORLDGEN.DRAWWORLDBORDER"
 msgid "Establishing personal boundaries..."
-msgstr ""
+msgstr "Устанавливаем личные границы..."
 
 #. STRINGS.UI.WORLDGEN.FAILED
 msgctxt "STRINGS.UI.WORLDGEN.FAILED"
 msgid "Goodness, has this ever gone terribly wrong!"
-msgstr ""
+msgstr "О, Добродетель! Всё пошло совсем не так!"
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE"
 msgid "Baking igneous rock..."
-msgstr ""
+msgstr "Выпекаем магматиты..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE1
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE1"
 msgid "Multilayering sediment..."
-msgstr ""
+msgstr "Седиментируем осадочные породы..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE2
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE2"
