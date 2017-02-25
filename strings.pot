@@ -2054,7 +2054,7 @@ msgstr "Миксер Микробов"
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
 msgid "Breathe easy knowing you've crushed a bunch of helpless algae into oblivion."
-msgstr ""
+msgstr "Дышите спокойно, осознавая, что Вы предали кучу беспомощных водорослей забвению."
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT"
@@ -2064,12 +2064,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
 msgid "Algae Deoxydizer"
-msgstr ""
+msgstr "Преобразователь Водорослей"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC"
 msgid "Make your Duplicants faster, stronger... better!"
-msgstr ""
+msgstr "Делает ваших Дупликантов быстрее, сильнее.. лучше!"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT"
@@ -2079,37 +2079,37 @@ msgstr "Дупликанты не будут готовить, пока реце
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME"
 msgid "Crafting Station"
-msgstr ""
+msgstr "Ремесленный Станок"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC"
 msgid "Outhouses keep Duplicants from getting down in the dumps.\nNot building any'd be a real waste!"
-msgstr ""
+msgstr "Отхожее Место позволяет Дупликантам хоть как-то справлять свои нужны. Создавая непрерывное производство!\n"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT"
 msgid "Reduces <style=\"stress\">Stress</style> and the spread of <style=\"disease\">Disease</style> by regulating where Duplicants relieve themselves.\n\nRequires no <style=\"GasPiping\">Piping</style>.\n\nMust be emptied of <style=\"solid\">Contaminated Dirt</style> periodically."
-msgstr ""
+msgstr "Уменьшает <style=\"stress\">Стресс</style> и распыляет <style=\"disease\">Болезни</style> путем регулирования, где Дупликанты делают свое дело.\n\nНе требует <style=\"GasPiping\">Газовых Труб</style>.\n\nДолжно быть переодически очищено от  <style=\"solid\">Загрязненной Земли</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME"
 msgid "Outhouse"
-msgstr ""
+msgstr "Отхожее Место"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC"
 msgid "Think inside the box."
-msgstr ""
+msgstr "Позволяет выращивать растения на производственном уровне."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.EFFECT"
 msgid "Houses a single <style=\"plant\">Plant</style> which will periodically produce <style=\"food\">Food</style> or <style=\"medicine\">Medicine</style>."
-msgstr ""
+msgstr "Домик для одного <style=\"plant\">Растения</style>, которое будет периодически производить <style=\"food\">Еду</style> или <style=\"medicine\">Медикаменты</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME"
 msgid "Planter Box"
-msgstr ""
+msgstr "Коробка для Рассады"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC"
