@@ -11094,7 +11094,7 @@ msgstr "Удаляет {0} стресса у Дупликанта за кажд�
 #. STRINGS.UI.CALCULATING
 msgctxt "STRINGS.UI.CALCULATING"
 msgid "Calculating..."
-msgstr ""
+msgstr "Вычисление..."
 
 #. STRINGS.UI.CANCELPLACEINRECEPTACLE
 msgctxt "STRINGS.UI.CANCELPLACEINRECEPTACLE"
@@ -11119,7 +11119,7 @@ msgstr "Изменения за секунду: {0}"
 #. STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE"
 msgid "ADDITIONAL"
-msgstr ""
+msgstr "ДОПОЛНИТЕЛЬНО"
 
 #. STRINGS.UI.CHARACTERCONTAINER_NEED
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_NEED"
@@ -11134,22 +11134,22 @@ msgstr "{0} {1}"
 #. STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE"
 msgid "ATTRIBUTES"
-msgstr "Характеристики"
+msgstr "ХАРАКТЕРИСТИКИ"
 
 #. STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT"
 msgid "Stress Response: {0}"
-msgstr ""
+msgstr "Реакция на Стресс: {0}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE"
 msgid "TRAITS"
-msgstr "Особенности"
+msgstr "ОСОБЕННОСТИ"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST"
 msgid "COLONY LOST"
-msgstr "Колония потеряна"
+msgstr "КОЛОНИЯ ПОТЕРЯНА"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION"
@@ -11159,12 +11159,12 @@ msgstr "Все Дупликанты умерли или недееспособн
 #. STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON"
 msgid "DISMISS"
-msgstr "Распустить"
+msgstr "РАСПУСТИТЬ"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON"
 msgid "MAIN MENU"
-msgstr "Главное меню"
+msgstr "ГЛАВНОЕ МЕНЮ"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT"
@@ -11174,7 +11174,7 @@ msgstr "Нажмите <color=#F44A47>[ESC]</color> для возвращени�
 #. STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO"
 msgid "Assigned To:"
-msgstr ""
+msgstr "Назначен:"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT"
@@ -11194,127 +11194,127 @@ msgstr "Нет доступа"
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP"
 msgid "Can't reach"
-msgstr ""
+msgstr "Не могу достать"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFETCHTARGETAVAILABLE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFETCHTARGETAVAILABLE"
 msgid "No fetchable items available"
-msgstr ""
+msgstr "Не назначенно извлекаемых предметов"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFUNCTIONAL
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFUNCTIONAL"
 msgid "Not operational"
-msgstr ""
+msgstr "Не работает"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISMARKEDFORDECONSTRUCTION
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISMARKEDFORDECONSTRUCTION"
 msgid "Not marked for destruction"
-msgstr ""
+msgstr "Не помечен для разбора"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISNOTREDALERT
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISNOTREDALERT"
 msgid "Red alert"
-msgstr ""
+msgstr "Тревога"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL"
 msgid "Not operational"
-msgstr ""
+msgstr "Не работает"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISPERMITTED
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISPERMITTED"
 msgid "Job not allowed"
-msgstr ""
+msgstr "Работа не разрешена"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISTANKLOW
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISTANKLOW"
 msgid "Tank not low"
-msgstr ""
+msgstr "Емкость не заполнена"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.OWNSMATERIALS
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.OWNSMATERIALS"
 msgid "No resources available"
-msgstr ""
+msgstr "Нет необходимых ресурсов"
 
 #. STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE
 msgctxt "STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE"
 msgid "UNAVAILABLE"
-msgstr ""
+msgstr "НЕДОСТУПЕН"
 
 #. STRINGS.UI.CRAFT
 msgctxt "STRINGS.UI.CRAFT"
 msgid "FABRICATE"
-msgstr ""
+msgstr "ПРОИЗВЕСТИ"
 
 #. STRINGS.UI.CRASHSCREEN.BODY
 msgctxt "STRINGS.UI.CRASHSCREEN.BODY"
 msgid "Help! A black hole ate my game!"
-msgstr ""
+msgstr "На помощь! Черная дыра съела мою игру!"
 
 #. STRINGS.UI.CRASHSCREEN.CONTINUEBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.CONTINUEBUTTON"
 msgid "CONTINUE GAME"
-msgstr ""
+msgstr "ПРОДОЛЖИТЬ ИГРУ"
 
 #. STRINGS.UI.CRASHSCREEN.HEADER
 msgctxt "STRINGS.UI.CRASHSCREEN.HEADER"
 msgid "OPTIONAL CRASH DESCRIPTION"
-msgstr ""
+msgstr "ДОПОЛНИТЕЛЬНОЕ ОПИСАНИЕ ОШИБКИ"
 
 #. STRINGS.UI.CRASHSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.QUITBUTTON"
 msgid "QUIT TO DESKTOP"
-msgstr ""
+msgstr "ВЫЙТИ НА РАБОЧИЙ СТОЛ"
 
 #. STRINGS.UI.CRASHSCREEN.REPORTBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTBUTTON"
 msgid "REPORT CRASH"
-msgstr ""
+msgstr "ОТЧЕТ ОБ ОШИБКЕ"
 
 #. STRINGS.UI.CRASHSCREEN.REPORTING
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTING"
 msgid "REPORTING, PLEASE WAIT..."
-msgstr ""
+msgstr "ОТПРАВКА, ПОЖАЛУЙСТА ПОДОЖДИТЕ..."
 
 #. STRINGS.UI.CRASHSCREEN.THANKYOU
 msgctxt "STRINGS.UI.CRASHSCREEN.THANKYOU"
 msgid "Thank you!\n\nYou're making our game better, one crash at a time."
-msgstr ""
+msgstr "Спасибо! \n\nВы делайте нашу игру лучше, отправляя отчет раз за разом."
 
 #. STRINGS.UI.CRASHSCREEN.TITLE
 msgctxt "STRINGS.UI.CRASHSCREEN.TITLE"
 msgid "Whoops! We're sorry, but it seems your game has encountered an error.\nIt's okay though - these errors are how we find and fix problems to make our game more fun for everyone.\nIf you use the box below to submit a crash report to us, we can use this information to get the issue sorted out."
-msgstr ""
+msgstr "Упс! Мы сожалеем, но обнаружена неизвестная ошибка в вашей игре.\nХотя это нормально - эти ошибки мы находим и устраняем, что бы игра доставляла больше удовольствия каждому. \nЕсли вы используйте уведомление, для отправки отчета, мы используем эту информацию, что бы разобраться в проблеме."
 
 #. STRINGS.UI.CRASHSCREEN.UPLOADINFO
 msgctxt "STRINGS.UI.CRASHSCREEN.UPLOADINFO"
 msgid "UPLOAD ADDITIONAL INFO ({0})"
-msgstr ""
+msgstr "ЗАГРУЗКА ДОПОЛНИТЕЛЬНОЙ ИНФО ({0})"
 
 #. STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON
 msgctxt "STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON"
 msgid "CLOSE"
-msgstr ""
+msgstr "ЗАКРЫТЬ"
 
 #. STRINGS.UI.CREDITSSCREEN.TITLE
 msgctxt "STRINGS.UI.CREDITSSCREEN.TITLE"
 msgid "CREDITS"
-msgstr ""
+msgstr "АВТОРЫ"
 
 #. STRINGS.UI.DELIVERED
 msgctxt "STRINGS.UI.DELIVERED"
 msgid "Delivered: {0} {1}"
-msgstr ""
+msgstr "Доставленно: {0} {1}"
 
 #. STRINGS.UI.DEMOOVERSCREEN.DEMOOVER
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DEMOOVER"
 msgid "END OF DEMO"
-msgstr ""
+msgstr "ЗАКОНЧИТЬ ДЕМОВЕРСИЮ"
 
 #. STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION"
 msgid "Thank you for playing <color=#F44A47>Oxygen Not Included</color>!"
-msgstr ""
+msgstr "Спасибо за игру <color=#F44A47>Oxygen Not Included</color>!"
 
 #. STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION_2
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION_2"
@@ -11324,467 +11324,467 @@ msgstr ""
 #. STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON"
 msgid "RESET"
-msgstr ""
+msgstr "СБРОС"
 
 #. STRINGS.UI.DEMOOVERSCREEN.TIMEREMAINING
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMEREMAINING"
 msgid "Demo time remaining:"
-msgstr ""
+msgstr "Осталось демонстрационного времени:"
 
 #. STRINGS.UI.DEMOOVERSCREEN.TIMERINACTIVE
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMERINACTIVE"
 msgid "Timer inactive"
-msgstr ""
+msgstr "Таймер выключен"
 
 #. STRINGS.UI.DEMOOVERSCREEN.TIMERTOOLTIP
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMERTOOLTIP"
 msgid "Demo time remaining"
-msgstr ""
+msgstr "Оставшееся демонстрационное время"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS"
 msgid "CONTENTS"
-msgstr ""
+msgstr "КОНТЕНТ"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS"
 msgid "DETAILS"
-msgstr ""
+msgstr "ДЕТАЛИ"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS"
 msgid "CARRIED ITEMS"
-msgstr ""
+msgstr "ПЕРЕНОСИМЫЕ ПРЕДМЕТЫ"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NAME"
 msgid "Details"
-msgstr ""
+msgstr "Детали"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY"
 msgid "Nothing"
-msgstr ""
+msgstr "Ничего"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP"
 msgid "More information"
-msgstr ""
+msgstr "Больше информации"
 
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME"
 msgid "Energy"
-msgstr ""
+msgstr "Энергия"
 
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP"
 msgid "View how much <style=\"power\">Power</style> this building consumes"
-msgstr ""
+msgstr "Посмотреть, сколько <style=\"power\">Электричества</style> потребляет это здание"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES"
 msgid "<style=\"power\">Power</style> stored: {0}"
-msgstr ""
+msgstr "<style=\"power\">Электричества</style> запосено: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP"
 msgid "Amount of <style=\"power\">Power</style> stored in batteries"
-msgstr ""
+msgstr "Суммарная <style=\"power\">Электричества</style> запасенная в батареях"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES"
 msgid "BATTERIES"
-msgstr ""
+msgstr "БАТАРЕИ"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CIRCUITOVERVIEW
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CIRCUITOVERVIEW"
 msgid "CIRCUIT OVERVIEW"
-msgstr ""
+msgstr "ОБЗОР СИСТЕМЫ"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CONSUMERS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CONSUMERS"
 msgid "POWER CONSUMERS"
-msgstr ""
+msgstr "ПОТРЕБИТЕЛИ ЭЛЕКТРИЧЕСТВА"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.DISCONNECTED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.DISCONNECTED"
 msgid "Not connected to an electrical circuit"
-msgstr ""
+msgstr "Нет соединения с электрической сетью"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.GENERATORS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.GENERATORS"
 msgid "POWER GENERATORS"
-msgstr ""
+msgstr "ГЕНЕРАТОРЫ ЭЛЕКТРИЧЕСТВА"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME"
 msgid "Energy"
-msgstr ""
+msgstr "Энергия"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOBATTERIES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOBATTERIES"
 msgid "No batteries on this circuit"
-msgstr ""
+msgstr "Нет батарей в этой системе"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOCONSUMERS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOCONSUMERS"
 msgid "No consumers on this circuit"
-msgstr ""
+msgstr "Нет потребителей в системе"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOGENERATORS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOGENERATORS"
 msgid "No generators on this circuit"
-msgstr ""
+msgstr "Нет генераторов в сиситеме"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED"
 msgid "Potential <style=\"power\">Power</style> consumed: {0}"
-msgstr ""
+msgstr "Предполагаемое потребление <style=\"power\">электричества</style>: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP"
 msgid "The total amount of <style=\"power\">Power</style> that can be used by this circuit if all connected buildings are active"
-msgstr ""
+msgstr "Общая сумма <style=\"power\">электричества</style> может быть использована в системе в случаи активной работы всех подключенных зданий"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP"
 msgid "Monitor the <style=\"power\">Power</style> this building is generating"
-msgstr ""
+msgstr "Просмотр сколько <style=\"power\">электричества</style> вырабатывает это здание"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED"
 msgid "<style=\"power\">Power</style> consumed: {0}"
-msgstr ""
+msgstr "<style=\"power\">Электричества</style> потребленно: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED_TOOLTIP"
 msgid "The total amount of <style=\"power\">Power</style> used by this circuit"
-msgstr ""
+msgstr "Общая сумма <style=\"power\">электричества</style> используемая этой системой"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED"
 msgid "<style=\"power\">Power</style> produced: {0}"
-msgstr ""
+msgstr "<style=\"power\">Электричества</style> сгенерированно: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP"
 msgid "The total amount of <style=\"power\">Power</style> generated by this circuit"
-msgstr ""
+msgstr "Общая сумма <style=\"power\">электричества</style> генерируемая этой системой"
 
 #. STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME"
 msgid "Energy"
-msgstr ""
+msgstr "Энергия"
 
 #. STRINGS.UI.DETAILTABS.ENERGYWIRE.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.TOOLTIP"
 msgid "View this wire's network"
-msgstr ""
+msgstr "Просмотр этой сети кабелей"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.CURRENT_NEED_LEVEL
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.CURRENT_NEED_LEVEL"
 msgid "Current Level: {0}"
-msgstr ""
+msgstr "Текущий уровень: {0}"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.CURRENT_STRESS_LEVEL
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.CURRENT_STRESS_LEVEL"
 msgid "Current <style=\"stress\">Stress</style> Level: {0}"
-msgstr ""
+msgstr "Текущий уровень <style=\"stress\">стресса</style>: {0}"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.NAME"
 msgid "Stress"
-msgstr ""
+msgstr "Стресс"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.NEXT_NEED_LEVEL
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.NEXT_NEED_LEVEL"
 msgid "Next Level: {0}"
-msgstr ""
+msgstr "Новый уровень: {0}"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.OVERVIEW
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.OVERVIEW"
 msgid "Overview"
-msgstr ""
+msgstr "Просмотр"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.STRESS_CREATORS
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.STRESS_CREATORS"
 msgid "<style=\"stress\">Stress</style> Creators"
-msgstr ""
+msgstr "<style=\"stress\">Раздражители</style>"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.STRESS_RELIEVERS
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.STRESS_RELIEVERS"
 msgid "<style=\"stress\">Stress</style> Relievers"
-msgstr ""
+msgstr "<style=\"stress\">Расслабляющие</style>"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.TOOLTIP"
 msgid "View this Duplicant's psychological status"
-msgstr ""
+msgstr "Просмотреть психологическое состояния Дупликанта "
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP"
 msgid "This Duplicant has been assigned a {0}"
-msgstr ""
+msgstr "Этот Дупликант был назначен {0}"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP"
 msgid "This Duplicant has been equipped with a <style=\"equipment\">{0}</style>"
-msgstr ""
+msgstr "Этот Дупликант был оснащен <style=\"equipment\">{0}</style>"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT"
 msgid "CARRIED ITEMS"
-msgstr ""
+msgstr "ПЕРЕНОСИМЫЕ ПРЕДМЕТЫ"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_OWNABLE
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_OWNABLE"
 msgid "EQUIPMENT"
-msgstr ""
+msgstr "ОСНАЩЕНИЕ"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_ROOMS
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_ROOMS"
 msgid "ROOMS"
-msgstr ""
+msgstr "КОМНАТЫ"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NAME"
 msgid "Assigned"
-msgstr ""
+msgstr "Назначенный"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT"
 msgid "No equipment"
-msgstr ""
+msgstr "Не оснащен"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT_TOOLTIP"
 msgid "This Duplicant has not been equipped with a <style=\"equipment\">Tool</style>"
-msgstr ""
+msgstr "Этот Дупликант не оснащен  <style=\"equipment\">предметом</style>"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.TOOLTIP"
 msgid "View this Duplicant's inventory"
-msgstr ""
+msgstr "Просмотр инвенторя Дупликанта"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED"
 msgid "Unassigned"
-msgstr ""
+msgstr "Неназначенный"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED_TOOLTIP"
 msgid "This Duplicant has not been assigned a {0}"
-msgstr ""
+msgstr "Этот Дупликант небыл назначен: {0}"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_DESCRIPTION
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_DESCRIPTION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "ИНФОРМАЦИЯ"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_NEEDS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_NEEDS"
 msgid "NEEDS"
-msgstr ""
+msgstr "НУЖДЫ"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH"
 msgid "RESEARCH"
-msgstr ""
+msgstr "ИССЛЕДОВАНИЯ"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS"
 msgid "STATUS"
-msgstr ""
+msgstr "СТАТУС"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME"
 msgid "Info"
-msgstr ""
+msgstr "Инфо"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP"
 msgid "Status and basic information"
-msgstr ""
+msgstr "Статус и базовая информация"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES"
 msgid "ATTRIBUTES"
-msgstr ""
+msgstr "ХАРАКТЕРИСТИКИ"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS"
 msgid "TRAITS"
-msgstr ""
+msgstr "ОСОБЕННОСТИ"
 
 #. STRINGS.UI.DETAILTABS.STATS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.STATS.NAME"
 msgid "Stats"
-msgstr ""
+msgstr "Статистика"
 
 #. STRINGS.UI.DETAILTABS.STATS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.STATS.TOOLTIP"
 msgid "View this Duplicant's attributes, traits, and diseases"
-msgstr ""
+msgstr "Просмотр характеристик, особенностей и заболеваний Дупликанта"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY"
 msgid "This game is in the early stages of development which means you're likely to encounter strange, amusing, and occasionally just downright frustrating bugs.\n\nDuring this time Oxygen Not Included will be receiving regular updates to fix bugs, add features and introduce additional content, so if you encounter issues or just have suggestions to share, please let us know on our forums: <u>http://forums.kleientertainment.com</u>\n\nWe value your feedback and thank you for joining us in the development process. We couldn't do this without you.\n\nEnjoy your time in deep space!\n\n- Klei"
-msgstr ""
+msgstr "Эта игра находится на ранней стадии разработки, что означает, что вы, вероятно, столкнётесь со страными, забавными, а иногда и просто прямо-таки досадными ошибками.\n\nВ течении этого времени, Oxygen Not Included будет получать регулярные обновления, чтобы исправить ошибки, добавить новые возможности и ввести дополнительный контент, так что если у вас возникнут вопросы или просто у вас есть предложения, пожалуйста, сообщите нам об этом на нашем форуме: <u> http://forums.kleientertainment.com </u>\n\nМы ценним ваши замечания и благодарим вас за присоединение к нам в процесс разработки. Мы не могли сделать это без вас.\n\nПолучайте наслаждение от нахождения в глубоком космосе!\n\n- Klei"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON"
 msgid "Okay, thanks for the heads up!"
-msgstr ""
+msgstr "Хорошо, спасибо за предупреждение!"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE"
 msgid "<b>Welcome to Oxygen Not Included!</b>"
-msgstr ""
+msgstr "<b>Добро пожаловать в Oxygen Not Included!</b>"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY"
 msgid "Stay up to date by joining our mailing list, or head on over to the forums and join the discussion."
-msgstr ""
+msgstr "Будь в курсе событий, присоединившийсь к рассылке, или зарегестрируйтесь на нашем форуме и участвуй в обсуждениях."
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON"
 msgid "FORUMS"
-msgstr ""
+msgstr "ФОРУМ"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER"
 msgid "DEVELOPMENT BUILD"
-msgstr ""
+msgstr "DEVELOPMENT BUILD"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST"
 msgid "MAILING LIST"
-msgstr ""
+msgstr "РАССЫЛКА"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.BUILDWATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.BUILDWATERMARK"
 msgid "DEVELOPMENT BUILD: CL#{0}"
-msgstr ""
+msgstr "DEVELOPMENT BUILD: CL#{0}"
 
 #. STRINGS.UI.DUPLICANTPRINTING
 msgctxt "STRINGS.UI.DUPLICANTPRINTING"
 msgid "Duplicant Printing"
-msgstr ""
+msgstr "Создание Дупликанта"
 
 #. STRINGS.UI.ELEMENTAL.MASS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.NAME"
 msgid "Mass"
-msgstr ""
+msgstr "Масса"
 
 #. STRINGS.UI.ELEMENTAL.MASS.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.TOOLTIP"
 msgid "This object has a mass of {0}"
-msgstr ""
+msgstr "Масса объекта {0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME"
 msgid "Melting Point"
-msgstr ""
+msgstr "Температура плавления"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP"
 msgid "Melting point describes the temperature at which this object will melt into liquid"
-msgstr ""
+msgstr "Температура плавления показывает ту температуру, что нужна для перехода твердого тела в жидкость."
 
 #. STRINGS.UI.ELEMENTAL.SHC.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.NAME"
 msgid "Specific Heat Capacity"
-msgstr ""
+msgstr "Удельная теплоемкость"
 
 #. STRINGS.UI.ELEMENTAL.SHC.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.TOOLTIP"
 msgid "Specific heat capacity is the amount of energy required to raise this object's temperature"
-msgstr ""
+msgstr "Удельная теплоемкость это количетво энергии нужная для повышения температуры объекта на градус"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME"
 msgid "Thermal Conductivity"
-msgstr ""
+msgstr "Теплопроводность"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP"
 msgid "Thermal conductivity indicates how well this object conducts <style=\"heat\">Heat</style>"
-msgstr ""
+msgstr "Теплопроводность показыввет, на сколько объект хорошо передает <style=\"heat\">тепло</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
 msgid "Added"
-msgstr ""
+msgstr "Добавлен"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME"
 msgid "Calorie Generation:"
-msgstr ""
+msgstr "Калорийность:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr ""
+msgstr "Ваша колония потребляет {0} <style=\"food\">еды</style> в течении дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony produced {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr ""
+msgstr "Ваша колония производит {0} <style=\"food\">еды</style> в течении деня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE"
 msgid "Cycle {0}"
-msgstr ""
+msgstr "Цикл {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY"
 msgid "Cycle {0} - Today"
-msgstr ""
+msgstr "Цикл {0} - Сегодня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY"
 msgid "Cycle {0} - Yesterday"
-msgstr ""
+msgstr "Цикл {0} - Вчера"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME"
 msgid "<style=\"disease\">Diseases</style> Contracted:"
-msgstr ""
+msgstr "<style=\"disease\">Заболеванем</style> зараженно:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP"
 msgid "{0} Duplicant(s) were cured of a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "{0} Дуплекант(ов) было вылечено от <style=\"disease\">Заболевания</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP"
 msgid "{0} Duplicant(s) contracted a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "{0} Дуплекант(ов) заражены <style=\"disease\">заболеванием</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME"
 msgid "<style=\"power\">Power</style> Usage:"
-msgstr ""
+msgstr "<style=\"power\">Электричества</style> используется:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr ""
+msgstr "Вашей колонией потребленно {0} of <style=\"power\">электричества</style> в течении дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr ""
+msgstr "Вашей колонией созданно {0} of <style=\"power\">электричества</style> в течении дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
 msgid "<style=\"power\">Power</style> Wasted:"
-msgstr ""
+msgstr "<style=\"power\">Электричества</style> потерянно:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> today that was not used or stored in a battery"
-msgstr ""
+msgstr "Ваша колония создала {0} <style=\"power\">электричества</style> сегодня, что не была использованна или зарезервированна в батареях"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
@@ -11794,167 +11794,167 @@ msgstr "Время бездействия: "
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} idling over the course of the day"
-msgstr ""
+msgstr "Ваш Дупликант провел бездействя {0} времени в течении дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
 msgid "Skill Increases:"
-msgstr ""
+msgstr "Навык улучшен:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
 msgid "Your Duplicants gained a total of {0} skill levels today"
-msgstr ""
+msgstr "Ваш Дупликант получил в общем {0} очков навыка сегодня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
 msgid "Net"
-msgstr ""
+msgstr "Сеть"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NEXT"
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE"
 msgid "Cycle {0} report ready"
-msgstr ""
+msgstr "Доклад о {0} цикле"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP"
 msgid "View the end of day report for Cycle {0}"
-msgstr ""
+msgstr "Просмотр окончательного доклада о {0} цикле"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME"
 msgid "<style=\"oxygen\">Oxygen</style> Generation:"
-msgstr ""
+msgstr "<style=\"oxygen\">Кислорода</style> сгенерированно:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr ""
+msgstr "Ваша колония потребила {0} <style=\"oxygen\">Кислорода</style> в течении дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony generated {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr ""
+msgstr "Ваша колония сгенерировала {0} <style=\"oxygen\">Кислорода</style> в течении дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.PREV
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PREV"
 msgid "Prev"
-msgstr ""
+msgstr "Пред"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
 msgid "Removed"
-msgstr ""
+msgstr "Передвинуть"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
 msgid "DAILY REPORTS"
-msgstr ""
+msgstr "ЕЖЕДНЕВНЫЙ ОТСЧЕТ"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME"
 msgid "<style=\"stress\">Stress</style> Change:"
-msgstr ""
+msgstr "Показатель <style=\"stress\">Стресса</style>:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP"
 msgid "Your colony's total <style=\"stress\">Stress</style> has decreased by {0}"
-msgstr ""
+msgstr "Ваша колония понизила <style=\"stress\">стресс</style> на {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP"
 msgid "Your colony's total <style=\"stress\">Stress</style> has increased by {0}"
-msgstr ""
+msgstr "Ваша колония повысела <style=\"stress\">стресс</style> на {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME"
 msgid "Restroom Accidents:"
-msgstr ""
+msgstr "Туалетные происшествия:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP"
 msgid "{0} Duplicants didn't quite reach the toilet in time today"
-msgstr ""
+msgstr "{0} Дупликантов не сходило в течении дня в туалет"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME"
 msgid "Travel Time:"
-msgstr ""
+msgstr "Время путишествий:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} traveling over the course of the day"
-msgstr ""
+msgstr "Ваш Дупликант потратил {0} времени, путишествуя в течении дня "
 
 #. STRINGS.UI.EQUIPMENTTAB_HELD
 msgctxt "STRINGS.UI.EQUIPMENTTAB_HELD"
 msgid "Held Items"
-msgstr ""
+msgstr "Складированные предметы"
 
 #. STRINGS.UI.EQUIPMENTTAB_OWNED
 msgctxt "STRINGS.UI.EQUIPMENTTAB_OWNED"
 msgid "Owned Items"
-msgstr ""
+msgstr "Владеемые предметы"
 
 #. STRINGS.UI.EQUIPMENTTAB_ROOM
 msgctxt "STRINGS.UI.EQUIPMENTTAB_ROOM"
 msgid "Assigned Rooms"
-msgstr ""
+msgstr "Назначенные комнаты"
 
 #. STRINGS.UI.FORMATDAY
 msgctxt "STRINGS.UI.FORMATDAY"
 msgid "{0} cycles"
-msgstr ""
+msgstr "{0} циклов"
 
 #. STRINGS.UI.FORMATSECONDS
 msgctxt "STRINGS.UI.FORMATSECONDS"
 msgid "{0}s"
-msgstr ""
+msgstr "{0}s"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "Выполненить"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE"
 msgid "AUDIO OPTIONS"
-msgstr ""
+msgstr "Настройки аудио"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES"
 msgid "Accept Changes?"
-msgstr ""
+msgstr "Применить изменения?"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON"
 msgid "Apply"
-msgstr ""
+msgstr "Подтвердить"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "Выполненить"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN"
 msgid "Fullscreen:"
-msgstr ""
+msgstr "Полный экран:"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION"
 msgid "Resolution:"
-msgstr ""
+msgstr "Разрешение:"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON"
 msgid "Revert"
-msgstr ""
+msgstr "Сбросить"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE"
@@ -11964,17 +11964,17 @@ msgstr "Настройка графики"
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.DUPLICATE
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.DUPLICATE"
 msgid "{0} was already bound to {1} and is now unbound."
-msgstr ""
+msgstr "{0} был привязан к {1} и теперь свободен."
 
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.MULTIPLE_UNBOUND_ACTIONS
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.MULTIPLE_UNBOUND_ACTIONS"
 msgid "You have multiple unbound actions, this may result in difficulty playing the game. Are you sure you want to continue?"
-msgstr ""
+msgstr "У вас есть несколько не связанных действий, что может затруднить вашу игру. Вы уверены что хотите продолжить?"
 
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.UNBOUND_ACTION
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.UNBOUND_ACTION"
 msgid "{0} is unbound. Are you sure you want to continue?"
-msgstr "{0} отсоединяется. Вы точно хотите продолжить?"
+msgstr "{0} свободен. Вы точно хотите продолжить?"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
