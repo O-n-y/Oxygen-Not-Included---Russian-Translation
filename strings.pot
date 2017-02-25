@@ -12999,832 +12999,832 @@ msgstr "Нет заданных зон экзокостюмов"
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION"
 msgid "Exosuit Region {0}"
-msgstr ""
+msgstr "Зона Экзокостюмов {0}"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.NOREGIONS
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.NOREGIONS"
 msgid "No storage areas have been designated to receive materials"
-msgstr ""
+msgstr "Не были заданы зоны хранения для получения материалов"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.REGION
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.REGION"
 msgid "{0} is accepting materials"
-msgstr ""
+msgstr "{0} принимает материалы"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON"
 msgid "Temperature Overlay"
-msgstr ""
+msgstr "Карта Температур"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.COLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.COLD"
 msgid "Chilled"
-msgstr ""
+msgstr "Прохладно"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMECOLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMECOLD"
 msgid "Absolute Zero"
-msgstr ""
+msgstr "Абсолютный ноль"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMEHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMEHOT"
 msgid "Scorching"
-msgstr ""
+msgstr "Очень жарко"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.HOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.HOT"
 msgid "Warm"
-msgstr ""
+msgstr "Тепло"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.MAXHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.MAXHOT"
 msgid "Molten"
-msgstr ""
+msgstr "Чрезвычайно жарко"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.NAME
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.NAME"
 msgid "TEMPERATURE OVERLAY"
-msgstr ""
+msgstr "КАРТА ТЕМПЕРАТУР"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.TEMPERATE
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TEMPERATE"
 msgid "Temperate"
-msgstr ""
+msgstr "Умеренно"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE"
 msgid "Temperatures reaching {0}"
-msgstr ""
+msgstr "Температуры достигает {0}"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD"
 msgid "Cold"
-msgstr ""
+msgstr "Холодно"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYHOT"
 msgid "Hot"
-msgstr ""
+msgstr "Жарко"
 
 #. STRINGS.UI.OVERLAYSTITLE
 msgctxt "STRINGS.UI.OVERLAYSTITLE"
 msgid "OVERLAYS"
-msgstr ""
+msgstr "КАРТЫ"
 
 #. STRINGS.UI.PICKEDUP
 msgctxt "STRINGS.UI.PICKEDUP"
 msgid "Picked Up: {0} {1}"
-msgstr ""
+msgstr "Подобрано: {0} {1}"
 
 #. STRINGS.UI.PLACEINRECEPTACLE
 msgctxt "STRINGS.UI.PLACEINRECEPTACLE"
 msgid "Plant"
-msgstr ""
+msgstr "Посадить"
 
 #. STRINGS.UI.POSITIVE_FORMAT
 msgctxt "STRINGS.UI.POSITIVE_FORMAT"
 msgid "+{0}"
-msgstr ""
+msgstr "+{0}"
 
 #. STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP"
 msgid "Set construction priority level\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr ""
+msgstr "Задайте приоритет строительства уровень1\n------------------\nПриоритет 1: Низший\nПриоритет 9: Наивысший"
 
 #. STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP"
 msgid "Set priority level for the currently selected tool\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr ""
+msgstr "Задайте приоритет для выбранного действия\n------------------\nПриоритет 1: Низший\nПриоритет 9: Наивысший"
 
 #. STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP"
 msgid "Set priority level for the currently selected object\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr ""
+msgstr "Задайте приоритет для выбранного объекта1\n------------------\nПриоритет 1: Низший\nПриоритет 9: Наивысший"
 
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
 msgctxt "STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES"
 msgid "Required resources:"
-msgstr ""
+msgstr "Требуются следующие ресурсы:"
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_DESC
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_DESC"
 msgid "{0} has not yet been discovered."
-msgstr ""
+msgstr "{0} еще не был открыт."
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER"
 msgid "Missing resource(s)"
-msgstr ""
+msgstr "Недостаточно ресурсов"
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE"
 msgid "Requires {0}: {1}"
-msgstr ""
+msgstr "Требуются {0}: {1}"
 
 #. STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC
 msgctxt "STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC"
 msgid "Requires {0} Research"
-msgstr ""
+msgstr "Требуется {0} технология"
 
 #. STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED
 msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
 msgid "Research required..."
-msgstr ""
+msgstr "Требуются следующие технологии..."
 
 #. STRINGS.UI.PRODUCTINFO_SELECTMATERIAL
 msgctxt "STRINGS.UI.PRODUCTINFO_SELECTMATERIAL"
 msgid "Select {0}:"
-msgstr ""
+msgstr "Выбран {0}:"
 
 #. STRINGS.UI.QUEUE
 msgctxt "STRINGS.UI.QUEUE"
 msgid "Queue"
-msgstr ""
+msgstr "Очередь задач"
 
 #. STRINGS.UI.RED_ALERT
 msgctxt "STRINGS.UI.RED_ALERT"
 msgid "RED ALERT"
-msgstr ""
+msgstr "ТРЕВОГА"
 
 #. STRINGS.UI.REMOVEFROMRECEPTACLE
 msgctxt "STRINGS.UI.REMOVEFROMRECEPTACLE"
 msgid "Dig Up"
-msgstr ""
+msgstr "Выкопать"
 
 #. STRINGS.UI.REPORT
 msgctxt "STRINGS.UI.REPORT"
 msgid "REPORTS"
-msgstr ""
+msgstr "ОТЧЕТЫ"
 
 #. STRINGS.UI.RESEARCH
 msgctxt "STRINGS.UI.RESEARCH"
 msgid "RESEARCH"
-msgstr ""
+msgstr "ИССЛЕДОВАНИЯ"
 
 #. STRINGS.UI.RESEARCHPOINTS
 msgctxt "STRINGS.UI.RESEARCHPOINTS"
 msgid "Research points"
-msgstr ""
+msgstr "Очки исследований"
 
 #. STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP
 msgctxt "STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP"
 msgid "Unlocks: {0}"
-msgstr ""
+msgstr "Открывает: {0}"
 
 #. STRINGS.UI.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULE"
 msgid "SCHEDULE"
-msgstr ""
+msgstr "РАСПИСАНИЕ"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION"
 msgid "EAT:\nDuring Mealtime Duplicants will head to their assigned mess halls and eat."
-msgstr ""
+msgstr "ОБЕД:\nВо время обеденного перерыва Дуплканты отправляются есть за назначенными обеденными столами."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME"
 msgid "Mealtime"
-msgstr ""
+msgstr "Обедает"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION"
 msgid "HYGIENE:\nDuring <style=\"hygiene\">Hygiene</style> hours Duplicants will head to their assigned washrooms to get cleaned up."
-msgstr ""
+msgstr "ГИГЕНА:\nВо время часов, отведенных на <style=\"hygiene\">Гигиену</style> Дупликанты приводят себя в порядок в назначенных им туалетных комнатах."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME"
 msgid "Hygiene"
-msgstr ""
+msgstr "Гигиена"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION"
 msgid "HAMMER TIME:\nDuring Hammer Time, Duplicants will relieve their <style=\"stress\">Stress</style> through dance. Please be aware that no matter how hard your Duplicants try, they will absolutely not be able to touch this."
-msgstr ""
+msgstr "ВРЕМЯ ПАТИ:\nВо время Пати Ваши Дупликанты танцуют, тем самым снижая <style=\"stress\">Стресс</style>. Обратите внимание, что это время MC HAMMER, а потому как бы Дупликанты не старались - они can't touch this."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
 msgid "Recreation"
-msgstr ""
+msgstr "Отдых"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION"
 msgid "SLEEP:\nWhen it's time to sleep, Duplicants will head to their assigned rooms and rest."
-msgstr ""
+msgstr "СОН:\nКогда пора спать, Дупликанты отправятся отдыхать в заданные им комнаты."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.NAME"
 msgid "Sleep"
-msgstr ""
+msgstr "Сон"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.DESCRIPTION"
 msgid "WORK:\nDuring Work hours Duplicants will perform any pending job tasks in the colony."
-msgstr ""
+msgstr "РАБОТА:\nВо время рабочих часов Дупликанты будут выполнять поставленные задачи."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.NAME"
 msgid "Work"
-msgstr ""
+msgstr "Работа"
 
 #. STRINGS.UI.SCHEDULESCREEN.ALLOWED
 msgctxt "STRINGS.UI.SCHEDULESCREEN.ALLOWED"
 msgid "Allowed"
-msgstr ""
+msgstr "Разрешено"
 
 #. STRINGS.UI.SCHEDULESCREEN.BLOCKS
 msgctxt "STRINGS.UI.SCHEDULESCREEN.BLOCKS"
 msgid "BLOCKS:"
-msgstr ""
+msgstr "БЛОКИ:"
 
 #. STRINGS.UI.SCHEDULESCREEN.CLICKTOCHANGE
 msgctxt "STRINGS.UI.SCHEDULESCREEN.CLICKTOCHANGE"
 msgid "Click to change block type."
-msgstr ""
+msgstr "Нажмите, чтобы выбрать другой блок."
 
 #. STRINGS.UI.SCHEDULESCREEN.CLICKTOSELECT
 msgctxt "STRINGS.UI.SCHEDULESCREEN.CLICKTOSELECT"
 msgid "Click to select."
-msgstr ""
+msgstr "Нажмите, чтобы выбрать."
 
 #. STRINGS.UI.SCHEDULESCREEN.DENIED
 msgctxt "STRINGS.UI.SCHEDULESCREEN.DENIED"
 msgid "Denied"
-msgstr ""
+msgstr "Запрещено"
 
 #. STRINGS.UI.SCHEDULESCREEN.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SCHEDULE"
 msgid "SCHEDULE:"
-msgstr ""
+msgstr "РАСПИСАНИЕ:"
 
 #. STRINGS.UI.SCHEDULESCREEN.SELECTBLOCKTYPETOOLTIP
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SELECTBLOCKTYPETOOLTIP"
 msgid "Select a block type to adjust the colony's schedule"
-msgstr ""
+msgstr "Выберите тип блока для задания расписания"
 
 #. STRINGS.UI.SCHEDULESCREEN.SELECTHELP
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SELECTHELP"
 msgid "Select an option and then click or drag on the timetable to adjust the Duplicant's schedule."
-msgstr ""
+msgstr "Выберите один из вариантов, затем нажмите на него или перетащите на график для задания расписания Дупликанта."
 
 #. STRINGS.UI.SCHEDULESCREEN.TIMESLOT
 msgctxt "STRINGS.UI.SCHEDULESCREEN.TIMESLOT"
 msgid "Time Slot"
-msgstr ""
+msgstr "Тайм слот"
 
 #. STRINGS.UI.SPEED_FAST
 msgctxt "STRINGS.UI.SPEED_FAST"
 msgid "FAST"
-msgstr ""
+msgstr "БЫСТРО"
 
 #. STRINGS.UI.SPEED_MEDIUM
 msgctxt "STRINGS.UI.SPEED_MEDIUM"
 msgid "MEDIUM"
-msgstr ""
+msgstr "СРЕДНЕ"
 
 #. STRINGS.UI.SPEED_SLOW
 msgctxt "STRINGS.UI.SPEED_SLOW"
 msgid "SLOW"
-msgstr ""
+msgstr "МЕДЛЕННО"
 
 #. STRINGS.UI.TOOLS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
 msgid "Harvest"
-msgstr ""
+msgstr "Сбор урожая"
 
 #. STRINGS.UI.TOOLS.ATTACK.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLACTION"
 msgid "DRAG TO HARVEST"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ ДЛЯ СБОРА УРОЖАЯ"
 
 #. STRINGS.UI.TOOLS.ATTACK.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLNAME"
 msgid "Harvest tool"
-msgstr ""
+msgstr "Инструмент Сбор урожая"
 
 #. STRINGS.UI.TOOLS.BUILD.NAME
 msgctxt "STRINGS.UI.TOOLS.BUILD.NAME"
 msgid "Build {0}"
-msgstr ""
+msgstr "Строить {0}"
 
 #. STRINGS.UI.TOOLS.BUILD.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION"
 msgid "CLICK TO BUILD"
-msgstr ""
+msgstr "НАЖМИТЕ, ЧТОБЫ ПОСТРОИТЬ"
 
 #. STRINGS.UI.TOOLS.BUILD.TOOLACTION_DRAG
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION_DRAG"
 msgid "DRAG TO BUILD"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ ПОСТРОИТЬ"
 
 #. STRINGS.UI.TOOLS.BUILD.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLNAME"
 msgid "Build tool"
-msgstr ""
+msgstr "Инструмент Строительство"
 
 #. STRINGS.UI.TOOLS.CANCEL.NAME
 msgctxt "STRINGS.UI.TOOLS.CANCEL.NAME"
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #. STRINGS.UI.TOOLS.CANCEL.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLACTION"
 msgid "DRAG TO CANCEL ACTION"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ ОТМЕНИТЬ ДЕЙСТВИЕ"
 
 #. STRINGS.UI.TOOLS.CANCEL.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLNAME"
 msgid "Cancel tool"
-msgstr ""
+msgstr "Инструмент Отмена заданий"
 
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME"
 msgid "Clean"
-msgstr ""
+msgstr "Уборка"
 
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME"
 msgid "Clean Up tools"
-msgstr ""
+msgstr "Инструмент Уборка"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr ""
+msgstr "Деконструировать"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
 msgid "DRAG TO DECONSTRUCT"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ ДЕКОНСТРУИРОВАТЬ"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME"
 msgid "Deconstruct tool"
-msgstr ""
+msgstr "Инструмент Деконструкция"
 
 #. STRINGS.UI.TOOLS.DIG.NAME
 msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Копать"
 
 #. STRINGS.UI.TOOLS.DIG.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DIG.TOOLACTION"
 msgid "DRAG TO DIG"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ КОПАТЬ"
 
 #. STRINGS.UI.TOOLS.DIG.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DIG.TOOLNAME"
 msgid "Dig tool"
-msgstr ""
+msgstr "Инструмент Земляные работы"
 
 #. STRINGS.UI.TOOLS.ERASEREGION.NAME
 msgctxt "STRINGS.UI.TOOLS.ERASEREGION.NAME"
 msgid "Clear Region"
-msgstr ""
+msgstr "Очистить Зону"
 
 #. STRINGS.UI.TOOLS.ERASEREGION.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.ERASEREGION.TOOLACTION"
 msgid "DRAG TO ERASE"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ СТЕРЕТЬ"
 
 #. STRINGS.UI.TOOLS.ERASEREGION.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.ERASEREGION.TOOLNAME"
 msgid "Clear Region tool"
-msgstr ""
+msgstr "Инструмент Очистка зоны"
 
 #. STRINGS.UI.TOOLS.EXOSUITREGION.NAME
 msgctxt "STRINGS.UI.TOOLS.EXOSUITREGION.NAME"
 msgid "Drag to designate an exosuit region"
-msgstr ""
+msgstr "Выделите, чтобы обозначить зону экзокостюмов"
 
 #. STRINGS.UI.TOOLS.EXOSUITREGION.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.EXOSUITREGION.TOOLNAME"
 msgid "Exosuit Region tool"
-msgstr ""
+msgstr "Инструмент Зона Экзокостюмов"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.ALL
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.ALL"
 msgid "All"
-msgstr ""
+msgstr "Все"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS"
 msgid "Buildings"
-msgstr ""
+msgstr "Здания"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr ""
+msgstr "Задачи уборки мусора и вытирания жидкостей"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
 msgid "Dig Orders"
-msgstr ""
+msgstr "Задачи по земляным работам"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES"
 msgid "Gas Pipes"
-msgstr ""
+msgstr "Газопровод"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES"
 msgid "Liquid Pipes"
-msgstr ""
+msgstr "Водопровод"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.TILES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.TILES"
 msgid "Tiles"
-msgstr ""
+msgstr "Клетки"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.WIRES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
 msgid "Wires"
-msgstr ""
+msgstr "Провода"
 
 #. STRINGS.UI.TOOLS.GENERIC.BACK
 msgctxt "STRINGS.UI.TOOLS.GENERIC.BACK"
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME"
 msgid "Sweep"
-msgstr ""
+msgstr "Уборка мусора"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION"
 msgid "DRAG TO SWEEP"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ УБРАТЬ МУСОР"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLNAME"
 msgid "Sweep tool"
-msgstr ""
+msgstr "Инструмент Уборка мусора"
 
 #. STRINGS.UI.TOOLS.MOP.NAME
 msgctxt "STRINGS.UI.TOOLS.MOP.NAME"
 msgid "Mop"
-msgstr ""
+msgstr "Вытереть"
 
 #. STRINGS.UI.TOOLS.MOP.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MOP.TOOLACTION"
 msgid "DRAG TO MOP"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ ВЫТЕРЕТЬ"
 
 #. STRINGS.UI.TOOLS.MOP.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.MOP.TOOLNAME"
 msgid "Mop tool"
-msgstr ""
+msgstr "Инструмент Швабра"
 
 #. STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME"
 msgid "Prioritize"
-msgstr ""
+msgstr "Расстановка приоритетов"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.NAME"
 msgid "Prioritize"
-msgstr ""
+msgstr "Расстановка приоритетов"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.SPECIFIC_PRIORITY
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.SPECIFIC_PRIORITY"
 msgid "Set Priority: {0}"
-msgstr ""
+msgstr "Задать приоритет: {0}"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.TOOLACTION"
 msgid "DRAG TO PRIORITIZE"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ ЗАДАТЬ ПРИОРИТЕТ"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.TOOLNAME"
 msgid "Prioritize tool"
-msgstr ""
+msgstr "Инструмент Расстановки приоритетов"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.CREATETOOLTIP
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.CREATETOOLTIP"
 msgid "DRAG TO CREATE"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ СОЗДАТЬ"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.ERASETOOLTIP
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.ERASETOOLTIP"
 msgid "DRAG TO ERASE"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ СТЕРЕТЬ"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.MERGETOOLTIP
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.MERGETOOLTIP"
 msgid "DRAG TO MERGE"
-msgstr ""
+msgstr "ВЫДЕЛИТЕ, ЧТОБЫ ОБЪЕДИНИТЬ"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.NAME"
 msgid "Regions"
-msgstr ""
+msgstr "Зоны"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.TOOLNAME"
 msgid "Region tool"
-msgstr ""
+msgstr "Инструмент Зоны"
 
 #. STRINGS.UI.TOOLTIPS.ALERTSTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.ALERTSTOOLTIP"
 msgid "Alerts provide important information about what's happening to your colony right now"
-msgstr ""
+msgstr "Оповещения предоставляют важную информацию о том, что прямо сейчас происходит в Вашей колонии"
 
 #. STRINGS.UI.TOOLTIPS.ATTACKBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.ATTACKBUTTON"
 msgid "Drag to batch harvest mature plants"
-msgstr ""
+msgstr "Выделите, чтобы собрать урожай с нескольких растений"
 
 #. STRINGS.UI.TOOLTIPS.BASE_VALUE
 msgctxt "STRINGS.UI.TOOLTIPS.BASE_VALUE"
 msgid "Base Value"
-msgstr ""
+msgstr "Базовая величина"
 
 #. STRINGS.UI.TOOLTIPS.CANCELBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELBUTTON"
 msgid "Drag to cancel pending job tasks"
-msgstr ""
+msgstr "Выделите, чтобы отменить запланированные рабочие задачи"
 
 #. STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON"
 msgid "Cancel queued orders or deconstruct existing buildings"
-msgstr ""
+msgstr "Отменить запланированные приказы или деконструировать существующие здания"
 
 #. STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON"
 msgid "Mop and declutter messy floors"
-msgstr ""
+msgstr "Вытереть пол и убрать с него хлам"
 
 #. STRINGS.UI.TOOLTIPS.CLEARBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEARBUTTON"
 msgid "Drag to declutter floors and move resources into storage"
-msgstr ""
+msgstr "Выделите, чтобы убрать с пола хлам и перенести ресурсы в хранилища"
 
 #. STRINGS.UI.TOOLTIPS.CLOSETOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.CLOSETOOLTIP"
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 #. STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON"
 msgid "Drag to demolish buildings and refund their resources"
-msgstr ""
+msgstr "Выделите, чтобы разобрать здания и вернуть потраченные ресурсы"
 
 #. STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING"
 msgid "Displays decor values"
-msgstr ""
+msgstr "Отображает значения декора"
 
 #. STRINGS.UI.TOOLTIPS.DEPRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DEPRIORITIZEBUTTON"
 msgid "Drag to deprioritize dig and build tasks"
-msgstr ""
+msgstr "Выделите, чтобы снять приоритет с задач по земляным работам и строительству"
 
 #. STRINGS.UI.TOOLTIPS.DIGBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DIGBUTTON"
 msgid "Drag to set dig tasks and excavate resources"
-msgstr ""
+msgstr "Выделите, чтобы выставить задачи по проведению земляных работ и выкапыванию ресурсов"
 
 #. STRINGS.UI.TOOLTIPS.DISMISSMESSAGE
 msgctxt "STRINGS.UI.TOOLTIPS.DISMISSMESSAGE"
 msgid "Dismiss message"
-msgstr ""
+msgstr "Убрать сообщение"
 
 #. STRINGS.UI.TOOLTIPS.EDITNAME
 msgctxt "STRINGS.UI.TOOLTIPS.EDITNAME"
 msgid "Give this Duplicant a name"
-msgstr ""
+msgstr "Назовите этого Дупликанта"
 
 #. STRINGS.UI.TOOLTIPS.ENERGYGENERATED
 msgctxt "STRINGS.UI.TOOLTIPS.ENERGYGENERATED"
 msgid "<style=\"power\">Power</style> Produced"
-msgstr ""
+msgstr "<style=\"power\">Электричества</style> произведено"
 
 #. STRINGS.UI.TOOLTIPS.ENERGYREQUIRED
 msgctxt "STRINGS.UI.TOOLTIPS.ENERGYREQUIRED"
 msgid "<style=\"power\">Power</style> Required"
-msgstr ""
+msgstr "<style=\"power\">Электричества</style> требуется"
 
 #. STRINGS.UI.TOOLTIPS.ERASEREGIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.ERASEREGIONBUTTON"
 msgid "Drag to erase existing exosuit regions"
-msgstr ""
+msgstr "Выделите, чтобы удалить существующие зоны экзокостюмов"
 
 #. STRINGS.UI.TOOLTIPS.GASVENTOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.GASVENTOVERLAYSTRING"
 msgid "Displays and edits gas pipe systems"
-msgstr ""
+msgstr "Отображает и редактирует систему газопровода"
 
 #. STRINGS.UI.TOOLTIPS.HARVESTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.HARVESTBUTTON"
 msgid "Drag to batch harvest mature plants"
-msgstr ""
+msgstr "Выделите, чтобы собрать урожай с нескольких растений"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CEILING
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CEILING"
 msgid "Must be built on the ceiling"
-msgstr ""
+msgstr "Должно быть построено на потолке"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR"
 msgid "Must be built on the ground"
-msgstr ""
+msgstr "Должно быть построено на полу"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INSIDEGROUND
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INSIDEGROUND"
 msgid "Must be built in the ground"
-msgstr ""
+msgstr "Должно быть построено в полу"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED"
 msgid "Must be built in unoccupied space"
-msgstr ""
+msgstr "Должно быть построено в незанятом пространстве"
 
 #. STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY"
 msgid "Press <color=#833A5FFF>[O]</color> to Rotate."
-msgstr ""
+msgstr "Нажмите <color=#833A5FFF>[O]</color>, чтобы повернуть объект."
 
 #. STRINGS.UI.TOOLTIPS.INFOPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.INFOPANEL"
 msgid "The Info Panel contains an overview of the basic information about your Duplicant"
-msgstr ""
+msgstr "Панель Инфо содержит общую информацию о Ваших Дупликантах"
 
 #. STRINGS.UI.TOOLTIPS.ITEMSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.ITEMSPANEL"
 msgid "The Items Panel displays everything your Duplicant is in possession of"
-msgstr ""
+msgstr "Панель Предметы отображает все, чем владеет Ваш Дупликант"
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES"
 msgid "The following attributes affect a Duplicant's efficiency at this job:"
-msgstr ""
+msgstr "Следующие атрибуты влияют на то, насколько эффективно Дупликант выполняет свою работу:"
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK"
 msgid "{0} cannot perform this task."
-msgstr ""
+msgstr "{0} не может выполнить поставленную задачу"
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY"
 msgid "High priority jobs are performed before low priority jobs. A Duplicant will always continue work on their current job until it is complete, even if a higher priority job becomes available."
-msgstr ""
+msgstr "Задачи с высоким приоритетом всегда выполняются до задач с низким приоритетом. Дупликант всегда продолжает работать над текущей задачей до ее завершения, даже если в этот момент появилась новая задача с более высоким приоритетом."
 
 #. STRINGS.UI.TOOLTIPS.LIGHTSOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.LIGHTSOVERLAYSTRING"
 msgid "Displays the visibility radius of light sources"
-msgstr ""
+msgstr "Отображает радиус видимости источников света"
 
 #. STRINGS.UI.TOOLTIPS.LIQUIDVENTOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.LIQUIDVENTOVERLAYSTRING"
 msgid "Displays and edits liquid pipe systems"
-msgstr ""
+msgstr "Отображает и редактирует водопроводную систему"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT"
 msgid "View Daily Reports"
-msgstr ""
+msgstr "Просмотреть Ежедневные отчеты"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS"
 msgid "Manage Duplicants' job prioritizations"
-msgstr ""
+msgstr "Управление приоритетами рабочих задач Дупликантов"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH"
 msgid "Build a <style=\"light\">Research Station</style> to unlock"
-msgstr ""
+msgstr "Для разблокировки постройте <style=\"light\">Исследовательский центр</style>"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH"
 msgid "View Research Tree"
-msgstr ""
+msgstr "Просмотреть Древо Технологий"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE"
 msgid "Adjust the colony's timetable"
-msgstr ""
+msgstr "Настроить расписание колонии"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS"
 msgid "View Duplicants' vitals"
-msgstr ""
+msgstr "Просмотреть здоровье Дупликантов"
 
 #. STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP"
 msgid "Messages are events that have happened and tips to help you manage your colony"
-msgstr ""
+msgstr "Сообщения содержат информацию о произошедших событиях, а также советы по управлению колонией"
 
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS"
 msgid "Highest Stress: {0}"
-msgstr ""
+msgstr "Наибольший стресс: {0}"
 
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY"
 msgid "Calories Available: {0}"
-msgstr ""
+msgstr "Калорий доступно: {0}"
 
 #. STRINGS.UI.TOOLTIPS.MOPBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.MOPBUTTON"
 msgid "Drag to wipe up liquid messes"
-msgstr ""
+msgstr "Выделите, чтобы вытереть разлитые жидкости"
 
 #. STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP"
 msgid "Next message"
-msgstr ""
+msgstr "Следующее сообщение"
 
 #. STRINGS.UI.TOOLTIPS.NOMATERIAL
 msgctxt "STRINGS.UI.TOOLTIPS.NOMATERIAL"
 msgid "Not enough materials"
-msgstr ""
+msgstr "Недостаточно материалов"
 
 #. STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING"
 msgid "Displays ambient oxygen density"
-msgstr ""
+msgstr "Отображает концентрацию кислорода в окружающей среде"
 
 #. STRINGS.UI.TOOLTIPS.PAUSE
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSE"
 msgid "Pause simulation"
-msgstr ""
+msgstr "Приостановить симуляцию"
 
 #. STRINGS.UI.TOOLTIPS.PAUSEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSEBUTTON"
 msgid "Pause"
-msgstr ""
+msgstr "Пауза"
 
 #. STRINGS.UI.TOOLTIPS.PLAYBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PLAYBUTTON"
 msgid "Start"
-msgstr ""
+msgstr "Начать"
 
 #. STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING"
 msgid "Displays and edits power grids"
-msgstr ""
+msgstr "Отображает и редактирует электрическую сеть"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING"
 msgid "Displays task priority values"
-msgstr ""
+msgstr "Отображает приоритет задач"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid "Drag to bump job tasks up or down in importance"
-msgstr ""
+msgstr "Перетаскивайте рабочие задачи вверх или вниз для изменения их важности"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
 msgid "Drag to bump tasks up or down in importance"
-msgstr ""
+msgstr "Перетаскивайте задачи вверх или вниз для изменения их важности"
 
 #. STRINGS.UI.TOOLTIPS.RANDOMIZENAME
 msgctxt "STRINGS.UI.TOOLTIPS.RANDOMIZENAME"
 msgid "Randomize this Duplicant's name"
-msgstr ""
+msgstr "Выбрать случайное имя для этого Дупликанта"
 
 #. STRINGS.UI.TOOLTIPS.REACHABILITYOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.REACHABILITYOVERLAYSTRING"
 msgid "Displays areas accessible by Duplicants"
-msgstr ""
+msgstr "Отображает зоны, куда у Дупликантов есть доступ"
 
 #. STRINGS.UI.TOOLTIPS.RECIPE_QUEUE
 msgctxt "STRINGS.UI.TOOLTIPS.RECIPE_QUEUE"
 msgid "Queue 1 {0} for fabrication"
-msgstr ""
+msgstr "Поставить в очередь 1 {0} на производство"
 
 #. STRINGS.UI.TOOLTIPS.RECIPE_QUEUE_INFINITE
 msgctxt "STRINGS.UI.TOOLTIPS.RECIPE_QUEUE_INFINITE"
 msgid "Continuously fabricate {0} if resources are available"
-msgstr ""
+msgstr "Постоянно производить {0}, если есть доступные ресурсы"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT"
 msgid "Toggle Red Alert\nDuplicants will enter a state of emergency and ignore their basic needs to work"
-msgstr ""
+msgstr "Влючить\Выключить Тревогу\nПереводит Дупликантов в режим чрезвычайной ситуации - они будут работать, игнорируя свои базовые потребности"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF"
 msgid "Disable Red Alert"
-msgstr ""
+msgstr "Выключить Тревогу"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON"
 msgid "Enable Red Alert"
-msgstr ""
+msgstr "Включить Тревогу"
 
 #. STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING"
 msgid "Displays areas requiring Duplicant safety gear"
-msgstr ""
+msgstr "Отображает зоны, в которых Дупликантам необходимо защитное снаряжение"
 
 #. STRINGS.UI.TOOLTIPS.ROOMSOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.ROOMSOVERLAYSTRING"
 msgid "Displays fully enclosed rooms"
-msgstr ""
+msgstr "Отображает полностью замкнутые помещения"
 
 #. STRINGS.UI.TOOLTIPS.SELECTAMATERIAL
 msgctxt "STRINGS.UI.TOOLTIPS.SELECTAMATERIAL"
@@ -13834,172 +13834,172 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.SELECTREGIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.SELECTREGIONBUTTON"
 msgid "Click to select existing storage regions"
-msgstr ""
+msgstr "Нажмите для выбора существующих зон хранения"
 
 #. STRINGS.UI.TOOLTIPS.SORTCOLUMN
 msgctxt "STRINGS.UI.TOOLTIPS.SORTCOLUMN"
 msgid "Click to sort"
-msgstr ""
+msgstr "Нажмите для сортировки"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST"
 msgid "Fast speed {0}"
-msgstr ""
+msgstr "Высокая скорость {0}"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_MEDIUM
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_MEDIUM"
 msgid "Medium speed {0}"
-msgstr ""
+msgstr "Средняя скорость {0}"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_SLOW
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_SLOW"
 msgid "Slow speed {0}"
-msgstr ""
+msgstr "Низкая скорость {0}"
 
 #. STRINGS.UI.TOOLTIPS.STATSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.STATSPANEL"
 msgid "The Stats Panel gives an overview of your Duplicant's individual stats"
-msgstr ""
+msgstr "Панель Сведения предоставляет информацию об индивидуальных параметрах Ваших Дупликантов"
 
 #. STRINGS.UI.TOOLTIPS.STORAGEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.STORAGEMAINBUTTON"
 msgid "Create and manage exosuit regions"
-msgstr ""
+msgstr "Создание и управление зонами экзокостюмов"
 
 #. STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION
 msgctxt "STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION"
 msgid "Accommodate your Duplicant's needs to manage their <style=\"stress\">Stress</style>.\n\nLow <style=\"stress\">Stress</style> can provide a productivity boost, while high <style=\"stress\">Stress</style> can impair production or even lead to a nervous breakdown."
-msgstr ""
+msgstr "Удовлетворяйте потребности Ваших Дупликантов для воздействия на их уровень <style=\"stress\">Стресса</style>.\n\Низкий уровень <style=\"stress\">Стресса</style> может положительно сказаться на продуктивности, высокий же уровень <style=\"stress\">Стресса</style> может снизить продуктивность или даже привести к нервному срыву."
 
 #. STRINGS.UI.TOOLTIPS.STRESSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.STRESSPANEL"
 msgid "The Stress Panel offers an in detail look at what is affecting your Duplicant psychologically"
-msgstr ""
+msgstr "Панель Стресса предоставляет детализированную картину психологического состояния Ваших Дупликантов"
 
 #. STRINGS.UI.TOOLTIPS.TEMPERATUREOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.TEMPERATUREOVERLAYSTRING"
 msgid "Displays ambient temperature"
-msgstr ""
+msgstr "Отображает температуру окружающей среды"
 
 #. STRINGS.UI.TOOLTIPS.TOOLTIP_SEPERATOR
 msgctxt "STRINGS.UI.TOOLTIPS.TOOLTIP_SEPERATOR"
 msgid "\n----------\n"
-msgstr ""
+msgstr "\n----------\n"
 
 #. STRINGS.UI.TOOLTIPS.TRASHREGIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.TRASHREGIONBUTTON"
 msgid "Drag to create storage regions for materials"
-msgstr ""
+msgstr "Выделите, чтобы создать зон хранения материалов"
 
 #. STRINGS.UI.TOOLTIPS.UNPAUSE
 msgctxt "STRINGS.UI.TOOLTIPS.UNPAUSE"
 msgid "Unpause simulation"
-msgstr ""
+msgstr "Продолжить симуляцию"
 
 #. STRINGS.UI.TOOLTIPS.VITALSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.VITALSPANEL"
 msgid "The Vitals Panel monitors the status and well being of your Duplicant"
-msgstr ""
+msgstr "Панель Здоровья показывает статус и благополучие Дупликантов"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNEDTO"
 msgid "Assigned to: {0}"
-msgstr ""
+msgstr "Закреплено за: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.GENERAL_CURRENTASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.GENERAL_CURRENTASSIGNED"
 msgid "(Owner)"
-msgstr ""
+msgstr "(Владелец)"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGION
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGION"
 msgid "This {0} needs to be inside a {1} region"
-msgstr ""
+msgstr "Этот {0} должен быть в {1} зоне"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGIONS
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGIONS"
 msgid "This {0} needs to be inside one of the following regions: {1}"
-msgstr ""
+msgstr "Этот {0} должен быть в одной из следующих зон: {1}"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.TITLE"
 msgid "Assign {0}"
-msgstr ""
+msgstr "Назначен {0}"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.UNASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.UNASSIGNED"
 msgid "Unassigned"
-msgstr ""
+msgstr "Никто не назначен"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.CURRENTLY_EQUIPPED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.CURRENTLY_EQUIPPED"
 msgid "Currently Equipped:\n{0}"
-msgstr ""
+msgstr "В данный момент надето:\n{0}"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.NONE_EQUIPPED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.NONE_EQUIPPED"
 msgid "None"
-msgstr ""
+msgstr "Ничего"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE"
 msgid "Assign Duplicant"
-msgstr ""
+msgstr "Назначить Дупликанта"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CANCEL
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.COST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.COST"
 msgid "<b>Ingredients:</b>\n"
-msgstr ""
+msgstr "<b>Ингредиенты:</b>\n"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGENTANK
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGENTANK"
 msgid "Surface <style=\"equipment\">Oxygen Tank</style> (<style=\"produced\">{0}</style>)"
-msgstr ""
+msgstr "Надводный <style=\"equipment\">Кислородный баллон</style> (<style=\"produced\">{0}</style>)"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGENTANKUNDERWATER
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGENTANKUNDERWATER"
 msgid "Underwater <style=\"equipment\">Oxygen Tank</style> (<style=\"produced\">{0}</style>)"
-msgstr ""
+msgstr "Подводный <style=\"equipment\">Кислородный баллон</style> (<style=\"produced\">{0}</style>)"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.RESEARCHPOINT
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.RESEARCHPOINT"
 msgid "<style=\"research\">{0}</style>: <style=\"produced\">+1</style>"
-msgstr ""
+msgstr "<style=\"research\">{0}</style>: <style=\"produced\">+1</style>"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "ИНФОРМАЦИЯ"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG"
 msgid "- {0}: {1}\n"
-msgstr ""
+msgstr "- {0}: {1}\n"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPESELECTED
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPESELECTED"
 msgid "No recipe selected"
-msgstr ""
+msgstr "Рецепт не выбран"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPERQUIREMENT
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPERQUIREMENT"
 msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
-msgstr ""
+msgstr "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS"
 msgid "<b>Effects:</b>"
-msgstr ""
+msgstr "<b>Эффекты:</b>"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.SELECTRECIPE
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.SELECTRECIPE"
 msgid "Select a recipe to Fabricate"
-msgstr ""
+msgstr "Выберите предмет для Производства"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE"
