@@ -89,3 +89,4 @@
 * Novice Research - Базовое Исследование
 * Meal Lice - Мукоед
 * Mealwood - Мучное дерево
+* Liquid Pipe - Водопроводная труба
