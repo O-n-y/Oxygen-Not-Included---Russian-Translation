@@ -5669,6 +5669,7 @@ msgstr "Никола"
 #. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC"
 msgid "{0}s like to punch people to show their affection. Everyone's too afraid to tell them it sort of hurts."
+msgstr "Свою расположение к человеку {0}ы показывают своеобразно - ударами. Но их слишком боятся, чтобы сказать что вообще то это больно."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME"
