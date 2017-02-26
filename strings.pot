@@ -2454,17 +2454,17 @@ msgstr "Волгус"
 #. STRINGS.CREATURES.SPECIES.GRONEHOGMOUND.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GRONEHOGMOUND.DESC"
 msgid "The communal nesting ground of a Volgus herd."
-msgstr "Место коммунального гнездования стада Волгус."
+msgstr "Общее гнездовье стада Волгусов."
 
 #. STRINGS.CREATURES.SPECIES.GRONEHOGMOUND.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GRONEHOGMOUND.NAME"
 msgid "Volgus Den"
-msgstr "Логово Волгус"
+msgstr "Логово Волгусов"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.DESC"
 msgid "A nocturnal scavenging creature.\n\nIt will consume any minerals within reach that fit into its wide mouth."
-msgstr "Ночное существо-собиратель.\n\nБудет поглошать все минералы, в зоне досягаемости его широкого рта."
+msgstr "Ночное существо-собиратель.\n\nПожирает любые минералы, оказавшиеся в зоне досягаемости. Которые, конечно, могут поместиться в его широкую пасть."
 
 #. STRINGS.CREATURES.SPECIES.HATCH.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.NAME"
@@ -2529,12 +2529,12 @@ msgstr "Мистическое Яйцо"
 #. STRINGS.CREATURES.SPECIES.OILSPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OILSPOUT.DESC"
 msgid "A rocky vent that spouts crude oil."
-msgstr "Отверстие в земле, извергающее сырую нефть."
+msgstr "Скважина, извергающая сырую нефть."
 
 #. STRINGS.CREATURES.SPECIES.OILSPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILSPOUT.NAME"
 msgid "Oil Spout"
-msgstr "Масленное Рыльце"
+msgstr "Скважина Нефти"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC"
@@ -2554,142 +2554,142 @@ msgstr "Щитовик"
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC"
 msgid "A prickly, invasive weed that can be dug up and domesticated.\n\nSome find it quite pleasing to the eye."
-msgstr ""
+msgstr "Колючие, инвазивные сорняки. Могут быть выкопаны и культивированыю\n\nНекоторых находят их достаточно привлекательными."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DOMESTICATEDDESC"
 msgid "A prickly, invasive weed with an oddly aesthetic allure."
-msgstr ""
+msgstr "Колючий, инвазивный сорняк странно эстетически привлекательный."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.NAME"
 msgid "Bristle Briar"
-msgstr ""
+msgstr "Шиповник"
 
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC"
 msgid "A rocky vent that spouts propane."
-msgstr ""
+msgstr "Скважина, извергающая пропан."
 
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME"
 msgid "Propane Spout"
-msgstr ""
+msgstr "Скаважина Пропана"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.DESC"
 msgid "An extremely buoyant, non-aggressive species.\n\nThe Puft rids itself of excess pathogens by excreting lumps of slime with each breath."
-msgstr ""
+msgstr "Воздушный, неагрессивный вид.\n\nПуфы избавляются отизбыточных патогенов, выделяя комки слизи с каждым выдыхом."
 
 #. STRINGS.CREATURES.SPECIES.PUFT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.NAME"
 msgid "Puft"
-msgstr ""
+msgstr "Пуф"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Mealwood Tree</style>."
-msgstr ""
+msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Мучного Дерева</style>."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME"
 msgid "Mealwood Seed"
-msgstr ""
+msgstr "Семя Мучного Дерева"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Palmera Tree</style>."
-msgstr ""
+msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Дерева Пальмера</style>."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.NAME"
 msgid "Palmera Seed"
-msgstr ""
+msgstr "Семя Пальмеры"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Bristle Blossom</style>."
-msgstr ""
+msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Щитовика</style>."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME"
 msgid "Blossom Seed"
-msgstr ""
+msgstr "Семя Щитовика"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Bristle Briar</style>."
-msgstr ""
+msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Шиповника</style>."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME"
 msgid "Briar Seed"
-msgstr ""
+msgstr "Семя Шиповника"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Swamp Lily</style>."
-msgstr ""
+msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Болотной Лилии</style>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME"
 msgid "Swamp Lily Seed"
-msgstr ""
+msgstr "Семя Болотной Лилии"
 
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC"
 msgid "An exceptionally aggressive, insectoid species.\n\nIt has three specialized organs which discharge electrical shocks to stun prey."
-msgstr ""
+msgstr "Очень агрессивный вид насекомых.\n\nОбладает тремя специализированными создающих газоразрядные электрические удары для ошеломления добычи."
 
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.NAME"
 msgid "Shockworm"
-msgstr ""
+msgstr "Шоковый Червь"
 
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC"
 msgid "A rocky vent that spouts steam."
-msgstr ""
+msgstr "Скважина, извергающая пар."
 
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME"
 msgid "Steam Spout"
-msgstr ""
+msgstr "Скважина Пара"
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC"
 msgid "An elegant, warm climate <style=\"plant\">Plant</style> that can be dug up and agriculturally domesticated.\n\nIt produces long, fragrant leaves with natural medicinal properties."
-msgstr ""
+msgstr "Элегантное <style=\"plant\">Растение</style>,о битающее в теплом климате. Может быть выкопано и культивировано.\n\Отращивает длинные ароматные листья с лечебными свойствами."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC"
 msgid "An elegant, warm climate <style=\"plant\">Plant</style> that produces long, fragrant leaves with natural medicinal properties."
-msgstr ""
+msgstr "Элегантное <style=\"plant\">Растение</style>, обитающее в теплом климате, которое отращивает длинные ароматные листья с лечебными свойствами."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME"
 msgid "Swamp Lily"
-msgstr ""
+msgstr "Болотная Лилия"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER"
 msgid "Absorbing"
-msgstr ""
+msgstr "Абсорбирует"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.CONSUME_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.CONSUME_MODIFIER"
 msgid "Consuming"
-msgstr ""
+msgstr "Потребляет"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.NAME
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.NAME"
 msgid "Fertilization"
-msgstr ""
+msgstr "Удобряет"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.TOOLTIP"
 msgid "The amount of nutrition this <style=\"plant\">Plant</style> has absorbed"
-msgstr ""
+msgstr "Количество питательных веществ, накопленных этим <style=\"plant\">Растением</style>"
 
 #. STRINGS.CREATURES.STATS.HEALTH.NAME
 msgctxt "STRINGS.CREATURES.STATS.HEALTH.NAME"
@@ -2699,52 +2699,52 @@ msgstr "Здоровье"
 #. STRINGS.CREATURES.STATS.MATURITY.GROWING
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.GROWING"
 msgid "Domestic growth rate"
-msgstr ""
+msgstr "Темп культивированного созревания"
 
 #. STRINGS.CREATURES.STATS.MATURITY.GROWINGWILD
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.GROWINGWILD"
 msgid "Wild growth rate"
-msgstr ""
+msgstr "Темп созревания в дикой среде"
 
 #. STRINGS.CREATURES.STATS.MATURITY.NAME
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.NAME"
 msgid "Growth Progress"
-msgstr ""
+msgstr "Процесс Созревания"
 
 #. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP"
 msgid "Growth Progress\n----------\n"
-msgstr ""
+msgstr "Процесс Созревания\n----------\n"
 
 #. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_GROWING
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_GROWING"
 msgid "This <style=\"plant\">Plant</style> will reach maturity in approximately {0}"
-msgstr ""
+msgstr "Это <style=\"plant\">Растение</style> достигнет зрелости примерно через {0}"
 
 #. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_STALLED
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_STALLED"
 msgid "This <style=\"plant\">Plant</style> is not currently growing"
-msgstr ""
+msgstr "Это <style=\"plant\">Растение</style> сейчас не растет"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.NAME"
 msgid "Atmospheric pressure too low"
-msgstr ""
+msgstr "Атмосферное давление слишком низкое"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.TOOLTIP"
 msgid "A minimum pressure of {TargetPressure} is required"
-msgstr ""
+msgstr "Требуется минимальное атмосферное давление {TargetPressure}"
 
 #. STRINGS.CREATURES.STATUSITEMS.BARREN.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.NAME"
 msgid "Barren"
-msgstr ""
+msgstr "Бесплодный"
 
 #. STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP"
 msgid "This <style=\"plant\">Plant</style> cannot produce any more <style=\"seed\">Seed</style>"
-msgstr ""
+msgstr "Это <style=\"plant\">Растение</style> больше не может производить <style=\"seed\">Семян</style>"
 
 #. STRINGS.CREATURES.STATUSITEMS.BREATH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BREATH.NAME"
@@ -2754,137 +2754,137 @@ msgstr "Задыхается"
 #. STRINGS.CREATURES.STATUSITEMS.BREATH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BREATH.TOOLTIP"
 msgid "This creature is about to suffocate"
-msgstr ""
+msgstr "Это существо начинает задыхаться"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME"
 msgid "Burrowed"
-msgstr ""
+msgstr "Погребен"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWED.TOOLTIP"
 msgid "Shh! It thinks it's hiding"
-msgstr ""
+msgstr "Шшш! Оно думает, оно прячется"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWING.NAME"
 msgid "Burrowing"
-msgstr ""
+msgstr "Погребение"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWING.TOOLTIP"
 msgid "This creature is trying to hide"
-msgstr ""
+msgstr "Это существо пытается спрятаться"
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.NAME"
 msgid "Chilled ({InternalTemperature} / {TargetTemperature})"
-msgstr ""
+msgstr "Охлажденное ({InternalTemperature} / {TargetTemperature})"
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP"
 msgid "Internal temperature is dangerously low"
-msgstr ""
+msgstr "Внутренняя температура опасно низка"
 
 #. STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME"
 msgid "Tempted by lure"
-msgstr ""
+msgstr "Соблазнен приманкой"
 
 #. STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.TOOLTIP"
 msgid "This creature is tempted to bite a nearby lure"
-msgstr ""
+msgstr "Это существо собирается укусить соблазнившую его приманку"
 
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.NAME"
 msgid "Dead"
-msgstr ""
+msgstr "Мертв"
 
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP"
 msgid "This creature isn't getting back up"
-msgstr ""
+msgstr "Это существо уже не вернется"
 
 #. STRINGS.CREATURES.STATUSITEMS.DIGESTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DIGESTING.NAME"
 msgid "Digesting"
-msgstr ""
+msgstr "Переваривание"
 
 #. STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP"
 msgid "This creature is working off a big meal"
-msgstr ""
+msgstr "Это существо переваривает много пищи"
 
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME"
 msgid "Drowning"
-msgstr ""
+msgstr "Тонет"
 
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP"
 msgid "Insufficient <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "Недостаточно <style=\"oxygen\">Кислорода</style>"
 
 #. STRINGS.CREATURES.STATUSITEMS.EATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EATING.NAME"
 msgid "Eating"
-msgstr ""
+msgstr "Ест"
 
 #. STRINGS.CREATURES.STATUSITEMS.EATING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EATING.TOOLTIP"
 msgid "This creature found something tasty"
-msgstr ""
+msgstr "Это существо нашло что-то вкусненькое"
 
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME"
 msgid "Emerging"
-msgstr ""
+msgstr "Появление"
 
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP"
 msgid "This creature is leaving its burrow"
-msgstr ""
+msgstr "Это существо покидает свое укрытие"
 
 #. STRINGS.CREATURES.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENTOMBED.NAME"
 msgid "Entombed"
-msgstr ""
+msgstr "Погреблено"
 
 #. STRINGS.CREATURES.STATUSITEMS.ENTOMBED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENTOMBED.TOOLTIP"
 msgid "This creature is trapped and must be dug out"
-msgstr ""
+msgstr "Это существо в ловушке и должно быть выкопано"
 
 #. STRINGS.CREATURES.STATUSITEMS.ENVIRONMENTTOOCOLD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENVIRONMENTTOOCOLD.NAME"
 msgid "External temperature too low({ExternalTemperature} / {TargetTemperature})"
-msgstr ""
+msgstr "Внешняя температура слищком низкая({ExternalTemperature} / {TargetTemperature}"
 
 #. STRINGS.CREATURES.STATUSITEMS.ENVIRONMENTTOOCOLD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENVIRONMENTTOOCOLD.TOOLTIP"
 msgid "Cannot survive external temperature"
-msgstr ""
+msgstr "Не может выжить из-за внешней температуры"
 
 #. STRINGS.CREATURES.STATUSITEMS.ENVIRONMENTTOOWARM.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENVIRONMENTTOOWARM.NAME"
 msgid "External temperature too high({ExternalTemperature} / {TargetTemperature})"
-msgstr ""
+msgstr "Внешняя температура слишком высокая({ExternalTemperature} / {TargetTemperature})"
 
 #. STRINGS.CREATURES.STATUSITEMS.ENVIRONMENTTOOWARM.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENVIRONMENTTOOWARM.TOOLTIP"
 msgid "Cannot survive external temperature"
-msgstr ""
+msgstr "Не может выжить из-за внешней температуры"
 
 #. STRINGS.CREATURES.STATUSITEMS.FALLING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FALLING.NAME"
 msgid "Falling"
-msgstr ""
+msgstr "Падает"
 
 #. STRINGS.CREATURES.STATUSITEMS.FALLING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FALLING.TOOLTIP"
 msgid "This creature is in freefall"
-msgstr ""
+msgstr "Это существо находится в свободной падении"
 
 #. STRINGS.CREATURES.STATUSITEMS.FLEEING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.NAME"
@@ -2894,67 +2894,67 @@ msgstr "Убегает"
 #. STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP"
 msgid "This creature is trying to escape combat"
-msgstr ""
+msgstr "Это существо пытается избежать боя"
 
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.NAME"
 msgid "Fresh"
-msgstr ""
+msgstr "Свежее"
 
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP"
 msgid "Now would be a good time to eat this"
-msgstr ""
+msgstr "Сейчас хорошее время, чтобы съесть это"
 
 #. STRINGS.CREATURES.STATUSITEMS.GROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GROWING.NAME"
 msgid "Growing ({PercentGrow}%)"
-msgstr ""
+msgstr "Созревает ({PercentGrow}%)"
 
 #. STRINGS.CREATURES.STATUSITEMS.GROWING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GROWING.TOOLTIP"
 msgid "This <style=\"plant\">Plant</style> is thriving in its current conditions"
-msgstr ""
+msgstr "Это <style=\"plant\">Растение</style> процветает в текущих условиях"
 
 #. STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.NAME"
 msgid "Harvests Remaining: {HarvestsRemaining}"
-msgstr ""
+msgstr "Осталось Сбора Урожая: {HarvestsRemaining}"
 
 #. STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.TOOLTIP"
 msgid "This plant will yield {HarvestsRemaining} more harvests before it dies"
-msgstr ""
+msgstr "Это растение принесет еще {HarvestsRemaining} урожаев прежде чем умереть"
 
 #. STRINGS.CREATURES.STATUSITEMS.HATCHING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HATCHING.NAME"
 msgid "Hatching"
-msgstr ""
+msgstr "Вылупляется"
 
 #. STRINGS.CREATURES.STATUSITEMS.HATCHING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HATCHING.TOOLTIP"
 msgid "Here it comes!"
-msgstr ""
+msgstr "Вот он идет!"
 
 #. STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.NAME"
 msgid "Injuries: {healthState}"
-msgstr ""
+msgstr "Ранения: {healthState}"
 
 #. STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.TOOLTIP"
 msgid "Current physical status: {healthStateTooltip}"
-msgstr ""
+msgstr "Текущее физическое состояние: {healthStateTooltip"
 
 #. STRINGS.CREATURES.STATUSITEMS.HOT.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HOT.NAME"
 msgid "Overheated ({InternalTemperature} / {TargetTemperature})"
-msgstr ""
+msgstr "Перегрето ({InternalTemperature} / {TargetTemperature})"
 
 #. STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP"
 msgid "Internal temperature is dangerously high"
-msgstr ""
+msgstr "Внутренняя температура опасно высока"
 
 #. STRINGS.CREATURES.STATUSITEMS.IDLE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.IDLE.NAME"
@@ -2964,37 +2964,37 @@ msgstr "Бездейсвует"
 #. STRINGS.CREATURES.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.IDLE.TOOLTIP"
 msgid "Just enjoying life"
-msgstr ""
+msgstr "Просто наслажается жизнью"
 
 #. STRINGS.CREATURES.STATUSITEMS.INCUBATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.INCUBATING.NAME"
 msgid "Incubating"
-msgstr ""
+msgstr "Инкубация"
 
 #. STRINGS.CREATURES.STATUSITEMS.INCUBATING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.INCUBATING.TOOLTIP"
 msgid "The creature inside is gestating comfortably"
-msgstr ""
+msgstr "Сушество внутри вынашивается нормально"
 
 #. STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.NAME"
 msgid "Laying an egg"
-msgstr ""
+msgstr "Откладывает яйцо"
 
 #. STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.TOOLTIP"
 msgid "This creature is participating in the miracle of life"
-msgstr ""
+msgstr "Это существо участвует в чуде рождения жизни"
 
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME"
 msgid "Foraging"
-msgstr ""
+msgstr "Фуражирование"
 
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP"
 msgid "This creature is looking for food"
-msgstr ""
+msgstr "Это существо ищет еду"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
