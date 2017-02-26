@@ -9,6 +9,7 @@
 * henko:		3999-4997
 * Honcharuk:		4998-6000
 * Cores:		~~6004-7000~~,~~10019-11093~~,~~14009-15004~~,~~15004-15293~~
+* SealOfTheTime:	~~6999-7922~~, ~~7923-9019~~
 * Dr. RPgK:		~~11094-12004~~
 
 *зачеркнутый - переведенный*
@@ -78,4 +79,8 @@ http://steamcommunity.com/id/oniki/
 * Transporting - Транспортирует
 * Insulated Tile - Теплоизоляционный блок
 * Disease - Болезнь
-* Skill - Характеристика
+* Skill \ Attribute - Характеристика
+* Liquid Pipes - Водопроводные трубы
+* Novice Research - Базовое Исследование
+* Meal Lice - Мукоед
+* Mealwood - Мучное дерево
