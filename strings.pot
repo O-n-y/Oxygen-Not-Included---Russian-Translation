@@ -119,7 +119,7 @@ msgstr "Охлаждается"
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP"
 msgid "This building is cooling the surrounding area"
-msgstr "Это здание охлаждает окружающюю его область"
+msgstr "Это здание охлаждает окружающую его область"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO"
@@ -204,7 +204,7 @@ msgstr "Выделяет CO2: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.TOOLTIP"
 msgid "Producing CO2 at {FlowRate}"
-msgstr "Производит CO2 at {FlowRate}"
+msgstr "Производит CO2 со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.NAME"
@@ -214,7 +214,7 @@ msgstr "Выделяет {ElementType}: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.TOOLTIP"
 msgid "Producing {ElementType} at {FlowRate}"
-msgstr "Производит {ElementType} at {FlowRate}"
+msgstr "Производит {ElementType} со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME"
@@ -224,17 +224,17 @@ msgstr "Выделяет <style=\"gas\">{Element}</style>: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP"
 msgid "Producing <style=\"gas\">{Element}</style> at {FlowRate}"
-msgstr "Производит <style=\"gas\">{Element}</style> at {FlowRate}"
+msgstr "Производит <style=\"gas\">{Element}</style> со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME"
 msgid "Emitting Light"
-msgstr "Выделяет Свет"
+msgstr "Излучает Свет"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP"
 msgid "Open the Light Overlay [{LightGridOverlay}] to view this <style=\"light\">Свет</style>'s visibility radius"
-msgstr "Открыть оверлей Освещения [{LightGridOverlay}] чтобы посмотреть радиус <style=\"light\">Освещения</style> этого источника"
+msgstr "Открыть оверлей Освещения [{LightGridOverlay}], чтобы посмотреть радиус <style=\"light\">Освещения</style> этого источника"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME"
@@ -244,7 +244,7 @@ msgstr "Выделяет <style=\"oxygen\">Кислород</style>: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP"
 msgid "Producing <style=\"oxygen\">Oxygen</style> at {FlowRate}"
-msgstr "Producing <style=\"oxygen\">Кислород</style> со скоростью {FlowRate}"
+msgstr "Производит <style=\"oxygen\">Кислород</style> со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME"
@@ -359,12 +359,12 @@ msgstr "Газоотвод не работает при текущем давл�
 #. STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.NAME"
 msgid "Generator Idle"
-msgstr "Генератор бездейсвует"
+msgstr "Генератор бездействует"
 
 #. STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.TOOLTIP"
 msgid "This power source is idle"
-msgstr "Этот источник питания бездейсвует"
+msgstr "Этот источник питания бездействует"
 
 #. STRINGS.BUILDING.STATUSITEMS.GRAVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GRAVE.NAME"
@@ -399,22 +399,22 @@ msgstr "Нельзя построить в этом месте"
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.NAME"
 msgid "<style=\"power\">Power</style> Available: {JoulesAvailable}"
-msgstr "<style=\"power\">Энергии</style> доступно: {JoulesAvailable}"
+msgstr "Доступно <style=\"power\">Электричества</style> доступно: {JoulesAvailable}"
 
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP"
 msgid "{JoulesAvailable} of stored power available for use"
-msgstr "{JolesAvailable} из доступной энергии доступно для использования"
+msgstr "{JolesAvailable} из доступного для использования объема электричества"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME"
 msgid "Empty Pipe"
-msgstr "Пустая труба"
+msgstr "Труба Пуста"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.TOOLTIP"
 msgid "There is no <style=\"liquid\">Liquid</style> in the pipe"
-msgstr "В трубе нету <style=\"liquid\">жидкости</style>"
+msgstr "В трубе нет <style=\"liquid\">Жидкости</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.NAME"
@@ -424,7 +424,7 @@ msgstr "Не качает"
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.TOOLTIP"
 msgid "This pump is not active"
-msgstr "Эта помпа не активна"
+msgstr "Этот насос не активен"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME"
@@ -454,7 +454,7 @@ msgstr "Шедевр"
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.TOOLTIP"
 msgid "This poignant piece stirs something deep within Duplicants' souls"
-msgstr "Это прознительное произведение затрагивает что-то в глубине душ Дупликантов"
+msgstr "Это пронзительное произведение затрагивает что-то в глубине душ Дупликантов"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.NAME"
@@ -494,7 +494,7 @@ msgstr "Питает"
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.TOOLTIP"
 msgid "This <style=\"power\">Power</style> source is supplying <style=\"power\">Power</style> consumers"
-msgstr "Этот источник <style=\"power\">питания</style> поддерживает потребителей <style=\"power\">энергии</style>"
+msgstr "Этот источник <style=\"power\">Питания</style> поддерживает потребителей <style=\"power\">Электричества</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME"
@@ -524,7 +524,7 @@ msgstr "Необходимые материалы недоступны, или �
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP"
 msgid "Materials for this building are beyond reach or unavailable"
-msgstr "Материалы для этой постройки недоступный, или до них невозможно добраться"
+msgstr "Материалы для этой постройки недоступны, или до них невозможно добраться"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME"
@@ -564,7 +564,7 @@ msgstr "Отсутствует основание"
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
 msgid "Build Tiles beneath this building\n------------------\nTiles can be found in the Base Tab <color=#FF0000>(1)</color> of the Build Menu"
-msgstr "Постройте плиты под этой постройкой\n------------------\nПлиты могут быть найдены в Основной Вкладке <color=#FF0000>(1)</color> строительного меню"
+msgstr "Постройте блоки под этой постройкой\n------------------\nБлоки могут быть найдены в Основной Вкладке <color=#FF0000>(1)</color> Строительного Меню"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
@@ -574,7 +574,7 @@ msgstr "Требуется Мультитул"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP"
 msgid "A <style=\"equipment\">Multitool</style> is required to mine this material\n------------------\nMultitools can be made at Crafting Stations in the Stations Tab <color=#FF0000>(9)</style> of the Build Menu"
-msgstr "Требуется <style=\"equipment\">Мультитул</style>, чтобы выкопать это\n------------------\nОн может быть сделан на Верстаке из Производственной Секции<color=#FF0000>(9)</style> строительного меню"
+msgstr "Требуется <style=\"equipment\">Мультитул</style>, чтобы выкопать это\n------------------\nОн может быть сделан на Верстаке во вкладке \"Станции\" <color=#FF0000>(9)</style> Строительного Меню"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
@@ -584,7 +584,7 @@ msgstr "Нет поступления газа"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP"
 msgid "This building has nowhere to receive <style=\"gas\">Gas</style> from"
-msgstr "Этой постройки неоткуда получить <style=\"gas\">газ</style>"
+msgstr "Этой постройке неоткуда получить <style=\"gas\">газ</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME"
