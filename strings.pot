@@ -364,7 +364,7 @@ msgstr "Генератор бездействует"
 #. STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.TOOLTIP"
 msgid "This power source is idle"
-msgstr "Этот источник питания бездействует"
+msgstr "Этот источник электроэнергии бездействует"
 
 #. STRINGS.BUILDING.STATUSITEMS.GRAVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GRAVE.NAME"
@@ -484,7 +484,7 @@ msgstr "Заряжается"
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.TOOLTIP"
 msgid "This power source is being charged"
-msgstr "Этот источник питания заряжается"
+msgstr "Этот источник электроэнергии заряжается"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.NAME"
@@ -494,7 +494,7 @@ msgstr "Питает"
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.TOOLTIP"
 msgid "This <style=\"power\">Power</style> source is supplying <style=\"power\">Power</style> consumers"
-msgstr "Этот источник <style=\"power\">Питания</style> поддерживает потребителей <style=\"power\">Энергии</style>"
+msgstr "Этот источник <style=\"power\">Электроэнергии</style> поддерживает потребителей <style=\"power\">Электроэнергии</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME"
@@ -634,7 +634,7 @@ msgstr "Нет энергии"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP"
 msgid "All connected <style=\"power\">Power</style> sources have lost charge"
-msgstr "Все подсоединённые источники <style=\"power\">Питания</style> израсходовали заряд"
+msgstr "Все подсоединённые источники <style=\"power\">Электроэнергии</style> израсходовали заряд"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME"
