@@ -5329,7 +5329,7 @@ msgstr "Гарольд"
 #. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC"
 msgid "If someone says something nice to a {0} he'll think about it nonstop for no less than three weeks."
-msgstr ""
+msgstr "Если кто-нибудь скажет что-нибудь хорошее {0}у, он будет непрерывно думать об этом не меньше трех недель подряд."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME"
@@ -5339,7 +5339,7 @@ msgstr "Хассан"
 #. STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.DESC"
 msgid "This {0} is consumed by a deep, soulful weariness that no amount of sleep could possibly vanquish."
-msgstr ""
+msgstr "{0} снедает глубочайшая душевная утомленность и никакое количество здорового сна не смогут ее изгнать."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.NAME"
@@ -5349,7 +5349,7 @@ msgstr "Хидеки"
 #. STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.DESC"
 msgid "{0}s always feel as if someone is staring at them, although people rarely are."
-msgstr ""
+msgstr "{0} всегда кажется что кто-то на них смотрит, хотя на самом деле окружающие делают это крайне редко."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.NAME"
@@ -5359,7 +5359,7 @@ msgstr "Горацио"
 #. STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.DESC"
 msgid "This {0} can control a room with his exceptionally loud sneezes."
-msgstr ""
+msgstr "Силы, с какой чихает {0} хватает, чтобы господствовать над целым помещением."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.NAME"
@@ -5369,17 +5369,17 @@ msgstr "Горвард"
 #. STRINGS.DUPLICANTS.PERSONALITIES.HUGH.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HUGH.DESC"
 msgid "A {0} is truly a man stuck in the past. And in a space colony."
-msgstr ""
+msgstr "{0} человек, воистину застрявший в прошлом. И в космической колонии."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.HUGH.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HUGH.NAME"
 msgid "Hugh"
-msgstr "Хаг"
+msgstr "Хью"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.DESC"
 msgid "This {0} traps people in long conversations about her \"novel\", but she's never once sat down to actually write it."
-msgstr ""
+msgstr "{0} втягивает людей в пространные беседы о своем \"романе\", хотя на самом деле она его даже не начинала."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.NAME"
@@ -5389,7 +5389,7 @@ msgstr "Исаму"
 #. STRINGS.DUPLICANTS.PERSONALITIES.JACK.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JACK.DESC"
 msgid "A lifetime of running from his responsibilities has made this {0} emotionally impenetrable."
-msgstr ""
+msgstr "Эмоциональная броня {0}а непробиваема. Таким его сделало бегство от обязанностей длиной в жизнь."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JACK.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JACK.NAME"
@@ -5399,7 +5399,7 @@ msgstr "Джек"
 #. STRINGS.DUPLICANTS.PERSONALITIES.JASPER.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JASPER.DESC"
 msgid "{0}s just want to dance!"
-msgstr ""
+msgstr "{0}ы просто хотят танцевать!"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JASPER.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JASPER.NAME"
@@ -5409,7 +5409,7 @@ msgstr "Джаспер"
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC"
 msgid "{0}s are precious goobers. Other Duplicants are strangely incapable of cursing in a {0}'s presence."
-msgstr ""
+msgstr "Все {0} - милые лопухи. Странное дело, но остальные Дупликанты не могут ругаться, когда рядом с ними есть {0}."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME"
@@ -5419,7 +5419,7 @@ msgstr "Джошуа"
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.DESC"
 msgid "A {0} is admired by all for her seemingly tireless work ethic. Little do people know, she's dying on the inside."
-msgstr ""
+msgstr "Все восхищаются тому, насколько {0} неутомимый работник. Мало кто знает, что на самом деле еще немного, и {0} сорвется."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.NAME"
@@ -5429,7 +5429,7 @@ msgstr "Джози"
 #. STRINGS.DUPLICANTS.PERSONALITIES.KARL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KARL.DESC"
 msgid "Every single {0} has perpetually damp hands. It must be genetic."
-msgstr ""
+msgstr "У всякого {0}а постоянно влажные руки. Скорее всего это врожденное."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.KARL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KARL.NAME"
@@ -5439,7 +5439,7 @@ msgstr "Карл"
 #. STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.DESC"
 msgid "{0}s have trouble making eye contact in conversation, but no one really minds. They know she's listening."
-msgstr ""
+msgstr "Какая бы {0} ни была вашим собеседником, вам почти никогда не будут смотреть в глаза. Но не беда, {0} всегда внимательно слушает."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.NAME"
@@ -5449,7 +5449,7 @@ msgstr "Картина"
 #. STRINGS.DUPLICANTS.PERSONALITIES.LEAH.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEAH.DESC"
 msgid "There's nothing {0}s are more proud of than their thick, dignified eyebrows."
-msgstr ""
+msgstr "Всякая {0} больше всего на свете гордится своими густыми выдающимися бровями."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LEAH.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEAH.NAME"
@@ -5459,7 +5459,7 @@ msgstr "Лия"
 #. STRINGS.DUPLICANTS.PERSONALITIES.LENNY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LENNY.DESC"
 msgid "Dirt's great. Space's great. Everything's great, according to {0}s."
-msgstr ""
+msgstr "Спросите любого {0} и они вам скажут, что все круто. Сырая земля это круто, космос это круто - все круто."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LENNY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LENNY.NAME"
@@ -5469,7 +5469,7 @@ msgstr "Ленни"
 #. STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.DESC"
 msgid "This {0} picks his nose when he thinks no one's watching. Thankfully, he never eats it."
-msgstr ""
+msgstr "Когда {0} думает что никто не смотрит, он ковыряется в носу. Слава богу он ЭТО не ест."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.NAME"
@@ -5479,7 +5479,7 @@ msgstr "Лонгвей"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC"
 msgid "There's nothing a {0} can't do if she sets her mind to it."
-msgstr ""
+msgstr "Ничто ее не остановит, если уж {0} решила что-то сделать."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME"
@@ -5489,7 +5489,7 @@ msgstr "Мая"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAHA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAHA.DESC"
 msgid "{0}s always snort when they laugh. It's the worst."
-msgstr ""
+msgstr "Всякий {0} хрюкает, когда смеется. Всегда. Кошмар."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAHA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAHA.NAME"
@@ -5499,7 +5499,7 @@ msgstr "Маха"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.DESC"
 msgid "The \"cool loner\" vibes that radiate off a {0} never fail to make the colony swoon."
-msgstr ""
+msgstr "{0} излучает атмосферу \"крутого одиночки\". Вся колония в восторге."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.NAME"
@@ -5509,7 +5509,7 @@ msgstr "Мамору"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC"
 msgid "This {0} is positively glowing! What's her secret? Radioactive isotopes, of course."
-msgstr ""
+msgstr "{0} однозначно светится! В чем же ее секрет? В радиоактивных изотопах, разумеется."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME"
@@ -5519,7 +5519,7 @@ msgstr "Мария"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC"
 msgid "{0}es are painfully gullible, and other Duplicants like to take advantage of it every chance they get."
-msgstr ""
+msgstr "{0}ы ужасно доверчивы. Остальные Дупликанты пользуются этим при каждом удобном случае."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME"
@@ -5529,17 +5529,17 @@ msgstr "Макс"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.DESC"
 msgid "All of space is brightened by a {0}'s dazzling smile."
-msgstr ""
+msgstr "Светящаяся улыбка {0}а освещает все вокруг."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.NAME"
 msgid "McNair"
-msgstr "МакНеир"
+msgstr "МакНейр"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC"
 msgid "{0}s have a face only a twelve tonne DNA Replicator could love."
-msgstr ""
+msgstr "У {0}а такая рожа, полюбить которую может только двенадцатитонный ДНК-Репликатор."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME"
@@ -5549,7 +5549,7 @@ msgstr "Мип"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MELODY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MELODY.DESC"
 msgid "Who wants to hear the song this {0} wrote about her last breakup? ...Anyone?"
-msgstr ""
+msgstr "Кто хочет послушать песню, которую {0} написала после очередного расставания? ...Кто-нибудь?"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MELODY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MELODY.NAME"
@@ -5559,7 +5559,7 @@ msgstr "Мелоди"
 #. STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.DESC"
 msgid "{0}s love watching old black and white films, especially if they have robots in them."
-msgstr ""
+msgstr "{0} обожает смотреть черно-белые фильмы, особенно если в них есть роботы."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.NAME"
@@ -5569,7 +5569,7 @@ msgstr "Метродора"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.DESC"
 msgid "The world's a tad too complex for this here {0}, but good golly gosh if she doesn't try her darnedest."
-msgstr ""
+msgstr "Для {0} мир трошку сложноват будет, да ужо только она и старалась-то, старалась, ей-богу то старалась."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.NAME"
@@ -5579,7 +5579,7 @@ msgstr "Милдред"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC"
 msgid "Ol' {0} here can't stand lookin' at people's knees."
-msgstr ""
+msgstr "{0} терпеть не может, когда молодежь ходит с голыми коленями. Срам!"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME"
@@ -5589,7 +5589,7 @@ msgstr "Ми-Ма"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.DESC"
 msgid "One time a {0} declared herself mayor of the colony for a whole week and no one even questioned it."
-msgstr ""
+msgstr "Однажды {0} провозгласила себя мэром колонии на неделю. И никто не то что оспорил это решение - никто даже ничего не спросил."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.NAME"
@@ -5599,7 +5599,7 @@ msgstr "Минг-Мей"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MOON.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOON.DESC"
 msgid "A {0}'s monotonous voice and lack of facial expression make it impossible for others to tell when she's messing with them."
-msgstr ""
+msgstr "Монотонный голос и каменное выражения лица {0} несколько затрудняют общение. Никогда не поймешь - она всерьез или просто издевается."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MOON.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOON.NAME"
@@ -5609,7 +5609,7 @@ msgstr "Мун"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.DESC"
 msgid "World... too... bright...."
-msgstr ""
+msgstr "Мир... слишком... ярок..."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.NAME"
@@ -5619,7 +5619,7 @@ msgstr "Моццарелла"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.DESC"
 msgid "{0}s defy all labels."
-msgstr ""
+msgstr "{0} бросает вызов всем ярлыкам и стереотипам."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.NAME"
@@ -5629,7 +5629,7 @@ msgstr "Мистик"
 #. STRINGS.DUPLICANTS.PERSONALITIES.NADIA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NADIA.DESC"
 msgid "The burden of living is just too much for some people. Like this {0}, for instance."
-msgstr ""
+msgstr "Для некоторых людей непосильно бремя жизни самой по себе. Вот, например, {0} из таких людей."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NADIA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NADIA.NAME"
@@ -5639,7 +5639,7 @@ msgstr "Надя"
 #. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC"
 msgid "People usually expect a Duplicant named \"{0}\" to be tough, but they're all pretty huge wimps."
-msgstr ""
+msgstr "Люди думают, что Дуплкант по имени \"{0}\" будет суровым, но они все ужасные слабаки."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME"
@@ -5649,17 +5649,17 @@ msgstr "Нейлс"
 #. STRINGS.DUPLICANTS.PERSONALITIES.NEIL.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NEIL.DESC"
 msgid "{0}s generally like to wear strange and unusual hats to compensate for their total lack of personality."
-msgstr ""
+msgstr "{0}ы любят носит странные и необычные головные уборы, чтобы компенсировать полное отсутствие личных качеств."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NEIL.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NEIL.NAME"
 msgid "Neil"
-msgstr "Неил"
+msgstr "Нейл"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC"
 msgid "This {0} once claimed he could build a laser so powerful it would rip the colony in half. No one dared him to prove it."
-msgstr ""
+msgstr "{0} однажды заявил что он может построить лазер настолько мощный, что он разрежет колонию пополам. Никто не рискнул сказать чтобы {0} это доказал."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME"
@@ -5669,7 +5669,6 @@ msgstr "Никола"
 #. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC"
 msgid "{0}s like to punch people to show their affection. Everyone's too afraid to tell them it sort of hurts."
-msgstr ""
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME"
