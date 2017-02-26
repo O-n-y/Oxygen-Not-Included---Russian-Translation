@@ -59,7 +59,7 @@ msgstr "Сломано"
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
 msgid "This building was broken by a <style=\"stress\">Stressed</style> Duplicant\n\nIt must be repaired"
-msgstr "Это здание было сломано в результате <style=\"stress\">Стреса</style> Дупликантом\n\nНеобходима починка"
+msgstr "Это здание было сломано в результате <style=\"stress\">Стресса</style> Дупликантом\n\nНеобходима починка"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
