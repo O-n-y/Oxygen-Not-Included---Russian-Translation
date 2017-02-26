@@ -7074,7 +7074,7 @@ msgstr "Доставляет ресурсы к {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "Этот Дупликант переносит материалы в {Target}"
+msgstr "Этот Дупликант транспортирует материалы в {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.NAME"
@@ -7094,7 +7094,7 @@ msgstr "Доставляет ресурсы в {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "Этот Дупликант переносит материалы в {Target}"
+msgstr "Этот Дупликант транспортирует материалы в {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.NAME"
@@ -7164,7 +7164,7 @@ msgstr "Доставляет ресурсы к {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "Этот Дупликант переносит материалы к {Target}"
+msgstr "Этот Дупликант транспортирует материалы к {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.NAME"
@@ -7204,7 +7204,7 @@ msgstr "Доставляет ресурсы в {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "Этот Дупликант переносит материалы в {Target}"
+msgstr "Этот Дупликант транспортирует материалы в {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.NAME"
@@ -7214,7 +7214,7 @@ msgstr "Доставляет ресурсы в {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "Этот Дупликант переносит материалы в {Target}"
+msgstr "Этот Дупликант транспортирует материалы в {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.NAME"
@@ -7224,7 +7224,7 @@ msgstr "Доставляет ресурсы в {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "Этот Дупликант переносит материалы в {Target}""
+msgstr "Этот Дупликант транспортирует материалы в {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.NAME"
@@ -7234,7 +7234,7 @@ msgstr "Переносит {Item} в {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is delivering {Item} resources to a construction task to build {Target}"
-msgstr "Этот Дупликант тащит {Item} на строительство {Target}"
+msgstr "Этот Дупликант доставляет {Item} для строительства {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME"
@@ -7244,7 +7244,7 @@ msgstr "Доставляет ресурсы в {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "Этот Дупликант переносит материалы в {Target}"
+msgstr "Этот Дупликант транспортирует материалы в {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORING.NAME"
@@ -7274,7 +7274,7 @@ msgstr "Колония испытывает проблемы с лишним <st
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.TOOLTIP"
 msgid "This Duplicant is feeling the <style=\"stress\">Stress</style>"
-msgstr "Этот Дупликант испытывает <style=\"stress\">стресс</style>"
+msgstr "Этот Дупликант испытывает <style=\"stress\">Стресс</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NAME"
@@ -7309,12 +7309,12 @@ msgstr "Рвота на нервной почве"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants became too <style=\"stress\">Stress</style> and it caused them to throw up:"
-msgstr "Эти Дупликанты были слишком <style=\"stress\">взволнованны</style>", это вызвало рвоту:
+msgstr "Эти Дупликанты были слишком <style=\"stress\">взволнованны</style>", это вызвало рвоту:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP"
 msgid "This Duplicant is releasing their <style=\"stress\">Stress</style> all over the floor"
-msgstr "Этот Дупликант извергает весь его <style=\"stress\">стресс</style> прямо на пол"
+msgstr "Этот Дупликант извергает весь его <style=\"stress\">Стресс</style> прямо на пол"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NAME"
@@ -7354,7 +7354,7 @@ msgstr "Доставляет ресурсы в {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "Этот Дупликант переносит материалы в {Target}"
+msgstr "Этот Дупликант транспортирует материалы в {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.NAME"
@@ -7404,7 +7404,7 @@ msgstr "Доставляет ресурсы в {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "Этот Дупликант переносит материалы в {Target}"
+msgstr "Этот Дупликант транспортирует материалы в {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NAME"
@@ -7444,7 +7444,7 @@ msgstr "Доставляет ресурсы в {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
-msgstr "Этот Дупликант переносит материалы в {Target}"
+msgstr "Этот Дупликант транспортирует материалы в {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.NAME"
@@ -7894,7 +7894,7 @@ msgstr "Уголь"
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic, atomically heavy chemical compound in a <style=\"gas\">Gaseous</style> state.\n\nCarbon Dioxide tends to sink below other gases."
-msgstr "(CO2) Токсичное тяжелое химическое соединение в <style=\"gas\">Газообразном</style> состоянии.\n\nУглекислому газу свойственно опускаться ниже других газов."
+msgstr "(CO2) Токсичный, атомарно тяжелый химический компонент в <style=\"gas\">Газообразном</style> состоянии.\n\nУглекислому газу свойственно опускаться ниже других газов."
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
@@ -7914,7 +7914,7 @@ msgstr "Углеродные нити"
 #. STRINGS.ELEMENTS.CARBONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.DESC"
 msgid "(C) An abundant, versatile element heated into a <style=\"gas\">Gaseous</style> state."
-msgstr "(C) Распространенный гибкий элемент, нагретый до <style=\"gas\">Газообразного</style> состояния"
+msgstr "(C) Распространенный жлемент, нагретый до <style=\"gas\">Газообразного</style> состояния"
 
 #. STRINGS.ELEMENTS.CARBONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.NAME"
@@ -7924,752 +7924,752 @@ msgstr "Уголь"
 #. STRINGS.ELEMENTS.CHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINE.DESC"
 msgid "(Cl) An extremely toxic element in a <style=\"solid\">Solid</style> state."
-msgstr "(Cl) Невероятно токсичный <style=\"solid\">Твердый</style> элемент"
+msgstr ""
 
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
 msgid "Chlorine"
-msgstr "Хлорин"
+msgstr ""
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
 msgid "(Cl) An extremely toxic chemical in a <style=\"gas\">Gaseous</style> state."
-msgstr "(Cl) Невероятно токсичный <style=\"gas\">Газ</style>"
+msgstr ""
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
 msgid "Chlorine"
-msgstr "Хлорин"
+msgstr ""
 
 #. STRINGS.ELEMENTS.CLAY.DESC
 msgctxt "STRINGS.ELEMENTS.CLAY.DESC"
 msgid "A soft, naturally occurring composite of stone and soil that hardens at high <style=\"heat\">Temperatures</style>.\n\nClay is a reliable <style=\"RawMineral\">Construction Material</style>."
-msgstr "Мягкая, естественная смесь камня и почвы, которая становится тверже при высокой <style=\"heat\">Температуре</style>.\n\nГлина это надежный <style=\"RawMineral\">Строительный Материал</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.CLAY.NAME
 msgctxt "STRINGS.ELEMENTS.CLAY.NAME"
 msgid "Clay"
-msgstr "Глина"
+msgstr ""
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC"
 msgid "(O2) A vehicle of airborne <style=\"disease\">Disease</style>.\n\nBreathable."
-msgstr "(O2) Надежный путь для <style=\"disease\">Болезней</style>, передающихся воздушно-капельным путем\n\nМожно дышать"
+msgstr ""
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "Contaminated Oxygen"
-msgstr "Загрязненный Кислород"
+msgstr ""
 
 #. STRINGS.ELEMENTS.COPPER.DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style>.\n\nCopper is suitable for building <style=\"power\">Power</style> systems."
-msgstr "(Cu) Проводящий <style=\"RawMEtal\">Металл</style>.\n\nМедь отлично подходит для постройки <style=\"power\">Электрических</style> сетей"
+msgstr ""
 
 #. STRINGS.ELEMENTS.COPPER.NAME
 msgctxt "STRINGS.ELEMENTS.COPPER.NAME"
 msgid "Copper"
-msgstr "Медь"
+msgstr ""
 
 #. STRINGS.ELEMENTS.COPPERGAS.DESC
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style> heated into a <style=\"gas\">Gas</style>."
-msgstr "(Cu) Проводящий <style=\"RawMetal\">Металл</style> нагретый до <style=\"gas\">Газообразного</style> состояния."
+msgstr ""
 
 #. STRINGS.ELEMENTS.COPPERGAS.NAME
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.NAME"
 msgid "Copper"
-msgstr "Медь"
+msgstr ""
 
 #. STRINGS.ELEMENTS.CRUDEOIL.DESC
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.DESC"
 msgid "A raw <style=\"power\">Power</style> source composed of billions of dead, primordial organisms."
-msgstr "Сырой источник <style=\"power\">энергии</style>, состоящий из миллиардов мертвых, первозданных организмов."
+msgstr ""
 
 #. STRINGS.ELEMENTS.CRUDEOIL.NAME
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.NAME"
 msgid "Crude Oil"
-msgstr "Нефть"
+msgstr ""
 
 #. STRINGS.ELEMENTS.CRUSHEDICE.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.DESC"
 msgid "(H20) A slush of crushed, semi-solid ice."
-msgstr "(H2O) Смесь крошёного льда и воды."
+msgstr ""
 
 #. STRINGS.ELEMENTS.CRUSHEDICE.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
 msgid "Crushed Ice"
-msgstr "Дроблёный Лёд"
+msgstr ""
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.DESC"
 msgid "<style=\"solid\">Igneous Rock</style> crushed into a mechanical mixture."
-msgstr "<style=\"solid\">Вулканическая Порода</style> перемолотая в механическую смесь."
+msgstr ""
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.NAME"
 msgid "Crushed Rock"
-msgstr "Дроблёный Камень"
+msgstr ""
 
 #. STRINGS.ELEMENTS.CUPRITE.DESC
 msgctxt "STRINGS.ELEMENTS.CUPRITE.DESC"
 msgid "(Cu20) A conductive <style=\"RawMetal\">Metal</style>.\n\nCopper ore is suitable for building <style=\"power\">Power</style> systems."
-msgstr "(Cu2O) Проводящий <style=\"RawMetal\">Металл</style>.\n\nМедная руда отличино подходит для создания <style=\"power\">Электрических</style> сетей."
+msgstr ""
 
 #. STRINGS.ELEMENTS.CUPRITE.NAME
 msgctxt "STRINGS.ELEMENTS.CUPRITE.NAME"
 msgid "Copper Ore"
-msgstr "Медная Руда"
+msgstr ""
 
 #. STRINGS.ELEMENTS.DIAMOND.DESC
 msgctxt "STRINGS.ELEMENTS.DIAMOND.DESC"
 msgid "(C) Industrial-grade, high density carbon.\n\nVery difficult to excavate."
-msgstr "(C) Углерод промышленного класса с высокой плотностью\n\nОчень трудно выкопать."
+msgstr ""
 
 #. STRINGS.ELEMENTS.DIAMOND.NAME
 msgctxt "STRINGS.ELEMENTS.DIAMOND.NAME"
 msgid "Diamond"
-msgstr "Алмаз"
+msgstr ""
 
 #. STRINGS.ELEMENTS.DIRT.DESC
 msgctxt "STRINGS.ELEMENTS.DIRT.DESC"
 msgid "A soft, nutrient-rich substance capable of supporting life.\n\nNecessary in some forms of <style=\"food\">Food</style> production."
-msgstr "Мягкая, питательная смесь, способная поддерживать жизнь растений и не только.\n\nНеобходима в производстве некоторых типов <style=\"food\">Еды</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.DIRT.NAME
 msgctxt "STRINGS.ELEMENTS.DIRT.NAME"
 msgid "Dirt"
-msgstr "Земля"
+msgstr ""
 
 #. STRINGS.ELEMENTS.DIRTYICE.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.DESC"
 msgid "Toxic water frozen into a <style=\"solid\">Solid</style> state."
-msgstr "Токсичная вода, замороженная до <style=\"solid\">Твёрдого</style> состояния"
+msgstr ""
 
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
 msgid "Contaminated Ice"
-msgstr "Загрязненный Лёд"
+msgstr ""
 
 #. STRINGS.ELEMENTS.DIRTYWATER.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.DESC"
 msgid "<style=\"disease\">Disease</style> infested <style=\"liquid\">Water</style>, not fit for consumption."
-msgstr "<style=\"liquid\">Вода</style>, заполненная опасными <style=\"disease\">Микроорганизмами</style>, не подходит для использования."
+msgstr ""
 
 #. STRINGS.ELEMENTS.DIRTYWATER.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.NAME"
 msgid "Contaminated Water"
-msgstr "Загрязнённая Вода"
+msgstr ""
 
 #. STRINGS.ELEMENTS.ELECTRUM.DESC
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.DESC"
 msgid "A conductive <style=\"RawMetal\">Metal</style> alloy composed of gold and silver.\n\nElectrum is suitable for building <style=\"power\">Power</style> systems."
-msgstr "Проводящий <style=\"RawMetal\">Металлический</style> сплав из золота и серебра.\n\nЭлектрум отлично подходит для создания <style=\"power\">Электрических</style> сетей."
+msgstr ""
 
 #. STRINGS.ELEMENTS.ELECTRUM.NAME
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.NAME"
 msgid "Electrum"
-msgstr "Электрум"
+msgstr ""
 
 #. STRINGS.ELEMENTS.ELEMENTDESCGAS
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCGAS"
 msgid "Resource Type: {0}\nCondensation point: {1}"
-msgstr "Тип: {0}\nТочка росы: {1}"
+msgstr ""
 
 #. STRINGS.ELEMENTS.ELEMENTDESCLIQUID
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCLIQUID"
 msgid "Resource Type: {0}\nFreezing point: {1}\nEvaporation point: {2}"
-msgstr "Тип: {0}\nТочка замерзания: {1}\nТочка кипения: {2}"
+msgstr ""
 
 #. STRINGS.ELEMENTS.ELEMENTDESCSOLID
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCSOLID"
 msgid "Resource Type: {0}\nMelting point: {1}\nHardness: {2}"
-msgstr "Тип: {0}\nТочка кипения: {1}\nПрочность: {2}"
+msgstr ""
 
 #. STRINGS.ELEMENTS.ELEMENTDESCVACUUM
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCVACUUM"
 msgid "Resource Type: {0}"
-msgstr "Тип: {0}"
+msgstr ""
 
 #. STRINGS.ELEMENTS.ELEMENTPROPERTIES
 msgctxt "STRINGS.ELEMENTS.ELEMENTPROPERTIES"
 msgid "Properties: {0}"
-msgstr "Свойства: {0}"
+msgstr ""
 
 #. STRINGS.ELEMENTS.FERTILIZER.DESC
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.DESC"
 msgid "A processed mixture of biological nutrients.\n\nFertilizer aids in the growth of some <style=\"plant\">Plants</style>."
-msgstr "Обработанная смесь биологических веществ.\n\nУдобрение помогает росту некоторых style=\"plant\">Растений</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.FERTILIZER.NAME
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
 msgid "Fertilizer"
-msgstr "Удобрение"
+msgstr ""
 
 #. STRINGS.ELEMENTS.FOOLSGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.DESC"
 msgid "(FeS2) A conductive <style=\"RawMetal\">Metal</style>.\n\nPyrite, also known as \"Fool's Gold\", is suitable for building <style=\"power\">Power</style> systems."
-msgstr "(FeS2) Проводящий <style=\"RawMetal\">Металл</style>.\n\nПирит, также известный как \"Золото Дураков\" подходит для создания <style=\"power\">Электрических</style> сетей."
+msgstr ""
 
 #. STRINGS.ELEMENTS.FOOLSGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.NAME"
 msgid "Pyrite"
-msgstr "Пирит"
+msgstr ""
 
 #. STRINGS.ELEMENTS.GOLD.DESC
 msgctxt "STRINGS.ELEMENTS.GOLD.DESC"
 msgid "(Au) A conductive precious <style=\"RawMetal\">Metal</style>.\n\nGold is suitable for building <style=\"power\">Power</style> systems."
-msgstr "(Au) Идеальный <style=\"RawMetal\">Металлический</style> проводник.\n\nЗолото подходит для создания <style=\"power\">Электрических</style> сетей."
+msgstr ""
 
 #. STRINGS.ELEMENTS.GOLD.NAME
 msgctxt "STRINGS.ELEMENTS.GOLD.NAME"
 msgid "Gold"
-msgstr "Золото"
+msgstr ""
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.DESC"
 msgid "A conductive amalgam of gold and mercury.\n\nGold Amalgam is suitable for building <style=\"power\">Power</style> systems."
-msgstr "Проводящая смесь золота и ртути.\n\nЗолотая Амальгама подходит для создания <style=\"power\">Электрических</style> сетей."
+msgstr ""
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.NAME"
 msgid "Gold Amalgam"
-msgstr "Золотая Амальгама"
+msgstr ""
 
 #. STRINGS.ELEMENTS.GOLDGAS.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.DESC"
 msgid "(Au) A conductive precious <style=\"RawMetal\">Metal</style>, heated into a <style=\"gas\">Gas</style>."
-msgstr "(Au) Идеальный <style=\"RawMetal\">Металлический</style> проводник, нагретый до <style=\"gas\">Газообразного</style> состояния"
+msgstr ""
 
 #. STRINGS.ELEMENTS.GOLDGAS.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.NAME"
 msgid "Gold"
-msgstr "Золото"
+msgstr ""
 
 #. STRINGS.ELEMENTS.GRANITE.DESC
 msgctxt "STRINGS.ELEMENTS.GRANITE.DESC"
 msgid "A dense composite of <style=\"RawMineral\">Igneous Rock</style>.\n\nGranite is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr "Плотный композит из <style=\"RawMineral\">Вулканической Породы</style>.\n\nГранити используется как <style=\"RawMineral\">Строительный материал</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.GRANITE.NAME
 msgctxt "STRINGS.ELEMENTS.GRANITE.NAME"
 msgid "Granite"
-msgstr "Гранит"
+msgstr ""
 
 #. STRINGS.ELEMENTS.HARDNESS.FIRM
 msgctxt "STRINGS.ELEMENTS.HARDNESS.FIRM"
 msgid "{0} (Firm)"
-msgstr "{0} (Крепкий)"
+msgstr ""
 
 #. STRINGS.ELEMENTS.HARDNESS.IMPENETRABLE
 msgctxt "STRINGS.ELEMENTS.HARDNESS.IMPENETRABLE"
 msgid "{0} (Impenetrable)"
-msgstr "{0} (Непробиваемый)"
+msgstr ""
 
 #. STRINGS.ELEMENTS.HARDNESS.NA
 msgctxt "STRINGS.ELEMENTS.HARDNESS.NA"
 msgid "N/A"
-msgstr "Неизвестно"
+msgstr ""
 
 #. STRINGS.ELEMENTS.HARDNESS.NEARLYIMPENETRABLE
 msgctxt "STRINGS.ELEMENTS.HARDNESS.NEARLYIMPENETRABLE"
 msgid "{0} (Nearly Impenetrable)"
-msgstr "{0} (Почти непробиваемый)"
+msgstr ""
 
 #. STRINGS.ELEMENTS.HARDNESS.SOFT
 msgctxt "STRINGS.ELEMENTS.HARDNESS.SOFT"
 msgid "{0} (Soft)"
-msgstr "{0} (Мягкий)"
+msgstr ""
 
 #. STRINGS.ELEMENTS.HARDNESS.VERYFIRM
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYFIRM"
 msgid "{0} (Very Firm)"
-msgstr "{0} (Очень Крепкий)"
+msgstr ""
 
 #. STRINGS.ELEMENTS.HARDNESS.VERYSOFT
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYSOFT"
 msgid "{0} (Very Soft)"
-msgstr "{0} (Очень Мягкий)"
+msgstr ""
 
 #. STRINGS.ELEMENTS.HELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.HELIUM.DESC"
 msgid "(He) An atomically lightweight, chemical <style=\"gas\">Gas</style>."
-msgstr "(He) Легкий <style=\"gas\">газ</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.HELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.HELIUM.NAME"
 msgid "Helium"
-msgstr "Гелий"
+msgstr ""
 
 #. STRINGS.ELEMENTS.HYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.DESC"
 msgid "(H) The universe's most common and atomically light element in a <style=\"gas\">Gaseous</style> state."
-msgstr "(H) Наиболее распространённый и легкий <style=\"gas\">Газ</style> во вселенной."
+msgstr ""
 
 #. STRINGS.ELEMENTS.HYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr "Водород"
+msgstr ""
 
 #. STRINGS.ELEMENTS.ICE.DESC
 msgctxt "STRINGS.ELEMENTS.ICE.DESC"
 msgid "(H20) Clean water frozen into a <style=\"solid\">Solid</style> state."
-msgstr "(H2O) Чистая вода, замороженная до <style=\"solid\">Твёрдого</style> состояния."
+msgstr ""
 
 #. STRINGS.ELEMENTS.ICE.NAME
 msgctxt "STRINGS.ELEMENTS.ICE.NAME"
 msgid "Ice"
-msgstr "Лёд"
+msgstr ""
 
 #. STRINGS.ELEMENTS.IGNEOUSROCK.DESC
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.DESC"
 msgid "A composite of solidified volcanic rock.\n\nIgneous Rock is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr "Смесь затвердевших вулканических пород.\n\nВулканическая Порода полезна в качестве <style=\"RawMineral\">Строительного Материала</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.IGNEOUSROCK.NAME
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.NAME"
 msgid "Igneous Rock"
-msgstr "Вулканическая Порода"
+msgstr ""
 
 #. STRINGS.ELEMENTS.IRON.DESC
 msgctxt "STRINGS.ELEMENTS.IRON.DESC"
 msgid "(Fe) A common industrial <style=\"RawMetal\">Metal</style>."
-msgstr "(Fe) Распространенный промышленный <style=\"RawMetal\">Металл</style>"
+msgstr ""
 
 #. STRINGS.ELEMENTS.IRON.NAME
 msgctxt "STRINGS.ELEMENTS.IRON.NAME"
 msgid "Iron"
-msgstr "Железо"
+msgstr ""
 
 #. STRINGS.ELEMENTS.IRONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.IRONGAS.DESC"
 msgid "(Fe) A common industrial <style=\"RawMetal\">Metal</style>, heated into a <style=\"gas\">Gas</style>."
-msgstr "(Fe) Распространенный промышленный <style=\"RawMetal\">Металл</style>, нагретый до <style=\"gas\">газообразного</style> состояния."
+msgstr ""
 
 #. STRINGS.ELEMENTS.IRONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.IRONGAS.NAME"
 msgid "Iron"
-msgstr "Железо"
+msgstr ""
 
 #. STRINGS.ELEMENTS.IRONINGOT.DESC
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.DESC"
 msgid "Refined <style=\"RawMetal\">Iron Ore</style>."
-msgstr "Переработанная <style=\"RawMetal\">Железная Руда</style>"
+msgstr ""
 
 #. STRINGS.ELEMENTS.IRONINGOT.NAME
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.NAME"
 msgid "Iron"
-msgstr "Железо"
+msgstr ""
 
 #. STRINGS.ELEMENTS.IRONORE.DESC
 msgctxt "STRINGS.ELEMENTS.IRONORE.DESC"
 msgid "(Fe) A soft <style=\"RawMetal\">Metal</style> that can be strengthened for industrial purposes via smelting.\n\nIron Ore is suitable for building <style=\"power\">Power</style> systems."
-msgstr "(Fe) Мягкий <style=\"RawMetal\">Металл</style>, который путём переплавки может быть укреплен для промышленных целей.\n\nЖелезная Руда отлично подходит для создания <style=\"power\">Электрических</style> сетей."
+msgstr ""
 
 #. STRINGS.ELEMENTS.IRONORE.NAME
 msgctxt "STRINGS.ELEMENTS.IRONORE.NAME"
 msgid "Iron Ore"
-msgstr "Железная Руда"
+msgstr ""
 
 #. STRINGS.ELEMENTS.KATAIRITE.DESC
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.DESC"
 msgid "(Ab) A resilient, crystalline element."
-msgstr "(Ab) Упругий, кристаллический элемент."
+msgstr ""
 
 #. STRINGS.ELEMENTS.KATAIRITE.NAME
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.NAME"
 msgid "Abyssalite"
-msgstr "Абиссалит"
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic chemical compound in a <style=\"liquid\">Liquid</style> state."
-msgstr "(CO2) Токсичное химическое соединение в <style=\"liquid\">Жидком</style> состоянии."
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr "Углекислый Газ"
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.DESC"
 msgid "(He) An atomically lightweight chemical element cooled into a <style=\"liquid\">Liquid</style> state."
-msgstr "(He) Легкий химический элемент, охлажденный до <style=\"liquid\">Жидкого</style> состояния."
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.NAME"
 msgid "Helium"
-msgstr "Гелий"
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC"
 msgid "(H) A chemical <style=\"liquid\">Liquid</style>.\n\nFreezes most substances that come into contact with it."
-msgstr "(H) <style=\"liquid\">Жидкий</style> химикат.\n\nЗамораживает большую часть, контактирующих с ним вещей"
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr "Водород"
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC"
 msgid "(O2) A breathable chemical in a <style=\"liquid\">Liquid</style> state."
-msgstr "(O2) Пригодный для дыхания химикат в <style=\"liquid\">Жидкой</style> форме."
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
 msgid "Oxygen"
-msgstr "Кислород"
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.DESC"
 msgid "(P) A chemical element in a <style=\"liquid\">Liquid</style> state."
-msgstr "(P) Химический элемент в <style=\"liquid\">Жидкой</style> форме."
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME"
 msgid "Phosphorus"
-msgstr "Фосфор"
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDPROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDPROPANE.DESC"
 msgid "(C3H8) An alkane in a <style=\"liquid\">Liquid</style> state.\n\nPropane is useful in <style=\"power\">Power</style> production."
-msgstr "(C3H8) Алкан в <style=\"liquid\">Жидкой</style> форме.\n\nПропан полезен в выработке <style=\"power\">Электричества</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.LIQUIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPROPANE.NAME"
 msgid "Propane"
-msgstr "Пропан"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MAGMA.DESC
 msgctxt "STRINGS.ELEMENTS.MAGMA.DESC"
 msgid "A composite of <style=\"RawMineral\">Igneous Rock</style> heated into a molten, <style=\"liquid\">Liquid</style> state."
-msgstr "Смесь расплавленных <style=\"RawMineral\">Вулканических пород</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.MAGMA.NAME
 msgctxt "STRINGS.ELEMENTS.MAGMA.NAME"
 msgid "Magma"
-msgstr "Магма"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURY.DESC"
 msgid "(Hg) A toxic, <style=\"RawMetal\">Metallic</style> <style=\"liquid\">Liquid</style>."
-msgstr "(Hg) Токсичная, <style=\"RawMetal\">Металлическая</style> <style=\"liquid\">Жидкость</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.MERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.MERCURY.NAME"
 msgid "Mercury"
-msgstr "Ртуть"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MERCURYGAS.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.DESC"
 msgid "(Hg) A toxic <style=\"RawMetal\">Metal</style> heated into a <style=\"gas\">Gaseous</style> state."
-msgstr "(Hg) Токсичный <style=\"RawMetal\">Металл</style>, нагретый до <style=\"gas\">Газообразного</style> состояния."
+msgstr ""
 
 #. STRINGS.ELEMENTS.MERCURYGAS.NAME
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.NAME"
 msgid "Mercury"
-msgstr "Ртуть"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.DESC"
 msgid "(C) An abundant, versatile element heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "(C) Распространенный гибкий элемент, нагретый до <style=\"liquid\">Жидкого</style> состояния"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.NAME"
 msgid "Carbon"
-msgstr "Углерод"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "(Cu) Проводящий <style=\"RawMetal\">Металл</style>, нагретый до <style=\"liquid\">Жидкого</style> состояния."
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.NAME"
 msgid "Copper"
-msgstr "Медь"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.DESC"
 msgid "(Au) A conductive precious <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "(Au) Отличный <style=\"RawMetal\">Металлиеский</style> проводник, нагретый до <style=\"liquid\">Жидкого</style> состояния."
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.NAME"
 msgid "Gold"
-msgstr "Золото"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENIRON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENIRON.DESC"
 msgid "(Fe) A common industrial <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "(Fe) Распространённый промышленный <style=\"RawMetal\">Металл</style>, нагретый до <style=\"liquid\">Жидкого</style> состояния."
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENIRON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENIRON.NAME"
 msgid "Iron"
-msgstr "Железо"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.DESC"
 msgid "A <style=\"RawMetal\">Metal</style> alloy of iron and carbon, heated into a hazardous <style=\"liquid\">Liquid</style> state."
-msgstr "<style=\"RawMetal\">Металлический</style> сплав железа и углерода, нагретый до опасно горячей <style=\"liquid\">Жидкости</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.NAME"
 msgid "Steel"
-msgstr "Сталь"
+msgstr ""
 
 #. STRINGS.ELEMENTS.OBSIDIAN.DESC
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.DESC"
 msgid "A brittle composite of volcanic <style=\"solid\">Glass</style>."
-msgstr "Ломкая смесь вулканического <style=\"solid\">Стекла</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.OBSIDIAN.NAME
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.NAME"
 msgid "Obsidian"
-msgstr "Обсидиан"
+msgstr ""
 
 #. STRINGS.ELEMENTS.OXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.OXYGEN.DESC"
 msgid "(O2) An atomically lightweight and breathable <style=\"gas\">Gas</style>, necessary for sustaining life.\n\n<style=\"oxygen\">Oxygen</style> tends to rise above other gases."
-msgstr "(O2) Легкий, пригодный для дыхания <style=\"gas\">Газ</style>, необходимый для поддержания жизни.\n\n<style=\"oxygen\">Кислороду</style> свойственно подниматься выше других газов."
+msgstr ""
 
 #. STRINGS.ELEMENTS.OXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.OXYGEN.NAME"
 msgid "Oxygen"
-msgstr "Кислород"
+msgstr ""
 
 #. STRINGS.ELEMENTS.OXYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.OXYROCK.DESC"
 msgid "(Ir3O2) A chemical compound that slowly emits breathable <style=\"oxygen\">Oxygen</style>.\n\nIncreases oxygen emissions when excavated, but loses mass and depletes more rapidly."
-msgstr "(Ir3O2) Химическое соединение, которое медленно выделяет пригодный для дыхания <style=\"oxygen\">Кислород</style>.\n\nВ выкопанном состоянии быстрее выделяет кислород и расходуется."
+msgstr ""
 
 #. STRINGS.ELEMENTS.OXYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.OXYROCK.NAME"
 msgid "Oxylite"
-msgstr "Оксилит"
+msgstr ""
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.DESC"
 msgid "(PO3-4) Nodules of sedimentary rock containing high concentrations of phosphate."
-msgstr "(PO3-4) Гравий осадочных пород, содержащий большое число фосфатов."
+msgstr ""
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.NAME"
 msgid "Phosphate Nodules"
-msgstr "Фосфатный Гравий"
+msgstr ""
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.DESC"
 msgid "A composite of sedimentary rock, saturated with phosphate."
-msgstr "Смесь осадочных пород, обогащённых фосфатами."
+msgstr ""
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.NAME"
 msgid "Phosphorite"
-msgstr "Фосфорит"
+msgstr ""
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.DESC"
 msgid "(P) A chemical element in its <style=\"solid\">Solid</style> state."
-msgstr "(P) Химический элемент в его <style=\"solid\">Твёрдом</style> состоянии."
+msgstr ""
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.NAME"
 msgid "Phosphorus"
-msgstr "Фосфор"
+msgstr ""
 
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC"
 msgid "(P) A chemical element in a <style=\"gas\">Gaseous</style> state."
-msgstr "(P) Химический элемент в его <style=\"gas\">Газообразном</style> состоянии."
+msgstr ""
 
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME"
 msgid "Phosphorus"
-msgstr "Фосфор"
+msgstr ""
 
 #. STRINGS.ELEMENTS.PONDSCUM.DESC
 msgctxt "STRINGS.ELEMENTS.PONDSCUM.DESC"
 msgid "A soft, naturally occurring composite of biological nutrients.\n\nPondscum may be processed into <style=\"solid\">Fertilizer</style> and aids in the growth of some <style=\"plant\">Plants</style>."
-msgstr "Мягкая, естественно образующаяся смесь биологических питательных веществ.\n\nТина может быть переработана в <style=\"solid\">Удобрение</style> и помочь росту некоторых <style=\"plant\">Растений</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.PONDSCUM.NAME
 msgctxt "STRINGS.ELEMENTS.PONDSCUM.NAME"
 msgid "Pondscum"
-msgstr "Тина"
+msgstr ""
 
 #. STRINGS.ELEMENTS.PROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.PROPANE.DESC"
 msgid "(C3H8) A natural alkane <style=\"gas\">Gas</style>.\n\nPropane is useful in <style=\"power\">Power</style> production."
-msgstr "(C3H8) Натуральный <style=\"gas\">Газовый</style> алкан.\n\nПропан полезен в генерации <style=\"power\">Электричества</style>"
+msgstr ""
 
 #. STRINGS.ELEMENTS.PROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.PROPANE.NAME"
 msgid "Propane"
-msgstr "Пропан"
+msgstr ""
 
 #. STRINGS.ELEMENTS.RADIUM.DESC
 msgctxt "STRINGS.ELEMENTS.RADIUM.DESC"
 msgid "(Ra) A <style=\"light\">Light</style> emitting radioactive substance.\n\nUseful as a <style=\"power\">Power</style> source."
-msgstr "(Ra) <style=\"light\">Легкое</style> радиоактивное вещество.\n\nПолезен в качестве источника <style=\"power\">Электричества</style>"
+msgstr ""
 
 #. STRINGS.ELEMENTS.RADIUM.NAME
 msgctxt "STRINGS.ELEMENTS.RADIUM.NAME"
 msgid "Radium"
-msgstr "Радий"
+msgstr ""
 
 #. STRINGS.ELEMENTS.ROCKGAS.DESC
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.DESC"
 msgid "A superheated rock <style=\"gas\">Gas</style>."
-msgstr "Раскаленный каменный <style=\"gas\">Газ</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.ROCKGAS.NAME
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.NAME"
 msgid "Rock Gas"
-msgstr "Каменный Газ"
+msgstr ""
 
 #. STRINGS.ELEMENTS.SAND.DESC
 msgctxt "STRINGS.ELEMENTS.SAND.DESC"
 msgid "A composite of granular rock.\n\nSand is useful as a <style=\"misc\">filtration medium</style>."
-msgstr "Смесь мелкого камня.\n\nПесок полезен в качестве <style=\"misc\">фильтра</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.SAND.NAME
 msgctxt "STRINGS.ELEMENTS.SAND.NAME"
 msgid "Sand"
-msgstr "Песок"
+msgstr ""
 
 #. STRINGS.ELEMENTS.SANDSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.DESC"
 msgid "A composite of relatively soft sedimentary rock.\n\nSandstone is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr "Смесь относительно мягких осадочных пород.\n\nПесчаник полезен в качестве <style=\"RawMineral\">Строительного Материала</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.SANDSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.NAME"
 msgid "Sandstone"
-msgstr "Песчаник"
+msgstr ""
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC"
 msgid "A hardened composite of sediment layers.\n\nSedimentary Rock is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr "Укрепленная смесь осадочных слоев.\n\nОсадочная Порода полезна в качестве <style=\"RawMineral\">Строительного Материала</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME"
 msgid "Sedimentary Rock"
-msgstr "Осадочная Порода"
+msgstr ""
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.DESC
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.DESC"
 msgid "A thick biomixture of algae, fungi, and mucopolysaccarides.\n\n<style=\"solid\">Algae</style> is useful for <style=\"oxygen\">Oxygen</style> production when isolated."
-msgstr "Густая смесь водорослей, грибов и мукополисахаридов.\n\nИзолированные <style=\"solid\">Водоросли</style> полезны для производства <style=\"oxygen\">Кислорода</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.NAME
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.NAME"
 msgid "Slime"
-msgstr "Слизь"
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC"
 msgid "(CO2) A toxic compound in a <style=\"solid\">Solid</style> state."
-msgstr "(CO2) Токсичное соединение в <style=\"solid\">Твёрдом</style> состоянии."
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr "Углекислый Газ"
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
 msgid "(Cl) A toxic chemical element in a <style=\"solid\">Solid</style> state."
-msgstr "(Cl) Токсичный химический элемент в <style=\"solid\">Твердом</style> состоянии."
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.NAME"
 msgid "Chlorine"
-msgstr "Хлор"
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC"
 msgid "(H) The universe's most common element in a <style=\"solid\">Solid</style> state."
-msgstr "(H) Самый распространённый во вселенной элемент в <style=\"solid\">Твердом</style> состоянии."
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr "Водород"
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDMERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.DESC"
 msgid "(Hg) A toxic <style=\"RawMetal\">Metal</style> in a <style=\"solid\">Solid</style> state."
-msgstr "(Hg) Токсичный <style=\"RawMetal\">Металл</style> в <style=\"solid\">Твердом</style> состоянии."
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDMERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.NAME"
 msgid "Mercury"
-msgstr "Ртуть"
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.DESC"
 msgid "(O2) A breathable element in a <style=\"solid\">Solid</style> state."
-msgstr "(O2) Пригодный для дыхания элемент в <style=\"solid\">Твердом</style> состоянии."
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.NAME"
 msgid "Oxygen"
-msgstr "Кислород"
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDPROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.DESC"
 msgid "(C3H8) A natural gas in a <style=\"solid\">Solid</style> state."
-msgstr "(C3H8) Натуральный газ в <style=\"solid\">Твердом</style> состоянии."
+msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.NAME"
 msgid "Propane"
-msgstr "Пропан"
+msgstr ""
 
 #. STRINGS.ELEMENTS.STATEGAS
 msgctxt "STRINGS.ELEMENTS.STATEGAS"
 msgid "Gas"
-msgstr "Газ"
+msgstr ""
 
 #. STRINGS.ELEMENTS.STATELIQUID
 msgctxt "STRINGS.ELEMENTS.STATELIQUID"
 msgid "Liquid"
-msgstr "Жидкий"
+msgstr ""
 
 #. STRINGS.ELEMENTS.STATESOLID
 msgctxt "STRINGS.ELEMENTS.STATESOLID"
 msgid "Solid"
-msgstr "Твердый"
+msgstr ""
 
 #. STRINGS.ELEMENTS.STATEVACUUM
 msgctxt "STRINGS.ELEMENTS.STATEVACUUM"
 msgid "None"
-msgstr "Отсутствует"
+msgstr ""
 
 #. STRINGS.ELEMENTS.STEAM.DESC
 msgctxt "STRINGS.ELEMENTS.STEAM.DESC"
 msgid "(H20) Water heated into a scalding <style=\"gas\">Gas</style>."
-msgstr "(H2O) Вода, нагретая до обжигающего <style=\"gas\">Газа</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.STEAM.NAME
 msgctxt "STRINGS.ELEMENTS.STEAM.NAME"
 msgid "Steam"
-msgstr "Пар"
+msgstr ""
 
 #. STRINGS.ELEMENTS.STEEL.DESC
 msgctxt "STRINGS.ELEMENTS.STEEL.DESC"
 msgid "A <style=\"RefinedMetal\">Metal Alloy</style> composed of iron and carbon."
-msgstr "<style=\"RefinedMetal\">Металлический сплав</style>, состоящий из железа и углерода."
+msgstr ""
 
 #. STRINGS.ELEMENTS.STEEL.NAME
 msgctxt "STRINGS.ELEMENTS.STEEL.NAME"
 msgid "Steel"
-msgstr "Сталь"
+msgstr ""
 
 #. STRINGS.ELEMENTS.STEELDOOR.DESC
 msgctxt "STRINGS.ELEMENTS.STEELDOOR.DESC"
@@ -8684,102 +8684,102 @@ msgstr ""
 #. STRINGS.ELEMENTS.STEELGAS.DESC
 msgctxt "STRINGS.ELEMENTS.STEELGAS.DESC"
 msgid "A superheated <style=\"RawMetal\">Metal</style> <style=\"gas\">Gas</style> composed of iron and carbon."
-msgstr "Раскалённый<style=\"RawMetal\">Металлический</style> <style=\"gas\">Газ</style>, состоящий из железа и углерода."
+msgstr ""
 
 #. STRINGS.ELEMENTS.STEELGAS.NAME
 msgctxt "STRINGS.ELEMENTS.STEELGAS.NAME"
 msgid "Steel"
-msgstr "Сталь"
+msgstr ""
 
 #. STRINGS.ELEMENTS.TOXICSAND.DESC
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.DESC"
 msgid "A <style=\"disease\">Disease</style> infested amalgam of toxic waste.\n\nEmits <style=\"disease\">Contaminated Oxygen</style> over time."
-msgstr "<style=\"disease\">Зараженная</style> амальгама токсичных отходов.\n\nИспускает <style=\"disease\">Загрязнённый Кислород</style>."
+msgstr ""
 
 #. STRINGS.ELEMENTS.TOXICSAND.NAME
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.NAME"
 msgid "Contaminated Dirt"
-msgstr "Загрязнённыя Земля"
+msgstr ""
 
 #. STRINGS.ELEMENTS.UNOBTANIUM.DESC
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.DESC"
 msgid "(Nt) A mysterious and extremely resilient <style=\"RawMetal\">Metallic</style> element.\n\nCannot be excavated by any Duplicant mining tool."
-msgstr "(Nt) Мистический и невероятно упругий <style=\"RawMetal\">Металлический</style> элемент.\n\nНе может быть выкопан ни одним Дупликантом."
+msgstr ""
 
 #. STRINGS.ELEMENTS.UNOBTANIUM.NAME
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.NAME"
 msgid "Neutronium"
-msgstr "Нейтроний"
+msgstr ""
 
 #. STRINGS.ELEMENTS.VACUUM.DESC
 msgctxt "STRINGS.ELEMENTS.VACUUM.DESC"
 msgid "A space devoid of all matter."
-msgstr "Пустое пространство."
+msgstr ""
 
 #. STRINGS.ELEMENTS.VACUUM.NAME
 msgctxt "STRINGS.ELEMENTS.VACUUM.NAME"
 msgid "Vacuum"
-msgstr "Вакуум"
+msgstr ""
 
 #. STRINGS.ELEMENTS.VOID.DESC
 msgctxt "STRINGS.ELEMENTS.VOID.DESC"
 msgid "Cold, infinite nothingness."
-msgstr "Холодное бесконечное ничто."
+msgstr ""
 
 #. STRINGS.ELEMENTS.VOID.NAME
 msgctxt "STRINGS.ELEMENTS.VOID.NAME"
 msgid "The Void"
-msgstr "Пустота"
+msgstr ""
 
 #. STRINGS.ELEMENTS.WATER.DESC
 msgctxt "STRINGS.ELEMENTS.WATER.DESC"
 msgid "(H20) Clean <style=\"liquid\">Water</style>, suitable for consumption."
-msgstr "(H2O) Чистая <style=\"liquid\">Вода</style>, подходит для потребления."
+msgstr ""
 
 #. STRINGS.ELEMENTS.WATER.NAME
 msgctxt "STRINGS.ELEMENTS.WATER.NAME"
 msgid "Water"
-msgstr "Вода"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUASUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUASUIT.DESC"
 msgid "Because breathing underwater is better than... not."
-msgstr "Потому что дышать под водой... Лучше чем не дышать."
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUASUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUASUIT.EFFECT"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in underwater environments.\n\nMust be refilled with oxygen at an Exosuit Recharger when depleted."
-msgstr "Под водой снабжает Дупликантов <style=\"oxygen\">Кислородом</style>.\n\nДолжен быть заправлен кислород на Заряднике Экзокостюма, когда опустошится."
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUASUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUASUIT.NAME"
 msgid "Aqua Suit"
-msgstr "Подводный Костюм"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUASUIT.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUASUIT.RECIPEDESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in underwater environments."
-msgstr "Под водой снабжает Дупликантов <style=\"oxygen\">Кислородом</style>."
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.DESC"
 msgid "Make sure your Duplicants can breathe easy, anytime, anywhere."
-msgstr "Убедитесь, что ваши Дупликанты могут спокойно дышать, где угодно, когда угодно."
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.EFFECT"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments.\n\nMust be refilled with oxygen at an Exosuit Recharger when depleted."
-msgstr "В токсичной или безвоздушной среде снабжает Дупликантов <style=\"oxygen\">Кислородом</style>.\n\nДолжен быть заправлен кислород на Заряднике Экзокостюма, когда опустошится."
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.NAME"
 msgid "Atmo Suit"
-msgstr "Дыхательный Костюм"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.RECIPEDESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments."
-msgstr "В токсичной или безвоздушной среде снабжает Дупликантов <style=\"oxygen\">Кислородом</style>."
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.DESC"
@@ -8794,7 +8794,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.NAME"
 msgid "Prospectolator"
-msgstr "Проспектолятор"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORINGMACHINE.RECIPEDESC"
@@ -8814,7 +8814,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.NAME"
 msgid "Quarrying Gun"
-msgstr "Карьерный Пистолет"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.RECIPEDESC"
@@ -8824,132 +8824,132 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.DESC"
 msgid "Keep your Duplicants cool in case things heat up."
-msgstr "Сохраняйте ваших Дупликантов холодными в случае подогрева."
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.EFFECT"
 msgid "Provides insulation in regions with extreme <style=\"heat\">Temperatures</style>.\n\nMust be powered at an Exosuit Recharger when depleted."
-msgstr "Предоставляет изоляцию в областях экстремальных <style=\"heat\">Температур</style>.\n\nДолжен быть подпитан в Заряднике Экзокостюма."
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.NAME"
 msgid "Thermo Suit"
-msgstr "Термокостюм"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURESUIT.RECIPEDESC"
 msgid "Provides insulation in regions with extreme <style=\"heat\">Temperatures</style>."
-msgstr "Предоставляет изоляцию в областях экстремальных <style=\"heat\">Температур</style>."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC"
 msgid "A seedless fruit with an upsettingly bland aftertaste."
-msgstr "Фрукт без семечек с мягким послевкусием разочарования."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME"
 msgid "Muckroot"
-msgstr "Гнилькорень"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.DESC"
 msgid "<style=\"food\">Meal Lice</style> compacted into a dense, immobile loaf."
-msgstr "<style=\"food\">Мясистые Вши</style> сжатые в плотный, неподвижный батон."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME"
 msgid "Liceloaf"
-msgstr "Вшебулка"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC"
 msgid "<style=\"food\">Meal Lice</style> compacted into a dense, immobile loaf."
-msgstr "<style=\"food\">Мясистые Вши</style> сжатые в плотный, неподвижный батон."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC"
 msgid "A flavorless grain that almost never wiggles on its own."
-msgstr "Безвкусное зерно, которое почти никогда не шевелится по своему хотению."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME"
 msgid "Meal Lice"
-msgstr "Мясистые Вши"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FIELDRATION.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.DESC"
 msgid "Provides the most essential nutrients and nothing more. Tastes like chalk."
-msgstr "Предоставляет самые необходимые углеводы и ничего более. На вкус как мел."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FIELDRATION.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.NAME"
 msgid "Field Ration"
-msgstr "Пищевой Паёк"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC"
 msgid "A deep fried, solidified mudslop."
-msgstr "Сильно зажаренные, сжатые помои."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME"
 msgid "Fried Mush Bar"
-msgstr "Приготовленный Мшистый Батончик"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC"
 msgid "A deep fried, solidified mudslop."
-msgstr "Сильно зажаренные, сжатые помои."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FRUIT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRUIT.DESC"
 msgid "Fresh fruit from the vine. Chock full of vitamins!"
-msgstr "Свежий фрукт с лозы. Набит витаминами!"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRUIT.NAME"
 msgid "Fruit"
-msgstr "Фрукт"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.MEAT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MEAT.DESC"
 msgid "Fresh meat from a very dead creature. Yum!"
-msgstr "Свежее мясо очень мертвого существа. Объеденье!"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.MEAT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MEAT.NAME"
 msgid "Meat"
-msgstr "Мясо"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.DESC"
 msgid "An edible, putrefied mudslop. Preferable to starvation, but only just barely."
-msgstr "Съедобные, перегнившие помои. Лучше чем голодание, но совсем слегка."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
 msgid "Mush Bar"
-msgstr "Мшистый Батончик"
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC"
 msgid "An edible, putrefied mudslop. Preferable to starvation, but only just barely."
-msgstr "Съедобные, перегнившие помои. Лучше чем голодание, но совсем слегка."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC"
 msgid "Pretty pleasant, unless you forget to eat around the thorns."
-msgstr "Довольно приятный, пока не забываешь обкусывать вокруг шипов."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME"
 msgid "Bristle Berry"
-msgstr "Щетинистая Ягодка"
+msgstr ""
 
 #. STRINGS.ITEMS.INGREDIENTS.SWAMPLILYFLOWER.NAME
 msgctxt "STRINGS.ITEMS.INGREDIENTS.SWAMPLILYFLOWER.NAME"
 msgid "Swamp Lily Flower"
-msgstr "Болотная Лилия"
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.GINKONUT.DESC
 msgctxt "STRINGS.ITEMS.PILLS.GINKONUT.DESC"
@@ -8959,22 +8959,22 @@ msgstr ""
 #. STRINGS.ITEMS.PILLS.GINKONUT.NAME
 msgctxt "STRINGS.ITEMS.PILLS.GINKONUT.NAME"
 msgid "Antifungal Cream"
-msgstr "Противогрибковый Крем"
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.HERBALREMEDY.DESC
 msgctxt "STRINGS.ITEMS.PILLS.HERBALREMEDY.DESC"
 msgid "Stops horrible accidents from happening."
-msgstr "Останавливает ужасные происшествия от происхождения."
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.HERBALREMEDY.NAME
 msgctxt "STRINGS.ITEMS.PILLS.HERBALREMEDY.NAME"
 msgid "Herbal Remedy"
-msgstr "Травяное Средство"
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.HERBALREMEDY.RECIPEDESC
 msgctxt "STRINGS.ITEMS.PILLS.HERBALREMEDY.RECIPEDESC"
 msgid "Stops horrible accidents from happening."
-msgstr "Останавливает ужасные происшествия от происхождения."
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.MUSCARINICANTAGONIST.DESC
 msgctxt "STRINGS.ITEMS.PILLS.MUSCARINICANTAGONIST.DESC"
@@ -8984,42 +8984,42 @@ msgstr ""
 #. STRINGS.ITEMS.PILLS.MUSCARINICANTAGONIST.NAME
 msgctxt "STRINGS.ITEMS.PILLS.MUSCARINICANTAGONIST.NAME"
 msgid "Anti Inflammatory Pills"
-msgstr "Противовоспалительный Препарат"
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.PLACEBO.DESC
 msgctxt "STRINGS.ITEMS.PILLS.PLACEBO.DESC"
 msgid "Somehow, it seems to fix everything."
-msgstr "Каким-то образом всё лечит."
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.PLACEBO.NAME
 msgctxt "STRINGS.ITEMS.PILLS.PLACEBO.NAME"
 msgid "Placebo Pill"
-msgstr "Плацебо"
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.PLACEBO.RECIPEDESC
 msgctxt "STRINGS.ITEMS.PILLS.PLACEBO.RECIPEDESC"
 msgid "Somehow, it seems to fix everything."
-msgstr "Каким-то образом всё лечит."
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.DESC
 msgctxt "STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.DESC"
 msgid "A medical-grade destinkifier."
-msgstr "Медицинский уничтожитель запаха."
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.NAME
 msgctxt "STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.NAME"
 msgid "Deodorant"
-msgstr "Дезодорант"
+msgstr ""
 
 #. STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.RECIPEDESC
 msgctxt "STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.RECIPEDESC"
 msgid "A medical-grade destinkifier."
-msgstr "Медицинский уничтожитель запаха."
+msgstr "Медицинский развонючиватель"
 
 #. STRINGS.MISC.NOTIFICATIONS.ALLOCATED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.ALLOCATED.NAME"
 msgid "Resource allocated"
-msgstr "Ресурс распределен"
+msgstr "Ресурс рапределен"
 
 #. STRINGS.MISC.NOTIFICATIONS.ALLOCATED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.ALLOCATED.TOOLTIP"
