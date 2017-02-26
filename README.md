@@ -82,7 +82,7 @@ http://steamcommunity.com/id/oniki/
 * Transporting - Транспортирует
 * Insulated Tile - Теплоизоляционный блок
 * Disease - Болезнь
-* Skill \ Attribute - Характеристика
+* Skill \ Attribute - Навык \ Характеристика
 * Liquid Pipes - Водопроводные трубы
 * Novice Research - Базовое Исследование
 * Meal Lice - Мукоед
