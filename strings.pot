@@ -519,7 +519,7 @@ msgstr "Недостаточно ресурсов"
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "Crucial materials are unavailable or beyond reach for these buildings:"
-msgstr "Необходимые материалы недоступны, или до них невозможно добраться"
+msgstr "Для следующих зданий необходимые материалы недоступны или до них невозможно добраться:"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP"
@@ -534,7 +534,7 @@ msgstr "Мало ресурсов\n{ItemsRemaining}"
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP"
 msgid "This building will soon require materials that are unavailable"
-msgstr "Эта постройка скоро потребует недоступные материалы"
+msgstr "Это здание скоро потребует недоступных материалы"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME"
@@ -549,12 +549,12 @@ msgstr "Постройка расплавилась"
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP"
 msgid "These buildings are collapsing:"
-msgstr "Эти постройки разваливаются:"
+msgstr "Следующие постройки обрушиваются:"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP"
 msgid "This building is collapsing"
-msgstr "Эта постройка разваливается"
+msgstr "Эта постройка обрушивается"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME"
@@ -564,7 +564,7 @@ msgstr "Отсутствует основание"
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
 msgid "Build Tiles beneath this building\n------------------\nTiles can be found in the Base Tab <color=#FF0000>(1)</color> of the Build Menu"
-msgstr "Постройте блоки под этой постройкой\n------------------\nБлоки могут быть найдены в Основной Вкладке <color=#FF0000>(1)</color> Строительного Меню"
+msgstr "Постройте блоки под этой постройкой\n------------------\nБлоки могут быть найдены в Основной вкладке <color=#FF0000>(1)</color> меню Строительство"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
@@ -574,47 +574,47 @@ msgstr "Требуется Мультитул"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP"
 msgid "A <style=\"equipment\">Multitool</style> is required to mine this material\n------------------\nMultitools can be made at Crafting Stations in the Stations Tab <color=#FF0000>(9)</style> of the Build Menu"
-msgstr "Требуется <style=\"equipment\">Мультитул</style>, чтобы выкопать это\n------------------\nОн может быть сделан на Верстаке во вкладке \"Станции\" <color=#FF0000>(9)</style> Строительного Меню"
+msgstr "Для выкапывания этого материала требуется <style=\"equipment\">Мультитул</style>\n------------------\nЕго можно сделать на Верстаке во вкладке Станции <color=#FF0000>(9)</style> меню Строительство"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
 msgid "No Gas Intake"
-msgstr "Нет поступления газа"
+msgstr "Газ не поступает"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP"
 msgid "This building has nowhere to receive <style=\"gas\">Gas</style> from"
-msgstr "Этой постройке неоткуда получить <style=\"gas\">Газ</style>"
+msgstr "Этой постройке неоткуда получать <style=\"gas\">Газ</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME"
 msgid "No Gas Output"
-msgstr "Нет потребления газа"
+msgstr "Газ не выходит"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP"
 msgid "This building has nowhere to send <style=\"gas\">Gas</style>"
-msgstr "Этой постройке некуда отослать <style=\"gas\">газ</style>"
+msgstr "Этой постройке некуда передавать <style=\"gas\">Газ</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME"
 msgid "No Liquid Intake"
-msgstr "Нет поступления жидкости"
+msgstr "Жидкость не поступает"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP"
 msgid "This building has nowhere to receive <style=\"liquid\">Liquid</style> from"
-msgstr "Этой постройке неоткуда получить <style=\"liquid\">Жидкость</style>"
+msgstr "Этой постройке неоткуда получать <style=\"liquid\">Жидкость</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME"
 msgid "No Liquid Output"
-msgstr "Нет потребления жидкости"
+msgstr "Жидкость не выходит"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP"
 msgid "This building has nowhere to send <style=\"liquid\">Liquid</style>"
-msgstr "Этой постройке некуда отослать <style=\"liquid\">Жидкость</style>"
+msgstr "Этой постройке некуда передавать <style=\"liquid\">Жидкость</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.NAME"
@@ -624,17 +624,17 @@ msgstr "Нет семян"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP"
 msgid "Dig up wild <style=\"plant\">Plants</style> to obtain <style=\"seed\">Seeds</style>"
-msgstr "Выкопайте дикие <style=\"plant\">Растения</style>, чтобы получить <style=\"seed\">Семена</style>"
+msgstr "Выкапывайте дикие <style=\"plant\">Растения</style> для получения <style=\"seed\">Семян</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME"
 msgid "No Power"
-msgstr "Нет Электричества"
+msgstr "Нет электричества"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP"
 msgid "All connected <style=\"power\">Power</style> sources have lost charge"
-msgstr "Все подсоединенные  источники <style=\"power\">Питания</style> израсходовали заряд"
+msgstr "Все подсоединенные источники <style=\"power\">Электричества</style> израсходовали заряд"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME"
@@ -644,22 +644,22 @@ msgstr "Требуются ресурсы"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP"
 msgid "This building is missing required materials"
-msgstr "Этой постройке не хватает требуемых материалов"
+msgstr "Этой постройке не хватает материалов"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME"
 msgid "No Seed selected"
-msgstr "Не выбрано семя"
+msgstr "Семена не выбраны"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP"
 msgid "Dig up wild plants to obtain <style=\"seed\">Seeds</style>"
-msgstr "Вскопайте дикое растение, чтобы получить <style=\"seed\">семена</style>"
+msgstr "Выкапывайте дикие растения для получения <style=\"seed\">Семян</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSREGION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSREGION.NAME"
 msgid "Missing Region"
-msgstr "Отсутствует Область"
+msgstr "Отсутствует область"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSREGION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSREGION.TOOLTIP"
@@ -669,17 +669,17 @@ msgstr "Это постройка должна находится в {0} обл�
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSVALIDREGION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSVALIDREGION.NAME"
 msgid "Valid Region Required"
-msgstr "Требуется правильная область"
+msgstr "Требуется допустимая область"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSVALIDREGION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSVALIDREGION.TOOLTIP"
 msgid "This building region has not yet met its requirements"
-msgstr "Область данной постройки не выполняет её требования"
+msgstr "Область, в которой находится данная постройка, не удовлетворяет ее требованиям"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
 msgid "Cannot Mine"
-msgstr "Невозможно Выкопать"
+msgstr "Невозможно выкопать"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.TOOLTIP"
