@@ -233,8 +233,8 @@ msgstr "Излучает Свет"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP"
-msgid "Open the Light Overlay [{LightGridOverlay}] to view this <style=\"light\">Свет</style>'s visibility radius"
-msgstr "Открыть оверлей Освещения [{LightGridOverlay}], чтобы посмотреть радиус <style=\"light\">Освещения</style> этого источника"
+msgid "Open the Light Overlay [{LightGridOverlay}] to view this <style=\"light\">Light</style>'s visibility radius"
+msgstr "Открыть Карту освещения [{LightGridOverlay}], чтобы посмотреть радиус этого источника <style=\"light\">Освещения</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME"
@@ -259,22 +259,22 @@ msgstr "Здание завалено"
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP"
 msgid "These buildings are entombed and need to be dug out:"
-msgstr "Эти здания завалены и требуют раскопки для продолжения функционирования:"
+msgstr "Эти здания завалены, их нужно откопать:"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.TOOLTIP"
 msgid "Must be dug out by a Duplicant"
-msgstr "Должно быть раскопано Дупликантом"
+msgstr "Должно быть откопано Дупликантом"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME"
 msgid "No Fabrications Queued"
-msgstr "Производственная очередь пуста"
+msgstr "Очередь задач пуста"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.TOOLTIP"
 msgid "Queue a recipe to begin fabrication"
-msgstr "Добавьте рецепт в очередь, чтобы начать производство"
+msgstr "Поставьте рецепт в очередь, чтобы начать производство"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NAME"
@@ -334,27 +334,27 @@ msgstr "Не качает"
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.TOOLTIP"
 msgid "This pump is not active"
-msgstr "Эта труба не активна"
+msgstr "Эта помпа неактивна"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.NAME"
 msgid "Gas Vent Obstructed"
-msgstr "Вентиляционный выход завален"
+msgstr "Воздуховод заблокирован"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.TOOLTIP"
 msgid "Cannot release gas through this vent"
-msgstr "Невозможно выпустить газ через данный вентиляционный выход"
+msgstr "Невозможно выпустить газ через данный воздуховод"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.NAME"
 msgid "Gas Vent Overpressurized"
-msgstr "Вентиляционное отверстие не может функционирования из-за избыточного давления"
+msgstr "Воздуховод заблокирован избыточным давлением"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.TOOLTIP"
 msgid "Vent cannot function at current pressure"
-msgstr "Газоотвод не работает при текущем давлении"
+msgstr "Воздуховод не работает при текущем давлении"
 
 #. STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.NAME"
@@ -384,12 +384,12 @@ msgstr "Пусто"
 #. STRINGS.BUILDING.STATUSITEMS.GRAVEEMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GRAVEEMPTY.TOOLTIP"
 msgid "This memorial honors no one."
-msgstr "Этот мемориал никому не принадлежит."
+msgstr "Здесь пока что никто не покоится."
 
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME"
 msgid "Invalid Building Location"
-msgstr "Неправильное положение постройки"
+msgstr "Место строительства недоступно"
 
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.TOOLTIP"
@@ -399,17 +399,17 @@ msgstr "Нельзя построить в этом месте"
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.NAME"
 msgid "<style=\"power\">Power</style> Available: {JoulesAvailable}"
-msgstr "Доступно <style=\"power\">Электричества</style> доступно: {JoulesAvailable}"
+msgstr "Доступно <style=\"power\">Электричества</style>: {JoulesAvailable}"
 
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP"
 msgid "{JoulesAvailable} of stored power available for use"
-msgstr "{JolesAvailable} из доступного для использования объема электричества"
+msgstr "Доступно {JolesAvailable} от общего запаса электроэнергии"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME"
 msgid "Empty Pipe"
-msgstr "Труба Пуста"
+msgstr "Труба пуста"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.TOOLTIP"
@@ -424,7 +424,7 @@ msgstr "Не качает"
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.TOOLTIP"
 msgid "This pump is not active"
-msgstr "Этот насос не активен"
+msgstr "Эта помпа неактивена"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME"
@@ -434,12 +434,12 @@ msgstr "Водоток заблокирован"
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP"
 msgid "Cannot release liquid through this vent"
-msgstr "Невозможно вылить жидкость через это отверстие"
+msgstr "Невозможно вылить жидкость через этот водоток"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.NAME"
 msgid "Liquid Vent Overpressurized"
-msgstr "Водоток испытывает избыточное давление"
+msgstr "Водоток заблокирован избыточным давлением"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP"
@@ -454,22 +454,22 @@ msgstr "Шедевр"
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.TOOLTIP"
 msgid "This poignant piece stirs something deep within Duplicants' souls"
-msgstr "Это пронзительное произведение затрагивает что-то в глубине душ Дупликантов"
+msgstr "Это пронзительное произведение затрагивает что-то глубоко в душе всякого Дупликанта"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.NAME"
 msgid "Quaint"
-msgstr "Причудливый"
+msgstr "Милое"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.TOOLTIP"
 msgid "Duplicants find this art quite charming"
-msgstr "Дупликанты считают это произведение довольно прелестным"
+msgstr "Дупликанты находят это произведение довольно милым"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.NAME"
 msgid "Crude"
-msgstr "Непродуманный"
+msgstr "Грубое"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.TOOLTIP"
@@ -494,22 +494,22 @@ msgstr "Питает"
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.TOOLTIP"
 msgid "This <style=\"power\">Power</style> source is supplying <style=\"power\">Power</style> consumers"
-msgstr "Этот источник <style=\"power\">Питания</style> поддерживает потребителей <style=\"power\">Электричества</style>"
+msgstr "Этот источник <style=\"power\">Электричества</style> снабжает потребителей <style=\"power\">Электричества</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME"
 msgid "Manually Controlled"
-msgstr "Ручное управление"
+msgstr "Управляется вручную"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
 msgid "This Duplicant is under your control"
-msgstr "Это Дупликант под вашим контролем"
+msgstr "Это Дупликант находится под вашим управлением"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME"
 msgid "Insufficient Resources\n{ItemsRemaining}"
-msgstr "Недостаточное ресурсов\n{ItemsRemaining}"
+msgstr "Недостаточно ресурсов\n{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_NAME"
