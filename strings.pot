@@ -19,7 +19,7 @@ msgstr "Ожидает декорирования"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP"
 msgid "A Duplicant must work on this to create art"
-msgstr "Дупликант должен работать над этим, что создать предмет искусства"
+msgstr "Для создания предмета искусства Дупликант должен над ним поработать."
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
@@ -29,7 +29,7 @@ msgstr "Ожидает культивации"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
-msgstr "Компост должен периодически культивироваться Дупликантами для производства <style=\"solid\">Удобрения</style>"
+msgstr "Дупликанты должны периодически перемешивать компост для производства <style=\"solid\">Удобрений</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
@@ -39,7 +39,7 @@ msgstr "Ожидает доставки"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected <style=\"seed\">Seed</style>"
-msgstr "Ожидает доставки выбранного <style=\"seed\">Семени</style>"
+msgstr "Ожидает доставки выбранных <style=\"seed\">Семян</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME"
@@ -59,17 +59,17 @@ msgstr "Сломано"
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
 msgid "This building was broken by a <style=\"stress\">Stressed</style> Duplicant\n\nIt must be repaired"
-msgstr "Это здание было сломано в результате <style=\"stress\">Стресса</style> Дупликантом\n\nНеобходима починка"
+msgstr "Это здание было сломано Дупликантом в состоянии <style=\"stress\">Стресса</style>\n\nНеобходим ремонт"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
 msgid "Building Disabled"
-msgstr "Здание отключено"
+msgstr "Здание выключено"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP"
 msgid "This building has been disabled."
-msgstr "Это здание было отключено."
+msgstr "Это здание было выключено."
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME"
@@ -84,12 +84,12 @@ msgstr "Это здание не может охладить окружающу�
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
 msgid "Pending Door State Change: {ControlState}"
-msgstr "Ожидает переключения двери в состояние:  {ControlState}"
+msgstr "Ожидает переключения двери в состояние: {ControlState}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP"
 msgid "Waiting for a Duplicant to change control state"
-msgstr "Ожидает Дупликанта для смены состояния"
+msgstr "Ожидает Дупликанта для переключения состояния"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME"
@@ -99,17 +99,17 @@ msgstr "Труба заблокирована"
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP"
 msgid "This pipe system is not serviceable"
-msgstr "Эта труба не обслуживается"
+msgstr "Этот трубопровод неисправен"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME"
 msgid "Unreachable"
-msgstr "Недостижимо"
+msgstr "Невозможно добраться"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this construction site"
-msgstr "Дупликанты не могут достичь этой области постройки"
+msgstr "Дупликанты не могут добраться до этой стройки"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.NAME"
@@ -119,12 +119,12 @@ msgstr "Охлаждается"
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP"
 msgid "This building is cooling the surrounding area"
-msgstr "Это здание охлаждает окружающую его область"
+msgstr "Это здание охлаждает окружающую область"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO"
 msgid "Auto"
-msgstr "Автоматический"
+msgstr "Автоматический режим"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.CLOSED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.CLOSED"
@@ -144,17 +144,17 @@ msgstr "Открыто"
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP"
 msgid "Current State: {ControlState}\n\nAuto: Duplicants will open and close this door as needed\nClosed: This door will remain closed\nOpen: This door will remain open"
-msgstr "Текущее состояние: {ControlState}\n\nАвтоматически: Дупликанты будут открывать и закрывать дверь, когда это необходимо\nЗакрыто: Эта дверь остается закрыта, Дупликанты не будут ее использовать\nОткрыто: Эта дверь будет открыта постоянно"
+msgstr "Текущее состояние: {ControlState}\n\nАвтоматически: Дупликанты будут при необходимости открывать и закрывать эту дверь\nЗакрыто: Эта дверь остается закрытой\nОткрыто: Эта дверь остается открытой"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
 msgid "Unreachable"
-msgstr "Недостижимо"
+msgstr "Невозможно добраться"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this area"
-msgstr "Дупликанты не могут достичь этой области"
+msgstr "Дупликанты не могут добраться до области"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.NAME"
