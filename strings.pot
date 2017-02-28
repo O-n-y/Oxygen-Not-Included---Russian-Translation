@@ -429,22 +429,22 @@ msgstr "Эта помпа неактивена"
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME"
 msgid "Liquid Vent Obstructed"
-msgstr "Водоток заблокирован"
+msgstr "Водоотток заблокирован"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP"
 msgid "Cannot release liquid through this vent"
-msgstr "Невозможно вылить жидкость через этот водоток"
+msgstr "Невозможно вылить жидкость через этот водоотток"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.NAME"
 msgid "Liquid Vent Overpressurized"
-msgstr "Водоток заблокирован избыточным давлением"
+msgstr "Водоотток заблокирован избыточным давлением"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP"
 msgid "Vent cannot function at current pressure"
-msgstr "Водоток не работает при текущем давлении"
+msgstr "Водоотток не работает при текущем давлении"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME"
