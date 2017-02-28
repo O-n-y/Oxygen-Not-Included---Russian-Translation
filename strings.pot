@@ -1,4 +1,4 @@
-﻿"Application: Oxygen Not Included"
+"Application: Oxygen Not Included"
 "POT Version: 2.0"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
@@ -4229,12 +4229,12 @@ msgstr "Идет переключать"
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME"
 msgid "Sweep"
-msgstr "Подметание"
+msgstr "Уборка"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS"
 msgid "Going to sweep"
-msgstr "Идет подметать"
+msgstr "Идет убирать"
 
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME"
@@ -4484,7 +4484,7 @@ msgstr "Этому Дупликанту дискомфортно  в таком 
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME"
 msgid "Darkness"
-msgstr "Темнота"
+msgstr "Теснота"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP"
