@@ -4954,7 +4954,7 @@ msgstr "Дупликанты людят находится в освещенны
 #. STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION"
 msgid "Duplicants don't find bare rockface very inviting.\nUse wall tiles and doors to build more comfortable Mess Halls for them."
-msgstr "Дупликанты не считают голую облицовку очень привлекательной.\Используйте плитки для стен и двери чтобы посмотрить более комфортные столовые для них."
+msgstr "Дупликанты не считают голую облицовку очень привлекательной.\nИспользуйте плитки для стен и двери чтобы посмотрить более комфортные столовые для них."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING"
