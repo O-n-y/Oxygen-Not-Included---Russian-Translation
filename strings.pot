@@ -4019,22 +4019,22 @@ msgstr "Идет в карантин"
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME"
 msgid "MoveToSafety"
-msgstr "Идти в безопасный"
+msgstr "Идти в безопасное место"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS"
 msgid "Moving to safety"
-msgstr "Идет в безопасный"
+msgstr "Идет в безопасное место"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.NAME"
 msgid "Mushing"
-msgstr "Мусинг"
+msgstr "Смешивает"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.STATUS"
 msgid "Going to mush"
-msgstr ""
+msgstr "Собирается смешивать"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME"
@@ -4059,7 +4059,7 @@ msgstr "Справляет нужду"
 #. STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.NAME"
 msgid "Prioritize Chore"
-msgstr "Приоритетная обязяанность"
+msgstr "Приоритетная обязанность"
 
 #. STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.STATUS"
@@ -4099,12 +4099,12 @@ msgstr "Отдыхает"
 #. STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME"
 msgid "Relocate"
-msgstr "Передислоцироваться"
+msgstr "Переместить"
 
 #. STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS"
 msgid "Going to relocate"
-msgstr "Передислоцируется"
+msgstr "Собирается переместить"
 
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.NAME"
@@ -4144,7 +4144,7 @@ msgstr "Отдых всвязи с болезнью"
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS"
 msgid "Resting"
-msgstr "Болеет"
+msgstr "Отдыхает"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.NAME"
@@ -4194,7 +4194,7 @@ msgstr "На грани срыва"
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS"
 msgid "Lashing out"
-msgstr "Ругается"
+msgstr "Выпускает пар"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME"
@@ -4239,7 +4239,7 @@ msgstr "Идет убирать"
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME"
 msgid "Unequip"
-msgstr "Снятие"
+msgstr "Снять"
 
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS"
@@ -4259,7 +4259,7 @@ msgstr "Идет улучшать"
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.NAME"
 msgid "Dig Up"
-msgstr "Раскапывание"
+msgstr "Раскопать"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS"
@@ -4299,7 +4299,7 @@ msgstr "Идет разминаться"
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME"
 msgid "WashHands"
-msgstr "Умывать руки"
+msgstr "Умыть руки"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS"
@@ -4429,7 +4429,7 @@ msgstr "Этот Дупликант увидел труп своего друг�
 #. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME"
 msgid "Existential Angst"
-msgstr "Экзистенциальный страх"
+msgstr "Иррациональный страх"
 
 #. STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION"
@@ -4469,7 +4469,7 @@ msgstr "Дышит"
 #. STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME"
 msgid "Burning calories"
-msgstr "Сожженные калории"
+msgstr "Сжигает калории"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME"
@@ -4479,12 +4479,12 @@ msgstr "Холодно"
 #. STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP"
 msgid "This Duplicant is uncomfortably cold"
-msgstr "Этому Дупликанту дискомфортно  в таком холоде"
+msgstr "Этому Дупликанту дискомфортно в таком холоде"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME"
 msgid "Darkness"
-msgstr "Теснота"
+msgstr "Темнота"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP"
@@ -4499,7 +4499,7 @@ msgstr "Мертв"
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE"
 msgid "Obtained through prolonged digging or construction"
-msgstr "Получено после продолжительных раскопок или строительства"
+msgstr "Получено после продолжительного копания или строительства"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME"
@@ -4604,7 +4604,7 @@ msgstr "Прерванный сон"
 #. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP"
 msgid "This Duplicant was rudely awoken"
-msgstr "Этот Дупликани был бесцеремонно разбужен"
+msgstr "Этот Дупликант был бесцеремонно разбужен"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME"
@@ -4709,7 +4709,7 @@ msgstr "Этот Дупликант мирно спит"
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME"
 msgid "Resting"
-msgstr "Покоится"
+msgstr "Отдыхает"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME"
@@ -4784,7 +4784,7 @@ msgstr "Несвежая еда"
 #. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP"
 msgid "This Duplicant is in a bad mood from having to eat stale <style=\"food\">Food</style>"
-msgstr "Этот Дупликант в плохом настроении из-за того что принимал несвежую <style=\"food\">Пищу</style>"
+msgstr "Этот Дупликант в плохом настроении из-за того что принимал несвежую <style=\"food\">Еду</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME"
@@ -4814,7 +4814,7 @@ msgstr "Устроить беспорядок"
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP"
 msgid "This Duplicant had no choice but to to empty their bladder"
-msgstr "У этого Дупликанта не  было выбора в том как опустошить мочевой пузырь"
+msgstr "У этого Дупликанта не было выбора, кроме как опустошить мочевой пузырь"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP"
@@ -4849,7 +4849,7 @@ msgstr "Этот дупликант будет признателен за <styl
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME"
 msgid "Uncomfortable Sleep"
-msgstr "Дискомфортный Сон"
+msgstr "Дискомфортный сон"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP"
@@ -4919,7 +4919,7 @@ msgstr "Этот Дупликант работает изо всех сил"
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
 msgid "Areas with <style=\"decor\">Decor</style> values lower than a Duplicant's <style=\"decor\">Decor Expectations</style> will cause their <style=\"stress\">Stress</style>\nto rise, while high decor values will cause their stress to fall.\n\nA Duplicant's expectations will increase as they level up and become better at their jobs."
-msgstr "Зоны с <style=\"decor\">Декором</style> держат значения ниже чем <style=\"decor\">Ожидание Декора</style> что приведет к <style=\"stress\">Стрессу</style>\nи он будет расти, в то время как высокие значения декора заставят стресс убывать.\n\nОжидания Дупликантов будут возрастать с ростом навыков и когда они будут становиться лучше на своих работах."
+msgstr "Зоны, значение <style=\"decor\">Декора</style> которых ниже чем <style=\"decor\">Ожидание Декора</style> Дупликанта, приводят к <style=\"stress\">Стрессу</style>\n, который будет расти, в то время как высокие значения декора заставят стресс снижаться.\n\nОжидания Дупликантов по декору будут возрастать с ростом уровня и когда они будут становиться лучше на своих работах."
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
@@ -4939,22 +4939,22 @@ msgstr ""
 #. STRINGS.DUPLICANTS.OPINIONS.DARKNESS
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.DARKNESS"
 msgid "There's too little <style=\"light\">Light</style> for this Duplicant to see."
-msgstr "Тут слишком мало <style=\"light\">Света</style> для того чтоб Дупликант мог видеть"
+msgstr "Тут слишком мало <style=\"light\">Света</style> для того чтоб Дупликант мог видеть."
 
 #. STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS"
 msgid "There is enough <style=\"light\">Light</style> for this Duplicant to see."
-msgstr "Тут достаточно <style=\"light\">Света</style> для того чтоб Дупликант"
+msgstr "Тут достаточно <style=\"light\">Света</style> для того чтобы Дупликант мог видеть."
 
 #. STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION"
 msgid "Duplicants are drawn to lit places, and dislike being in the dark.\nMake sure your Duplicants have plenty of <style=\"light\">Light</style> to keep their eyes unstrained and their <style=\"stress\">Stress</style> low."
-msgstr "Дупликанты людят находится в освещенных местах, и не любят быть в темноте.\nБудьте уверены что у ваших Дупликантов есть достаточно <style=\"light\">Света</style> чтоб держать их глаза ненапряженными а <style=\"stress\">Стресс</style> низким."
+msgstr "Дупликанты любят находится в освещенных местах, и не любят быть в темноте.\nБудьте уверены что у ваших Дупликантов есть достаточно <style=\"light\">Света</style>, чтобы держать их глаза ненапряженными, а <style=\"stress\">Стресс</style> низким."
 
 #. STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION"
 msgid "Duplicants don't find bare rockface very inviting.\nUse wall tiles and doors to build more comfortable Mess Halls for them."
-msgstr "Дупликанты не считают голую облицовку очень привлекательной.\nИспользуйте плитки для стен и двери чтобы посмотрить более комфортные столовые для них."
+msgstr "Дупликанты не считают голую облицовку очень привлекательной.\nИспользуйте блоки для стен и двери чтобы посмотрить более комфортные столовые для них."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING"
@@ -4964,7 +4964,7 @@ msgstr "В комнате отсутствуют стены или двери."
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION"
 msgid "Duplicants don't find bare rockface very inviting.\nUse wall tiles and doors to build more comfortable Rooms for them."
-msgstr "Дупликанты не считают голую облицовку очень привлекательной.\Используйте плитки для стен и двери чтобы посмотрить более комфортные комнаты для них."
+msgstr "Дупликанты не считают голую облицовку очень привлекательной.\nИспользуйте блоки для стен и двери чтобы посмотрить более комфортные комнаты для них."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD"
@@ -4979,7 +4979,7 @@ msgstr "В уборной отсутствуют стены или двери."
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION"
 msgid "Duplicants like a little privacy when they do their biz.\nUse wall tiles and doors to build more comfortable Washrooms for them."
-msgstr "Дупликанты любят небольшую приватность когда ходят по делам.\nИспользуйте плитки для стен и двери для создания более комфортных уборных для них."
+msgstr "Дупликанты любят небольшую приватность когда ходят по делам.\nИспользуйте блоки для стен и двери для создания более комфортных уборных для них."
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD"
@@ -9629,7 +9629,7 @@ msgstr "Узнайте как работают приоритеты Ваших �
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr "Тревога"
+msgstr "Красная Тревога"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP"
@@ -11214,7 +11214,7 @@ msgstr "Не помечен для разбора"
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISNOTREDALERT
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISNOTREDALERT"
 msgid "Red alert"
-msgstr "Тревога"
+msgstr "Красная тревога"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL"
@@ -13144,7 +13144,7 @@ msgstr "Очередь задач"
 #. STRINGS.UI.RED_ALERT
 msgctxt "STRINGS.UI.RED_ALERT"
 msgid "RED ALERT"
-msgstr "ТРЕВОГА"
+msgstr "КРАСНАЯ ТРЕВОГА"
 
 #. STRINGS.UI.REMOVEFROMRECEPTACLE
 msgctxt "STRINGS.UI.REMOVEFROMRECEPTACLE"
@@ -13804,17 +13804,17 @@ msgstr "Постоянно производить {0}, если есть дос�
 #. STRINGS.UI.TOOLTIPS.RED_ALERT
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT"
 msgid "Toggle Red Alert\nDuplicants will enter a state of emergency and ignore their basic needs to work"
-msgstr "Влючить\Выключить Тревогу\nПереводит Дупликантов в режим чрезвычайной ситуации - они будут работать, игнорируя свои базовые потребности"
+msgstr "Влючить\Выключить Красную Тревогу\nПереводит Дупликантов в режим чрезвычайной ситуации - они будут работать, игнорируя свои базовые потребности"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF"
 msgid "Disable Red Alert"
-msgstr "Выключить Тревогу"
+msgstr "Выключить Красную Тревогу"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON"
 msgid "Enable Red Alert"
-msgstr "Включить Тревогу"
+msgstr "Включить Красную Тревогу"
 
 #. STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING"
