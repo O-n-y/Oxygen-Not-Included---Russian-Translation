@@ -564,7 +564,7 @@ msgstr "Отсутствует основание"
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
 msgid "Build Tiles beneath this building\n------------------\nTiles can be found in the Base Tab <color=#FF0000>(1)</color> of the Build Menu"
-msgstr "Постройте блоки под этой постройкой\n------------------\nБлоки расположены во категории Основные постройки <color=#FF0000>(1)</color> строительного меню"
+msgstr "Постройте блоки под этой постройкой\n------------------\nБлоки расположены в категории Основные постройки <color=#FF0000>(1)</color> строительного меню"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
