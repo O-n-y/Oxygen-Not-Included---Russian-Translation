@@ -1379,12 +1379,12 @@ msgstr "Кухня"
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC"
 msgid "The colony that eats together, excretes together."
-msgstr "Вместе едим, вместе говорим!"
+msgstr "Вместе гадим - вместе жрем, вместе жрем и вместе гадим."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
 msgid "Gives Duplicants a place to eat and reduces <style=\"stress\">Stress</style>.\n\nDuplicants will automatically eat at their assigned table when hungry."
-msgstr "Дает Дупликантам место, где есть, и уменьшает <style=\"stress\">Стресс</style>.\n\nКогда Дупликанты голодны, им автоматически будет назначен стол"
+msgstr "Дает Дупликантам место, где есть, и уменьшает <style=\"stress\">Стресс</style>.\n\nКогда Дупликанты проголодаются, они автоматически отправятся есть за назначенный им стол."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
@@ -1394,12 +1394,12 @@ msgstr "Обеденный стол"
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC"
 msgid "Gets hot and steamy."
-msgstr "Становится горячий и насыщенный паром."
+msgstr "Пышет жаром, пышет паром."
 
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT"
 msgid "Separates any <style=\"liquid\">Contaminated Water</style> piped through it into <style=\"gas\">Steam</style> and <style=\"solid\">Contaminated Dirt</style>."
-msgstr "Разделяет <style=\"liquid\">Загрязненную Воду</style> прогнанную через него на <style=\"gas\">Пар</style> и <style=\"solid\">Загрязненную Землю</style>."
+msgstr "Разделяет прогнанную через нее <style=\"liquid\">Загрязненную воду</style> на <style=\"gas\">Пар</style> и <style=\"solid\">Загрязненную почву</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.NAME"
@@ -1424,22 +1424,22 @@ msgstr "Авто"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE"
 msgid "Close Door"
-msgstr "Закрытая Дверь"
+msgstr "Дверь закрыта"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN"
 msgid "Open Door"
-msgstr "Открытая Дверь"
+msgstr "Дверь открыта"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.DESC"
 msgid "Makes a decent bedroom door, if you don't mind the occasional voyeur."
-msgstr "Неплохая дверь для спальни, если конечно Вы не против внезапного вуаериста."
+msgstr "Неплохая дверь для спальни, если, конечно, Вы не против вуайериста-другого."
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.EFFECT"
 msgid "Encloses rooms without blocking the flow of <style=\"gas\">Gas</style> or <style=\"liquid\">Liquid</style>."
-msgstr "Отделяет комнаты без блокирования потока <style=\"gas\">Газа</style> или <style=\"liquid\">Жидкости</style>."
+msgstr "Отделяет помещение, но не перекрывает проход <style=\"gas\">Газа</style> или <style=\"liquid\">Жидкости</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.LEFT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.LEFT"
@@ -1449,7 +1449,7 @@ msgstr "слева"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.NAME"
 msgid "Pneumatic Door"
-msgstr "Дверь из Сетки"
+msgstr "Пневматическая дверь"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED"
@@ -1469,12 +1469,12 @@ msgstr "справа"
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC"
 msgid "Water goes in one end, life-sustaining oxygen comes out the other."
-msgstr "Вода поступает с одного конца, поддерживающий жизнь кислород выходит с другого."
+msgstr "Вода поступает с одного конца, животворящий кислород выходит с другого."
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT"
 msgid "Produces a steady supply of <style=\"oxygen\">Oxygen</style> using piped in <style=\"liquid\">Water</style>.\n\nBecomes idle when the room enters maximum air pressure range."
-msgstr "Производит стабильный поток <style=\"oxygen\">Кислорода</style> используя <style=\"liquid\">Воду</style> в трубах.\n\nПереходит в режим бездействия, когда комната достигает максимального давления воздуха."
+msgstr "Производит стабильный поток <style=\"oxygen\">Кислорода</style> используя <style=\"liquid\">Воду</style> из трубы.\n\nПереходит в режим бездействия, когда комната достигает максимального давления воздуха."
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME"
@@ -1484,17 +1484,17 @@ msgstr "Электролизер"
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC"
 msgid "Shag rugs are out. Farm floors are all the rage now!"
-msgstr "Самые популярные полы для создания Фермы уже здесь!"
+msgstr "Ворсистые ковры уже не в моде. Последний писк: вместо обычного пола - ферма!"
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT"
 msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nCan be used as floor tile."
-msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда в него посажено <style=\"seed\">Семя</style>.\n\nМожет быть использовано как блок для пола."
+msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда в него посажены <style=\"seed\">Семена</style>.\n\nМожет быть использовано как блок для пола."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
 msgid "Farm Tile"
-msgstr "Блок для Фермы"
+msgstr "Блок-ферма"
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC"
@@ -1504,12 +1504,12 @@ msgstr "Не вдыхайте слишком глубоко."
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT"
 msgid "Uses <style=\"liquid\">Contaminated Water</style> to produce <style=\"solid\">Fertilizer</style>."
-msgstr "Использует <style=\"liquid\">Загрязненную Воду</style> чтобы произвести <style=\"solid\">Удобрение</style>."
+msgstr "Использует <style=\"liquid\">Загрязненную воду</style> для производства <style=\"solid\">Удобрений</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME"
 msgid "Fertilizer Maker"
-msgstr "Изготовитель Удобрений"
+msgstr "Изготовитель удобрений"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC"
@@ -1519,27 +1519,27 @@ msgstr "Теперь ваши Дупликанты могут прочесть �
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT"
 msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
-msgstr "Увеличивает <style=\"decor\">Показатель Декора</style> и уменьшает <style=\"stress\">Стресс</style> обеспечивая <style=\"light\">Свет</style>."
+msgstr "Увеличивает <style=\"decor\">Показатель Декора</style> и уменьшает <style=\"stress\">Стресс</style> излучая <style=\"light\">Свет</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
 msgid "Floor Lamp"
-msgstr "Напольная Лампа"
+msgstr "Напольная лампа"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC"
 msgid "Duplicants can't agree on how to pronounce \"vase\", but they *can* agree it looks nice."
-msgstr "Красивая ваза для цветов. Улучшает <style=\"decor\">Показатель Декора</style> и уменьшает <style=\"stress\">Стресс</style>. Для полного эффекта посадие Растение."
+msgstr "Правильное произношение слова \"ваза\" вызывает у Дупликантов разногласия. Но они *готовы* согласится с тем, что выглядит она мило."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
 msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicant <style=\"stress\">Stress</style>."
-msgstr "Увеличивает <style=\"decor\">Показатель Декора</style> и уменьшает <style=\"stress\">Стресс</style>."
+msgstr "Увеличивает <style=\"decor\">Показатель декора</style> и уменьшает <style=\"stress\">Стресс</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME"
 msgid "Flower Vase"
-msgstr "Цветочная Ваза"
+msgstr "Цветочная ваза"
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC"
