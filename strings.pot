@@ -5849,7 +5849,7 @@ msgstr "Шенон"
 #. STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.DESC"
 msgid "{0}s detest small spaces. You can imagine how they feel about the colony."
-msgstr "preparedи ненавидят небольшие пространства. Можете себе представить что они думают о колонии."
+msgstr "{0} ненавидят небольшие пространства. Можете себе представить что они думают о колонии."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.NAME"
@@ -7829,7 +7829,7 @@ msgstr "Балерина"
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
 msgid "This Duplicant has no appreciation for the finer things"
-msgstr "Этот Дупликанn не уважает искусство"
+msgstr "Этот Дупликант не уважает искусство"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME"
@@ -7964,7 +7964,7 @@ msgstr "Загрязненный Кислород"
 #. STRINGS.ELEMENTS.COPPER.DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style>.\n\nCopper is suitable for building <style=\"power\">Power</style> systems."
-msgstr "(Cu) Проводящий <style=\"RawMEtal\">Металл</style>.\n\nМедь отлично подходит для постройки <style=\"power\">Электрических</style> сетей"
+msgstr "(Cu) Проводящий <style=\"RawMetal\">Металл</style>.\n\nМедь отлично подходит для постройки <style=\"power\">Электрических</style> сетей"
 
 #. STRINGS.ELEMENTS.COPPER.NAME
 msgctxt "STRINGS.ELEMENTS.COPPER.NAME"
