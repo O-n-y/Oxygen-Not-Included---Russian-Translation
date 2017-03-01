@@ -1,4 +1,4 @@
-﻿"Application: Oxygen Not Included"
+"Application: Oxygen Not Included"
 "POT Version: 2.0"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
@@ -334,7 +334,7 @@ msgstr "Не качает"
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.TOOLTIP"
 msgid "This pump is not active"
-msgstr "Эта помпа неактивна"
+msgstr "Этот насос неактивен"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.NAME"
@@ -424,27 +424,27 @@ msgstr "Не качает"
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.TOOLTIP"
 msgid "This pump is not active"
-msgstr "Эта помпа неактивена"
+msgstr "Этот насос неактивен"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME"
 msgid "Liquid Vent Obstructed"
-msgstr "Водоток заблокирован"
+msgstr "Водоотток заблокирован"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.TOOLTIP"
 msgid "Cannot release liquid through this vent"
-msgstr "Невозможно вылить жидкость через этот водоток"
+msgstr "Невозможно вылить жидкость через этот водоотток"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.NAME"
 msgid "Liquid Vent Overpressurized"
-msgstr "Водоток заблокирован избыточным давлением"
+msgstr "Водоотток заблокирован избыточным давлением"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP"
 msgid "Vent cannot function at current pressure"
-msgstr "Водоток не работает при текущем давлении"
+msgstr "Водоотток не работает при текущем давлении"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME"
@@ -534,7 +534,7 @@ msgstr "Мало ресурсов\n{ItemsRemaining}"
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP"
 msgid "This building will soon require materials that are unavailable"
-msgstr "Это здание скоро потребует недоступных материалы"
+msgstr "Этому зданию скоро потребуются материалы, которые в данный момент недоступны"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME"
@@ -564,7 +564,7 @@ msgstr "Отсутствует основание"
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
 msgid "Build Tiles beneath this building\n------------------\nTiles can be found in the Base Tab <color=#FF0000>(1)</color> of the Build Menu"
-msgstr "Постройте блоки под этой постройкой\n------------------\nБлоки могут быть найдены в Основной вкладке <color=#FF0000>(1)</color> меню Строительство"
+msgstr "Постройте блоки под этой постройкой\n------------------\nБлоки расположены в категории Основные постройки <color=#FF0000>(1)</color> строительного меню"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
@@ -574,12 +574,12 @@ msgstr "Требуется Мультитул"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP"
 msgid "A <style=\"equipment\">Multitool</style> is required to mine this material\n------------------\nMultitools can be made at Crafting Stations in the Stations Tab <color=#FF0000>(9)</style> of the Build Menu"
-msgstr "Для выкапывания этого материала требуется <style=\"equipment\">Мультитул</style>\n------------------\nЕго можно сделать на Верстаке во вкладке Станции <color=#FF0000>(9)</style> меню Строительство"
+msgstr "Для выкапывания этого материала требуется <style=\"equipment\">Мультитул</style>\n------------------\nЕго можно сделать на Верстаке, расположенном в категории Станции <color=#FF0000>(9)</style> строительного меню"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
 msgid "No Gas Intake"
-msgstr "Газ не поступает"
+msgstr "Нет входного канала для газа"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP"
@@ -589,7 +589,7 @@ msgstr "Этой постройке неоткуда получать <style=\"g
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME"
 msgid "No Gas Output"
-msgstr "Газ не выходит"
+msgstr "Нет выходного канала для газа"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP"
@@ -599,7 +599,7 @@ msgstr "Этой постройке некуда передавать <style=\"g
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME"
 msgid "No Liquid Intake"
-msgstr "Жидкость не поступает"
+msgstr "Нет входного канала для жидкости"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP"
@@ -609,7 +609,7 @@ msgstr "Этой постройке неоткуда получать <style=\"l
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME"
 msgid "No Liquid Output"
-msgstr "Жидкость не выходит"
+msgstr "Нет выходного канала для жидкости"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP"
@@ -3999,42 +3999,42 @@ msgstr "Идет на место"
 #. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME"
 msgid "MoveToLocation"
-msgstr ""
+msgstr "Идти на место"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.STATUS"
 msgid "Move to location"
-msgstr ""
+msgstr "Идет на место"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME"
 msgid "MoveToQuarantine"
-msgstr ""
+msgstr "Идти в карантин"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.STATUS"
 msgid "Moving to quarantine"
-msgstr ""
+msgstr "Идет в карантин"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME"
 msgid "MoveToSafety"
-msgstr ""
+msgstr "Идти в безопасное место"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS"
 msgid "Moving to safety"
-msgstr ""
+msgstr "Идет в безопасное место"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.NAME"
 msgid "Mushing"
-msgstr ""
+msgstr "Смешивает"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.STATUS"
 msgid "Going to mush"
-msgstr ""
+msgstr "Собирается смешивать"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME"
@@ -4049,887 +4049,887 @@ msgstr "Доставляет"
 #. STRINGS.DUPLICANTS.CHORES.PEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.NAME"
 msgid "Pee"
-msgstr ""
+msgstr "Мочится"
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.STATUS"
 msgid "Bio Break"
-msgstr ""
+msgstr "Справляет нужду"
 
 #. STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.NAME"
 msgid "Prioritize Chore"
-msgstr ""
+msgstr "Приоритетная обязанность"
 
 #. STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.STATUS"
 msgid "Prioritize chore"
-msgstr ""
+msgstr "Приоритетная обязанность"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME"
 msgid "Recharge"
-msgstr ""
+msgstr "Перезарядка"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.STATUS"
 msgid "Rechargin equipment"
-msgstr ""
+msgstr "Перезаряжает"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME"
 msgid "RecoverBreath"
-msgstr ""
+msgstr "Восстановить дыхание"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS"
 msgid "Recovering breath"
-msgstr ""
+msgstr "Восстанавливает дыхание"
 
 #. STRINGS.DUPLICANTS.CHORES.RELAX.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.NAME"
 msgid "Relax"
-msgstr ""
+msgstr "Отдых"
 
 #. STRINGS.DUPLICANTS.CHORES.RELAX.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.STATUS"
 msgid "Relaxing"
-msgstr ""
+msgstr "Отдыхает"
 
 #. STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME"
 msgid "Relocate"
-msgstr ""
+msgstr "Переместить"
 
 #. STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS"
 msgid "Going to relocate"
-msgstr ""
+msgstr "Собирается переместить"
 
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.NAME"
 msgid "Repair"
-msgstr ""
+msgstr "Починка"
 
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS"
 msgid "Going to repair"
-msgstr ""
+msgstr "Идет чинить"
 
 #. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME"
 msgid "Toggle"
-msgstr ""
+msgstr "Переключение"
 
 #. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.STATUS"
 msgid "Rescuing friend"
-msgstr ""
+msgstr "Спасает друга"
 
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME"
 msgid "Research"
-msgstr ""
+msgstr "Исследование"
 
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS"
 msgid "Going to research"
-msgstr ""
+msgstr "Идет исследовать"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME"
 msgid "RestDueToDisease"
-msgstr ""
+msgstr "Отдых всвязи с болезнью"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS"
 msgid "Resting"
-msgstr ""
+msgstr "Отдыхает"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.NAME"
 msgid "Shower"
-msgstr ""
+msgstr "Душ"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS"
 msgid "Showering"
-msgstr ""
+msgstr "Принимает душ"
 
 #. STRINGS.DUPLICANTS.CHORES.SIGH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.NAME"
 msgid "Sigh"
-msgstr ""
+msgstr "Вздох"
 
 #. STRINGS.DUPLICANTS.CHORES.SIGH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.STATUS"
 msgid "Sighing"
-msgstr ""
+msgstr "Вздыхает"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.NAME"
 msgid "Sleep"
-msgstr ""
+msgstr "Сон"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.STATUS"
 msgid "Sleeping"
-msgstr ""
+msgstr "Спит"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.NAME"
 msgid "SleepOnFloor"
-msgstr ""
+msgstr "Сон на полу"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.STATUS"
 msgid "Sleeping"
-msgstr ""
+msgstr "Спит"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME"
 msgid "StressActingOut"
-msgstr ""
+msgstr "На грани срыва"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS"
 msgid "Lashing out"
-msgstr ""
+msgstr "Выпускает пар"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME"
 msgid "StressVomit"
-msgstr ""
+msgstr "Рвота из-за стресса"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS"
 msgid "Stress Vomiting"
-msgstr ""
+msgstr "Вырвало из-за стресса"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME"
 msgid "TakeMedicine"
-msgstr ""
+msgstr "Принять лекарства"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS"
 msgid "Taking medicine"
-msgstr ""
+msgstr "Принимает лекарства"
 
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME"
 msgid "Toggle"
-msgstr ""
+msgstr "Переключение"
 
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS"
 msgid "Going to toggle"
-msgstr ""
+msgstr "Идет переключать"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME"
 msgid "Sweep"
-msgstr ""
+msgstr "Уборка"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS"
 msgid "Going to sweep"
-msgstr ""
+msgstr "Идет убирать"
 
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME"
 msgid "Unequip"
-msgstr ""
+msgstr "Снять"
 
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS"
 msgid "Moving to unequip"
-msgstr ""
+msgstr "Идет снимать"
 
 #. STRINGS.DUPLICANTS.CHORES.UPGRADE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPGRADE.NAME"
 msgid "Upgrade"
-msgstr ""
+msgstr "Улучшение"
 
 #. STRINGS.DUPLICANTS.CHORES.UPGRADE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPGRADE.STATUS"
 msgid "Going to upgrade"
-msgstr ""
+msgstr "Идет улучшать"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.NAME"
 msgid "Dig Up"
-msgstr ""
+msgstr "Раскопать"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS"
 msgid "Going to dig up"
-msgstr ""
+msgstr "Идет раскапывать"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.NAME"
 msgid "Use Toilet"
-msgstr ""
+msgstr "Использовать туалет"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS"
 msgid "Going to use toilet"
-msgstr ""
+msgstr "Идет в туалет"
 
 #. STRINGS.DUPLICANTS.CHORES.VOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.NAME"
 msgid "Vomit"
-msgstr ""
+msgstr "Рвота"
 
 #. STRINGS.DUPLICANTS.CHORES.VOMIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.STATUS"
 msgid "Vomiting"
-msgstr ""
+msgstr "Блюет"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.NAME"
 msgid "Warmup"
-msgstr ""
+msgstr "Разминка"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS"
 msgid "Going to warmup"
-msgstr ""
+msgstr "Идет разминаться"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME"
 msgid "WashHands"
-msgstr ""
+msgstr "Умыть руки"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS"
 msgid "Washing hands"
-msgstr ""
+msgstr "Умывает руки"
 
 #. STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME"
 msgid "All Diseases"
-msgstr ""
+msgstr "Все болезни"
 
 #. STRINGS.DUPLICANTS.DISEASES.BOOSTSCURESPEED
 msgctxt "STRINGS.DUPLICANTS.DISEASES.BOOSTSCURESPEED"
 msgid "Heal speed (<style=\"disease\">{0}</style>): <style=\"produced\">+{1}</style>"
-msgstr ""
+msgstr "Скорость лечения (<style=\"disease\">{0}</style>): <style=\"produced\">+{1}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.CURED_POPUP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.CURED_POPUP"
 msgid "Cured of <style=\"disease\">{0}</style>"
-msgstr ""
+msgstr "Вылечился от <style=\"disease\">{0}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.CURES
 msgctxt "STRINGS.DUPLICANTS.DISEASES.CURES"
 msgid "Instantly cures <style=\"disease\">{0}</style>"
-msgstr ""
+msgstr "Мгновенно вылечился от <style=\"disease\">{0}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.DIARRHEA.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DIARRHEA.DESCRIPTION"
 msgid "This Duplicant's gut is giving them some trouble"
-msgstr ""
+msgstr "Этот Дупликант имеет некоторые проблемы с кишечником"
 
 #. STRINGS.DUPLICANTS.DISEASES.DIARRHEA.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DIARRHEA.NAME"
 msgid "Diarrhea"
-msgstr ""
+msgstr "Диарея"
 
 #. STRINGS.DUPLICANTS.DISEASES.DISEASE_TRIGGER_EAT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DISEASE_TRIGGER_EAT"
 msgid "May cause <style=\"disease\">{Diseases}</style>"
-msgstr ""
+msgstr "Может вызвать <style=\"disease\">{Diseases}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.DESCRIPTION"
 msgid "This Duplicant is experiencing some cognitive impairment"
-msgstr ""
+msgstr "Этот Дупликант испытывает некие когнетивные нарушения"
 
 #. STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.NAME"
 msgid "Brain Fog"
-msgstr ""
+msgstr "Помутнение сознания"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTION"
 msgid "This Duplicant's last meal might have been past its prime"
-msgstr ""
+msgstr "Возможно этот Дупликант принимал в пищу испорченные продукты"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME"
 msgid "Food Poisoning"
-msgstr ""
+msgstr "Отравление едой"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP"
 msgid "Became infected by <style=\"disease\">{0}</style>"
-msgstr ""
+msgstr "Заразился <style=\"disease\">{0}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD"
 msgid "eating a {0}"
-msgstr ""
+msgstr "ест {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA"
 msgid "standing in a toxic area"
-msgstr ""
+msgstr "стоит в токсичной зоне"
 
 #. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION"
 msgid "This Duplicant really doesn't feel like working right now"
-msgstr ""
+msgstr "Этот Дупликант совершенно не чувствует, что работает прямо сейчас"
 
 #. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.NAME"
 msgid "The Lackadaisies"
-msgstr ""
+msgstr "Апатия к лентяйству"
 
 #. STRINGS.DUPLICANTS.DISEASES.NOMEDICINETAKEN
 msgctxt "STRINGS.DUPLICANTS.DISEASES.NOMEDICINETAKEN"
 msgid "None"
-msgstr ""
+msgstr "Ничего"
 
 #. STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP"
 msgid "{0} was infected with <style=\"disease\">{1}</style> by {2}"
-msgstr ""
+msgstr "{0} был заражен <style=\"disease\">{1}</style> от {2}"
 
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.CRINGE_EFFECT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.CRINGE_EFFECT"
 msgid "Smelled a putrid odor"
-msgstr ""
+msgstr "Мерзко пахнет"
 
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION"
 msgid "The pungent odor wafting off this Duplicant is nauseating their peers"
-msgstr ""
+msgstr "Товарищи этого Дупликанта испытывают отвращение от его едкого запаха"
 
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME"
 msgid "Trench Stench"
-msgstr ""
+msgstr "Немытый"
 
 #. STRINGS.DUPLICANTS.DISEASES.RECUPERATING
 msgctxt "STRINGS.DUPLICANTS.DISEASES.RECUPERATING"
 msgid "Sleeping it off"
-msgstr ""
+msgstr "Отсыпается"
 
 #. STRINGS.DUPLICANTS.DISEASES.REDUCECURESPEED
 msgctxt "STRINGS.DUPLICANTS.DISEASES.REDUCECURESPEED"
 msgid "Heal speed (<style=\"disease\">{0}</style>): <style=\"consumed\">{1}</style>"
-msgstr ""
+msgstr "Скорость лечения (<style=\"disease\">{0}</style>): <style=\"consumed\">{1}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION"
 msgid "This Duplicant saw the corpse of a friend"
-msgstr ""
+msgstr "Этот Дупликант увидел труп своего друга"
 
 #. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME"
 msgid "Existential Angst"
-msgstr ""
+msgstr "Иррациональный страх"
 
 #. STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION"
 msgid "This Duplicant is a walking fungal pod"
-msgstr ""
+msgstr "Этот Дупликант идет по грибковым зарослям"
 
 #. STRINGS.DUPLICANTS.DISEASES.SPORES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.NAME"
 msgid "The Spores"
-msgstr ""
+msgstr "Грибковые споры"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP"
 msgid "{Symptoms}\n\nInfected by {InfectionSource}\nDuration remaining: {Duration}\nRemedies: <style=\"medicine\">{Cures}</style>"
-msgstr ""
+msgstr "{Symptoms}\n\nЗаразился {InfectionSource}\nОсталось времени: {Duration}\nЛекарства: <style=\"medicine\">{Cures}</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
 msgid "New Hope"
-msgstr ""
+msgstr "Новая надежда"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP"
 msgid "This Duplicant feels pretty optimistic about their new home"
-msgstr ""
+msgstr "Этот Дупликант чувствует себя оптимистично по отношению к новому дому"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME"
 msgid "Duplicant"
-msgstr ""
+msgstr "Дупликант"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BREATHING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BREATHING.NAME"
 msgid "Breathing"
-msgstr ""
+msgstr "Дышит"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME"
 msgid "Burning calories"
-msgstr ""
+msgstr "Сжигает калории"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME"
 msgid "Cold"
-msgstr ""
+msgstr "Холодно"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP"
 msgid "This Duplicant is uncomfortably cold"
-msgstr ""
+msgstr "Этому Дупликанту дискомфортно в таком холоде"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME"
 msgid "Darkness"
-msgstr ""
+msgstr "Темнота"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP"
 msgid "This Duplicant doesn't like being in the dark!"
-msgstr ""
+msgstr "Этому Дупликанту не нравится находиться в темноте"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME"
 msgid "Dead"
-msgstr ""
+msgstr "Мертв"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE"
 msgid "Obtained through prolonged digging or construction"
-msgstr ""
+msgstr "Получено после продолжительного копания или строительства"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME"
 msgid "Dirty Hands"
-msgstr ""
+msgstr "Грязные руки"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP"
 msgid "This Duplicant needs to <style=\"hygiene\">Wash</style> their hands"
-msgstr ""
+msgstr "Этот дупликант хочет <style=\"hygiene\">Помыть</style> его руки"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME"
 msgid "Disturbed Sleep"
-msgstr ""
+msgstr "Нарушенный сон"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.TOOLTIP"
 msgid "This Duplicant's sleep was disturbed"
-msgstr ""
+msgstr "Сон этого Дупликанта был нарушен"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME"
 msgid "Eating"
-msgstr ""
+msgstr "Ест"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.NAME"
 msgid "Entitlement"
-msgstr ""
+msgstr "Право"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP"
 msgid "Duplicants will demand better <style=\"decor\">Decor</style> and accommodations with each skill level they gain"
-msgstr ""
+msgstr "Дупликанты будут нуждаться в лучшем <style=\"decor\">Декорировании</style> и жилье с каждым полученным уровнем навыка"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.NAME"
 msgid "Full Bladder"
-msgstr ""
+msgstr "Полный мочевой пузырь"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.TOOLTIP"
 msgid "This Duplicant's bladder is full"
-msgstr ""
+msgstr "Мочевой пузырь этого Дупликанта полон"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME"
 msgid "Fussy"
-msgstr ""
+msgstr "Привередливый"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP"
 msgid "This Duplicant is hard to please"
-msgstr ""
+msgstr "Этому Дупликанту трудно угодить"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOLDINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOLDINGBREATH.NAME"
 msgid "Holding Breath"
-msgstr ""
+msgstr "Задержка дыхания"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOMEOSTASIS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOMEOSTASIS.NAME"
 msgid "Homeostasis"
-msgstr ""
+msgstr "Саморегуляция"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.NAME"
 msgid "Hot"
-msgstr ""
+msgstr "Горячо"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP"
 msgid "This Duplicant is uncomfortably warm"
-msgstr ""
+msgstr "Этому дупликанту некомфортно в такой жаре"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME"
 msgid "Hungry"
-msgstr ""
+msgstr "Голодный"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.TOOLTIP"
 msgid "This Duplicant is ready for lunch"
-msgstr ""
+msgstr "Этот Дупликант готов пообедать"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.NAME"
 msgid "Inspired"
-msgstr ""
+msgstr "Вдохновение"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP"
 msgid "This Duplicant has had a creative vision!"
-msgstr ""
+msgstr "Этот Дупликант обладает творческим мышлением!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.NAME"
 msgid "Interrupted Sleep"
-msgstr ""
+msgstr "Прерванный сон"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP"
 msgid "This Duplicant was rudely awoken"
-msgstr ""
+msgstr "Этот Дупликант был бесцеремонно разбужен"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME"
 msgid "Light wounds"
-msgstr ""
+msgstr "Легкие ранения"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP"
 msgid "This Duplicant's injuries are a bit uncomfortable"
-msgstr ""
+msgstr "Повреждения полученные этим Дупликантом приносят ему легкий дискомофорт"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.NAME"
 msgid "Nervous Breakdown"
-msgstr ""
+msgstr "Нервный срыв"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.TOOLTIP"
 msgid "<style=\"stress\">Stress</style> has completely eroded this Duplicant's ability to function"
-msgstr ""
+msgstr "<style=\"stress\">Стресс</style> подорвал способность к действию у этого Дупликанта"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.NAME"
 msgid "Moderate wounds"
-msgstr ""
+msgstr "Умеренные ранения"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP"
 msgid "This Duplicants' injuries are affecting their ability to work"
-msgstr ""
+msgstr "Повреждения полученные этим Дупликантом затрагивают его способность работать"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MOURNING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.NAME"
 msgid "Mourning"
-msgstr ""
+msgstr "Траур"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP"
 msgid "This Duplicant is grieving the loss of a friend"
-msgstr ""
+msgstr "Этот Дупликант скорбит из-за потери друга"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.NAME"
 msgid "Narcoleptic Sleep"
-msgstr ""
+msgstr "Нарколептический сон"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP"
 msgid "This Duplicant just needs to rest their eyes for a second"
-msgstr ""
+msgstr "Этот Дупликант просто хочет на секундочку закрыть глаза"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.NAME"
 msgid "New Friend"
-msgstr ""
+msgstr "Новый друг"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP"
 msgid "This Duplicant is happy to see a new face in the colony!"
-msgstr ""
+msgstr "Этот Дупликант счастлив видеть новое лицо в колонии!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.NAME"
 msgid "Nightmares"
-msgstr ""
+msgstr "Кошмары"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.TOOLTIP"
 msgid "This Duplicant was visited by something in the night"
-msgstr ""
+msgstr "Этого Дупликанта что-то посетило ночью"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME"
 msgid "None"
-msgstr ""
+msgstr "Ничего"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RECOVERINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RECOVERINGBREATH.NAME"
 msgid "Recovering Breath"
-msgstr ""
+msgstr "Восстановление дыхания"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr ""
+msgstr "Красная Тревога"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP"
 msgid "This Duplicant is <style=\"stress\">Stressed</style> out by the current Red Alert"
-msgstr ""
+msgstr "Этот Дупликант находится в состоянии <style=\"stress\">Стресса</style> от текущей Красной Тревоги"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME"
 msgid "Restful Sleep"
-msgstr ""
+msgstr "Безмятежный сон"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP"
 msgid "This Duplicant is sleeping peacefully"
-msgstr ""
+msgstr "Этот Дупликант мирно спит"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME"
 msgid "Resting"
-msgstr ""
+msgstr "Отдыхает"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME"
 msgid "Rotting"
-msgstr ""
+msgstr "Разлагается"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME"
 msgid "Severe wounds"
-msgstr ""
+msgstr "Тяжелые раны"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP"
 msgid "This Duplicant's injuries are severely affecting their work and well-being"
-msgstr ""
+msgstr "Повреждения полученные этим Дупликантом серьезно затрагивают его самочувствие способность работать"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME"
 msgid "Skill Level"
-msgstr ""
+msgstr "Уровень Навыка"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME"
 msgid "Sleeping"
-msgstr ""
+msgstr "Спит"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP"
 msgid "This Duplicant is recovering stamina"
-msgstr ""
+msgstr "Этот Дупликант восполняет жизненные силы"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME"
 msgid "Sleepy"
-msgstr ""
+msgstr "Сонный"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.TOOLTIP"
 msgid "This Duplicant is getting tired"
-msgstr ""
+msgstr "Этот Дупликант начинает уставать"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.NAME"
 msgid "Smelled Putrid Odor"
-msgstr ""
+msgstr "Мерзко пахнет"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP"
 msgid "This Duplicant smelled something unspeakably foul"
-msgstr ""
+msgstr "Этот Дупликант пахнет чем-то неописуемо мерзким"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE"
 msgid "Obtained by sleeping on the ground"
-msgstr ""
+msgstr "Получено из-за сна на земле"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME"
 msgid "Sore Back"
-msgstr ""
+msgstr "Болит спина"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP"
 msgid "This Duplicant was forced to sleep on the floor and would appreciate their own bed"
-msgstr ""
+msgstr "Этот Дупликант был вынужден спать на полу, и был бы признателен за собственную кровать"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME"
 msgid "Stale Food"
-msgstr ""
+msgstr "Несвежая еда"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP"
 msgid "This Duplicant is in a bad mood from having to eat stale <style=\"food\">Food</style>"
-msgstr ""
+msgstr "Этот Дупликант в плохом настроении из-за того что принимал несвежую <style=\"food\">Еду</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME"
 msgid "Starving"
-msgstr ""
+msgstr "Голодает"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP"
 msgid "This Duplicant needs to eat something, soon"
-msgstr ""
+msgstr "Этому Дупликанту нужно что-нибудь съесть, желательно скоро"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.NAME"
 msgid "Stepped In Contaminated Water"
-msgstr ""
+msgstr "Шагнуть в загрязненную воду"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP"
 msgid "This Duplicant stepped in dirty water and was super grossed out"
-msgstr ""
+msgstr "Этот Дупликант шагнул в грязную воду и почувствовал супер-отвращение"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME"
 msgid "Making a Mess"
-msgstr ""
+msgstr "Устроить беспорядок"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP"
 msgid "This Duplicant had no choice but to to empty their bladder"
-msgstr ""
+msgstr "У этого Дупликанта не было выбора, кроме как опустошить мочевой пузырь"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP"
 msgid "This Duplicant's <style=\"stress\">Stress</style> is just melting away"
-msgstr ""
+msgstr "<style=\"stress\">Стресс</style> этого Дупликанта будто растаял"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME"
 msgid "Environmental exchange"
-msgstr ""
+msgstr "Экологический обмен"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME"
 msgid "Toxic Environment"
-msgstr ""
+msgstr "Загрязнение окружающей среды"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE"
 msgid "Obtained by coming into contact with contaminated material"
-msgstr ""
+msgstr "Получено из-за контакта с загрязненным материалом"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME"
 msgid "Grimy"
-msgstr ""
+msgstr "Чумазый"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP"
 msgid "This Duplicant would appreciate a <style=\"hygiene\">Shower</style>"
-msgstr ""
+msgstr "Этот дупликант будет признателен за <style=\"hygiene\">Душ</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME"
 msgid "Uncomfortable Sleep"
-msgstr ""
+msgstr "Дискомфортный сон"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP"
 msgid "This Duplicant collapsed from sheer exhaustion"
-msgstr ""
+msgstr "Этот УДпликант будто разваливается от изнеможения"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME"
 msgid "Underwater"
-msgstr ""
+msgstr "Под водой"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP"
 msgid "This Duplicant's movement is slowed"
-msgstr ""
+msgstr "Движения этого Дупликанта скованы"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.VOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VOMITING.NAME"
 msgid "Vomiting"
-msgstr ""
+msgstr "Блюет"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.VOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VOMITING.TOOLTIP"
 msgid "Better out than in, as they say"
-msgstr ""
+msgstr "Как говорят, лучше выпустить наружу, чем держать в себе"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME"
 msgid "Warming Up"
-msgstr ""
+msgstr "Разминается"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP"
 msgid "This Duplicant is trying to warm back up"
-msgstr ""
+msgstr "Этот Дупликант пытается согреться"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.NAME"
 msgid "Was attacked"
-msgstr ""
+msgstr "Был атакован"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP"
 msgid "This Duplicant was recently attacked by something and it <style=\"stress\">Stressed</style> them out"
-msgstr ""
+msgstr "Этот Дупликант был чем-то атакован в последнее время и это привело его в состояние <style=\"stress\">Стресса</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME"
 msgid "Well Fed"
-msgstr ""
+msgstr "Сытый"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP"
 msgid "This Duplicant feels satisfied after having a big meal"
-msgstr ""
+msgstr "Этот Дупликант чувствует себя довольным после того как до отвала наелся"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME"
 msgid "Working"
-msgstr ""
+msgstr "Работает"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP"
 msgid "This Duplicant is working up a sweat"
-msgstr ""
+msgstr "Этот Дупликант работает изо всех сил"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
 msgid "Areas with <style=\"decor\">Decor</style> values lower than a Duplicant's <style=\"decor\">Decor Expectations</style> will cause their <style=\"stress\">Stress</style>\nto rise, while high decor values will cause their stress to fall.\n\nA Duplicant's expectations will increase as they level up and become better at their jobs."
-msgstr ""
+msgstr "Зоны, значение <style=\"decor\">Декора</style> которых ниже чем <style=\"decor\">Ожидание Декора</style> Дупликанта, приводят к <style=\"stress\">Стрессу</style>\n, который будет расти, в то время как высокие значения декора заставят стресс снижаться.\n\nОжидания Дупликантов по декору будут возрастать с ростом уровня и когда они будут становиться лучше на своих работах."
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
 msgid "Decor Expectation"
-msgstr ""
+msgstr "Ожидание Декорирования"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
 msgid "Surroundings"
-msgstr ""
+msgstr "Окружение"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME"
@@ -4939,52 +4939,52 @@ msgstr ""
 #. STRINGS.DUPLICANTS.OPINIONS.DARKNESS
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.DARKNESS"
 msgid "There's too little <style=\"light\">Light</style> for this Duplicant to see."
-msgstr ""
+msgstr "Тут слишком мало <style=\"light\">Света</style> для того чтоб Дупликант мог видеть."
 
 #. STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS"
 msgid "There is enough <style=\"light\">Light</style> for this Duplicant to see."
-msgstr ""
+msgstr "Тут достаточно <style=\"light\">Света</style> для того чтобы Дупликант мог видеть."
 
 #. STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION"
 msgid "Duplicants are drawn to lit places, and dislike being in the dark.\nMake sure your Duplicants have plenty of <style=\"light\">Light</style> to keep their eyes unstrained and their <style=\"stress\">Stress</style> low."
-msgstr ""
+msgstr "Дупликанты любят находится в освещенных местах, и не любят быть в темноте.\nБудьте уверены что у ваших Дупликантов есть достаточно <style=\"light\">Света</style>, чтобы держать их глаза ненапряженными, а <style=\"stress\">Стресс</style> низким."
 
 #. STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION"
 msgid "Duplicants don't find bare rockface very inviting.\nUse wall tiles and doors to build more comfortable Mess Halls for them."
-msgstr ""
+msgstr "Дупликанты не считают голую облицовку очень привлекательной.\nИспользуйте блоки для стен и двери чтобы посмотрить более комфортные столовые для них."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING"
 msgid "Room is missing walls or doors."
-msgstr ""
+msgstr "В комнате отсутствуют стены или двери."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION"
 msgid "Duplicants don't find bare rockface very inviting.\nUse wall tiles and doors to build more comfortable Rooms for them."
-msgstr ""
+msgstr "Дупликанты не считают голую облицовку очень привлекательной.\nИспользуйте блоки для стен и двери чтобы посмотрить более комфортные комнаты для них."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD"
 msgid "Room is enclosed by walls and doors."
-msgstr ""
+msgstr "Комната окружена стенами и дверьми."
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING"
 msgid "Restroom is missing walls or doors."
-msgstr ""
+msgstr "В уборной отсутствуют стены или двери."
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION"
 msgid "Duplicants like a little privacy when they do their biz.\nUse wall tiles and doors to build more comfortable Washrooms for them."
-msgstr ""
+msgstr "Дупликанты любят небольшую приватность когда ходят по делам.\nИспользуйте блоки для стен и двери для создания более комфортных уборных для них."
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD"
 msgid "Restroom is enclosed by walls and doors."
-msgstr ""
+msgstr "Уборная окружена стенами и дверьми."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC"
@@ -9629,7 +9629,7 @@ msgstr "Узнайте как работают приоритеты Ваших �
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr "Тревога"
+msgstr "Красная Тревога"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP"
@@ -11214,7 +11214,7 @@ msgstr "Не помечен для разбора"
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISNOTREDALERT
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISNOTREDALERT"
 msgid "Red alert"
-msgstr "Тревога"
+msgstr "Красная тревога"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL"
@@ -13144,7 +13144,7 @@ msgstr "Очередь задач"
 #. STRINGS.UI.RED_ALERT
 msgctxt "STRINGS.UI.RED_ALERT"
 msgid "RED ALERT"
-msgstr "ТРЕВОГА"
+msgstr "КРАСНАЯ ТРЕВОГА"
 
 #. STRINGS.UI.REMOVEFROMRECEPTACLE
 msgctxt "STRINGS.UI.REMOVEFROMRECEPTACLE"
@@ -13804,17 +13804,17 @@ msgstr "Постоянно производить {0}, если есть дос�
 #. STRINGS.UI.TOOLTIPS.RED_ALERT
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT"
 msgid "Toggle Red Alert\nDuplicants will enter a state of emergency and ignore their basic needs to work"
-msgstr "Влючить\Выключить Тревогу\nПереводит Дупликантов в режим чрезвычайной ситуации - они будут работать, игнорируя свои базовые потребности"
+msgstr "Влючить\Выключить Красную Тревогу\nПереводит Дупликантов в режим чрезвычайной ситуации - они будут работать, игнорируя свои базовые потребности"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF"
 msgid "Disable Red Alert"
-msgstr "Выключить Тревогу"
+msgstr "Выключить Красную Тревогу"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON"
 msgid "Enable Red Alert"
-msgstr "Включить Тревогу"
+msgstr "Включить Красную Тревогу"
 
 #. STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING"
