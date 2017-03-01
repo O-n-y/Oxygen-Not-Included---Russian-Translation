@@ -564,7 +564,7 @@ msgstr "Отсутствует основание"
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
 msgid "Build Tiles beneath this building\n------------------\nTiles can be found in the Base Tab <color=#FF0000>(1)</color> of the Build Menu"
-msgstr "Постройте блоки под этой постройкой\n------------------\nБлоки расположены во вкладке Основные постройки <color=#FF0000>(1)</color>. Эта вкладка находится в строительном меню"
+msgstr "Постройте блоки под этой постройкой\n------------------\nБлоки расположены во категории Основные постройки <color=#FF0000>(1)</color> строительного меню"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
@@ -574,7 +574,7 @@ msgstr "Требуется Мультитул"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP"
 msgid "A <style=\"equipment\">Multitool</style> is required to mine this material\n------------------\nMultitools can be made at Crafting Stations in the Stations Tab <color=#FF0000>(9)</style> of the Build Menu"
-msgstr "Для выкапывания этого материала требуется <style=\"equipment\">Мультитул</style>\n------------------\nЕго можно сделать на Верстаке, расположенном во вкладке Станции <color=#FF0000>(9)</style>. Эта вкладка находится в строительном меню"
+msgstr "Для выкапывания этого материала требуется <style=\"equipment\">Мультитул</style>\n------------------\nЕго можно сделать на Верстаке, расположенном в категории Станции <color=#FF0000>(9)</style> строительного меню"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
