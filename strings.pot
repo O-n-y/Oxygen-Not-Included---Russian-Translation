@@ -2089,7 +2089,7 @@ msgstr "Отхожее Место позволяет Дупликантам хо
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT"
 msgid "Reduces <style=\"stress\">Stress</style> and the spread of <style=\"disease\">Disease</style> by regulating where Duplicants relieve themselves.\n\nRequires no <style=\"GasPiping\">Piping</style>.\n\nMust be emptied of <style=\"solid\">Contaminated Dirt</style> periodically."
-msgstr "Уменьшает <style=\"stress\">Стресс</style> и распыляет <style=\"disease\">Болезни</style> путем регулирования, где Дупликанты делают свое дело.\n\nНе требует <style=\"GasPiping\">Газовых Труб</style>.\n\nДолжно быть переодически очищено от  <style=\"solid\">Загрязненной Земли</style>."
+msgstr "Уменьшает <style=\"stress\">Стресс</style> и вероятность распространения <style=\"disease\">Болезней</style> указывая, где Дупликанты должны испражняться.\n\nНе требует <style=\"GasPiping\">Газовых Труб</style>.\n\nДолжно быть переодически очищено от  <style=\"solid\">Загрязненной Земли</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME"
@@ -9049,7 +9049,7 @@ msgstr "ПОДСКАЗКА: Базовое управление"
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP"
 msgid "Helpful tips to get you started"
-msgstr "Полезные подсказки, чтобы помочь вам на первых порах"
+msgstr "Полезные подсказки, чтобы помочь вам сделать первые шаги"
 
 #. STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME"
