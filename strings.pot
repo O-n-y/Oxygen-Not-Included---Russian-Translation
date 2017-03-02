@@ -994,7 +994,7 @@ msgstr "Этот контейнер хранит {Stored} кг материал�
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
 msgid "{FlushesRemaining} \"Visits\" Remaining"
-msgstr "Осталось {FlushesRemaining} \"Посещений\""
+msgstr "Осталось {FlushesRemaining} \"Посещений\"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
@@ -10014,7 +10014,7 @@ msgstr "Эта жила <style=\"solid\">Оксилита</style> не подв�
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.NAME"
 msgid "Inert"
-msgstr ""
+msgstr "Инертный"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP"
@@ -13829,7 +13829,7 @@ msgstr "Отображает полностью замкнутые помеще�
 #. STRINGS.UI.TOOLTIPS.SELECTAMATERIAL
 msgctxt "STRINGS.UI.TOOLTIPS.SELECTAMATERIAL"
 msgid "There are insufficient materials to construct this building"
-msgstr ""
+msgstr "Не хватает материалов для выполнения строительных работ по данной постройке"
 
 #. STRINGS.UI.TOOLTIPS.SELECTREGIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.SELECTREGIONBUTTON"
@@ -14004,7 +14004,7 @@ msgstr "Выберите предмет для Производства"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE"
 msgid "{0} Recipes"
-msgstr ""
+msgstr "{0} Рецептов"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS"
