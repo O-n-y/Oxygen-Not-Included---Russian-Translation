@@ -7604,7 +7604,7 @@ msgstr "Этот Дупликант просто не создан для коп
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME"
 msgid "Can't Dig It"
-msgstr "Не могу копнуть"
+msgstr "Не может копать"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC"
