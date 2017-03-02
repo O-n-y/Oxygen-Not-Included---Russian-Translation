@@ -59,17 +59,17 @@ msgstr "Сломано"
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
 msgid "This building was broken by a <style=\"stress\">Stressed</style> Duplicant\n\nIt must be repaired"
-msgstr "Это здание было сломано Дупликантом в состоянии <style=\"stress\">Стресса</style>\n\nНеобходим ремонт"
+msgstr "Эта постройка была сломана Дупликантом в состоянии <style=\"stress\">Стресса</style>\n\nНеобходим ремонт"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
 msgid "Building Disabled"
-msgstr "Здание выключено"
+msgstr "Постройка выключена"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP"
 msgid "This building has been disabled."
-msgstr "Это здание было выключено."
+msgstr "Эта постройка была выключена."
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME"
@@ -79,7 +79,7 @@ msgstr "Невозможно охладить еще больше"
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP"
 msgid "This building cannot cool the surrounding area any further"
-msgstr "Это здание не может охладить окружающую область еще больше"
+msgstr "Эта постройка не может охладить окружающую область еще больше"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
@@ -119,7 +119,7 @@ msgstr "Охлаждается"
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP"
 msgid "This building is cooling the surrounding area"
-msgstr "Это здание охлаждает окружающую область"
+msgstr "Эта постройка охлаждает окружающую область"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO"
@@ -164,7 +164,7 @@ msgstr "Потребляет {ElementTypes}: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP"
 msgid "This building is utilizing ambient {ElementTypes} from the environment"
-msgstr "Это здание использует {ElementTypes} из окружающей среды"
+msgstr "Эта постройка использует {ElementTypes} из окружающей среды"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME"
@@ -174,7 +174,7 @@ msgstr "Использует {ElementTypes}: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.TOOLTIP"
 msgid "This building is using {ElementTypes} from storage at a rate of {FlowRate}"
-msgstr "Это здание использует {ElementTypes} из запасов со скоростью {FlowRate}"
+msgstr "Эта постройка использует {ElementTypes} из запасов со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME"
@@ -184,7 +184,7 @@ msgstr "Выделяет {ElementTypes}: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.TOOLTIP"
 msgid "This building is releasing {ElementTypes} at a rate of {FlowRate}"
-msgstr "Это здание выделяет {ElementTypes} со скоростью {FlowRate}"
+msgstr "Эта постройка выделяет {ElementTypes} со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME"
@@ -259,7 +259,7 @@ msgstr "Здание завалено"
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP"
 msgid "These buildings are entombed and need to be dug out:"
-msgstr "Эти здания завалены, их нужно откопать:"
+msgstr "Эти постройки завалены, их нужно откопать:"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.TOOLTIP"
@@ -289,7 +289,7 @@ msgstr "Затоплено"
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_TOOLTIP"
 msgid "These buildings are flooded:"
-msgstr "Эти здания затоплены:"
+msgstr "Эти постройки затоплены:"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.TOOLTIP"
@@ -404,7 +404,7 @@ msgstr "Доступно <style=\"power\">Электричества</style>: {J
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP"
 msgid "{JoulesAvailable} of stored power available for use"
-msgstr "Доступно {JolesAvailable} от общего запаса электроэнергии"
+msgstr "Доступно {JoulesAvailable} от общего запаса электроэнергии"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME"
@@ -519,7 +519,7 @@ msgstr "Недостаточно ресурсов"
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "Crucial materials are unavailable or beyond reach for these buildings:"
-msgstr "Для следующих зданий необходимые материалы недоступны или до них невозможно добраться:"
+msgstr "Для следующих построек необходимые материалы недоступны или до них невозможно добраться:"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP"
@@ -534,7 +534,7 @@ msgstr "Мало ресурсов\n{ItemsRemaining}"
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP"
 msgid "This building will soon require materials that are unavailable"
-msgstr "Этому зданию скоро потребуются материалы, которые в данный момент недоступны"
+msgstr "Этой постройке скоро потребуются материалы, которые в данный момент недоступны"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NAME"
@@ -724,7 +724,7 @@ msgstr "Эти постройки не могут производить пра�
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP"
 msgid "This building cannot produce the correct <style=\"research\">Research Type</style> for the selected <style=\"research\">Research Task</style>"
-msgstr "Это здание не может производить <style=\"research\">Исследования</style> для выбранной <style=\"research\">Задачи</style>"
+msgstr "Эта постройка не может производить <style=\"research\">Исследования</style> для выбранной <style=\"research\">Задачи</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME"
@@ -794,7 +794,7 @@ msgstr "Нет Электричества"
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERSOURCE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERSOURCE.TOOLTIP"
 msgid "This building must be connected to a <style=\"power\">Power</style> source"
-msgstr "Это здание должно быть подсоединено к иточнику <style=\"power\">Электричества</style>"
+msgstr "Эта постройка должна быть подсоединена к источнику <style=\"power\">Электричества</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME"
@@ -844,7 +844,7 @@ msgstr "Провод не подключен"
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP"
 msgid "This building has not been connected to a <style=\"power\">Power</style> grid"
-msgstr "Это здание не подсоединено к сети <style=\"power\">Электричества</style>"
+msgstr "Эта постройка не подсоединена к сети <style=\"power\">Электричества</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
@@ -914,7 +914,7 @@ msgstr "Ожидает Выполнения"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP"
 msgid "Waiting for a Duplicant to operate this building"
-msgstr "Ожидает Дупликанта для выполнения работы в данном здании"
+msgstr "Ожидает Дупликанта для выполнения работы в данной постройке"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.NAME"
@@ -939,7 +939,7 @@ msgstr "Работа Приостановлена"
 #. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP"
 msgid "This building has been toggled off\n\nPress Enable Building to resume its use"
-msgstr "Это здание было отключено\n\nНажмите \"Включить\", чтобы возобновить его работу"
+msgstr "Эта постройка была выключена\n\nНажмите \"Включить\", чтобы возобновить его работу"
 
 #. STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME"
@@ -959,7 +959,7 @@ msgstr "Средняя Скорость: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP"
 msgid "This building is pumping an average volume of {FlowRate}"
-msgstr "Это здание качает средний объем со скоростью {FlowRate}"
+msgstr "Эта постройка качает средний объем со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME"
@@ -999,7 +999,7 @@ msgstr "Осталось {FlushesRemaining} \"Посещений\""
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
 msgid "This amenity can handle {FlushesRemaining} more \"visits\" before needing maintenance"
-msgstr "Это здание может еще обслужить {FlushesRemaining} \"посещений\" перед тем как потребует очистки"
+msgstr "Эта постройка может еще обслужить {FlushesRemaining} \"посещений\" перед тем как потребует очистки"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
@@ -1009,7 +1009,7 @@ msgstr "Требует Опустошения"
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP"
 msgid "This amenity cannot be used while full\n------------------\nEmptying it will produce <style=\"solid\">Contaminated Dirt</style>"
-msgstr "Это здание забито и не может быть использовано\n------------------\nВыполнение очистки произведет <style=\"solid\">Загрязненную Землю</style>"
+msgstr "Эта постройка переполнена и не может быть использована\n------------------\nВыполнение очистки произведет <style=\"solid\">Загрязненную Землю</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
@@ -1029,7 +1029,7 @@ msgstr "Ожидает Постройки"
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP"
 msgid "This building is currently being built"
-msgstr "Это здание строится"
+msgstr "Эта постройка строится"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME"
@@ -1049,7 +1049,7 @@ msgstr "Вышло из Строя"
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP"
 msgid "This amenity requires maintenance"
-msgstr "Это здание требует обслуживания для того чтобы снова начать работать"
+msgstr "Эта постройка требует обслуживания для того чтобы снова начать работать"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.NAME"
@@ -1089,7 +1089,7 @@ msgstr "Вольтаж: {Wattage}"
 #. STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP"
 msgid "This building is generating {Wattage} of <style=\"power\">Power</style>"
-msgstr "Это здание вырабатывает {Wattage} <style=\"power\">Электричества</style>"
+msgstr "Эта постройка вырабатывает {Wattage} <style=\"power\">Электричества</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.NAME"
@@ -1149,7 +1149,7 @@ msgstr "Функционирует"
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP"
 msgid "This building is working as intended"
-msgstr "Это здание работает нормально"
+msgstr "Эта постройка работает нормально"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
@@ -1774,7 +1774,7 @@ msgstr "Эти провода выдержат даже самые высоки�
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.EFFECT"
 msgid "Connects buildings to <style=\"power\">Power</style> sources in extreme <style=\"heat\">Heat</style>.\n\nCan be run through wall and floor tiles."
-msgstr "Соединяет здания с источниками <style=\"power\">Электричества</style> в <style=\"heat\">Горячей</style> окружающей среде.\n\nМожет быть проложен через блоки стен и пола."
+msgstr "Соединяет постройки с источниками <style=\"power\">Электричества</style> в <style=\"heat\">Горячей</style> окружающей среде.\n\nМожет быть проложен через блоки стен и пола."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME"
@@ -2029,7 +2029,7 @@ msgstr "Интересно, как Дупликанты избегают поп�
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT"
 msgid "Can be used as wall or floor tile to enclose rooms.\n\nDoes not obstruct the flow of <style=\"liquid\">Liquid</style> or <style=\"gas\">Gas</style>."
-msgstr "Может быть использован как блок стен или пола для отделения комнат.\n\nНе блокирует потоки <style=\"liquid\">Жидкости</style> или <style=\"gas\">Газа</style>.""
+msgstr "Может быть использован как блок стен или пола для отделения комнат.\n\nНе блокирует потоки <style=\"liquid\">Жидкости</style> или <style=\"gas\">Газа</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME"
@@ -2279,7 +2279,7 @@ msgstr "Позволяет содержать экзокостюмы колон�
 #. STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.EFFECT"
 msgid "Refills a depleted <style=\"equipment\">Exosuit</style> with <style=\"oxygen\">Oxygen</style>."
-msgstr "Наполняет опустевший <style=\"equipment\">Экзокостюм</style> <style=\"oxygen\">Кислородом</style>.""
+msgstr "Наполняет опустевший <style=\"equipment\">Экзокостюм</style> <style=\"oxygen\">Кислородом</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.NAME"
@@ -2324,7 +2324,7 @@ msgstr "Этот свет имитирует естественную надзе
 #. STRINGS.BUILDINGS.PREFABS.WALLLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIGHT.EFFECT"
 msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
-msgstr "Увеличивает <style="decor">Показатель Декора</style> и уменьшает <style="stress">Стресс</style> обеспечивая <style="light">Свет</style>."
+msgstr "Увеличивает <style=\"decor\">Показатель Декора</style> и уменьшает <style=\"stress\">Стресс</style> обеспечивая <style=\"light\">Свет</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIGHT.NAME"
@@ -2354,7 +2354,7 @@ msgstr "Гибкий и простой способ доставки элект�
 #. STRINGS.BUILDINGS.PREFABS.WIRE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.EFFECT"
 msgid "Connects buildings to <style=\"power\">Power</style> sources.\n\nCan be run through wall and floor tiles."
-msgstr "Соединяет здания с источниками <style=\"power\">Электричества</style>.\n\nМожет быть проложен через блоки стен и пола."
+msgstr "Соединяет постройки с источниками <style=\"power\">Электричества</style>.\n\nМожет быть проложен через блоки стен и пола."
 
 #. STRINGS.BUILDINGS.PREFABS.WIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.NAME"
@@ -2424,7 +2424,7 @@ msgstr "Яйцо Паку"
 #. STRINGS.CREATURES.SPECIES.GLOM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GLOM.DESC"
 msgid "An agile, <style=\"disease\">Disease</style>-ridden invertebrate.\n\nIt is attracted to the decomposing carcasses of deceased organisms."
-msgstr "Ловкое беспозвоночное, охваченное разнообразными <style=\"disease\">Болезнями</style>.\n\nЕго привлекают разлагающиеся туши погибших организмов.""
+msgstr "Ловкое беспозвоночное, охваченное разнообразными <style=\"disease\">Болезнями</style>.\n\nЕго привлекают разлагающиеся туши погибших организмов."
 
 #. STRINGS.CREATURES.SPECIES.GLOM.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GLOM.NAME"
@@ -3014,7 +3014,7 @@ msgstr "Не портится"
 #. STRINGS.CREATURES.STATUSITEMS.PRESERVED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PRESERVED.TOOLTIP"
 msgid "This food can be stored indefinitely"
-msgstr "Эта еда может храниться в течении неограниченного времени""
+msgstr "Эта еда может храниться в течении неограниченного времени"
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME"
@@ -3059,7 +3059,7 @@ msgstr "Это существо переводит дыхание"
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME"
 msgid "Rotten"
-msgstr "Гнилое
+msgstr "Гнилое"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP"
@@ -3489,7 +3489,7 @@ msgstr "Художественное творчество"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC"
 msgid "Construct new buildings."
-msgstr "Строительство новых зданий"
+msgstr "Строительство новых построек"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME"
@@ -3519,7 +3519,7 @@ msgstr "Изготовление компоста"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC"
 msgid "Produce <style=\"food\">Food</style> for Duplicants with food preparation buildings."
-msgstr "Готовка <style=\"food\">Еды</style> для Дупликантов в зданиях приготовления пищи."
+msgstr "Готовка <style=\"food\">Еды</style> для Дупликантов в постройках приготовления пищи."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
@@ -3529,7 +3529,7 @@ msgstr "Готовка"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC"
 msgid "Transport materials to critical utility buildings and high priority storage."
-msgstr "Транспортировка материалов в критические хозяйственные здания и высоко приоритетные хранилища."
+msgstr "Транспортировка материалов в критические хозяйственные постройки и высоко приоритетные хранилища."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME"
@@ -3579,7 +3579,7 @@ msgstr "Исследования"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC"
 msgid "Move materials to noncritical buildings and normal priority storage."
-msgstr "Транспортировка материалов в некритические здания и хранилища нормального приоритета."
+msgstr "Транспортировка материалов в некритические постройки и хранилища нормального приоритета."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME"
@@ -3589,7 +3589,7 @@ msgstr "Уборка"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
 msgid "Manually enable, disable or adjust building switches and filters."
-msgstr "Ручное включение, выключение и настройка переключателей и фильтров в зданиях."
+msgstr "Ручное включение, выключение и настройка переключателей и фильтров в постройках."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME"
@@ -5849,7 +5849,7 @@ msgstr "Шенон"
 #. STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.DESC"
 msgid "{0}s detest small spaces. You can imagine how they feel about the colony."
-msgstr "preparedи ненавидят небольшие пространства. Можете себе представить что они думают о колонии."
+msgstr "{0} ненавидят небольшие пространства. Можете себе представить что они думают о колонии."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.NAME"
@@ -6799,7 +6799,7 @@ msgstr "Этот Дупликант <style=\"hygiene\">Вытирает</style> 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME"
 msgid "Exiting <style=\"equipment\">Exosuit</style> area"
-msgstr "Выходит из зоны, где требуется <style=\"equipment\">"Экзокостюм</style>"
+msgstr "Выходит из зоны, где требуется <style=\"equipment\">Экзокостюм</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP"
@@ -7309,7 +7309,7 @@ msgstr "Рвота на нервной почве"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants became too <style=\"stress\">Stress</style> and it caused them to throw up:"
-msgstr "Эти Дупликанты были слишком <style=\"stress\">взволнованны</style>", это вызвало рвоту:"
+msgstr "<style=\"stress\">Стресс</style>этих Дупликантов был слишком велик, это вызвало рвоту:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP"
@@ -7829,7 +7829,7 @@ msgstr "Балерина"
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
 msgid "This Duplicant has no appreciation for the finer things"
-msgstr "Этот Дупликанn не уважает искусство"
+msgstr "Этот Дупликант не уважает искусство"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME"
@@ -7964,7 +7964,7 @@ msgstr "Загрязненный Кислород"
 #. STRINGS.ELEMENTS.COPPER.DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.DESC"
 msgid "(Cu) A conductive <style=\"RawMetal\">Metal</style>.\n\nCopper is suitable for building <style=\"power\">Power</style> systems."
-msgstr "(Cu) Проводящий <style=\"RawMEtal\">Металл</style>.\n\nМедь отлично подходит для постройки <style=\"power\">Электрических</style> сетей"
+msgstr "(Cu) Проводящий <style=\"RawMetal\">Металл</style>.\n\nМедь отлично подходит для постройки <style=\"power\">Электрических</style> сетей"
 
 #. STRINGS.ELEMENTS.COPPER.NAME
 msgctxt "STRINGS.ELEMENTS.COPPER.NAME"
@@ -9024,7 +9024,7 @@ msgstr "Ресурс рапределен"
 #. STRINGS.MISC.NOTIFICATIONS.ALLOCATED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.ALLOCATED.TOOLTIP"
 msgid "These resources are reserved for a planned building:"
-msgstr "Эти ресурсы зарезервированы запланированным зданием:"
+msgstr "Эти ресурсы зарезервированы запланированной постройкой:"
 
 #. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.NAME"
@@ -9054,12 +9054,12 @@ msgstr "Полезные подсказки, чтобы помочь вам на
 #. STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME"
 msgid "A Duplicant has broken a building"
-msgstr "Дупликант сломал здание"
+msgstr "Дупликант сломал постройку"
 
 #. STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.TOOLTIP"
 msgid "These buildings are nonfunctional because a Duplicant broke them in a fit of <style=\"stress\">Rage</style>:"
-msgstr "Следующие здания в данный момент не работают, так как Дупликант сломал их в приступе <style=\"stress\">Ярости</style>:"
+msgstr "Следующие постройки в данный момент не работают, так как Дупликант сломал их в приступе <style=\"stress\">Ярости</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCLOSETOMELTINGPOINT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCLOSETOMELTINGPOINT.NAME"
@@ -9069,7 +9069,7 @@ msgstr "Здания приближаются к точке плавления"
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCLOSETOMELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCLOSETOMELTINGPOINT.TOOLTIP"
 msgid "These buildings are about to meltdown:\n{0}"
-msgstr "Следующие здания вот-вот расплавятся:\n{0}"
+msgstr "Следующие постройки вот-вот расплавятся:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.NAME"
@@ -9079,7 +9079,7 @@ msgstr "Здания обрушились"
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.TOOLTIP"
 msgid "These buildings have collapsed from a lack of foundation:\n{0}"
-msgstr "Следующие здания обрушились из-за того, что не имели фундамента:\n{0}"
+msgstr "Следующие постройки обрушились из-за того, что не имели фундамента:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGMELTINGDOWN.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGMELTINGDOWN.NAME"
@@ -9089,7 +9089,7 @@ msgstr "Здание расплавилось"
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGMELTINGDOWN.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGMELTINGDOWN.TOOLTIP"
 msgid "These buildings have melted down:\n{0}"
-msgstr "Следующие здания расплавились:\n{0}"
+msgstr "Следующие постройки расплавились:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.COLONYLOST.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.COLONYLOST.NAME"
@@ -9294,7 +9294,7 @@ msgstr "Следующие Дупликанты умерли необычным 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.MESSAGEBODY"
 msgid "New Duplicants are no longer available for printing.\nCountdown to the next production was rebooted."
-msgstr "Новые Дупликанты более недоступны для печати.\n"Отсчет до следующей печати был перезагружен.
+msgstr "Новые Дупликанты более недоступны для печати.\nОтсчет до следующей печати был перезагружен."
 
 #. STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DUPLICANTABSORBED.NAME"
@@ -9329,7 +9329,7 @@ msgstr "Следующие фабрикаторы не имеют задач в 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
 msgid "Duplicants will seek out and collect water and other <style=\"liquid\">Liquids</style> up to two tiles away and deliver it to buildings."
-msgstr "Дупликанты будут искать и собирать воду и прочие <style=\"liquid\">Жидкости</style> в радиусе до двух клеток и доставлять ее в здания"
+msgstr "Дупликанты будут искать и собирать воду и прочие <style=\"liquid\">Жидкости</style> в радиусе до двух клеток и доставлять ее в постройки"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
@@ -9454,7 +9454,7 @@ msgstr "Недопустимое место для строительства"
 #. STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.TOOLTIP"
 msgid "These buildings cannot be constructed in the planned areas:\n"
-msgstr "Следующие здания не могут быть построены в запланированных местах:\n"
+msgstr "Следующие постройки не могут быть построены в запланированных местах:\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME"
@@ -9529,7 +9529,7 @@ msgstr "Колонии требуется источник <style=\"power\">Эн
 #. STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.TOOLTIP"
 msgid "<style=\"power\">Power</style> is required to operate electrical buildings"
-msgstr "Для работы зданий на электричестве требуется <style=\"power\">Энергия</style>"
+msgstr "Для работы постройки на электричестве требуется <style=\"power\">Энергия</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.NAME"
@@ -9614,7 +9614,7 @@ msgstr "Забившася труба остановила работу этой
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY"
 msgid "Duplicants will choose what work they do based on the priorities you set. To set priorities, use the priority buttons under the tool menu. Many buildings also let you change their priority on selection."
-msgstr "Дупликанты выбирают работу на основании выставленных Вами приоритетов. Для расстановки приоритетов воспользуйтесь клавишами приоритета, расположенными под меню инструментов. Также в ряде случаев Вы можете выставить приоритет в меню самого здания."
+msgstr "Дупликанты выбирают работу на основании выставленных Вами приоритетов. Для расстановки приоритетов воспользуйтесь клавишами приоритета, расположенными под меню инструментов. Также в ряде случаев Вы можете выставить приоритет в меню самой постройки."
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
@@ -9639,7 +9639,7 @@ msgstr "Во время тревоги приоритетной для Ваши�
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY"
 msgid "Eureka!\n<style=\"research\">{0} Technology</style> was unlocked through the power of science!\n\nNew buildings have become available:\n<style=\"misc\">{1}</style>"
-msgstr "Эврика!\nСилой научного познания была открыта <style=\"research\">{0} Технология</style>!\n\nСтали доступны новые здания:\n<style=\"misc\">{1}</style>"
+msgstr "Эврика!\nСилой научного познания была открыта <style=\"research\">{0} Технология</style>!\n\nСтали доступны новые постройки:\n<style=\"misc\">{1}</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME"
@@ -9714,7 +9714,7 @@ msgstr "Обрушение структуры"
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.TOOLTIP"
 msgid "These buildings have collapsed:"
-msgstr "Следующие здания обрушились:"
+msgstr "Следующие постройки обрушились:"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME"
@@ -9724,7 +9724,7 @@ msgstr "Структурные повреждения"
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP"
 msgid "A building's structural integrity has been compromised"
-msgstr "Структурная целостность здания была нарушена"
+msgstr "Структурная целостность постройки была нарушена"
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY"
@@ -9864,7 +9864,7 @@ msgstr "Убирает"
 #. STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP"
 msgid "This building is currently being cleaned"
-msgstr "В данный момент это здание убирают"
+msgstr "В данный момент эту постройку убирают"
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.NAME"
@@ -9979,7 +9979,7 @@ msgstr "Используется"
 #. STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP"
 msgid "This building is currently in use"
-msgstr "Это здание в данный момент используют"
+msgstr "Эта постройка в данный момент используется"
 
 #. STRINGS.MISC.STATUSITEMS.OREMASS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.NAME"
@@ -10019,7 +10019,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Oxylite</style> deposit to emit <style=\"oxygen\">Oxygen</style>"
-msgstr "Окружающее залежь <style=\"solid\">Оксилита</style>" давление воздуха слишком высоко для вырабатывания <style=\"oxygen\">Кислорода</style>"
+msgstr "Окружающее залежь <style=\"solid\">Оксилита</style> давление воздуха слишком высоко для вырабатывания <style=\"oxygen\">Кислорода</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.NAME"
@@ -10049,7 +10049,7 @@ msgstr "Инертный"
 #. STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Oxylite</style> deposit to emit <style=\"oxygen\">Oxygen</style>"
-msgstr "Окружающее депозит <style=\"solid\">Оксилита</style>" давление воздуха слишком высоко для вырабатывания <style=\"oxygen\">Кислорода</style>"
+msgstr "Окружающее депозит <style=\"solid\">Оксилита</style> давление воздуха слишком высоко для вырабатывания <style=\"oxygen\">Кислорода</style>"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME"
@@ -10574,7 +10574,7 @@ msgstr "Контроль температуры"
 #. STRINGS.RESEARCH.TYPES.ALPHA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
 msgid "<style=\"research\">Novice Research</style> is required to unlock basic technologies.\nIt can be conducted at a <style=\"research\">Research Station</style>."
-msgstr "<style=\"research\">Начальные Исследования</style> требуются для открытия базовых технологий.\nИх можно провести в <style=\"research\">Станции Исседований</style>.""
+msgstr "<style=\"research\">Начальные Исследования</style> требуются для открытия базовых технологий.\nИх можно провести в <style=\"research\">Станции Исседований</style>."
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
@@ -11379,7 +11379,7 @@ msgstr "Электричество"
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP"
 msgid "View how much <style=\"power\">Power</style> this building consumes"
-msgstr "Посмотреть, сколько <style=\"power\">Электричества</style> потребляет это здание"
+msgstr "Посмотреть, сколько <style=\"power\">Электричества</style> потребляет эта постройка"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES"
@@ -11444,12 +11444,12 @@ msgstr "Предполагаемое потребление <style=\"power\">э�
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP"
 msgid "The total amount of <style=\"power\">Power</style> that can be used by this circuit if all connected buildings are active"
-msgstr "Общая сумма <style=\"power\">электричества</style> может быть использована в системе в случаи активной работы всех подключенных зданий"
+msgstr "Общая сумма <style=\"power\">электричества</style> может быть использована в системе в случаи активной работы всех подключенных построек"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP"
 msgid "Monitor the <style=\"power\">Power</style> this building is generating"
-msgstr "Просмотр количества <style=\"power\">Электричества</style> вырабатываемого этим зданием"
+msgstr "Просмотр количества <style=\"power\">Электричества</style> вырабатываемого этой постройкой"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED"
@@ -12649,7 +12649,7 @@ msgstr "Подключено к <style=\"GasPiping\">Газопроводной 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER"
 msgid "Point where a building sends gas into pipes\n* Must be connected to a <style=\"GasDestination\">Destination</style>"
-msgstr "Точка, в которой здание отправляет газ в трубы\n* Должно быть соединено с <style=\"GasDestination\">Получателем</style>"
+msgstr "Точка, в которой постройка отправляет газ в трубы\n* Должно быть соединено с <style=\"GasDestination\">Получателем</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED"
@@ -12664,7 +12664,7 @@ msgstr "Газопровод {0}"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.PRODUCER"
 msgid "Point where a building receives gas from pipes\n* Must be connected to a <style=\"GasSource\">Source</style>"
-msgstr "Точка, в которой здание получает газ из труб\n* Должно быть соединено с <style=\"GasSource\">Источником</style>"
+msgstr "Точка, в которой постройка получает газ из труб\n* Должно быть соединено с <style=\"GasSource\">Источником</style>"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.BUTTON"
@@ -12759,7 +12759,7 @@ msgstr "Подключено к <style=\"LiquidPiping\">Водопроводно
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER"
 msgid "Point where a building sends liquid into pipes\n* Must be connected to a <style=\"LiquidDestination\">Destination</style>"
-msgstr "Точка, в которой здание отправляет жидкости в трубы\n* Должно быть соединено с <style=\"GasDestination\">Получателем</style>"
+msgstr "Точка, в которой постройка отправляет жидкости в трубы\n* Должно быть соединено с <style=\"GasDestination\">Получателем</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED"
@@ -12769,7 +12769,7 @@ msgstr "Не подключено к <style=\"LiquidPiping\">Водопрово�
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED"
 msgid "Point where a building sends one filtered liquid into pipes\n* Must be connected to a <style=\"LiquidDestination\">Intake</style>"
-msgstr "Точка, где здание посылает одну из отфильтрованных жидкостей в трубы\n* Должно быть соединено с <style=\"LiquidDestination\">Каналом ввода</style>"
+msgstr "Точка, где постройка посылает одну из отфильтрованных жидкостей в трубы\n* Должно быть соединено с <style=\"LiquidDestination\">Каналом ввода</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK"
@@ -12779,7 +12779,7 @@ msgstr "Водопровод {0}"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.PRODUCER"
 msgid "Point where a building receives liquid from pipes\n* Must be connected to a <style=\"LiquidSource\">Output</style>"
-msgstr "Точка, где здание получает жидкость из труб\n* Должно быть соединено с <style=\"LiquidSource\">Каналом вывода</style>"
+msgstr "Точка, где постройка получает жидкость из труб\n* Должно быть соединено с <style=\"LiquidSource\">Каналом вывода</style>"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.BUTTON"
@@ -13549,7 +13549,7 @@ msgstr "Выделите, чтобы отменить запланированн
 #. STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON"
 msgid "Cancel queued orders or deconstruct existing buildings"
-msgstr "Отменить запланированные приказы или деконструировать существующие здания"
+msgstr "Отменить запланированные приказы или демонтировать существующие постройки"
 
 #. STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON"
@@ -13569,7 +13569,7 @@ msgstr "Закрыть"
 #. STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON"
 msgid "Drag to demolish buildings and refund their resources"
-msgstr "Выделите, чтобы разобрать здания и вернуть потраченные ресурсы"
+msgstr "Выделите, чтобы разобрать постройки и вернуть потраченные ресурсы"
 
 #. STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING"
@@ -14509,7 +14509,7 @@ msgstr "Отменить разборку"
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP"
 msgid "Demolish this building\n------------------\nRefunds all resources"
-msgstr "Снести это здание\n------------------\nВернет все ресурсы"
+msgstr "Снести эту постройку\n------------------\nВернет все ресурсы"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP_OFF"
@@ -14574,22 +14574,22 @@ msgstr "Отменить этот приказ на опустошение"
 #. STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.NAME"
 msgid "Disable Building"
-msgstr "Выключить здание"
+msgstr "Выключить постройку"
 
 #. STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.NAME_OFF"
 msgid "Enable Building"
-msgstr "Включить здание"
+msgstr "Включить постройку"
 
 #. STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP"
 msgid "Halt the use of this building\n------------------\nDisabled buildings consume no energy or resources"
-msgstr "Прекратить использование этого здания\n------------------\nОтключенные здания не потребляют энергию и ресурсы"
+msgstr "Прекратить использование этой постройки\n------------------\nОтключенные постройки не потребляют энергию и ресурсы"
 
 #. STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP_OFF"
 msgid "Resume the use of this building"
-msgstr "Возобновить использование этого здания"
+msgstr "Возобновить использование этой постройки"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.NAME"
@@ -14674,12 +14674,12 @@ msgstr "Отменить этот приказ о карантине"
 #. STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.NAME"
 msgid "Empty Building"
-msgstr "Опустошить здание"
+msgstr "Опустошить постройку"
 
 #. STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.TOOLTIP"
 msgid "Take out all resources currently used by this building"
-msgstr "Забрать все ресурсы, которые в данный момент используются этим зданием"
+msgstr "Забрать все ресурсы, которые в данный момент используются этой постройкой"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME"
@@ -14694,7 +14694,7 @@ msgstr "Отменить перемещение"
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP"
 msgid "Move this building to a new location\n------------------\nCosts no additional resources"
-msgstr "Переместить это здание в новое место\n------------------\nБез затратов ресурсов"
+msgstr "Переместить эту постройку в новое место\n------------------\nБез затратов ресурсов"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP_OFF"
