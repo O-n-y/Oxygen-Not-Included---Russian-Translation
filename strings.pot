@@ -2089,7 +2089,7 @@ msgstr "Отхожее Место позволяет Дупликантам хо
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT"
 msgid "Reduces <style=\"stress\">Stress</style> and the spread of <style=\"disease\">Disease</style> by regulating where Duplicants relieve themselves.\n\nRequires no <style=\"GasPiping\">Piping</style>.\n\nMust be emptied of <style=\"solid\">Contaminated Dirt</style> periodically."
-msgstr "Уменьшает <style=\"stress\">Стресс</style> и распыляет <style=\"disease\">Болезни</style> путем регулирования, где Дупликанты делают свое дело.\n\nНе требует <style=\"GasPiping\">Газовых Труб</style>.\n\nДолжно быть переодически очищено от  <style=\"solid\">Загрязненной Земли</style>."
+msgstr "Уменьшает <style=\"stress\">Стресс</style> и вероятность распространения <style=\"disease\">Болезней</style> указывая, где Дупликанты должны испражняться.\n\nНе требует <style=\"GasPiping\">Газовых Труб</style>.\n\nДолжно быть переодически очищено от  <style=\"solid\">Загрязненной Земли</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME"
@@ -2129,7 +2129,7 @@ msgstr "Механизированный Шлюз"
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
 msgid "Storing food in a box?\nSeems rational!"
-msgstr "Храните еду в коробке?\nЗвучит рационально!"
+msgstr "Храните еду в ящике?\nЗвучит рационально!"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
@@ -2139,7 +2139,7 @@ msgstr "Хранит небольшой объем <style=\"food\">Еды</style
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
 msgid "Ration Box"
-msgstr "Коробка для Рациона"
+msgstr "Ящик для рациона"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC"
@@ -7604,7 +7604,7 @@ msgstr "Этот Дупликант просто не создан для коп
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME"
 msgid "Can't Dig It"
-msgstr "Не могу копнуть"
+msgstr "Не может копать"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC"
@@ -9049,7 +9049,7 @@ msgstr "ПОДСКАЗКА: Базовое управление"
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP"
 msgid "Helpful tips to get you started"
-msgstr "Полезные подсказки, чтобы помочь вам на первых порах"
+msgstr "Полезные подсказки, чтобы помочь вам сделать первые шаги"
 
 #. STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BROKENMACHINE.NAME"
@@ -14789,7 +14789,7 @@ msgstr "НАЧАТЬ"
 #. STRINGS.UI.WELCOMEMESSAGEBODY
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY"
 msgid "Your crew has awoken miles beneath the surface of an unfamiliar terrestrial body. Oddly, they have no recollection of how they got here.\n\nIt might be best to start digging."
-msgstr "Ваш экипаж проснулся глубоко под поверхностью незнакомого небесного тела. Никто не помнит, как вы сюда попали.\n\nПохоже, что пора копать."
+msgstr "Ваш экипаж проснулся глубоко в недрах незнакомого небесного тела. Никто не помнит, как вы сюда попали.\n\nПохоже, что пора копать."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
