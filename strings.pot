@@ -10433,7 +10433,7 @@ msgstr "Улучшенная фильтрация"
 #. STRINGS.RESEARCH.COMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.COMBUSTION.DESC"
 msgid "Crude fuel-powered generators for automatic <style=\"power\">Power</style> production."
-msgstr "Автоматическая выработка <style=\"power\">Электричества</style> генераторами на сырой нефти"
+msgstr "Выработка <style=\"power\">Электричества</style> генераторами на ископаемом топливе."
 
 #. STRINGS.RESEARCH.COMBUSTION.NAME
 msgctxt "STRINGS.RESEARCH.COMBUSTION.NAME"
@@ -14178,7 +14178,7 @@ msgstr "Колониия потеряна"
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.NEXTPRODUCTION
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.NEXTPRODUCTION"
 msgid "Next Production: {0}"
-msgstr "Следующая печать через: {0} секунд"
+msgstr "Следующая печать через: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.TITLE"
