@@ -10427,6 +10427,7 @@ msgstr "Улучшенная фильтрация"
 #. STRINGS.RESEARCH.COMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.COMBUSTION.DESC"
 msgid "Crude fuel-powered generators for automatic <style=\"power\">Power</style> production."
+msgstr "Выработка <style=\"power\">Электричества</style> генераторами на ископаемом топливе."
 
 #. STRINGS.RESEARCH.COMBUSTION.NAME
 msgctxt "STRINGS.RESEARCH.COMBUSTION.NAME"
