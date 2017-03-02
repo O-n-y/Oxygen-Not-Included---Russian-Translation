@@ -2139,7 +2139,7 @@ msgstr "Хранит небольшой объем <style=\"food\">Еды</style
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
 msgid "Ration Box"
-msgstr "Ящик для продовольствия"
+msgstr "Ящик для рациона"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC"
