@@ -69,7 +69,7 @@ msgstr "Постройка выключена"
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP"
 msgid "This building has been disabled."
-msgstr "Это постройка была выключена."
+msgstr "Эта постройка была выключена."
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME"
@@ -7309,7 +7309,7 @@ msgstr "Рвота на нервной почве"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants became too <style=\"stress\">Stress</style> and it caused them to throw up:"
-msgstr "Эти Дупликанты были слишком <style=\"stress\">взволнованны</style>, это вызвало рвоту:"
+msgstr "<style=\"stress\">Стресс</style>этих Дупликантов был слишком велик, это вызвало рвоту:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP"
