@@ -14789,7 +14789,7 @@ msgstr "НАЧАТЬ"
 #. STRINGS.UI.WELCOMEMESSAGEBODY
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY"
 msgid "Your crew has awoken miles beneath the surface of an unfamiliar terrestrial body. Oddly, they have no recollection of how they got here.\n\nIt might be best to start digging."
-msgstr "Ваш экипаж проснулся глубоко под поверхностью незнакомого небесного тела. Никто не помнит, как вы сюда попали.\n\nПохоже, что пора копать."
+msgstr "Ваш экипаж проснулся глубоко в недрах незнакомого небесного тела. Никто не помнит, как вы сюда попали.\n\nПохоже, что пора копать."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
