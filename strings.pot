@@ -2129,7 +2129,7 @@ msgstr "Механизированный Шлюз"
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
 msgid "Storing food in a box?\nSeems rational!"
-msgstr "Храните еду в коробке?\nЗвучит рационально!"
+msgstr "Храните еду в ящике?\nЗвучит рационально!"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
@@ -2139,7 +2139,7 @@ msgstr "Хранит небольшой объем <style=\"food\">Еды</style
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
 msgid "Ration Box"
-msgstr "Коробка для Рациона"
+msgstr "Ящик для продовольствия"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC"
