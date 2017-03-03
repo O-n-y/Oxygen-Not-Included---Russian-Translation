@@ -1383,7 +1383,7 @@ msgstr "Гриль"
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC"
 msgid "The colony that eats together, excretes together."
-msgstr "Тщательно пережевывая пищу, вы помогаете колонии."
+msgstr "Тщательно пережевывая еду, вы помогаете колонии."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
@@ -2818,7 +2818,7 @@ msgstr "Переваривание"
 #. STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP"
 msgid "This creature is working off a big meal"
-msgstr "Это существо переваривает много пищи"
+msgstr "Это существо переваривает много еды"
 
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME"
@@ -7193,7 +7193,7 @@ msgstr "Голодание"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are starving and need <style=\"food\">Food</style>:"
-msgstr "Эти Дупликанты голодают, им необходима <style=\"food\">пища</style>:"
+msgstr "Эти Дупликанты голодают, им необходима <style=\"food\">Еда</style>:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.TOOLTIP"
@@ -10668,7 +10668,7 @@ msgstr "Открывают новые технологии силой науки
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
 msgid "Food"
-msgstr "Пища"
+msgstr "Еда"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP"
@@ -14603,7 +14603,7 @@ msgstr "Сбор урожая"
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP"
 msgid "Harvest <style=\"food\">Food</style> from this <style=\"plant\">Plant</style>"
-msgstr "Собрать <style=\"food\">Пищу</style> с этого <style=\"plant\">Растения</style>"
+msgstr "Собрать <style=\"food\">Еду</style> с этого <style=\"plant\">Растения</style>"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP_DISABLED
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP_DISABLED"
@@ -14758,7 +14758,7 @@ msgstr "Съел сегодня"
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
 msgid "The amount of <style=\"food\">Food</style> your Duplicant has eaten this cycle"
-msgstr "Количество <style=\"food\">Пищи</style>, которую Ваш Дупликант съел за этот цикл"
+msgstr "Количество <style=\"food\">Еды</style>, которую Ваш Дупликант съел за этот цикл"
 
 #. STRINGS.UI.VITALSSCREEN_NAME
 msgctxt "STRINGS.UI.VITALSSCREEN_NAME"
