@@ -3138,12 +3138,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC"
 msgid "Creativity affects the speed and quality of a Duplicant's artistic creations."
-msgstr "Творческие способности влияют на скорость и качество художественных творений Дупликанта"
+msgstr "Артистизм влияет на скорость и качество художественных творений Дупликанта"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME"
 msgid "Creativity"
-msgstr "Творческие способности"
+msgstr "Артистизм"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.PROFESSION_NAME"
