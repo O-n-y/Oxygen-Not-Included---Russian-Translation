@@ -7784,7 +7784,7 @@ msgstr "У этого Дупликанта маленький мочевой п�
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME"
 msgid "Small Bladder"
-msgstr "Мель"
+msgstr "Маленький мочевой пузырь"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.DESC"
