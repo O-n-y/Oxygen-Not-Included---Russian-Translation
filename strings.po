@@ -998,7 +998,7 @@ msgstr "Этот контейнер хранит {Stored} кг материал�
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
 msgid "{FlushesRemaining} \"Visits\" Remaining"
-msgstr "Осталось {FlushesRemaining} \"Посещений\"
+msgstr "Осталось {FlushesRemaining} \"Посещений\""
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
@@ -8538,7 +8538,7 @@ msgstr "Каменный Газ"
 #. STRINGS.ELEMENTS.SAND.DESC
 msgctxt "STRINGS.ELEMENTS.SAND.DESC"
 msgid "A composite of granular rock.\n\nSand is useful as a <style=\"misc\">filtration medium</style>."
-msgstr "Смесь мелкого камня.\n\nПесок полезен в качестве <style=\"misc\">фильтра</style>."
+msgstr "Смесь мелкого камня.\n\nПесок полезен в качестве <style=\"misc\">фильтрующей среды</style>."
 
 #. STRINGS.ELEMENTS.SAND.NAME
 msgctxt "STRINGS.ELEMENTS.SAND.NAME"
@@ -10208,7 +10208,7 @@ msgstr "{Tags}"
 #. STRINGS.MISC.STATUSITEMS.USING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.USING.NAME"
 msgid "Using {Target}"
-msgstr "Использование {Target}"
+msgstr "Использует {Target}"
 
 #. STRINGS.MISC.STATUSITEMS.USING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.USING.TOOLTIP"
@@ -10218,7 +10218,7 @@ msgstr "{Target} сейчас используется"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
 msgid "Dig pending"
-msgstr "Копание в ожидании"
+msgstr "Ожилает копания"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
@@ -10228,7 +10228,7 @@ msgstr "Ожидание Дупликанта для копания"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
 msgid "Mop pending"
-msgstr "Вытирание отложено"
+msgstr "Ожидает вытирания"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
@@ -10283,12 +10283,12 @@ msgstr "Источник света"
 #. STRINGS.MISC.TAGS.FARMABLE
 msgctxt "STRINGS.MISC.TAGS.FARMABLE"
 msgid "Cultivable Soil"
-msgstr "Пахотная почва"
+msgstr "Культивируемая почва"
 
 #. STRINGS.MISC.TAGS.FILTER
 msgctxt "STRINGS.MISC.TAGS.FILTER"
 msgid "Filtration Medium"
-msgstr "Средняя очистка"
+msgstr "Фильтрующая среда"
 
 #. STRINGS.MISC.TAGS.GAS
 msgctxt "STRINGS.MISC.TAGS.GAS"
@@ -10763,7 +10763,7 @@ msgstr "Назначение Дупликантов"
 #. STRINGS.UI.BUILDINGEFFECTS.BATTERYEFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.BATTERYEFFECT"
 msgid "<style=\"power\">Power</style> capacity: {0}"
-msgstr "емкость <style=\"power\">Электричества</style>: {0}"
+msgstr "Емкость <style=\"power\">Электричества</style>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
