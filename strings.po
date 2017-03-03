@@ -7803,7 +7803,7 @@ msgstr "Храпун"
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC"
 msgid "This Duplicant is liable to puke everywhere when stressed"
-msgstr "Этого Дупликанта будет тошнить, когда он взволнован"
+msgstr "Этого Дупликанта будет тошнить во все стороны, когда он испытывает стресс"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME"
