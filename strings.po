@@ -13128,7 +13128,7 @@ msgstr "Требуются {0}: {1}"
 #. STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC
 msgctxt "STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC"
 msgid "Requires {0} Research"
-msgstr "Требуется {0} технология"
+msgstr "Требуется технология {0}"
 
 #. STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED
 msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
