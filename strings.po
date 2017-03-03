@@ -1348,7 +1348,7 @@ msgstr "Отфильтровывает <style=\"gas\">Углекислый га�
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME"
 msgid "Air Scrubber"
-msgstr "Воздухоочистительная установка"
+msgstr "Скруббер воздуха"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
@@ -3138,12 +3138,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC"
 msgid "Creativity affects the speed and quality of a Duplicant's artistic creations."
-msgstr "Творческие способности влияют на скорость и качество художественных творений Дупликанта"
+msgstr "Творчество влияет на скорость и качество художественных творений Дупликанта"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME"
 msgid "Creativity"
-msgstr "Творческие способности"
+msgstr "Творчество"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.PROFESSION_NAME"
@@ -10428,7 +10428,7 @@ msgstr "Передовые технологии для получения бол
 #. STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME
 msgctxt "STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME"
 msgid "Advanced Filtration"
-msgstr "Улучшенная фильтрация"
+msgstr "Продвинутая фильтрация"
 
 #. STRINGS.RESEARCH.COMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.COMBUSTION.DESC"
@@ -10438,7 +10438,7 @@ msgstr "Автоматическая выработка <style=\"power\">Эле�
 #. STRINGS.RESEARCH.COMBUSTION.NAME
 msgctxt "STRINGS.RESEARCH.COMBUSTION.NAME"
 msgid "Combustion"
-msgstr "Горение"
+msgstr "Энергетика горения"
 
 #. STRINGS.RESEARCH.FARMINGTECH.DESC
 msgctxt "STRINGS.RESEARCH.FARMINGTECH.DESC"
@@ -10458,7 +10458,7 @@ msgstr "Готовьте более вкусную <style=\"food\">Пищу</sty
 #. STRINGS.RESEARCH.FINEDINING.NAME
 msgctxt "STRINGS.RESEARCH.FINEDINING.NAME"
 msgid "Fine Dining"
-msgstr "Изысканные блюда"
+msgstr "Улучшенное питание"
 
 #. STRINGS.RESEARCH.GASPIPING.DESC
 msgctxt "STRINGS.RESEARCH.GASPIPING.DESC"
@@ -10468,7 +10468,7 @@ msgstr "Примитивные технологии для работы с <styl
 #. STRINGS.RESEARCH.GASPIPING.NAME
 msgctxt "STRINGS.RESEARCH.GASPIPING.NAME"
 msgid "Gas Piping"
-msgstr "Газовые трубы"
+msgstr "Газопровод"
 
 #. STRINGS.RESEARCH.INSULATION.DESC
 msgctxt "STRINGS.RESEARCH.INSULATION.DESC"
@@ -10498,7 +10498,7 @@ msgstr "Примитивные технологии для работы с <styl
 #. STRINGS.RESEARCH.LIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.LIQUIDPIPING.NAME"
 msgid "Liquid Piping"
-msgstr "Прокачка жидкостей"
+msgstr "Водопровод"
 
 #. STRINGS.RESEARCH.MEDBAY.DESC
 msgctxt "STRINGS.RESEARCH.MEDBAY.DESC"
@@ -10508,7 +10508,7 @@ msgstr "<style=\"medicine\">Медицина</style> как средство о�
 #. STRINGS.RESEARCH.MEDBAY.NAME
 msgctxt "STRINGS.RESEARCH.MEDBAY.NAME"
 msgid "Medbay"
-msgstr "Мед. отсек"
+msgstr "Медицинский отсек"
 
 #. STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED
 msgctxt "STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED"
@@ -10563,7 +10563,7 @@ msgstr "Совершайте ежедневные омовения без хло
 #. STRINGS.RESEARCH.SANITATIONSCIENCES.NAME
 msgctxt "STRINGS.RESEARCH.SANITATIONSCIENCES.NAME"
 msgid "Sanitation Sciences"
-msgstr "Наука об ассенизации"
+msgstr "Санитария и Гигиена"
 
 #. STRINGS.RESEARCH.TEMPERATUREMODULATION.DESC
 msgctxt "STRINGS.RESEARCH.TEMPERATUREMODULATION.DESC"
@@ -13128,7 +13128,7 @@ msgstr "Требуются {0}: {1}"
 #. STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC
 msgctxt "STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC"
 msgid "Requires {0} Research"
-msgstr "Требуется {0} технология"
+msgstr "Требуется технология {0}"
 
 #. STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED
 msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
@@ -13413,17 +13413,17 @@ msgstr "Все"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS"
 msgid "Buildings"
-msgstr "Здания"
+msgstr "Постройки"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr "Задачи уборки мусора и вытирания жидкостей"
+msgstr "Уборка и вытирание"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
 msgid "Dig Orders"
-msgstr "Задачи по земляным работам"
+msgstr "Копание"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES"
