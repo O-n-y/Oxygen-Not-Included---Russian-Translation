@@ -10468,7 +10468,7 @@ msgstr "Примитивные технологии для работы с <styl
 #. STRINGS.RESEARCH.GASPIPING.NAME
 msgctxt "STRINGS.RESEARCH.GASPIPING.NAME"
 msgid "Gas Piping"
-msgstr "Газовые трубы"
+msgstr "Газопровод"
 
 #. STRINGS.RESEARCH.INSULATION.DESC
 msgctxt "STRINGS.RESEARCH.INSULATION.DESC"
@@ -10498,7 +10498,7 @@ msgstr "Примитивные технологии для работы с <styl
 #. STRINGS.RESEARCH.LIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.LIQUIDPIPING.NAME"
 msgid "Liquid Piping"
-msgstr "Прокачка жидкостей"
+msgstr "Водопровод"
 
 #. STRINGS.RESEARCH.MEDBAY.DESC
 msgctxt "STRINGS.RESEARCH.MEDBAY.DESC"
