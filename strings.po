@@ -10748,7 +10748,7 @@ msgstr "Используйте нужные ресурсы, отфильтров
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME"
 msgid "Utilities"
-msgstr "Коммуникации"
+msgstr "Термоконтроль"
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP"
