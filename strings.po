@@ -1193,7 +1193,7 @@ msgstr "Ох! С запахом цитрусов!"
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
 msgid "Reduces the threat of <style=\"disease\">Disease</style> by filtering <style=\"gas\">Contaminated Oxygen</style> out of the air."
-msgstr "Уменьшает опасность возникновения <style=\"disease\">Болезни</style>, отфильтровывая из воздуха <style=\"gas\">Загрязненный кислород</style>."
+msgstr "Уменьшает опасность возникновения <style=\"disease\">Болезней</style>, фильтруя из воздуха <style=\"gas\">Загрязненный кислород</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
@@ -2368,7 +2368,7 @@ msgstr "Электрический Провод"
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC"
 msgid "Two wires, running so close and yet never crossing paths."
-msgstr "Два провода, проходящих так близко, но никогда не пересекающий друг друга."
+msgstr "Два провода, проходящих так близко, но никогда не пересекающих друг друга."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.EFFECT"
@@ -7788,7 +7788,7 @@ msgstr "У этого Дупликанта маленький мочевой п�
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME"
 msgid "Small Bladder"
-msgstr "Мель"
+msgstr "Маленький мочевой пузырь"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.DESC"
@@ -10653,7 +10653,7 @@ msgstr "База"
 #. STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP"
 msgid "Maintain your colony's infrastructure with these homebase basics."
-msgstr "Поддерживайте инфраструктуру вашей колонии по этим основам."
+msgstr "Поддерживайте инфраструктуру вашей колонии основными элементами."
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
@@ -10703,7 +10703,7 @@ msgstr "Декор"
 #. STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP"
 msgid "Spruce up your colony with some lovely interior decorating."
-msgstr "Прекрасный интерьер как украшение колонии."
+msgstr "Добавьте в вашу колонию прекрасный декор интерьера."
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME"
@@ -10713,7 +10713,7 @@ msgstr "Кислород"
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP"
 msgid "Everything you need to keep your colony breathing."
-msgstr "Это все, что нужно, чтобы ваша колония дышала."
+msgstr "Все, что нужно, чтобы ваша колония продолжала дышать."
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
@@ -13483,12 +13483,12 @@ msgstr "Инструмент Швабра"
 #. STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME"
 msgid "Prioritize"
-msgstr "Расстановка приоритетов"
+msgstr "Приоритеты"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.NAME"
 msgid "Prioritize"
-msgstr "Расстановка приоритетов"
+msgstr "Приоритеты"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.SPECIFIC_PRIORITY
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.SPECIFIC_PRIORITY"
