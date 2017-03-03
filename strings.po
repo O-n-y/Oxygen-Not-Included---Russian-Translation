@@ -12343,7 +12343,7 @@ msgstr "Отмена"
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
 msgid "Are you sure you want to reject all Duplicants?\n\nIt won't hurt their feelings, but it'll be awhile before the Printing Pod can print again."
-msgstr "Вы уверены что хотите отказаться от всех Дупликантов?\n\nВы их не обидите, но подготовка Печатной Капсулы к следующей печати займет немало времени."
+msgstr "Вы уверены, что хотите отказаться от всех Дупликантов? Вы их не обидите, но подготовка Биопринтера к следующей печати займет некоторое время."
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
