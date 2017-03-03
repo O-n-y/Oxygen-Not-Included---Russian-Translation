@@ -6018,7 +6018,7 @@ msgstr "Мочевой пузырь"
 #. STRINGS.DUPLICANTS.STATS.BLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.BLADDER.TOOLTIP"
 msgid "Bladder\n----------\nA Duplicant will make a mess at 100% if no bathrooms are available"
-msgstr "Мочевой пузырь\n----------\nA Дупликант описается при 100% значении мочевого пузыря, если не будет санузла поблизости"
+msgstr "Мочевой пузырь\n----------\nДупликант описается при 100% значении мочевого пузыря, если не будет санузла поблизости"
 
 #. STRINGS.DUPLICANTS.STATS.BREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.BREATH.NAME"
@@ -6028,7 +6028,7 @@ msgstr "Дыхание"
 #. STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP"
 msgid "Breath\n----------\nA Duplicant will begin suffocating at 0%"
-msgstr "Дыхание\n----------\nA Дупликант станет задыхаться при 0%"
+msgstr "Дыхание\n----------\nДупликант станет задыхаться при 0%"
 
 #. STRINGS.DUPLICANTS.STATS.CALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.NAME"
@@ -6048,7 +6048,7 @@ msgstr "Декор"
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
 msgid "Decor\n----------\nA Duplicant will gain <style=\"stress\">Stress</style> while in rooms with lower <style=\"decor\">Decor</style> values than their expectations"
-msgstr "Декор\n----------\nA Дупликант будет получать <style=\"stress\">Стресс</style> находясь в комнатах, имеющих значение <style=\"decor\">Декора</style> ниже его ожиданий"
+msgstr "Декор\n----------\nДупликант будет получать <style=\"stress\">Стресс</style> находясь в комнатах, имеющих значение <style=\"decor\">Декора</style> ниже его ожиданий"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
@@ -6068,7 +6068,7 @@ msgstr "Здоровье"
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.TOOLTIP"
 msgid "Health\n----------\nA combatant will become incapacitated at zero <style=\"Health\">Health</style>"
-msgstr "Здоровье\n----------\nA воин будет небоеспособным при нуле <style=\"Health\">Здоровья</style>"
+msgstr "Здоровье\n----------\nДупликант будет небоеспособным при нуле <style=\"Health\">Здоровья</style>"
 
 #. STRINGS.DUPLICANTS.STATS.MORALE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.MORALE.NAME"
@@ -6088,7 +6088,7 @@ msgstr "Выносливость"
 #. STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP"
 msgid "Stamina\n----------\nA Duplicant will pass out from fatigue at 0%"
-msgstr "Выносливость\n----------\nA Дупликант потеряет сознание от усталости при 0%"
+msgstr "Выносливость\n----------\nДупликант потеряет сознание от усталости при 0%"
 
 #. STRINGS.DUPLICANTS.STATS.STRESS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.NAME"
@@ -6098,7 +6098,7 @@ msgstr "Стресс"
 #. STRINGS.DUPLICANTS.STATS.STRESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.TOOLTIP"
 msgid "Stress\n----------\nA Duplicant will have a Nervous Breakdown at 100% <style=\"stress\">Stress</style>"
-msgstr "Стресс\n----------\nA Дупликант получит Нервный Срыв при 100% <style=\"stress\">Стресса</style>"
+msgstr "Стресс\n----------\nДупликант получит Нервный Срыв при 100% <style=\"stress\">Стресса</style>"
 
 #. STRINGS.DUPLICANTS.STATS.TEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.TEMPERATURE.NAME"
@@ -6108,7 +6108,7 @@ msgstr "Температура тела"
 #. STRINGS.DUPLICANTS.STATS.TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.TEMPERATURE.TOOLTIP"
 msgid "Body Temperature\n----------\nA healthy Duplicant's body temperature is {1}"
-msgstr "Температура тела\n----------\nA температура тела здорового Дупликанта составляет {1}"
+msgstr "Температура тела\n----------\nТемпература тела здорового Дупликанта составляет {1}"
 
 #. STRINGS.DUPLICANTS.STATS.TOXICITY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.TOXICITY.NAME"
