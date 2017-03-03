@@ -3323,12 +3323,12 @@ msgstr "$value% Удержание температуры"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
 msgid "The Learning attribute determines a Duplicant's skill training and <style=\"research\">Research</style> effectiveness."
-msgstr "Атрибут Познание влияет на изучение Дупликантом навыков, а также на эффективность <style=\"research\">Исследований</style>"
+msgstr "Атрибут Обучаемость влияет на изучение Дупликантом навыков, а также на эффективность <style=\"research\">Исследований</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
 msgid "Learning"
-msgstr "Познание"
+msgstr "Обучаемость"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME"
