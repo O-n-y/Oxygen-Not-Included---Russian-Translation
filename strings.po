@@ -2508,12 +2508,12 @@ msgstr "Луковица Фервина"
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DESC"
 msgid "A large, chlorine-dwelling <style=\"plant\">Plant</style> that can be dug up and agriculturally domesticated.\n\nIt grows inedible buds that emit toxic hydrogen gas."
-msgstr "Большое, хлорин-потребляющее <style=\"plant\">Растение</style>, которое может быть выкопано и культивировано.\n\nОтращивает несъедобные почки, которые выделяют токсичный газ водород."
+msgstr "Большое, хлор-потребляющее <style=\"plant\">Растение</style>, которое может быть выкопано и культивировано.\n\nОтращивает несъедобные почки, которые выделяют токсичный газ водород."
 
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DOMESTICATEDDESC"
 msgid "A large, chlorine-dwelling <style=\"plant\">Plant</style> that grows inedible buds which emit toxic hydrogen gas."
-msgstr "Большое, хлорин-потребляющее <style=\"plant\">Растение</style>, отращивающее несъедобные почки, выделяющие токсичный газ водород."
+msgstr "Большое, хлор-потребляющее <style=\"plant\">Растение</style>, отращивающее несъедобные почки, выделяющие токсичный газ водород."
 
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.NAME"
@@ -7863,7 +7863,7 @@ msgstr "Водоросли"
 #. STRINGS.ELEMENTS.BLEACHSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.DESC"
 msgid "An unstable compound that emits toxic <style=\"gas\">Chlorine Gas</style>.\n\nBleach Stone is useful in <style=\"hygiene\">Hygienic</style> processes."
-msgstr "Нестабильный компонент, испускающий токсичный <style=\"gas\">Хлорин</style>.\n\nХлорная известь полезна в <style=\"hygiene\">Гигиене</style>"
+msgstr "Нестабильный компонент, испускающий токсичный <style=\"gas\">Хлор</style>.\n\nХлорная известь полезна в <style=\"hygiene\">Гигиене</style>"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
@@ -7933,7 +7933,7 @@ msgstr "(Cl) Невероятно токсичный <style=\"solid\">Тверд
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
 msgid "Chlorine"
-msgstr "Хлорин"
+msgstr "Хлор"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
@@ -7943,7 +7943,7 @@ msgstr "(Cl) Невероятно токсичный <style=\"gas\">Газ</styl
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
 msgid "Chlorine"
-msgstr "Хлорин"
+msgstr "Хлор"
 
 #. STRINGS.ELEMENTS.CLAY.DESC
 msgctxt "STRINGS.ELEMENTS.CLAY.DESC"
