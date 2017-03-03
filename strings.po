@@ -13413,17 +13413,17 @@ msgstr "Все"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS"
 msgid "Buildings"
-msgstr "Здания"
+msgstr "Постройки"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr "Задачи уборки мусора и вытирания жидкостей"
+msgstr "Уборка мусора и вытирание"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
 msgid "Dig Orders"
-msgstr "Задачи по земляным работам"
+msgstr "Копание"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES"
