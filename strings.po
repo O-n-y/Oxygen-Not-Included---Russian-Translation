@@ -10578,12 +10578,12 @@ msgstr "Контроль температуры"
 #. STRINGS.RESEARCH.TYPES.ALPHA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
 msgid "<style=\"research\">Novice Research</style> is required to unlock basic technologies.\nIt can be conducted at a <style=\"research\">Research Station</style>."
-msgstr "<style=\"research\">Начальные Исследования</style> требуются для открытия базовых технологий.\nИх можно провести в <style=\"research\">Станции Исседований</style>."
+msgstr "<style=\"research\">Базовое Исследование</style> требуются для открытия базовых технологий.\nИх можно провести в <style=\"research\">Станции Исседований</style>."
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
 msgid "Novice Research"
-msgstr "Начальные Исследования"
+msgstr "Базовое Исследование"
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC"
