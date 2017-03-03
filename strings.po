@@ -3383,12 +3383,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.DESC"
 msgid "The Medicine attribute determines a Duplicant's <style=\"disease\">Disease</style> resistance and ability to heal after injury."
-msgstr "Атрибут Лечебное дело определяет устойчивость Дупликанта к <style=\"disease\">Болезням</style>, а также способность к восстановлению после ранений."
+msgstr "Атрибут Медицина определяет устойчивость Дупликанта к <style=\"disease\">Болезням</style>, а также способность к восстановлению после ранений."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.NAME"
 msgid "Medicine"
-msgstr "Лечебное дело"
+msgstr "Медицина"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.PROFESSION_NAME"
