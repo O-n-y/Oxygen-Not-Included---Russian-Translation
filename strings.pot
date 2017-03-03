@@ -1189,7 +1189,7 @@ msgstr "Ох! Как свежо!"
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
 msgid "Reduces the threat of <style=\"disease\">Disease</style> by filtering <style=\"gas\">Contaminated Oxygen</style> out of the air."
-msgstr "Уменьшает опасность возникновения <style=\"disease\">Болезни</style> по средству фильтрации <style=\"gas\">Загрязненного Кислорода</style> из воздуха."
+msgstr "Уменьшает опасность возникновения <style=\"disease\">Болезней</style> фильтруя <style=\"gas\">Загрязненный Кислород</style> из воздуха."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
@@ -1279,12 +1279,12 @@ msgstr "Мягкий уголок в этом жестком мире.\nВаши
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.EFFECT"
 msgid "Reduces <style=\"stress\">Stress</style> by giving Duplicants a place to rest.\n\nAt night Duplicants will automatically sleep in the cot that has been assigned to them."
-msgstr "Уменьшает <style=\"stress\">Стресс</style> давая Дупликантом место для отдыха.\n\nС наступлением ночи, Дупликанты автоматически пойдут спать в кроватку, которая им назначена."
+msgstr "Уменьшает <style=\"stress\">Стресс</style> давая Дупликантом место для отдыха.\n\nС наступлением ночи, Дупликанты автоматически пойдут спать в кровать, которая им назначена."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.NAME"
 msgid "Cot"
-msgstr "Кроватка"
+msgstr "Кровать"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
@@ -1344,7 +1344,7 @@ msgstr "Фильтрует <style=\"gas\">Углекислый Газ</style> и
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME"
 msgid "Air Scrubber"
-msgstr "Воздухоочистительная установка"
+msgstr "Фильтр воздуха"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
@@ -1524,7 +1524,7 @@ msgstr "Увеличивает <style=\"decor\">Показатель Декор�
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
 msgid "Floor Lamp"
-msgstr "Напольная Лампа"
+msgstr "Лампа"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC"
@@ -1954,7 +1954,7 @@ msgstr "Смотреть, как им пользуются Дупликанты,
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT"
 msgid "A <style=\"power\">Power</style> source that must be manually operated to produce electricity."
-msgstr "Источник <style=\"power\">Электричества</style>, требующий ручного управления для его производства."
+msgstr "Источник <style=\"power\">Электричества</style>, требующий физической силы для его производства."
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.NAME"
@@ -2064,7 +2064,7 @@ msgstr "Конвертирует <style=\"misc\">Водоросли</style> в <
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
 msgid "Algae Deoxydizer"
-msgstr "Раскислитель Водорослей"
+msgstr "Расщипитель Водорослей"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC"
@@ -2254,7 +2254,7 @@ msgstr "Хранит выбранные Вами материалы"
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME"
 msgid "Storage Compactor"
-msgstr "Склад-Компактор"
+msgstr "Склад"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC"
@@ -2294,12 +2294,12 @@ msgstr "Наделяет силой маленькие ручки ваших Д�
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.EFFECT"
 msgid "Toggles all circuity following the switch without affecting the preceding circuitry."
-msgstr "Переключает состояние сети, проходящей через этот рычаг не влияя на остальную часть сети."
+msgstr "Выключает все устройства, находящиеся за этим выключателем, не влияя на остальную часть сети."
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.NAME"
 msgid "Power Switch"
-msgstr "Электрический Переключатель"
+msgstr "Электрический Выключатель"
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
@@ -2364,7 +2364,7 @@ msgstr "Электрический Провод"
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC"
 msgid "Two wires, running so close and yet never crossing paths."
-msgstr "Два провода, проходящих так близко, но никогда не пересекающий друг друга."
+msgstr "Два провода, проходящих так близко, но никогда не пересекающих друг друга."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.EFFECT"
