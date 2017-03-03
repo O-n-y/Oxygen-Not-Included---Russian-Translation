@@ -10768,7 +10768,7 @@ msgstr "Емкость <style=\"power\">Электричества</style>: {0}"
 #. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
 msgid "<style=\"decor\">Decor</style>: <style=\"{0}\">{1}</style> ({2} tile radius)"
-msgstr "<style=\"decor\">Декор</style>: <style=\"{0}\">{1}</style> ({2} на блоков вокруг)"
+msgstr "<style=\"decor\">Декор</style>: <style=\"{0}\">{1}</style> (радиус блоков: {2})"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST"
