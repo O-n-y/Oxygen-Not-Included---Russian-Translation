@@ -7683,7 +7683,7 @@ msgstr "Этот Дупликант любит совать гаечный кл�
 #. STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME"
 msgid "Grease Monkey"
-msgstr "Технаръ"
+msgstr "Технарь"
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC"
