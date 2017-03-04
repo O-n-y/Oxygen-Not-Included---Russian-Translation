@@ -229,7 +229,7 @@ msgstr "Производит <style=\"gas\">{Element}</style> со скорос�
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME"
 msgid "Emitting Light"
-msgstr "Излучает Свет"
+msgstr "Излучает свет"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP"
@@ -759,7 +759,7 @@ msgstr "Под данной структурой отсутствует съед
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.NAME"
 msgid "Pump Not In Gas"
-msgstr "Насос не в Газе"
+msgstr "Насос не в газе"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP"
@@ -998,7 +998,7 @@ msgstr "Этот контейнер хранит {Stored} кг материал�
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
 msgid "{FlushesRemaining} \"Visits\" Remaining"
-msgstr "Осталось {FlushesRemaining} \"Посещений\""
+msgstr "Осталось \"Посещений\": {FlushesRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
@@ -1198,7 +1198,7 @@ msgstr "Уменьшает опасность возникновения <style=
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
 msgid "Air Deodorizer"
-msgstr "Освежитель Воздуха"
+msgstr "Освежитель воздуха"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
@@ -1708,7 +1708,7 @@ msgstr "Производит дезинфицирующий гель для уд
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME"
 msgid "Hand Sanitizer"
-msgstr "Дезинфектор для Рук"
+msgstr "Дезинфектор для рук"
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.DESC"
@@ -1783,7 +1783,7 @@ msgstr "Соединяет постройки с источниками <style=\
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME"
 msgid "Insulated Wire"
-msgstr "Теплоизоляционный Провод"
+msgstr "Теплоизоляционный провод"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC"
@@ -1993,7 +1993,7 @@ msgstr "Быстро уменьшает <style=\"stress\">Стресс</style> �
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME"
 msgid "Massage Table"
-msgstr "Массажный Стол"
+msgstr "Массажный стол"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALBED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALBED.DESC"
@@ -2023,7 +2023,7 @@ msgstr "Ускоряет процесс регенерации <style=\"Health\"
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME"
 msgid "Medical Cot"
-msgstr "Медицинская Кровать"
+msgstr "Медицинская кровать"
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC"
@@ -2038,7 +2038,7 @@ msgstr "Может быть использован как блок стен ил
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME"
 msgid "Mesh Tile"
-msgstr "Каркасный Блок"
+msgstr "Каркасный блок"
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC"
@@ -2048,12 +2048,12 @@ msgstr "Очевидно Дупликанты могут получать нек
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.EFFECT"
 msgid "Produces low quality <style=\"food\">Food</style> for Duplicants using common ingredients.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Производит низко качественную <style=\"food\">Еду</style> для Дупликантов, используя наиболее общие компоненты.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
+msgstr "Производит низкокачественную <style=\"food\">Еду</style> для Дупликантов, используя наиболее общие компоненты.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME"
 msgid "Microbe Musher"
-msgstr "Миксер Микробов"
+msgstr "Миксер микробов"
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
@@ -2068,7 +2068,7 @@ msgstr "Конвертирует <style=\"misc\">Водоросли</style> в <
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
 msgid "Algae Deoxydizer"
-msgstr "Раскислитель Водорослей"
+msgstr "Раскислитель водорослей"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC"
@@ -2083,7 +2083,7 @@ msgstr "Дупликанты не будут готовить, пока реце
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME"
 msgid "Crafting Station"
-msgstr "Мульти-Верстак"
+msgstr "Мульти-верстак"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC"
@@ -2098,7 +2098,7 @@ msgstr "Уменьшает <style=\"stress\">Стресс</style> и вероя�
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME"
 msgid "Outhouse"
-msgstr "Отхожее Место"
+msgstr "Отхожее место"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC"
@@ -2113,7 +2113,7 @@ msgstr "Домик для одного <style=\"plant\">Растения</style>
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME"
 msgid "Planter Box"
-msgstr "Коробка для Рассады"
+msgstr "Коробка для рассады"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC"
@@ -2128,7 +2128,7 @@ msgstr "Создает герметичное уплотнение, которо
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
 msgid "Mechanized Airlock"
-msgstr "Механизированный Шлюз"
+msgstr "Механизированный шлюз"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
@@ -2173,12 +2173,12 @@ msgstr "Здесь Дупликанты проводят <style=\"research\">Б�
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
 msgid "Research Station"
-msgstr "Станция Исследований"
+msgstr "Станция исследований"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Sculpture"
-msgstr "Посредственная Скульптура"
+msgstr "Посредственная скульптура"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC"
@@ -2198,7 +2198,7 @@ msgstr "Блок для резки по камню"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME"
 msgid "\"Abstract\" Sculpture"
-msgstr "\"Абстрактная\" Скульптура"
+msgstr "\"Абстрактная\" скульптура"
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.DESC"
@@ -2228,7 +2228,7 @@ msgstr "Дупликанты не будут готовить, пока реце
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.NAME"
 msgid "Smelter"
-msgstr "Плавильная Печь"
+msgstr "Плавильная печь"
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC"
@@ -2258,7 +2258,7 @@ msgstr "Хранит выбранные Вами материалы"
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME"
 msgid "Storage Compactor"
-msgstr "Склад-Компактор"
+msgstr "Склад-компактор"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC"
@@ -2273,7 +2273,7 @@ msgstr "Дупликанты не будут готовить, пока реце
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME"
 msgid "Exosuit Station"
-msgstr "Станция Экзокостюмов"
+msgstr "Станция экзокостюмов"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.DESC"
@@ -2288,7 +2288,7 @@ msgstr "Наполняет опустевший <style=\"equipment\">Экзок�
 #. STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITRECHARGER.NAME"
 msgid "Exosuit Recharger"
-msgstr "Станция Зарядки Экзокостюмов"
+msgstr "Станция зарядки экзокостюмов"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.DESC"
@@ -2363,7 +2363,7 @@ msgstr "Соединяет постройки с источниками <style=\
 #. STRINGS.BUILDINGS.PREFABS.WIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.NAME"
 msgid "Electrical Wire"
-msgstr "Электрический Провод"
+msgstr "Электрический провод"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC"
@@ -2378,7 +2378,7 @@ msgstr "Может быть проложен через блоки стен и �
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME"
 msgid "Wire Bridge"
-msgstr "Перемычка для Проводов"
+msgstr "Перемычка для проводов"
 
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC"
@@ -2388,7 +2388,7 @@ msgstr "Съедобный партенокарпический фрукт, ко
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME"
 msgid "Buried Muckroot"
-msgstr "Закопанный Гнойкорень"
+msgstr "Закопанный гнойкорень"
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC"
@@ -2423,7 +2423,7 @@ msgstr "Внутри живет крошечный Паку.\n\nОн пока н
 #. STRINGS.CREATURES.SPECIES.FLUTEGG.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.FLUTEGG.NAME"
 msgid "Pacu Egg"
-msgstr "Яйцо Паку"
+msgstr "Яйцо паку"
 
 #. STRINGS.CREATURES.SPECIES.GLOM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GLOM.DESC"
@@ -2443,7 +2443,7 @@ msgstr "Быстро растущее подземное <style=\"plant\">Рас
 #. STRINGS.CREATURES.SPECIES.GREEDYGREEN.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GREEDYGREEN.NAME"
 msgid "Avari Vine"
-msgstr "Лоза Авари"
+msgstr "Лоза авари"
 
 #. STRINGS.CREATURES.SPECIES.GRONEHOG.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GRONEHOG.DESC"
@@ -2463,7 +2463,7 @@ msgstr "Общее гнездовье стада Волгусов."
 #. STRINGS.CREATURES.SPECIES.GRONEHOGMOUND.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GRONEHOGMOUND.NAME"
 msgid "Volgus Den"
-msgstr "Логово Волгусов"
+msgstr "Логово волгусов"
 
 #. STRINGS.CREATURES.SPECIES.HATCH.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.DESC"
@@ -2503,7 +2503,7 @@ msgstr "Температурозависимое подземное <style=\"pla
 #. STRINGS.CREATURES.SPECIES.HEATBULBSEED.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HEATBULBSEED.NAME"
 msgid "Fervine Bulb"
-msgstr "Луковица Фервина"
+msgstr "Луковица фервина"
 
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DESC"
@@ -2518,7 +2518,7 @@ msgstr "Большое, хлор-потребляющее <style=\"plant\">Ра�
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.NAME"
 msgid "Palmera Tree"
-msgstr "Дерево Пальмера"
+msgstr "Дерево пальмера"
 
 #. STRINGS.CREATURES.SPECIES.MYSTERYEGG.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.MYSTERYEGG.DESC"
@@ -2528,7 +2528,7 @@ msgstr "Что растет внутри? Что-нибудь приятное? 
 #. STRINGS.CREATURES.SPECIES.MYSTERYEGG.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.MYSTERYEGG.NAME"
 msgid "Mysterious Egg"
-msgstr "Мистическое Яйцо"
+msgstr "Мистическое яйцо"
 
 #. STRINGS.CREATURES.SPECIES.OILSPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OILSPOUT.DESC"
@@ -2538,7 +2538,7 @@ msgstr "Скважина, извергающая сырую нефть."
 #. STRINGS.CREATURES.SPECIES.OILSPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILSPOUT.NAME"
 msgid "Oil Spout"
-msgstr "Скважина Нефти"
+msgstr "Скважина нефти"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC"
@@ -2578,7 +2578,7 @@ msgstr "Скважина, извергающая пропан."
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME"
 msgid "Propane Spout"
-msgstr "Скаважина Пропана"
+msgstr "Скаважина пропана"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.DESC"
@@ -2598,7 +2598,7 @@ msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Мучного Дер�
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME"
 msgid "Mealwood Seed"
-msgstr "Семя Мучного Дерева"
+msgstr "Семя мучного дерева"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC"
@@ -2608,7 +2608,7 @@ msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Дерева Паль�
 #. STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.NAME"
 msgid "Palmera Seed"
-msgstr "Семя Пальмеры"
+msgstr "Семя пальмеры"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.DESC"
@@ -2618,7 +2618,7 @@ msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Щитовика</styl
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME"
 msgid "Blossom Seed"
-msgstr "Семя Щитовика"
+msgstr "Семя щитовика"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC"
@@ -2628,7 +2628,7 @@ msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Шиповника</st
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME"
 msgid "Briar Seed"
-msgstr "Семя Шиповника"
+msgstr "Семя шиповника"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC"
@@ -2638,7 +2638,7 @@ msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Болотной Ли�
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME"
 msgid "Swamp Lily Seed"
-msgstr "Семя Болотной Лилии"
+msgstr "Семя болотной лилии"
 
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC"
@@ -2648,7 +2648,7 @@ msgstr "Очень агрессивный вид насекомых.\n\nОбла
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.NAME"
 msgid "Shockworm"
-msgstr "Шоковый Червь"
+msgstr "Шоковый червь"
 
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC"
@@ -2658,7 +2658,7 @@ msgstr "Скважина, извергающая пар."
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME"
 msgid "Steam Spout"
-msgstr "Скважина Пара"
+msgstr "Скважина пара"
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC"
@@ -2673,7 +2673,7 @@ msgstr "Элегантное <style=\"plant\">Растение</style>, обит
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME"
 msgid "Swamp Lily"
-msgstr "Болотная Лилия"
+msgstr "Болотная лилия"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER"
@@ -2713,12 +2713,12 @@ msgstr "Темп созревания в дикой среде"
 #. STRINGS.CREATURES.STATS.MATURITY.NAME
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.NAME"
 msgid "Growth Progress"
-msgstr "Процесс Созревания"
+msgstr "Процесс созревания"
 
 #. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP"
 msgid "Growth Progress\n----------\n"
-msgstr "Процесс Созревания\n----------\n"
+msgstr "Процесс созревания\n----------\n"
 
 #. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_GROWING
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_GROWING"
@@ -2923,7 +2923,7 @@ msgstr "Это <style=\"plant\">Растение</style> процветает в
 #. STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.NAME"
 msgid "Harvests Remaining: {HarvestsRemaining}"
-msgstr "Осталось Сбора Урожая: {HarvestsRemaining}"
+msgstr "Осталось сбора урожая: {HarvestsRemaining}"
 
 #. STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.TOOLTIP"
@@ -3318,7 +3318,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER"
 msgid "$value% Temperature Retention"
-msgstr "$value% Удержание температуры"
+msgstr "$value% Удержания температуры"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
@@ -3413,7 +3413,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina Change"
-msgstr "Изменение Выносливости"
+msgstr "Изменение выносливости"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
@@ -3443,7 +3443,7 @@ msgstr "Изменяет скорость изменения <style=\"stress\">�
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME"
 msgid "Stress Change"
-msgstr "Изменение Стресса"
+msgstr "Изменение стресса"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC"
@@ -3453,7 +3453,7 @@ msgstr "Изменяет скорость, с которой Дупликант 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
 msgid "Bladder Efficiency"
-msgstr "Эффективность Мочевого пузыря"
+msgstr "Эффективность мочевого пузыря"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.PROFESSION_NAME"
@@ -3468,7 +3468,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME"
 msgid "Toxicity Change"
-msgstr "Изменение Токсичности"
+msgstr "Изменение токсичности"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC"
@@ -3588,7 +3588,7 @@ msgstr "Транспортировка материалов в некритич�
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME"
 msgid "Sweep"
-msgstr "Уборка"
+msgstr "Убрать"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
@@ -3708,7 +3708,7 @@ msgstr "DebugИдти"
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS"
 msgid "DebugGoTo"
-msgstr "DebugИдти"
+msgstr "Дебаг Идти к"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
@@ -3723,7 +3723,7 @@ msgstr "Идет выполнять демонтаж"
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
 msgid "DeliverFood"
-msgstr "Доставка Еды"
+msgstr "Доставка еды"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS"
@@ -3913,7 +3913,7 @@ msgstr "Лечит"
 #. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME"
 msgid "Heal"
-msgstr "Heal"
+msgstr "Лечить"
 
 #. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS"
@@ -4928,7 +4928,7 @@ msgstr "Зоны, значение <style=\"decor\">Декора</style> кот�
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
 msgid "Decor Expectation"
-msgstr "Ожидание Декорирования"
+msgstr "Ожидания по декору"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
@@ -6528,7 +6528,7 @@ msgstr "Убегает"
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_NAME"
 msgid "Fleeing!"
-msgstr "Отступление Бегом!"
+msgstr "Отступление бегством!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NOTIFICATION_TOOLTIP"
@@ -7133,12 +7133,12 @@ msgstr "Грязный!"
 #. STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.NAME"
 msgid "Severely injured"
-msgstr "Серьезно Ранен"
+msgstr "Серьезно ранен"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.NOTIFICATION_NAME"
 msgid "Severely injured"
-msgstr "Серьезно Ранен"
+msgstr "Серьезно ранен"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.NOTIFICATION_TOOLTIP"
@@ -7413,12 +7413,12 @@ msgstr "Этот Дупликант транспортирует материа�
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NAME"
 msgid "Throwing up"
-msgstr "Блюет"
+msgstr "Рвота"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_NAME"
 msgid "Throwing up"
-msgstr "Блюет"
+msgstr "Рвота"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_TOOLTIP"
@@ -7493,7 +7493,7 @@ msgstr "Горяч"
 #. STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP"
 msgid "Poor Decor"
-msgstr "Плохой Декор"
+msgstr "Плохой декор"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP"
@@ -7573,7 +7573,7 @@ msgstr "Этот Дупликант может в самом деле иметь
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME"
 msgid "Bottomless Stomach"
-msgstr "Бездонная Глотка"
+msgstr "Бездонная глотка"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK"
@@ -7588,7 +7588,7 @@ msgstr "Этот Дупликант неспособен визуализиро�
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME"
 msgid "Dimensionally Inept"
-msgstr "Гений Геометрии"
+msgstr "Гений геометрии"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTCOOK.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.DESC"
@@ -7628,7 +7628,7 @@ msgstr "Этот Дупликант мог бы быть талантливым 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME"
 msgid "Diver's Lungs"
-msgstr "Легкие Ныряльщика"
+msgstr "Легкие ныряльщика"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.DESC"
@@ -7713,7 +7713,7 @@ msgstr "Этот Дупликант любит читать в туалете"
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME"
 msgid "Irritable Bowel"
-msgstr "Раздраженный Кишечник"
+msgstr "Раздраженный кишечник"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC"
@@ -7868,7 +7868,7 @@ msgstr "Нестабильный компонент, испускающий то
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
 msgid "Bleach Stone"
-msgstr "Хлорная Известь"
+msgstr "Хлорная известь"
 
 #. STRINGS.ELEMENTS.BOTTLEDWATER.DESC
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.DESC"
@@ -7903,7 +7903,7 @@ msgstr "(CO2) Токсичный, атомарно тяжелый химичес
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr "Углекислый Газ"
+msgstr "Углекислый газ"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.DESC"
@@ -7963,7 +7963,7 @@ msgstr "(O2) Надежный путь для <style=\"disease\">Болезне�
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "Contaminated Oxygen"
-msgstr "Загрязненный Кислород"
+msgstr "Загрязненный кислород"
 
 #. STRINGS.ELEMENTS.COPPER.DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.DESC"
@@ -8003,17 +8003,17 @@ msgstr "(H2O) Смесь крошеного льда и воды."
 #. STRINGS.ELEMENTS.CRUSHEDICE.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
 msgid "Crushed Ice"
-msgstr "Дробленый Лед"
+msgstr "Колотый лед"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.DESC"
 msgid "<style=\"solid\">Igneous Rock</style> crushed into a mechanical mixture."
-msgstr "<style=\"solid\">Вулканическая Порода</style> перемолотая в механическую смесь."
+msgstr "<style=\"solid\">Вулканическая порода</style> перемолотая в механическую смесь."
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.NAME"
 msgid "Crushed Rock"
-msgstr "Дробленый Камень"
+msgstr "Дробленый камень"
 
 #. STRINGS.ELEMENTS.CUPRITE.DESC
 msgctxt "STRINGS.ELEMENTS.CUPRITE.DESC"
@@ -8023,7 +8023,7 @@ msgstr "(Cu2O) Проводящий <style=\"RawMetal\">Металл</style>.\n\
 #. STRINGS.ELEMENTS.CUPRITE.NAME
 msgctxt "STRINGS.ELEMENTS.CUPRITE.NAME"
 msgid "Copper Ore"
-msgstr "Медная Руда"
+msgstr "Медная руда"
 
 #. STRINGS.ELEMENTS.DIAMOND.DESC
 msgctxt "STRINGS.ELEMENTS.DIAMOND.DESC"
@@ -8053,7 +8053,7 @@ msgstr "Токсичная вода, замороженная до <style=\"soli
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
 msgid "Contaminated Ice"
-msgstr "Загрязненный Лед"
+msgstr "Загрязненный лед"
 
 #. STRINGS.ELEMENTS.DIRTYWATER.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.DESC"
@@ -8063,7 +8063,7 @@ msgstr "<style=\"liquid\">Вода</style>, заполненная опасны�
 #. STRINGS.ELEMENTS.DIRTYWATER.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.NAME"
 msgid "Contaminated Water"
-msgstr "Загрязненная Вода"
+msgstr "Загрязненная вода"
 
 #. STRINGS.ELEMENTS.ELECTRUM.DESC
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.DESC"
@@ -8138,7 +8138,7 @@ msgstr "Проводящая смесь золота и ртути.\n\nЗоло�
 #. STRINGS.ELEMENTS.GOLDAMALGAM.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.NAME"
 msgid "Gold Amalgam"
-msgstr "Золотая Амальгама"
+msgstr "Амальгама золота"
 
 #. STRINGS.ELEMENTS.GOLDGAS.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.DESC"
@@ -8188,12 +8188,12 @@ msgstr "{0} (Мягкий)"
 #. STRINGS.ELEMENTS.HARDNESS.VERYFIRM
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYFIRM"
 msgid "{0} (Very Firm)"
-msgstr "{0} (Очень Крепкий)"
+msgstr "{0} (Очень крепкий)"
 
 #. STRINGS.ELEMENTS.HARDNESS.VERYSOFT
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYSOFT"
 msgid "{0} (Very Soft)"
-msgstr "{0} (Очень Мягкий)"
+msgstr "{0} (Очень мягкий)"
 
 #. STRINGS.ELEMENTS.HELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.HELIUM.DESC"
@@ -8233,7 +8233,7 @@ msgstr "Смесь затвердевших вулканических поро�
 #. STRINGS.ELEMENTS.IGNEOUSROCK.NAME
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.NAME"
 msgid "Igneous Rock"
-msgstr "Вулканическая Порода"
+msgstr "Вулканическая порода"
 
 #. STRINGS.ELEMENTS.IRON.DESC
 msgctxt "STRINGS.ELEMENTS.IRON.DESC"
@@ -8273,7 +8273,7 @@ msgstr "(Fe) Мягкий <style=\"RawMetal\">Металл</style>, которы
 #. STRINGS.ELEMENTS.IRONORE.NAME
 msgctxt "STRINGS.ELEMENTS.IRONORE.NAME"
 msgid "Iron Ore"
-msgstr "Железная Руда"
+msgstr "Железная руда"
 
 #. STRINGS.ELEMENTS.KATAIRITE.DESC
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.DESC"
@@ -8293,7 +8293,7 @@ msgstr "(CO2) Токсичное химическое соединение в <s
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr "Углекислый Газ"
+msgstr "Углекислый газ"
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.DESC"
@@ -8463,7 +8463,7 @@ msgstr "(PO3-4) Гравий осадочных пород, содержащий
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.NAME"
 msgid "Phosphate Nodules"
-msgstr "Фосфатный Гравий"
+msgstr "Фосфатный гравий"
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.DESC"
@@ -8533,7 +8533,7 @@ msgstr "Раскаленный каменный <style=\"gas\">Газ</style>."
 #. STRINGS.ELEMENTS.ROCKGAS.NAME
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.NAME"
 msgid "Rock Gas"
-msgstr "Каменный Газ"
+msgstr "Каменный газ"
 
 #. STRINGS.ELEMENTS.SAND.DESC
 msgctxt "STRINGS.ELEMENTS.SAND.DESC"
@@ -8563,7 +8563,7 @@ msgstr "Укрепленная смесь осадочных слоев.\n\nОс
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME"
 msgid "Sedimentary Rock"
-msgstr "Осадочная Порода"
+msgstr "Осадочная порода"
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.DESC
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.DESC"
@@ -8583,7 +8583,7 @@ msgstr "(CO2) Токсичное соединение в <style=\"solid\">Тве
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr "Углекислый Газ"
+msgstr "Углекислый газ"
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
@@ -8703,7 +8703,7 @@ msgstr "<style=\"disease\">Зараженная</style> амальгама то�
 #. STRINGS.ELEMENTS.TOXICSAND.NAME
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.NAME"
 msgid "Contaminated Dirt"
-msgstr "Загрязненныя Земля"
+msgstr "Загрязненныя земля"
 
 #. STRINGS.ELEMENTS.UNOBTANIUM.DESC
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.DESC"
@@ -8758,7 +8758,7 @@ msgstr "Под водой снабжает Дупликантов <style=\"oxyge
 #. STRINGS.EQUIPMENT.PREFABS.AQUASUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUASUIT.NAME"
 msgid "Aqua Suit"
-msgstr "Подводный Костюм"
+msgstr "Подводный костюм"
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUASUIT.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUASUIT.RECIPEDESC"
@@ -8778,7 +8778,7 @@ msgstr "В токсичной или безвоздушной среде сна�
 #. STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.NAME"
 msgid "Atmo Suit"
-msgstr "Дыхательный Костюм"
+msgstr "Дыхательный костюм"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMOSUIT.RECIPEDESC"
@@ -8818,7 +8818,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.NAME"
 msgid "Quarrying Gun"
-msgstr "Карьерный Пистолет"
+msgstr "Карьерный пистолет"
 
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.RECIPEDESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYINGGUN.RECIPEDESC"
@@ -8863,7 +8863,7 @@ msgstr "<style=\"food\">Мукоеды</style> сжатые в плотный, �
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME"
 msgid "Liceloaf"
-msgstr "Батончик из Мукоедов"
+msgstr "Батончик из мукоедов"
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC"
@@ -8888,7 +8888,7 @@ msgstr "Предоставляет самые необходимые углев�
 #. STRINGS.ITEMS.FOOD.FIELDRATION.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.NAME"
 msgid "Field Ration"
-msgstr "Пищевой Паек"
+msgstr "Пищевой паек"
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC"
@@ -8898,7 +8898,7 @@ msgstr "Сильно зажаренные, сжатые помои."
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME"
 msgid "Fried Mush Bar"
-msgstr "Приготовленный Мшистый Батончик"
+msgstr "Жареный мшистый батончик"
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC"
@@ -8933,7 +8933,7 @@ msgstr "Съедобные, перегнившие помои. Лучше чем
 #. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
 msgid "Mush Bar"
-msgstr "Мшистый Батончик"
+msgstr "Мшистый батончик"
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC"
@@ -8948,12 +8948,12 @@ msgstr "Довольно приятный, пока не забываешь об
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME"
 msgid "Bristle Berry"
-msgstr "Щетинистая Ягодка"
+msgstr "Щетинистая ягодка"
 
 #. STRINGS.ITEMS.INGREDIENTS.SWAMPLILYFLOWER.NAME
 msgctxt "STRINGS.ITEMS.INGREDIENTS.SWAMPLILYFLOWER.NAME"
 msgid "Swamp Lily Flower"
-msgstr "Болотная Лилия"
+msgstr "Болотная лилия"
 
 #. STRINGS.ITEMS.PILLS.GINKONUT.DESC
 msgctxt "STRINGS.ITEMS.PILLS.GINKONUT.DESC"
@@ -8963,7 +8963,7 @@ msgstr ""
 #. STRINGS.ITEMS.PILLS.GINKONUT.NAME
 msgctxt "STRINGS.ITEMS.PILLS.GINKONUT.NAME"
 msgid "Antifungal Cream"
-msgstr "Противогрибковый Крем"
+msgstr "Противогрибковый крем"
 
 #. STRINGS.ITEMS.PILLS.HERBALREMEDY.DESC
 msgctxt "STRINGS.ITEMS.PILLS.HERBALREMEDY.DESC"
@@ -8973,7 +8973,7 @@ msgstr "Останавливает ужасные происшествия от 
 #. STRINGS.ITEMS.PILLS.HERBALREMEDY.NAME
 msgctxt "STRINGS.ITEMS.PILLS.HERBALREMEDY.NAME"
 msgid "Herbal Remedy"
-msgstr "Травяное Средство"
+msgstr "Травяное средство"
 
 #. STRINGS.ITEMS.PILLS.HERBALREMEDY.RECIPEDESC
 msgctxt "STRINGS.ITEMS.PILLS.HERBALREMEDY.RECIPEDESC"
@@ -8988,7 +8988,7 @@ msgstr ""
 #. STRINGS.ITEMS.PILLS.MUSCARINICANTAGONIST.NAME
 msgctxt "STRINGS.ITEMS.PILLS.MUSCARINICANTAGONIST.NAME"
 msgid "Anti Inflammatory Pills"
-msgstr "Противовоспалительный Препарат"
+msgstr "Противовоспалительный препарат"
 
 #. STRINGS.ITEMS.PILLS.PLACEBO.DESC
 msgctxt "STRINGS.ITEMS.PILLS.PLACEBO.DESC"
@@ -9628,12 +9628,12 @@ msgstr "ПОДСКАЗКА: Приоритеты"
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
 msgid "Understanding your Duplicants' priorities"
-msgstr "Узнайте как работают приоритеты Ваших Дупликантов"
+msgstr "Узнайте как работают приоритеты ваших Дупликантов"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr "Красная Тревога"
+msgstr "Красная тревога"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP"
@@ -9873,7 +9873,7 @@ msgstr "В данный момент эту постройку убирают"
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.NAME"
 msgid "{EdibleName} count: {EdibleCount} ({RationCount})"
-msgstr "{EdibleName} количество: {EdibleCount} ({RationCount})"
+msgstr "\"{EdibleName}\" количество: {EdibleCount} ({RationCount})"
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP"
@@ -10108,7 +10108,7 @@ msgstr "Этой задаче был назначен высокий приор�
 #. STRINGS.MISC.STATUSITEMS.REGIONINVALID.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONINVALID.NAME"
 msgid "Invalid Region"
-msgstr "Неправильная Область"
+msgstr "Неправильная область"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONINVALID.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONINVALID.TOOLTIP"
@@ -10138,7 +10138,7 @@ msgstr "Используйте эти блоки для формирования
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME"
 msgid "Missing Doors"
-msgstr "Отсутствуют Двери"
+msgstr "Отсутствуют двери"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.TOOLTIP"
@@ -10253,12 +10253,12 @@ msgstr "Газ пригоден для дыхания"
 #. STRINGS.MISC.TAGS.BUILDABLEPROCESSED
 msgctxt "STRINGS.MISC.TAGS.BUILDABLEPROCESSED"
 msgid "Refined Mineral"
-msgstr "Благородный Минерал"
+msgstr "Благородный минерал"
 
 #. STRINGS.MISC.TAGS.BUILDABLERAW
 msgctxt "STRINGS.MISC.TAGS.BUILDABLERAW"
 msgid "Raw Mineral"
-msgstr "Необработанный Минерал"
+msgstr "Необработанный минерал"
 
 #. STRINGS.MISC.TAGS.BURNS
 msgctxt "STRINGS.MISC.TAGS.BURNS"
@@ -10583,7 +10583,7 @@ msgstr "<style=\"research\">Базовое Исследование</style> тр
 #. STRINGS.RESEARCH.TYPES.ALPHA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
 msgid "Novice Research"
-msgstr "Базовое Исследование"
+msgstr "Базовое исследование"
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC"
@@ -10598,7 +10598,7 @@ msgstr "<style=\"research\">Промежуточные Исследования<
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.NAME"
 msgid "Intermediary Research"
-msgstr "Промежуточные Исследования"
+msgstr "Промежуточные исследования"
 
 #. STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC"
@@ -10613,12 +10613,12 @@ msgstr "Кровать"
 #. STRINGS.TAGS.RELAXATION_POINT
 msgctxt "STRINGS.TAGS.RELAXATION_POINT"
 msgid "Relaxation Point"
-msgstr "Пункт Релаксации"
+msgstr "Пункт релаксации"
 
 #. STRINGS.TAGS.SOLID
 msgctxt "STRINGS.TAGS.SOLID"
 msgid "Solid Material"
-msgstr "твердый Материал"
+msgstr "Твердый материал"
 
 #. STRINGS.UI.ACTIONS
 msgctxt "STRINGS.UI.ACTIONS"
@@ -10868,32 +10868,32 @@ msgstr "Поставка <style={0}>{1}</style>"
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT"
 msgid "<style=\"GasPiping\">Gas Intake Pipe</style>"
-msgstr "<style=\"GasPiping\">Газозаборник</style>"
+msgstr "<style=\"GasPiping\">Входное отверстие газопроводной трубы</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT"
 msgid "<style=\"GasPiping\">Gas Output Pipe</style>"
-msgstr "<style=\"GasPiping\">Выпускная газовая труба</style>"
+msgstr "<style=\"GasPiping\">Выходное отверстие газопроводной трубы</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS"
 msgid "Two <style=\"GasPiping\">Gas Output Pipes</style>"
-msgstr "Две <style=\"GasPiping\">Выпускные газовые трубы</style>"
+msgstr "Две <style=\"GasPiping\">Выходные отверстия газопровода</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT"
 msgid "<style=\"LiquidPiping\">Liquid Intake Pipe</style>"
-msgstr "<style=\"LiquidPiping\">Впускная труба (жидкость)</style>"
+msgstr "<style=\"LiquidPiping\">Входное отверстие водопроводной трубы/style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT"
 msgid "<style=\"LiquidPiping\">Liquid Output Pipe</style>"
-msgstr "<style=\"LiquidPiping\">Выпускная труба (жидкость)</style>"
+msgstr "<style=\"LiquidPiping\">Выходное отверстие водопроводной трубы</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS"
 msgid "Two <style=\"LiquidPiping\">Liquid Output Pipes</style>"
-msgstr "Две <style=\"LiquidPiping\">Выпускные трубы (жидкость)</style>"
+msgstr "Две <style=\"LiquidPiping\">Выходные отверстия водопровода</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION"
@@ -10918,7 +10918,7 @@ msgstr "1 Непосаженное <style=\"seed\">Семя</style>"
 #. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY"
 msgid "Storage capacity: {0}"
-msgstr "емкость хранилища: {0}"
+msgstr "Емкость хранилища: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE"
@@ -10928,7 +10928,7 @@ msgstr "<style=\"stress\">Стресс</style>: <style=\"consumed\">{0} в ми�
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT"
 msgid "This amenity may only be used by the Duplicant it is assigned to"
-msgstr "Данное преимущество доступно только тому Дупликанту, которому назначено"
+msgstr "Данная постройка доступна только тому Дупликанту, которому назначена"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYEFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYEFFECT"
@@ -10938,12 +10938,12 @@ msgstr "Может хранить {0} электричества когда по
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
 msgid "Decreases Decor values by {0} in a {1} tile radius"
-msgstr "Снижает значения Декора на {0} в радиусе {1} блоков"
+msgstr "Снижает значения декора на {0} в радиусе {1} блоков"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
 msgid "Improves Decor values by {0} in a {1} tile radius"
-msgstr "Увеличивает значение Декора на {0} в радиусе {1} блоков"
+msgstr "Увеличивает значение декора на {0} в радиусе {1} блоков"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST"
@@ -11038,32 +11038,32 @@ msgstr "Для функционирования нужно получить <sty
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT"
 msgid "Must receive gas from a gas pipe system"
-msgstr "Необходимо получить газ из системы газораспределения"
+msgstr "Необходимо получить газ из газопровода"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT"
 msgid "Must expel gas through a gas pipe system"
-msgstr "Необходимо вытолкнуть газ через систему газораспределения"
+msgstr "Необходимо отдавать газ в газопровод"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUTS"
 msgid "Must expel gas through a gas pipe system"
-msgstr "Необходимо вытолкнуть газ через систему газораспределения"
+msgstr "Необходимо отдавать газ в сгазопровод"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT"
 msgid "Must receive liquid from a liquid pipe system"
-msgstr "Необходимо получить жидкость из системы трубопровода"
+msgstr "Необходимо получить жидкость из водопровода"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT"
 msgid "Must expel liquid through a liquid pipe system"
-msgstr "Необходимо вытолкнуть жидкость через систему трубопровода"
+msgstr "Необходимо отдавать жидкость в водопровод"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUTS"
 msgid "Must expel liquid through a liquid pipe system"
-msgstr "Необходимо вытолкнуть жидкость через систему трубопровода"
+msgstr "Необходимо отдавать жидкость в водопровод"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESMANUALOPERATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESMANUALOPERATION"
@@ -11143,7 +11143,7 @@ msgstr "ХАРАКТЕРИСТИКИ"
 #. STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT"
 msgid "Stress Response: {0}"
-msgstr "Реакция на Стресс: {0}"
+msgstr "Реакция на стресс: {0}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE"
@@ -11553,7 +11553,7 @@ msgstr "КОМНАТЫ"
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NAME"
 msgid "Assigned"
-msgstr "Назначенный"
+msgstr "Назначения"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT"
@@ -11603,7 +11603,7 @@ msgstr "СТАТУС"
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME"
 msgid "Info"
-msgstr "Информация"
+msgstr "Инфо"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP"
@@ -11623,7 +11623,7 @@ msgstr "ОСОБЕННОСТИ"
 #. STRINGS.UI.DETAILTABS.STATS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.STATS.NAME"
 msgid "Stats"
-msgstr "Статистика"
+msgstr "Свойства"
 
 #. STRINGS.UI.DETAILTABS.STATS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.STATS.TOOLTIP"
@@ -11898,12 +11898,12 @@ msgstr "Ваш Дупликант потратил {0} времени, путе�
 #. STRINGS.UI.EQUIPMENTTAB_HELD
 msgctxt "STRINGS.UI.EQUIPMENTTAB_HELD"
 msgid "Held Items"
-msgstr "Удерживаемые Предметы"
+msgstr "Одетые предметы"
 
 #. STRINGS.UI.EQUIPMENTTAB_OWNED
 msgctxt "STRINGS.UI.EQUIPMENTTAB_OWNED"
 msgid "Owned Items"
-msgstr "Владеет Предметами"
+msgstr "Владеет предметами"
 
 #. STRINGS.UI.EQUIPMENTTAB_ROOM
 msgctxt "STRINGS.UI.EQUIPMENTTAB_ROOM"
@@ -12088,7 +12088,7 @@ msgstr "Этот компьютер не удовлетворяет минима
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON"
 msgid "Okay, thanks!"
-msgstr "Окей, спасибо!"
+msgstr "Хорошо, спасибо!"
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.QUITBUTTON"
@@ -12453,7 +12453,7 @@ msgstr "Не поддается измерению"
 #. STRINGS.UI.OVERLAYS.DECOR.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.BUTTON"
 msgid "Decor Overlay"
-msgstr "Карта Декора"
+msgstr "Карта декора"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLUTTER
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
@@ -12463,7 +12463,7 @@ msgstr "Мусор"
 #. STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR"
 msgid "High Decor"
-msgstr "Хороший Декор"
+msgstr "Высокий декор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.LIGHTING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LIGHTING"
@@ -12473,7 +12473,7 @@ msgstr "Освещение"
 #. STRINGS.UI.OVERLAYS.DECOR.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LOWDECOR"
 msgid "Low Decor"
-msgstr "Плохой Декор"
+msgstr "Низкий декор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.NAME
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.NAME"
@@ -12568,7 +12568,7 @@ msgstr "Система перегружена"
 #. STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON"
 msgid "Exosuit Overlay"
-msgstr "Карта Экзокостюмов"
+msgstr "Карта экзокостюмов"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.EXOSUITNOTREQUIRED
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.EXOSUITNOTREQUIRED"
@@ -12578,7 +12578,7 @@ msgstr "Экзокостюм не требуется"
 #. STRINGS.UI.OVERLAYS.EXOSUIT.EXOSUITREQUIRED
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.EXOSUITREQUIRED"
 msgid "Exosuit required"
-msgstr "Требуется Экзокостюм"
+msgstr "Требуется экзокостюм"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.NAME
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.NAME"
@@ -12598,7 +12598,7 @@ msgstr "Чтобы выжить в этой зоне Дупликантам ну
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON"
 msgid "Gas Plumbing Overlay"
-msgstr "Карта Газопровода"
+msgstr "Карта газопровода"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED"
@@ -12673,7 +12673,7 @@ msgstr "Точка, в которой постройка получает газ
 #. STRINGS.UI.OVERLAYS.LIGHTING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.BUTTON"
 msgid "Light Overlay"
-msgstr "Карта Освещения"
+msgstr "Карта освещения"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.DARK
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.DARK"
@@ -12708,7 +12708,7 @@ msgstr "КАРТА ОСВЕЩЕННИЯ"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON"
 msgid "Liquid Plumbing Overlay"
-msgstr "Карта Водопровода"
+msgstr "Карта водопровода"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED"
@@ -12858,7 +12858,7 @@ msgstr "Летальная концентрация газа"
 #. STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON"
 msgid "Priority Overlay"
-msgstr "Карта Приоритетов"
+msgstr "Карта приоритетов"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT"
@@ -12988,7 +12988,7 @@ msgstr "Готовых спален Дупликантов"
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON"
 msgid "Exosuit Overlay"
-msgstr "Карта Экзокостюмов"
+msgstr "Карта экзокостюмов"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.NAME"
@@ -13003,7 +13003,7 @@ msgstr "Нет заданных зон экзокостюмов"
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION"
 msgid "Exosuit Region {0}"
-msgstr "Зона Экзокостюмов {0}"
+msgstr "Зона экзокостюмов {0}"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.NOREGIONS
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.NOREGIONS"
@@ -13018,7 +13018,7 @@ msgstr "{0} принимает материалы"
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON"
 msgid "Temperature Overlay"
-msgstr "Карта Температур"
+msgstr "Карта температур"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.COLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.COLD"
@@ -13343,7 +13343,7 @@ msgstr "Инструмент Отмена заданий"
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME"
 msgid "Clean"
-msgstr "Уборка"
+msgstr "Убрать"
 
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME"
@@ -13478,7 +13478,7 @@ msgstr "ВЫДЕЛИТЕ, ЧТОБЫ ВЫТЕРЕТЬ"
 #. STRINGS.UI.TOOLS.MOP.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.MOP.TOOLNAME"
 msgid "Mop tool"
-msgstr "Инструмент Швабра"
+msgstr "Инструмент Вытирание"
 
 #. STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME"
@@ -13713,7 +13713,7 @@ msgstr "Настроить расписание колонии"
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS"
 msgid "View Duplicants' vitals"
-msgstr "Просмотреть здоровье Дупликантов"
+msgstr "Просмотреть показатели Дупликантов"
 
 #. STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP"
@@ -13903,7 +13903,7 @@ msgstr "Продолжить симуляцию"
 #. STRINGS.UI.TOOLTIPS.VITALSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.VITALSPANEL"
 msgid "The Vitals Panel monitors the status and well being of your Duplicant"
-msgstr "Панель Здоровья показывает статус и благополучие Дупликантов"
+msgstr "Панель Показатели показывает статус и благополучие Дупликантов"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNEDTO"
@@ -14538,12 +14538,12 @@ msgstr "Отменить приказ копания"
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME"
 msgid "Show Navigation"
-msgstr "Показать навигацию"
+msgstr "Показать пути"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF"
 msgid "Hide Navigation"
-msgstr "Скрыть навигацию"
+msgstr "Скрыть пути"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP"
