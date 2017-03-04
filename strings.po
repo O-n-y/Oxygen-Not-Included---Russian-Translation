@@ -1383,7 +1383,7 @@ msgstr "Гриль"
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC"
 msgid "The colony that eats together, excretes together."
-msgstr "Тщательно пережевывая пищу, вы помогаете колонии."
+msgstr "Тщательно пережевывая еду, вы помогаете колонии."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
@@ -2818,7 +2818,7 @@ msgstr "Переваривание"
 #. STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP"
 msgid "This creature is working off a big meal"
-msgstr "Это существо переваривает много пищи"
+msgstr "Это существо переваривает много еды"
 
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME"
@@ -7193,7 +7193,7 @@ msgstr "Голодание"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are starving and need <style=\"food\">Food</style>:"
-msgstr "Эти Дупликанты голодают, им необходима <style=\"food\">пища</style>:"
+msgstr "Эти Дупликанты голодают, им необходима <style=\"food\">Еда</style>:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.TOOLTIP"
@@ -8863,7 +8863,7 @@ msgstr "<style=\"food\">Мукоеды</style> сжатые в плотный, �
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME"
 msgid "Liceloaf"
-msgstr "Вшебулка"
+msgstr "Батончик из Мукоедов"
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC"
@@ -10578,12 +10578,12 @@ msgstr "Контроль температуры"
 #. STRINGS.RESEARCH.TYPES.ALPHA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
 msgid "<style=\"research\">Novice Research</style> is required to unlock basic technologies.\nIt can be conducted at a <style=\"research\">Research Station</style>."
-msgstr "<style=\"research\">Начальные Исследования</style> требуются для открытия базовых технологий.\nИх можно провести в <style=\"research\">Станции Исседований</style>."
+msgstr "<style=\"research\">Базовое Исследование</style> требуются для открытия базовых технологий.\nИх можно провести в <style=\"research\">Станции Исседований</style>."
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
 msgid "Novice Research"
-msgstr "Начальные Исследования"
+msgstr "Базовое Исследование"
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC"
@@ -10668,7 +10668,7 @@ msgstr "Открывают новые технологии силой науки
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
 msgid "Food"
-msgstr "Пища"
+msgstr "Еда"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP"
@@ -10748,7 +10748,7 @@ msgstr "Используйте нужные ресурсы, отфильтров
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME"
 msgid "Utilities"
-msgstr "Коммуникации"
+msgstr "Термоконтроль"
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP"
@@ -10768,7 +10768,7 @@ msgstr "Емкость <style=\"power\">Электричества</style>: {0}"
 #. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
 msgid "<style=\"decor\">Decor</style>: <style=\"{0}\">{1}</style> ({2} tile radius)"
-msgstr "<style=\"decor\">Декор</style>: <style=\"{0}\">{1}</style> ({2} на блоков вокруг)"
+msgstr "<style=\"decor\">Декор</style>: <style=\"{0}\">{1}</style> (радиус блоков: {2})"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST"
@@ -11353,7 +11353,7 @@ msgstr "СОДЕРЖИМОЕ"
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS"
 msgid "DETAILS"
-msgstr "ПОДРОБНОСТИ"
+msgstr "ДЕТАЛИ"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS"
@@ -11363,7 +11363,7 @@ msgstr "ПРЕДМЕТЫ В ИНВЕНТАРЕ"
 #. STRINGS.UI.DETAILTABS.DETAILS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NAME"
 msgid "Details"
-msgstr "Подробности"
+msgstr "Детали"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY"
@@ -12343,7 +12343,7 @@ msgstr "Отмена"
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
 msgid "Are you sure you want to reject all Duplicants?\n\nIt won't hurt their feelings, but it'll be awhile before the Printing Pod can print again."
-msgstr "Вы уверены что хотите отказаться от всех Дупликантов?\n\nВы их не обидите, но подготовка Печатной Капсулы к следующей печати займет немало времени."
+msgstr "Вы уверены, что хотите отклонить всех? Вы их не обидите, а вот подготовка Биопринтера к следующей печати потребует времени."
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
@@ -12363,7 +12363,7 @@ msgstr "Выберите ДНК Основу"
 #. STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON"
 msgid "Print"
-msgstr "Печать"
+msgstr "Напечатать"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.REJECTALL
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.REJECTALL"
@@ -12393,7 +12393,7 @@ msgstr "Сменить этого дюпа на другого"
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
 msgid "JOBS"
-msgstr "ПРОФЕССИИ"
+msgstr "РАБОТЫ"
 
 #. STRINGS.UI.JOBSCREEN_EVERYONE
 msgctxt "STRINGS.UI.JOBSCREEN_EVERYONE"
@@ -14133,7 +14133,7 @@ msgstr "ИССЛЕДОВАНИЕ НЕ ВЫБРАНО"
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON"
 msgid "Open Research"
-msgstr "Откройте Исследования"
+msgstr "Открыть Исследования"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE"
@@ -14603,7 +14603,7 @@ msgstr "Сбор урожая"
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP"
 msgid "Harvest <style=\"food\">Food</style> from this <style=\"plant\">Plant</style>"
-msgstr "Собрать <style=\"food\">Пищу</style> с этого <style=\"plant\">Растения</style>"
+msgstr "Собрать <style=\"food\">Еду</style> с этого <style=\"plant\">Растения</style>"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP_DISABLED
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP_DISABLED"
@@ -14758,7 +14758,7 @@ msgstr "Съел сегодня"
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
 msgid "The amount of <style=\"food\">Food</style> your Duplicant has eaten this cycle"
-msgstr "Количество <style=\"food\">Пищи</style>, которую Ваш Дупликант съел за этот цикл"
+msgstr "Количество <style=\"food\">Еды</style>, которую Ваш Дупликант съел за этот цикл"
 
 #. STRINGS.UI.VITALSSCREEN_NAME
 msgctxt "STRINGS.UI.VITALSSCREEN_NAME"
