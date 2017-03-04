@@ -6413,7 +6413,7 @@ msgstr "Этот Дупликает восполняет запас его <styl
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.NAME"
 msgid "Exhaling {EmittingRate} CO2"
-msgstr "Выдахает {EmittingRate} CO2"
+msgstr "Выдыхает {EmittingRate} CO2"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP"
