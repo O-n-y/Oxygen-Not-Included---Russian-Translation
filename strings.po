@@ -2963,7 +2963,7 @@ msgstr "Внутренняя температура опасно высока"
 #. STRINGS.CREATURES.STATUSITEMS.IDLE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.IDLE.NAME"
 msgid "Idle"
-msgstr "Бездейсвует"
+msgstr "Бездействует"
 
 #. STRINGS.CREATURES.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.IDLE.TOOLTIP"
@@ -10218,7 +10218,7 @@ msgstr "{Target} сейчас используется"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
 msgid "Dig pending"
-msgstr "Ожилает копания"
+msgstr "Ожидает копания"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
@@ -10433,7 +10433,7 @@ msgstr "Продвинутая фильтрация"
 #. STRINGS.RESEARCH.COMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.COMBUSTION.DESC"
 msgid "Crude fuel-powered generators for automatic <style=\"power\">Power</style> production."
-msgstr "Автоматическая выработка <style=\"power\">Электричества</style> генераторами на сырой нефти"
+msgstr "Автоматическая выработка <style=\"power\">Электричества</style> генераторами на ископаемом топливе"
 
 #. STRINGS.RESEARCH.COMBUSTION.NAME
 msgctxt "STRINGS.RESEARCH.COMBUSTION.NAME"
