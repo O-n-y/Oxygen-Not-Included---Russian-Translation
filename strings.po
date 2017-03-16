@@ -11516,7 +11516,7 @@ msgstr ""кструдируемый"
 #. STRINGS.MISC.TAGS.FARMABLE
 msgctxt "STRINGS.MISC.TAGS.FARMABLE"
 msgid "Cultivable Soil"
-msgstr "Культивируемая почва"
+msgstr "Культивир. почва"
 
 #. STRINGS.MISC.TAGS.FILTER
 msgctxt "STRINGS.MISC.TAGS.FILTER"
