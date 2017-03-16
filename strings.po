@@ -2734,7 +2734,7 @@ msgstr "Защитите колонию от расплавления!"
 #. STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.EFFECT"
 msgid "Automates switching <style=\"power\">Power</style> grids on or off based on ambient <style=\"heat\">Heat</style>."
-msgstr "Автоматизирует переключение сетей <style=\"power\">Электроэнергии</style> в состояние Включено или Выключено в зависимости от окружающего style=\"heat\">Тепла</style>."
+msgstr "Автоматизирует переключение сетей <style=\"power\">Электроэнергии</style> в состояние Включено или Выключено в зависимости от окружающего <style=\"heat\">Тепла</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.NAME"
@@ -11996,12 +11996,12 @@ msgstr "Службы"
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
 msgid "Move gases and liquid around with the greatest of ease."
-msgstr "Перенос газов и жидкостей с легкостью."
+msgstr "Службы для легкой транспортировки газов и жидкостей."
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.NAME"
 msgid "Power"
-msgstr "Энергия"
+msgstr "Электро"
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP"
@@ -15076,7 +15076,7 @@ msgstr "Постройки"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr "Задания уборки и вытирания"
+msgstr "Уборка и вытирание"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
