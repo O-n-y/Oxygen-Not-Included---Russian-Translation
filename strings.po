@@ -2294,7 +2294,7 @@ msgstr "Только нужное количество тепла для хор�
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.EFFECT"
 msgid "Marginally <style=\"heat\">Warms</style> large bodies of <style=\"liquid\">Liquid</style>.\n\nMust be fully submerged."
-msgstr "Незначительно <style=\"heat\">Нагревает</style> большие объемы <стиль=\"жидкие\">Жидкости</стиль>.\н\nДолжен быть полностью погружен в воду."
+msgstr "Незначительно <style=\"heat\">Нагревает</style> большие объемы <style=\"liquid\">Жидкости</style>.\н\nДолжен быть полностью погружен в воду."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.NAME"
