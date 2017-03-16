@@ -9634,7 +9634,7 @@ msgstr "<style=\"disease\">Зараженная</style> амальгама то�
 #. STRINGS.ELEMENTS.TOXICSAND.NAME
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.NAME"
 msgid "Polluted Dirt"
-msgstr "Загрязненныя земля"
+msgstr "Загрязненная земля"
 
 #. STRINGS.ELEMENTS.TUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.DESC"
