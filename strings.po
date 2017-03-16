@@ -11556,7 +11556,7 @@ msgstr "Жидкость"
 #. STRINGS.MISC.TAGS.LIQUIFIABLE
 msgctxt "STRINGS.MISC.TAGS.LIQUIFIABLE"
 msgid "Liquifiable"
-msgstr "Разжижаемое"
+msgstr "Сжижаемое"
 
 #. STRINGS.MISC.TAGS.MESSSTATION
 msgctxt "STRINGS.MISC.TAGS.MESSSTATION"
