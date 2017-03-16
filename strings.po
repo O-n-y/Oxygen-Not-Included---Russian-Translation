@@ -1534,7 +1534,7 @@ msgstr "Перерабатывает <style=\"gas\">Углекислый газ<
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME"
 msgid "Algae Terrarium"
-msgstr "Террариум с водорослями"
+msgstr "Террариум водорослей"
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC"
@@ -2434,7 +2434,7 @@ msgstr "Ускоряет процесс регенерации <style=\"Health\"
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME"
 msgid "Medical Cot"
-msgstr "Медкровать"
+msgstr "Мед. кровать"
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC"
@@ -2524,7 +2524,7 @@ msgstr "Домик для одного <style=\"plant\">Растения</style>
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME"
 msgid "Planter Box"
-msgstr "Коробка для рассады"
+msgstr "Ящик для рассады"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC"
@@ -2844,7 +2844,7 @@ msgstr "Мучное дерево"
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC"
 msgid "A fleshy, <style=\"heat\">Cold</style>-dwelling plant.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous skin."
-msgstr "Мясистый, обидает в <style=\"heat\">Холодной</style>среде.\n\n Он поглошает <style=\"heat\">Тепло</style> из воздуха, благодаря дыханию через свою пористую кожу."
+msgstr "Мясистый, обидает в <style=\"heat\">Холодной</style> среде.\n\nОн поглошает <style=\"heat\">Тепло</style> из воздуха, благодаря дыханию через свою пористую кожу."
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC"
