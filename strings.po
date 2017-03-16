@@ -12171,7 +12171,7 @@ msgstr "Две <style=\"GasPiping\">Выходные отверстия газо
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT"
 msgid "<style=\"LiquidPiping\">Liquid Intake Pipe</style>"
-msgstr "<style=\"LiquidPiping\">Входное отверстие водопроводной трубы/style>"
+msgstr "<style=\"LiquidPiping\">Входное отверстие водопроводной трубы</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT"
