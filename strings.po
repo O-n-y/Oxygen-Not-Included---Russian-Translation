@@ -2539,7 +2539,7 @@ msgstr "Создает герметичное уплотнение, которо
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
 msgid "Mechanized Airlock"
-msgstr "Механизированный шлюз"
+msgstr "Авто шлюз"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
