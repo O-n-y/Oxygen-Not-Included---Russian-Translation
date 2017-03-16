@@ -11866,12 +11866,12 @@ msgstr "Открывают примитивные технологии."
 #. STRINGS.RESEARCH.TYPES.BETA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.DESC"
 msgid "<style=\"research\">Intermediary Research</style> is required to unlock intermediate technologies.\nIt can be conducted at an <style=\"research\">Super Computer</style>."
-msgstr "<style=\"research\">Промежуточные Исследования</style> требуются для открытия технологий среднего уровня.\nИх можно провести в <style=\"research\">Супер-Компьютере</style>."
+msgstr "<style=\"research\">Расширенное исследование</style> требуется для открытия технологий среднего уровня.\nИх можно провести в <style=\"research\">Суперкомпьютере</style>."
 
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.NAME"
 msgid "Intermediary Research"
-msgstr "Промежуточные исследования"
+msgstr "Расширенное исследование"
 
 #. STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC"
