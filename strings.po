@@ -853,12 +853,12 @@ msgstr "Эта постройка не подсоединена к <style=\"powe
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
 msgid "Deconstruction Pending"
-msgstr "Ожидает демонтажа"
+msgstr "Ожидает сноса"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP"
 msgid "Waiting for a Duplicant to deconstruct this building"
-msgstr "Ожидает Дупликанта для демонтажа этой постройки"
+msgstr "Ожидает Дупликанта для сосна этой постройки"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME"
@@ -3198,12 +3198,12 @@ msgstr "Темп сжигания калорий"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC"
 msgid "The Construction attribute determines a Duplicant's building speed."
-msgstr "Атрибут Строительство определяет скорость, с которой Дупликант строит объекты"
+msgstr "Атрибут Архитектура определяет скорость, с которой Дупликант строит объекты"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME"
 msgid "Construction"
-msgstr "Строительство"
+msgstr "Архитектура"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.PROFESSION_NAME"
@@ -3323,12 +3323,12 @@ msgstr "$value% Удержания температуры"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
 msgid "The Learning attribute determines a Duplicant's skill training and <style=\"research\">Research</style> effectiveness."
-msgstr "Атрибут Обучаемость влияет на изучение Дупликантом навыков, а также на эффективность <style=\"research\">Исследований</style>"
+msgstr "Атрибут Эрудиция влияет на изучение Дупликантом навыков, а также на эффективность <style=\"research\">Исследований</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
 msgid "Learning"
-msgstr "Обучаемость"
+msgstr "Эрудиция"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME"
@@ -3663,12 +3663,12 @@ msgstr "Доставляет материалы"
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME"
 msgid "Clean"
-msgstr "Уборка"
+msgstr "Очистить"
 
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS"
 msgid "Going to clean"
-msgstr "Идет убирать"
+msgstr "Идет очищать"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME"
@@ -3713,12 +3713,12 @@ msgstr "Дебаг Идти к"
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr "Демонтаж"
+msgstr "Снос"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
 msgid "Going to deconstruct"
-msgstr "Идет выполнять демонтаж"
+msgstr "Идет выполнять снос"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
@@ -4233,7 +4233,7 @@ msgstr "Идет переключать"
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME"
 msgid "Sweep"
-msgstr "Уборка"
+msgstr "Убрать"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS"
@@ -10658,7 +10658,7 @@ msgstr "Поддерживайте инфраструктуру вашей ко�
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
 msgid "Stations"
-msgstr "Станции"
+msgstr "Наука"
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
@@ -10688,7 +10688,7 @@ msgstr "Удобства сделают ваших Дупликантов сча
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME"
 msgid "Medicine"
-msgstr "Медицина"
+msgstr "Лечение"
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP"
@@ -10708,7 +10708,7 @@ msgstr "Добавьте в вашу колонию прекрасный дек�
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME"
 msgid "Oxygen"
-msgstr "Кислород"
+msgstr "O2"
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP"
@@ -10718,7 +10718,7 @@ msgstr "Все, что нужно, чтобы ваша колония продо
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
 msgid "Plumbing"
-msgstr "Сантехника"
+msgstr "Службы"
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
@@ -10728,7 +10728,7 @@ msgstr "Перенос газов и жидкостей с легкостью."
 #. STRINGS.UI.BUILDCATEGORIES.POWER.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.NAME"
 msgid "Power"
-msgstr "Электричество"
+msgstr "Энергия"
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP"
@@ -10738,7 +10738,7 @@ msgstr "Нужно электричество для запитки колони
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.NAME"
 msgid "Refinement"
-msgstr "Переработка"
+msgstr "Очистка"
 
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP"
@@ -10748,7 +10748,7 @@ msgstr "Используйте нужные ресурсы, отфильтров
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME"
 msgid "Utilities"
-msgstr "Термоконтроль"
+msgstr "Термо"
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP"
@@ -11553,7 +11553,7 @@ msgstr "КОМНАТЫ"
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NAME"
 msgid "Assigned"
-msgstr "Назначения"
+msgstr "Связки"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT"
@@ -11568,7 +11568,7 @@ msgstr "Этот Дупликант не оснащен <style=\"equipment\">И�
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.TOOLTIP"
 msgid "View this Duplicant's inventory"
-msgstr "Просмотр инвенторя Дупликанта"
+msgstr "Просмотр инвентаря Дупликанта"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED"
@@ -11718,7 +11718,7 @@ msgstr "Теплопроводность показыввет, на скольк
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
 msgid "Added"
-msgstr "Добавлен"
+msgstr "Приход"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME"
@@ -11813,7 +11813,7 @@ msgstr "Ваш Дупликант получил в общем {0} очков х
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
 msgid "Net"
-msgstr "Сеть"
+msgstr "Сальдо"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NEXT"
@@ -11853,7 +11853,7 @@ msgstr "Предыдуший"
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
 msgid "Removed"
-msgstr "Передвинуть"
+msgstr "Расход"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
@@ -13163,7 +13163,7 @@ msgstr "ОТЧЕТЫ"
 #. STRINGS.UI.RESEARCH
 msgctxt "STRINGS.UI.RESEARCH"
 msgid "RESEARCH"
-msgstr "ИССЛЕДОВАНИЯ"
+msgstr "НАУКА"
 
 #. STRINGS.UI.RESEARCHPOINTS
 msgctxt "STRINGS.UI.RESEARCHPOINTS"
@@ -13343,27 +13343,27 @@ msgstr "Инструмент Отмена заданий"
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME"
 msgid "Clean"
-msgstr "Убрать"
+msgstr "Очистить"
 
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME"
 msgid "Clean Up tools"
-msgstr "Инструмент Уборка"
+msgstr "Инструмент Очистки"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr "Демонтаж"
+msgstr "Снос"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
 msgid "DRAG TO DECONSTRUCT"
-msgstr "ВЫДЕЛИТЕ ДЛЯ ДЕМОНТАЖА"
+msgstr "ВЫДЕЛИТЕ ДЛЯ СНОСА"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME"
 msgid "Deconstruct tool"
-msgstr "Инструмент Демонтажа"
+msgstr "Инструмент Сноса"
 
 #. STRINGS.UI.TOOLS.DIG.NAME
 msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
@@ -13418,7 +13418,7 @@ msgstr "Постройки"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr "Уборка и вытирание"
+msgstr "Задания уборки и вытирания"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
@@ -13453,7 +13453,7 @@ msgstr "Назад"
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME"
 msgid "Sweep"
-msgstr "Уборка"
+msgstr "Убрать"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION"
@@ -14743,7 +14743,7 @@ msgstr "Выберите Дупликанта"
 #. STRINGS.UI.VITALS
 msgctxt "STRINGS.UI.VITALS"
 msgid "VITALS"
-msgstr "ПОКАЗАТЕЛИ"
+msgstr "СТАТУС"
 
 #. STRINGS.UI.VITALSSCREEN_CALORIES
 msgctxt "STRINGS.UI.VITALSSCREEN_CALORIES"
