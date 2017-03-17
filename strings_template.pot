@@ -1613,7 +1613,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.BURNER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.DESC"
-msgid "Some people just want to see the world burn."
+msgid "Some people just want to watch the world burn."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.BURNER.EFFECT
@@ -2728,7 +2728,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.DESC"
-msgid "Make this colony is a meltdown-free zone!"
+msgid "Make this colony a meltdown-free zone!"
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.EFFECT
@@ -2858,12 +2858,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC"
-msgid "A fleshy, <style=\"heat\">Cold</style>-dwelling plant.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous skin."
+msgid "A fleshy, <style=\"heat\">Cold</style>-dwelling plant.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous outer membrane."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC"
-msgid "A fleshy plant that thrives in <style=\"heat\">Cold</style> environments.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous skin."
+msgid "A fleshy plant that thrives in <style=\"heat\">Cold</style> environments.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous outer membrane."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.NAME
@@ -3233,7 +3233,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.STATS.ROT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.ROT.TOOLTIP"
-msgid "Freshness\n----------\n<style=\"food\">Food</style> items will become stale at fifty percent freshness, and will rot zero percent"
+msgid "Freshness\n----------\n<style=\"food\">Food</style> items will become stale at fifty percent freshness, and will rot at zero percent"
 msgstr ""
 
 #. STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.NAME
@@ -5538,7 +5538,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP"
-msgid "This Duplicant stepped in dirty water and was super grossed out"
+msgid "This Duplicant stepped in something yucky and was super grossed out"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.CAUSE
@@ -9828,7 +9828,7 @@ msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
-msgid "<style=\"liquid\">Polluted Water</style> is a yucky substance that emits <style=\"gas\">Polluted Oxygen</style> and can cause <style=\"disease\">Disease</style> in your Duplicants.\n\nSmall accidents can be cleaned up by clicking and dragging with the <color=#833A5FFF>MOP TOOL</color> <color=#F44A47>[M]</color>, while larger bodies may be worth filtering. Dirty water also <style=\"stress\">Stresses</style> out any Duplicants that come into contact with it, so it is best removed quickly for your colony's safety."
+msgid "<style=\"liquid\">Polluted Water</style> is a yucky substance that emits <style=\"gas\">Polluted Oxygen</style> and can cause <style=\"disease\">Disease</style> in your Duplicants.\n\nSmall accidents can be cleaned up by clicking and dragging with the <color=#833A5FFF>MOP TOOL</color> <color=#F44A47>[M]</color>, while larger bodies may be worth filtering. Polluted water also <style=\"stress\">Stresses</style> out any Duplicants that come into contact with it, so it is best removed quickly for your colony's safety."
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
@@ -10084,6 +10084,21 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.TOOLTIP"
 msgid "Help your Duplicants keep their cool"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY"
+msgid "When constructing buildings, take note of their <style=\"heat\">Overheat Temperature</style> and plan their locations accordingly. Maintaining low ambient temperatures and good ventilation will help keep building temperatures down.\n\nBuildings that exceed their Overheat Temperature will begin to take damage and if left untended, will meltdown and stop functioning until repaired."
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME"
+msgid "TIP: Building Temperature"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP"
+msgid "Learn how to prevent meltdowns"
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME
@@ -11013,7 +11028,7 @@ msgstr ""
 
 #. STRINGS.RESEARCH.TYPES.BETA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.DESC"
-msgid "<style=\"research\">Intermediate Research</style> is required to unlock improved technologies.\nIt can be conducted at an <style=\"research\">Super Computer</style>."
+msgid "<style=\"research\">Intermediate Research</style> is required to unlock improved technologies.\nIt can be conducted at a <style=\"research\">Super Computer</style>."
 msgstr ""
 
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
@@ -12623,7 +12638,7 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION"
-msgid "Unspported Save File:\n{0}\n\nSave file version is v{1}.{2} but this build requires at least v{3}.{4}"
+msgid "Unsupported Save File:\n{0}\n\nSave file version is v{1}.{2} but this build requires v{3}.{4} or higher"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
@@ -12973,7 +12988,7 @@ msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION"
-msgid "Submersed in liquid"
+msgid "Submerged in liquid"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE
@@ -12989,6 +13004,21 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.ROTTEN
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.ROTTEN"
 msgid "Rotten"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY"
+msgid "Produces no seeds on harvest"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT"
+msgid "Seeds contained in fruit"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST"
+msgid "Produces seeds on harvest"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES
@@ -13033,7 +13063,7 @@ msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION"
-msgid "This plant must be fully submersed to grow"
+msgid "This plant must be fully submerged to grow"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE
@@ -13044,6 +13074,21 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
 msgid "This plant requires {1} <style=\"solid\">{0}</style> in order to grow"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
+msgid "This plant may be transplanted, but has no further reproductive features"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT"
+msgid "This plant stores its seeds in its fruit. The fruit must be consumed to release the seeds"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
+msgid "This plant produces seeds as part of the harvesting process"
 msgstr ""
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
