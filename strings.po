@@ -2816,6 +2816,21 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME"
 msgid "Wire Bridge"
 msgstr "Перемычка для проводов"
 
+#. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC"
+msgid "An aquatic <style=\"plant\">Plant</style>, well-suited for domestication in Aquatic Farm Tiles.\n\nThimble Reeds produce raw cellulose fiber that can be used in the production of <style=\"equipment\">Clothing</style> and textiles."
+msgstr "Водное <style=\"plant\">Растение</style>, хорошо прижимается при посадке в блоках подводной фермы.\n\nПрядун производит целлюлозное волокно, которое может быть использовано для производства <style=\"equipment\">Одежды</style> и текстиля."
+
+#. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC
+msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC"
+msgid "An aquatic <style=\"plant\">Plant</style> that produces raw fiber for clothing and textiles."
+msgstr "Водное <style=\"plant\">Растение</style>, которое производит волокно для одежды и текстиля."
+
+#. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.NAME"
+msgid "Thimble Reed"
+msgstr "Прядун"
+
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC"
 msgid "An edible parthenocarpic fruit that cannot reproduce in the wild.\n\nIt can be harvested for a single, nonrenewable serving of <style=\"food\">Food</style>."
@@ -9971,8 +9986,8 @@ msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME"
 msgid "Liceloaf"
 msgstr "Батончик из мукоедов"
 
-#. STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPE_DESC
-msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPE_DESC"
+#. STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC"
 msgid "<style=\"food\">Meal Lice</style> compacted into a dense, immobile loaf."
 msgstr "<style=\"food\">Мукоеды</style> сжатые в плотный, неподвижный батон."
 
@@ -10006,8 +10021,8 @@ msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME"
 msgid "Fried Mush Bar"
 msgstr "Жареный мшистый батончик"
 
-#. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPE_DESC
-msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPE_DESC"
+#. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC"
 msgid "A deep fried, solidified mudslop."
 msgstr "Сильно зажаренные, сжатые помои."
 
