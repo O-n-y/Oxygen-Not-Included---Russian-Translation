@@ -1304,7 +1304,7 @@ msgstr "• {0}: {1}"
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_UNITS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_UNITS"
 msgid "• {0}"
-msgstr "• {0}: {1}"
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME"
@@ -1329,7 +1329,7 @@ msgstr "Ожидает доставки материалов для ремонт
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.TOOLTIP"
 msgid "Waiting for a Duplicant to deliver:\n{ItemsRemaining}"
-msgstr "Ожидает доставки Дупликантом следующих материалов:\<n>ItemsRemaining</n>"
+msgstr "Ожидает доставки Дупликантом следующих материалов:\n{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME"
@@ -15665,13 +15665,13 @@ mmsgstr "Прохождение влево через эту дверь разр
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED"
+msgid "Passing Right through this door is not permitted\n\nClick to grant permission"
 msgstr "Прохождение вправо через эту дверь не разрешено\n\nНажмите для разрешения"
-msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED"
+msgid "Passing Right through this door is permitted\n\nClick to revoke permission"
 mmsgstr "Прохождение вправо через эту дверь разрешено\n\nНажмите для запрета"
-msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.MINION_ACCESS
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.MINION_ACCESS"
@@ -15815,8 +15815,8 @@ msgstr "Назначить Дупликанта"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.ASSIGNEDTO"
-msgid "Назначен к: {0}"
-msgstr ""
+msgid "Assigned to: {0}"
+msgstr "Назначен к: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.GENERAL_CURRENTASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.GENERAL_CURRENTASSIGNED"
@@ -15850,8 +15850,8 @@ msgstr "<style=\"equipment\">Охлаждаемый жилет</style> (<style=\
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST"
-msgid "<style=\"equipment\">Стильный костюм</style> (<style=\"produced\">{0}</style>)"
-msgstr ""
+msgid "<style=\"equipment\">Snazzy Suit</style> (<style=\"produced\">{0}</style>)"
+msgstr "<style=\"equipment\">Стильный костюм</style> (<style=\"produced\">{0}</style>)"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGEN_TANK
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGEN_TANK"
