@@ -18,7 +18,7 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP"
-msgid "This door has gone into Emergency Unlock Mode\n----------\nAll Duplicants are permitted to pass through it until power is restored"
+msgid "This door has granted Emergency Access Permissions\n----------\nAll Duplicants are permitted to pass through it until power is restored"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
@@ -3303,7 +3303,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP"
-msgid "This creature cannot retain enough heat in this environment to regulate its internal temperature.\n\nIt will survive best in an environment between {0} and {1}."
+msgid "This creature cannot retain enough heat in this environment to regulate its internal temperature.\n\nIt prefers environments between {0} and {1}."
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME
@@ -3493,7 +3493,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP"
-msgid "This creature cannot let off enough heat in this environment to regulate its internal temperature.\n\nIt will survive best in an environment between {0} and {1}."
+msgid "This creature cannot let off enough heat in this environment to regulate its internal temperature.\n\nIt prefers environments between {0} and {1}."
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME
@@ -8888,7 +8888,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.WOLFRAMITE.DESC
 msgctxt "STRINGS.ELEMENTS.WOLFRAMITE.DESC"
-msgid "(H20) Clean <style=\"liquid\">Water</style>, suitable for consumption."
+msgid "((Fe,Mn)WO4) A dense <style=\"RawMetal\">Metallic</style> element in a <style=\"solid\">Solid</style> state.\n\nWolframite is a source of <style=\"metal\">Tungsten</style> and is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
 
 #. STRINGS.ELEMENTS.WOLFRAMITE.NAME
@@ -12976,6 +12976,11 @@ msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME"
 msgid "Initial Growth: {0}"
 msgstr ""
 
+#. STRINGS.UI.GAMEOBJECTEFFECTS.OVERHEATDAMAGE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.OVERHEATDAMAGE"
+msgid "Taking overheat damage"
+msgstr ""
+
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME"
 msgid "Regrowth: {0}"
@@ -12983,12 +12988,12 @@ msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE"
-msgid "Pressure: {0} of any gas"
+msgid "Gas Pressure: {0}"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION"
-msgid "Submerged in liquid"
+msgid "Liquid Submersion"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE
@@ -13008,17 +13013,17 @@ msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY"
-msgid "Produces no seeds on harvest"
+msgid "Consumes <style=\"seed\">Seed</style>"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT"
-msgid "Seeds contained in fruit"
+msgid "Fruit produces <style=\"seed\">Seeds</style>"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST"
-msgid "Produces seeds on harvest"
+msgid "Harvest produces <style=\"seed\">Seeds</style>"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES
@@ -13058,12 +13063,12 @@ msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE"
-msgid "This plant must be in an atmosphere of at least {0} of any gas"
+msgid "Atmospheric gas pressure must be at least {0} to grow"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION"
-msgid "This plant must be fully submerged to grow"
+msgid "This plant must be fully submerged in liquid to grow"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE
@@ -13078,17 +13083,17 @@ msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
-msgid "This plant may be transplanted, but has no further reproductive features"
+msgid "This plant can be transplanted but will produce no further <style=\"seed\">Seeds<style>"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT"
-msgid "This plant stores its seeds in its fruit. The fruit must be consumed to release the seeds"
+msgid "Consuming this <style=\"plant\">Plant</style>'s fruit will yield additional <style=\"seed\">Seeds</style>"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
-msgid "This plant produces seeds as part of the harvesting process"
+msgid "Harvesting this <style=\"plant\">Plant</style> will yield additional <style=\"seed\">Seeds</style>"
 msgstr ""
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
@@ -14853,17 +14858,17 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_OFFLINE
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_OFFLINE"
-msgid "No power: Access control is offline and anyone may pass through the door."
+msgid "Emergency Access Permissions:\nAll Duplicants are permitted to use this door until <style=\"power\">Power</style> is restored."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO"
-msgid "Door will open automatically."
+msgid "Door is automated."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING"
-msgid "Waiting for a duplicant to switch the door to auto."
+msgid "Awaiting Duplicant to automate door."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE
@@ -14873,17 +14878,17 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE_PENDING"
-msgid "Waiting for a duplicant to lock the door."
+msgid "Awaiting Duplicant to lock door."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN"
-msgid "Door is Open."
+msgid "Door is open."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN_PENDING"
-msgid "Waiting for a duplicant to open the door."
+msgid "Awaiting Duplicant to open door."
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.PENDING_FORMAT
