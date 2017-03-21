@@ -11837,7 +11837,7 @@ msgstr "Обретите больший контроль над электроп
 #. STRINGS.RESEARCH.POWERREGULATION.NAME
 msgctxt "STRINGS.RESEARCH.POWERREGULATION.NAME"
 msgid "Power Regulation"
-msgstr "Регуляция электричества"
+msgstr "Управление электричеством"
 
 #. STRINGS.RESEARCH.PRESSUREMANAGEMENT.DESC
 msgctxt "STRINGS.RESEARCH.PRESSUREMANAGEMENT.DESC"
