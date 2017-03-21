@@ -1,5 +1,6 @@
 "Application: Oxygen Not Included"
 "POT Version: 2.0"
+"Language: ru"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME"
@@ -11495,7 +11496,7 @@ msgstr "Хлорная известь"
 #. STRINGS.MISC.TAGS.BREATHABLE
 msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
 msgid "Breathable Gas"
-msgstr "Газ пригоден для дыхания"
+msgstr "Газ пригодный для дыхания"
 
 #. STRINGS.MISC.TAGS.BUILDABLEPROCESSED
 msgctxt "STRINGS.MISC.TAGS.BUILDABLEPROCESSED"
@@ -11671,7 +11672,7 @@ msgstr "Токсичный"
 #. STRINGS.MISC.TAGS.UNBREATHABLE
 msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
 msgid "Unbreathable"
-msgstr "Непригоден для дыхания"
+msgstr "Непригоный для дыхания газ"
 
 #. STRINGS.MISC.TAGS.UNSTABLE
 msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
@@ -13857,6 +13858,11 @@ msgstr "Рост: {0}"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME"
 msgid "Initial Growth: {0}"
 msgstr "Начальный рост: {0}"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.OVERHEATDAMAGE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.OVERHEATDAMAGE"
+msgid "Taking overheat damage"
+msgstr "Получает урон от перегрева"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME"
