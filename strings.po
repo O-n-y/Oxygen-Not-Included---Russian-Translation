@@ -1805,7 +1805,7 @@ msgstr "слева"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.NAME"
 msgid "Pneumatic Door"
-msgstr "Пневматическая дверь"
+msgstr "Пневмо дверь"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED"
@@ -2120,7 +2120,7 @@ msgstr "Пропускает больше <style=\"power\">Электричес�
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME"
 msgid "Heavi-Watt Wire"
-msgstr "Плотный провод"
+msgstr "Плотный электропровод"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC"
