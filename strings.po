@@ -1560,7 +1560,7 @@ msgstr "Переполив этих растений был бы открове�
 #. STRINGS.BUILDINGS.PREFABS.AQUAFARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AQUAFARM.EFFECT"
 msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nMust be submerged in <style=\"liquid\">Liquid</style>.\n\nCan be used as floor tile."
-msgstr "Выращиает одно <style=\"plant\">Растение</style>, когда посажено <style=\"seed\">Семя</style>.\n\nДолжен быть погружен в <style=\"liquid\">Жидкость</style>.\n\nМожет быть использован как блок пола."
+msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда посажено <style=\"seed\">Семя</style>.\n\nДолжен быть погружен в <style=\"liquid\">Жидкость</style>.\n\nМожет быть использован как блок пола."
 
 #. STRINGS.BUILDINGS.PREFABS.AQUAFARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AQUAFARM.NAME"
