@@ -2775,7 +2775,7 @@ msgstr "Лампа"
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC"
 msgid "You know it's just going to get dirty again."
-msgstr "Вы же знаете, она испачкается сново."
+msgstr "Вы же знаете, что она испачкается снова."
 
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.EFFECT"
@@ -10661,7 +10661,7 @@ msgstr "Навык увеличен"
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX"
 msgid " - {0} is now at {1}"
-msgstr "- {0} теперь {1}"
+msgstr " - {0} теперь +{1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP"
