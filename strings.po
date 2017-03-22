@@ -4600,12 +4600,12 @@ msgstr "Лечит"
 #. STRINGS.DUPLICANTS.CHORES.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.NAME"
 msgid "Idle"
-msgstr "Бездейсвует"
+msgstr "Бездействует"
 
 #. STRINGS.DUPLICANTS.CHORES.IDLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.STATUS"
 msgid "Idle"
-msgstr "Бездейсвует"
+msgstr "Бездействует"
 
 #. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME"
@@ -4635,7 +4635,7 @@ msgstr "Ручное управление, бездействует"
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLIDLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLIDLE.STATUS"
 msgid "Idle"
-msgstr "Бездейсвует"
+msgstr "Бездействует"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.NAME"
@@ -7530,12 +7530,12 @@ msgstr "Этот Дупликант не прочь перекусить"
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME"
 msgid "Idle"
-msgstr "Бездейсвует"
+msgstr "Бездействует"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_NAME"
 msgid "Idle"
-msgstr "Бездейсвует"
+msgstr "Бездействует"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP"
@@ -7545,7 +7545,7 @@ msgstr "Эти Дупликанты Бездействуют, так как не
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP"
 msgid "This Duplicant cannot reach any pending job tasks"
-msgstr "Этот Дупликант Бездейсвует, так как не может достичь места проведения работ"
+msgstr "Этот Дупликант Бездействует, так как не может достичь места проведения работ"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME"
@@ -7630,7 +7630,7 @@ msgstr "Этот Дупликант под ручным контролем и м
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.NAME"
 msgid "Manual idle"
-msgstr "Ручное управление, Бездейсвует"
+msgstr "Ручное управление, Бездействует"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MANUALCONTROLIDLE.TOOLTIP"
@@ -10496,7 +10496,7 @@ msgstr "Следующие Дупликанты умерли:"
 #. STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME"
 msgid "A fabricator is idle"
-msgstr "Фабрикатор стоит бездейсвует"
+msgstr "Фабрикатор стоит бездействует"
 
 #. STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.TOOLTIP"
