@@ -1560,7 +1560,7 @@ msgstr "Переполив этих растений был бы открове�
 #. STRINGS.BUILDINGS.PREFABS.AQUAFARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AQUAFARM.EFFECT"
 msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nMust be submerged in <style=\"liquid\">Liquid</style>.\n\nCan be used as floor tile."
-msgstr "Выращиает одно <style=\"plant\">Растение</style>, когда посажено <style=\"seed\">Семя</style>.\n\nДолжен быть погружен в <style=\"liquid\">Жидкость</style>.\n\nМожет быть использован как блок пола."
+msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда посажено <style=\"seed\">Семя</style>.\n\nДолжен быть погружен в <style=\"liquid\">Жидкость</style>.\n\nМожет быть использован как блок пола."
 
 #. STRINGS.BUILDINGS.PREFABS.AQUAFARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AQUAFARM.NAME"
@@ -1805,7 +1805,7 @@ msgstr "слева"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.NAME"
 msgid "Pneumatic Door"
-msgstr "Пневматическая дверь"
+msgstr "Пневмо дверь"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED"
@@ -2120,7 +2120,7 @@ msgstr "Пропускает больше <style=\"power\">Электричес�
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME"
 msgid "Heavi-Watt Wire"
-msgstr "Плотный провод"
+msgstr "Плотный электропровод"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC"
@@ -2800,7 +2800,7 @@ msgstr "Соединяет постройки с источниками <style=\
 #. STRINGS.BUILDINGS.PREFABS.WIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.NAME"
 msgid "Electrical Wire"
-msgstr "Электрический провод"
+msgstr "Электропровод"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.DESC"
@@ -11837,7 +11837,7 @@ msgstr "Обретите больший контроль над электроп
 #. STRINGS.RESEARCH.POWERREGULATION.NAME
 msgctxt "STRINGS.RESEARCH.POWERREGULATION.NAME"
 msgid "Power Regulation"
-msgstr "Регуляция электричества"
+msgstr "Управление электричеством"
 
 #. STRINGS.RESEARCH.PRESSUREMANAGEMENT.DESC
 msgctxt "STRINGS.RESEARCH.PRESSUREMANAGEMENT.DESC"
@@ -12032,7 +12032,7 @@ msgstr "Службы для легкой транспортировки газо
 #. STRINGS.UI.BUILDCATEGORIES.POWER.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.NAME"
 msgid "Power"
-msgstr "Электро"
+msgstr "Энергия"
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP"
@@ -16452,7 +16452,7 @@ msgstr "Отменить приказ копания"
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME"
 msgid "Show Navigation"
-msgstr "Показать пути"
+msgstr "Показать навигацию"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME_OFF"
