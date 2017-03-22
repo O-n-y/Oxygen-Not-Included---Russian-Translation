@@ -15667,7 +15667,7 @@ msgstr "Прохождение влево через эту дверь не ра
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_ENABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_ENABLED"
 msgid "Passing Left through this door is permitted\n\nClick to revoke permission"
-mmsgstr "Прохождение влево через эту дверь разрешено\n\nНажмите для запрета"
+msgstr "Прохождение влево через эту дверь разрешено\n\nНажмите для запрета"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED"
@@ -15677,7 +15677,7 @@ msgstr "Прохождение вправо через эту дверь не р
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED"
 msgid "Passing Right through this door is permitted\n\nClick to revoke permission"
-mmsgstr "Прохождение вправо через эту дверь разрешено\n\nНажмите для запрета"
+msgstr "Прохождение вправо через эту дверь разрешено\n\nНажмите для запрета"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.MINION_ACCESS
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.MINION_ACCESS"
