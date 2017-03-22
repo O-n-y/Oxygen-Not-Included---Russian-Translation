@@ -880,7 +880,7 @@ msgstr "Доступны новые Дупликанты"
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME"
 msgid "New Duplicants are available"
-msgstr "Новые Дупликанты доступны"
+msgstr "Доступны новые Дупликанты"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
@@ -985,22 +985,22 @@ msgstr "Эта постройка должна быть подсоединена
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME"
 msgid "No Research Task Selected"
-msgstr "Не выбрана исследовательская задача"
+msgstr "Научный проект не выбран"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_NAME"
 msgid "No <style=\"research\">Research Task</style> selected"
-msgstr "Нет выбранной <style=\"research\">Исследовательской задачи</style>"
+msgstr "Не выбран <style=\"research\">Научный проект</style> для исследования"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP"
 msgid "Open the <color=#833A5FFF>Research Tree</color> [R] to select a new <style=\"research\">Research</style> project"
-msgstr "Открыть панель <color=#833A5FFF>Науки</color> [R] для выбора нового <style=\"research\">Исследовательского</style> проекта"
+msgstr "Открыть панель <color=#833A5FFF>Науки</color> [R] для выбора нового <style=\"research\">Научного</style> проекта"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP"
 msgid "Open the <color=#833A5FFF>Research Tree</color> [R] to select a new <style=\"research\">Research</style> project"
-msgstr "Открыть панель <color=#833A5FFF>Науки</color> [R]для выбора нового <style=\"research\">Исследовательского</style> проекта"
+msgstr "Открыть панель <color=#833A5FFF>Науки</color> [R]для выбора нового <style=\"research\">Научного</style> проекта"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME"
@@ -7905,7 +7905,7 @@ msgstr "Не способен добраться до еды"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_NAME"
 msgid "Food beyond reach"
-msgstr "Еда не в зоне досягаемости"
+msgstr "Еда вне зоны досягаемости"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_TOOLTIP"
@@ -10661,7 +10661,7 @@ msgstr "Навык увеличен"
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX"
 msgid " - {0} is now at {1}"
-msgstr "- {0} теперь {1}"
+msgstr " - {0} теперь {1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP"
