@@ -2270,7 +2270,7 @@ msgstr "Рассеивает небольшой объем <style=\"heat\">Те�
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME"
 msgid "Hydrofan"
-msgstr "Гидровентилятор"
+msgstr "Вентилятор"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.DESC"
