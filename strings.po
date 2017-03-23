@@ -10110,7 +10110,7 @@ msgstr "Шар из необработанной целлюлозы, испол�
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.NAME"
 msgid "Thimble Fiber"
-msgstr "Тростниковое волокно"
+msgstr "Целлюлозное волокно"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FUEL_BRICK.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FUEL_BRICK.DESC"
