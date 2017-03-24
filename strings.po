@@ -1155,7 +1155,6 @@ msgstr "Эта труба доставляет {Contents}"
 #. STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.NAME"
 msgid "{0} of {1} at {2}"
-msgstr "{0} из {1} на скорости {2}"
 
 #. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME"
@@ -2860,7 +2859,7 @@ msgstr "Мучное дерево"
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC"
 msgid "A fleshy, <style=\"heat\">Cold</style>-dwelling plant.\n\nIt removes ambient <style=\"heat\">Heat</style> from the air by respiring through its porous skin."
-msgstr "Мясистый, обидает в <style=\"heat\">Холодной</style> среде.\n\nОн поглошает <style=\"heat\">Тепло</style> из воздуха, благодаря дыханию через свою пористую кожу."
+msgstr "Мясистый, обитает в <style=\"heat\">Холодной</style> среде.\n\nОн поглошает <style=\"heat\">Тепло</style> из воздуха, благодаря дыханию через свою пористую кожу."
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC"
