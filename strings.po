@@ -2190,12 +2190,12 @@ msgstr "Дает Вашим Дупликантам хороший, теплои�
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT"
 msgid "Used as wall and floor tile to build rooms.\n\nReduces <style=\"heat\">Heat</style> transfer between walls."
-msgstr "Используется как блок пола и стен при строительстве помещений.\n\nНеобходим для теплоизоляции - уменьшает передачу <style="heat">Тепла</style> между стенами."
+msgstr "Используется как блок пола и стен при строительстве помещений.\n\nНеобходим для теплоизоляции - уменьшает передачу <style="heat">Тепла</style> между блоками."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME"
 msgid "Insulated Tile"
-msgstr "Телоизоляционный блок"
+msgstr "Теплоизоляционный блок"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.DESC"
