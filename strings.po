@@ -11125,13 +11125,13 @@ msgstr "В данный момент эту постройку убирают"
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.NAME"
-msgid "{EdibleName} count: {EdibleCount} ({RationCount})"
-msgstr "\"{EdibleName}\" количество: {EdibleCount} ({RationCount})"
+msgid "Rations: {0}"
+msgstr "Рацион: {0}"
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP"
-msgid "Can provide <style=\"food\">{RationCount}</style> of energy to Duplicants"
-msgstr "Может обеспечить <style=\"food\">{RationCount}</style> энергии Дупликантам"
+msgid "Can provide <style=\"food\">{0}</style> of energy to Duplicants"
+msgstr "Может обеспечить <style=\"food\">{0}</style> энергии Дупликантам"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.NAME"
@@ -13101,8 +13101,8 @@ msgstr "Точка замерзания характеризует темпер�
 
 #. STRINGS.UI.ELEMENTAL.MASS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.NAME"
-msgid "Mass"
-msgstr "Масса"
+msgid "Mass: {0}"
+msgstr "Масса: {0}"
 
 #. STRINGS.UI.ELEMENTAL.MASS.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.TOOLTIP"
@@ -13117,7 +13117,7 @@ msgstr "Температура плавления: {0}"
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP"
 msgid "Melting point describes the temperature at which this substance will melt into a liquid"
-msgstr "Температура плавления показывает ту температуру, что нужна для из твердого состояния в жидкость"
+msgstr "Температура плавления показывает ту температуру, что нужна для перехода из твердого состояния в жидкость"
 
 #. STRINGS.UI.ELEMENTAL.OVERHEATPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.OVERHEATPOINT.NAME"
@@ -13141,8 +13141,8 @@ msgstr "Это вещество главным образом сделано и�
 
 #. STRINGS.UI.ELEMENTAL.SHC.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.NAME"
-msgid "Specific Heat Capacity"
-msgstr "Удельная теплоемкость"
+msgid "Specific Heat Capacity: {0}"
+msgstr "Удельная теплоемкость: {0}"
 
 #. STRINGS.UI.ELEMENTAL.SHC.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.TOOLTIP"
@@ -13161,8 +13161,8 @@ msgstr "Это вещество имеет температуру {0}"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME"
-msgid "Thermal Conductivity"
-msgstr "Теплопроводность"
+msgid "Thermal Conductivity: {0}"
+msgstr "Теплопроводность: {0}"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP"
