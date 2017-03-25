@@ -11130,8 +11130,8 @@ msgstr "\"{EdibleName}\" количество: {EdibleCount} ({RationCount})"
 
 #. STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP"
-msgid "Can provide <style=\"food\">{RationCount}</style> of energy to Duplicants"
-msgstr "Может обеспечить <style=\"food\">{RationCount}</style> энергии Дупликантам"
+msgid "Can provide <style=\"food\">{0}</style> of energy to Duplicants"
+msgstr "Может обеспечить <style=\"food\">{0}</style> энергии Дупликантам"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.NAME"
