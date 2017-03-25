@@ -6930,7 +6930,7 @@ msgstr "Дыхание\n----------\nДупликант станет задыха
 #. STRINGS.DUPLICANTS.STATS.CALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.NAME"
 msgid "Calories"
-msgstr "Калории"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP"
@@ -6990,7 +6990,7 @@ msgstr "Выносливость\n----------\nДупликанты потеря�
 #. STRINGS.DUPLICANTS.STATS.STRESS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.NAME"
 msgid "Stress"
-msgstr "Стресс"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.STATS.STRESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.TOOLTIP"
