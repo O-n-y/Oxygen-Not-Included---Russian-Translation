@@ -12762,7 +12762,7 @@ msgstr "Посмотреть, сколько <style=\"power\">Электриче
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES"
 msgid "<style=\"power\">Power</style> stored: {0}"
-msgstr "<style=\"power\">Электричества</style> запосено: {0}"
+msgstr "<style=\"power\">Электричества</style> запасено: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP"
@@ -12852,7 +12852,7 @@ msgstr "Общая сумма <style=\"power\">Электричества</style
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED"
 msgid "<style=\"power\">Power</style> produced: {0}"
-msgstr "<style=\"power\">Электричества</style> сгенерированно: {0}"
+msgstr "<style=\"power\">Электричества</style> сгенерировано: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP"
@@ -13111,8 +13111,8 @@ msgstr "Масса объекта {0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME"
-msgid "Melting Point"
-msgstr "Температура плавления"
+msgid "Melting Point: {0}"
+msgstr "Температура плавления: {0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP"
