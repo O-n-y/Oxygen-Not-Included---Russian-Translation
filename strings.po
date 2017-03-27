@@ -1,4 +1,4 @@
-"Application: Oxygen Not Included Build 211417"
+"Application: Oxygen Not Included Build 211579"
 "POT Version: 2.0"
 "Language: ru"
 
@@ -1069,8 +1069,8 @@ msgstr "Перегрев"
 
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP"
-msgid "This building is taking damage\nIt will break if it is not cooled down"
-msgstr "Эта постройка получает урон\nОна сломается, если не будет остужена"
+msgid "This building is taking damage and will meltdown if not cooled
+msgstr "Эта постройка получает урон и расплавится, если не будет остужена"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
@@ -1266,6 +1266,16 @@ msgstr "Ожидает строительства"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP"
 msgid "Waiting for a Duplicant to build"
 msgstr "Ожидает Дупликанта для постройки"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.NAME"
+msgid "Under Pressure"
+msgstr "Низкое давление"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP"
+msgid "Too little air pressure to operate"
+msgstr "Недостаточное атмосферное давление, чтобы работать"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME"
@@ -5309,7 +5319,7 @@ msgstr "Право"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP"
-msgid "Duplicants will demand better decor and accommodations with each skill level they gain"
+msgid "Duplicants will demand better decor and accommodations with each Profession level they gain"
 msgstr "Дупликанты будут нуждаться в лучшем декорировании и жилье с каждым полученным уровнем навыка"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.CAUSE
@@ -7579,8 +7589,8 @@ msgstr "Выведен из строя"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_TOOLTIP"
-msgid "These Duplicants need to be rescued before they kick the bucket"
-msgstr "Этих Дупликантов нужно спасать прежде, чем они сдохнут"
+msgid "These Duplicants need to be rescued before they kick the bucket\n----------\nDuplicants must have an assigned Medical Cot or Rejuvenator to be rescued"
+msgstr "Этих Дупликантов нужно вылечить, иначе они могут умереть\n----------\nДупликанты должны быть назначены на медкровать или омолаживатель, чтобы вылечиться"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP"
@@ -9474,8 +9484,8 @@ msgstr "Каменный газ"
 
 #. STRINGS.ELEMENTS.SAND.DESC
 msgctxt "STRINGS.ELEMENTS.SAND.DESC"
-msgid "A composite of granular rock.\n\nSand is useful as a <style=\"misc\">filtration medium</style>."
-msgstr "Смесь мелкого камня.\n\nПесок полезен в качестве <style=\"misc\">фильтрующей среды</style>."
+msgid "A composite of granular rock.\n\nSand is useful as a <style=\"misc\">Filtration medium</style>."
+msgstr "Смесь мелкого камня.\n\nПесок полезен в качестве <style=\"misc\">Фильтрующей среды</style>."
 
 #. STRINGS.ELEMENTS.SAND.NAME
 msgctxt "STRINGS.ELEMENTS.SAND.NAME"
@@ -13853,6 +13863,41 @@ msgstr "<style=\"produced\">+{0}</style>"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.COLDBREATHER"
 msgid "<style=\"heat\">Cooling Effect</style>"
 msgstr "<style=\"heat\">Эффект охлаждения</style>"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED"
+msgid "Circuit Overload Damage"
+msgstr "Повреждение от перегрузки цепи"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_BOILED
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_BOILED"
+msgid "Boiling Damage"
+msgstr "Повреждение от кипения"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_FROZE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_FROZE"
+msgid "Freezing Damage"
+msgstr "Повреждение от переохлаждения"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE"
+msgid "Liquid Pressure Damage"
+msgstr "Повреждение от избыточного давления жидкости"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION"
+msgid "Anger Damage"
+msgstr "Повреждение в следствии гнева"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.OVERHEAT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.OVERHEAT"
+msgid "Overheat Damage"
+msgstr "Повреждение от перегрева"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.WRONG_ELEMENT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.WRONG_ELEMENT"
+msgid "Wrong Element Damage"
+msgstr "Повреждение из-за неподходящего элемента"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS"

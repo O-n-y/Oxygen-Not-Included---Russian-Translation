@@ -1068,7 +1068,7 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP"
-msgid "This building is taking damage\nIt will break if it is not cooled down"
+msgid "This building is taking damage and will meltdown if not cooled"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
@@ -1264,6 +1264,16 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP"
 msgid "Waiting for a Duplicant to build"
+msgstr ""
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.NAME"
+msgid "Under Pressure"
+msgstr ""
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP"
+msgid "Too little air pressure to operate"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
@@ -5263,7 +5273,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP"
-msgid "Duplicants will demand better d ecor and accommodations with each skill level they gain"
+msgid "Duplicants will demand better decor and accommodations with each Profession level they gain"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.CAUSE
@@ -6753,12 +6763,12 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NOTIFICATION_TOOLTIP"
-msgid "These Duplicants need to be rescued before they kick the bucket\n----------\nDuplicants must have an assigned Cot to be rescued"
+msgid "These Duplicants need to be rescued before they kick the bucket\n----------\nDuplicants must have an assigned Medical Cot or Rejuvenator to be rescued"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.TOOLTIP"
-msgid "This Duplicant is near death! They need to be rescued quickly\n----------\nDuplicants must have an assigned Cot to be rescued"
+msgid "This Duplicant is near death! They need to be rescued quickly\n----------\nDuplicants must have an assigned Medical Cot or Rejuvenator to be rescued"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME
@@ -8648,7 +8658,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SAND.DESC
 msgctxt "STRINGS.ELEMENTS.SAND.DESC"
-msgid "A composite of granular rock.\n\nSand is useful as a <style=\"misc\">filtration medium</style>."
+msgid "A composite of granular rock.\n\nSand is useful as a <style=\"misc\">Filtration Medium</style>."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SAND.NAME
@@ -12971,6 +12981,41 @@ msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.COLDBREATHER"
 msgid "<style=\"heat\">Cooling Effect</style>"
 msgstr ""
 
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED"
+msgid "Circuit Overload Damage"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_BOILED
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_BOILED"
+msgid "Boiling Damage"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_FROZE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_FROZE"
+msgid "Freezing Damage"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE"
+msgid "Liquid Pressure Damage"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION"
+msgid "Anger Damage"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.OVERHEAT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.OVERHEAT"
+msgid "Overheat Damage"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.WRONG_ELEMENT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.WRONG_ELEMENT"
+msgid "Wrong Element Damage"
+msgstr ""
+
 #. STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS"
 msgid "{Attribute} <style=\"{Style}\">{Value}</style>"
@@ -12994,11 +13039,6 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME"
 msgid "Initial Growth: {0}"
-msgstr ""
-
-#. STRINGS.UI.GAMEOBJECTEFFECTS.OVERHEATDAMAGE
-msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.OVERHEATDAMAGE"
-msgid "Overheat Damage"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME
