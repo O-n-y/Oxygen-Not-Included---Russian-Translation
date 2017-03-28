@@ -1,4 +1,4 @@
-"Application: Oxygen Not Included Build 211579"
+"Application: Oxygen Not Included Build 211704"
 "POT Version: 2.0"
 "Language: ru"
 
@@ -1524,8 +1524,8 @@ msgstr "Произведенные водоросли, честно говоря
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
-msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>."
-msgstr "Перерабатывает <style=\"misc\">Слизь</style> в <style=\"misc\">Водоросли</style>."
+msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>.\nDrops algae every 10kg."
+msgstr "Перерабатывает <style=\"misc\">Слизь</style> в <style=\"misc\">Водоросли</style>.\nПроизводит комок водорослей каждые 10кг."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
@@ -1884,8 +1884,8 @@ msgstr "Не вдыхайте слишком глубоко."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT"
-msgid "Uses <style=\"liquid\">Contaminated Water</style> to produce <style=\"solid\">Fertilizer</style>."
-msgstr "Использует <style=\"liquid\">Загрязненную воду</style> для производства <style=\"solid\">Удобрений</style>."
+msgid "Uses <style=\"liquid\">Polluted Water</style> to produce <style=\"solid\">Fertilizer</style>.\nDrops fertilizer every 10kg."
+msgstr "Использует <style=\"liquid\">Загрязненную воду</style> для производства <style=\"solid\">Удобрений</style>.\nПроизводит комок удобрений каждые 10кг."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME"
