@@ -12191,6 +12191,11 @@ msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.FULL_PATCH_NOTES"
 msgid "Full Patch Notes"
 msgstr ""
 
+#. STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION
+msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION"
+msgid "Previous Version"
+msgstr ""
+
 #. STRINGS.UI.DUPLICANTPRINTING
 msgctxt "STRINGS.UI.DUPLICANTPRINTING"
 msgid "Duplicant Printing"
@@ -12646,6 +12651,11 @@ msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON"
 msgid "Delete Slot"
 msgstr ""
 
+#. STRINGS.UI.FRONTEND.LOADSCREEN.MORE_INFO
+msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MORE_INFO"
+msgid "More Info"
+msgstr ""
+
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW"
 msgid "<b><color=#ff0000>Could not load file {0}. File is using build {1}. This build is {2}.</color></b>"
@@ -12668,7 +12678,7 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION"
-msgid "Unsupported Save File:\n{0}\n\nSave file version is v{1}.{2} but this build requires v{3}.{4} or higher"
+msgid "<b><color=#ff0000>This save file is from a previous version of the game and is no longer supported.</color></b>\n\nYou may revert to the previous build to play your old save. Please follow the link below for details."
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
@@ -12798,7 +12808,7 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
-msgid "<b>Welcome to the Thermal Upgrade Preview!</b>\n\n{0}"
+msgid "<b>Welcome to the Thermal Upgrade!</b>\n\n{0}"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
@@ -12808,7 +12818,7 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES"
-msgid "This update will focus on implementing systems to make managing temperature a more integral part of gameplay.\n\nUpdate Highlights:\n*New ice biome\n*New Space Heater, Liquid Tepidizer and Textile Factory buildings\n*New plants\n*New Duplicant temperature sensitivity and diseases\n*Buildings can now overheat\n*Pipes can burst and circuits can overload"
+msgid "This update will focus on implementing systems to make managing temperature a more integral part of gameplay. Due to the significant amount of changes to the temperature simulation, previous save files are not compatible with this version of the game. Click on the previous version button for details on how to get access to the previous version of the game.\n\nUpdate Highlights:\n*New ice biome\n*New Space Heater, Liquid Tepidizer and Textile Factory buildings\n*New plants\n*New Duplicant temperature sensitivity and diseases\n*Buildings can now overheat\n*Pipes can burst and circuits can overload"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE

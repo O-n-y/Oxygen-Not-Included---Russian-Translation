@@ -1,4 +1,4 @@
-"Application: Oxygen Not Included Build 211704"
+"Application: Oxygen Not Included Build 211867"
 "POT Version: 2.0"
 "Language: ru"
 
@@ -2310,7 +2310,7 @@ msgstr "Незначительно <style=\"heat\">Нагревает</style> б
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.NAME"
 msgid "Liquid Tepidizer"
-msgstr "Нагреватель жидкости"
+msgstr "Водонагреватель"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC"
@@ -13074,6 +13074,11 @@ msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.FULL_PATCH_NOTES"
 msgid "Full Patch Notes"
 msgstr "Подробнее"
 
+#. STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION
+msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION"
+msgid "Previous Version"
+msgstr "Прошлая версия"
+
 #. STRINGS.UI.DUPLICANTPRINTING
 msgctxt "STRINGS.UI.DUPLICANTPRINTING"
 msgid "Duplicant Printing"
@@ -13529,6 +13534,11 @@ msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON"
 msgid "Delete Slot"
 msgstr "Удалить слот"
 
+#. STRINGS.UI.FRONTEND.LOADSCREEN.MORE_INFO
+msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MORE_INFO"
+msgid "More Info"
+msgstr "Подробнее"
+
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW"
 msgid "<b><color=#ff0000>Could not load file {0}. File is using build {1}. This build is {2}.</color></b>"
@@ -13551,8 +13561,9 @@ msgstr "ЗАГРУЗИТЬ ИГРУ"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION"
-msgid "Unspported Save File:\n{0}\n\nSave file version is v{1}.{2} but this build requires at least v{3}.{4}"
-msgstr "Неподдерживаемый файл сохранения:\n{0}\n\nВерсия файла сохраненияv{1}.{2}, но текущий билд требует не ниже v{3}.{4}"
+msgid "<b><color=#ff0000>This save file is from a previous version of the game and is no longer supported.</color></b>\n\nYou may revert to the previous build to play your old save. Please follow the link below for details."
+msgstr "<b><color=#ff0000>Это сохранение из прошлой версии игры, которая более не поддерживается.</color></b>\n\Вы можете откатиться на прошлую версию и продолжить играть на этом сохранении. Более подробная информация доступная по ссылке, расположенной ниже."
+
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
@@ -13681,8 +13692,8 @@ msgstr "Отображение температуры"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
-msgid "<b>Changes you should know about: </b>\n\n{0}"
-msgstr "<b>Произошли следующие важные изменения: </b>\n\n{0}"
+msgid "<b>Welcome to the Thermal Upgrade!</b>\n\n{0}"
+msgstr "<b>Добро пожаловать в Термальный Апгрейд!</b>\n\n{0}"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
@@ -13691,8 +13702,8 @@ msgstr "ОК"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES"
-msgid "- Fixed crash when queuing research\n- Fixed crash when clicking on research center\n- Gas Pumps are not working properly\n- Farm Tiles have been removed from the game(if you had any existing farm tiles, they will turn into clay)"
-msgstr "= Исправлен краш во время выставления очереди исследований.\nИсправлен краш во время клика по центру исследований\n- Газовая помпа не работала как надо\n- Из игры были удалены тайлы Фермы (если у вас были эти тайлы, они превратятся в глину) "
+msgid "This update will focus on implementing systems to make managing temperature a more integral part of gameplay. Due to the significant amount of changes to the temperature simulation, previous save files are not compatible with this version of the game. Click on the previous version button for details on how to get access to the previous version of the game.\n\nUpdate Highlights:\n*New ice biome\n*New Space Heater, Liquid Tepidizer and Textile Factory buildings\n*New plants\n*New Duplicant temperature ...(line truncated)...
+msgstr "Этот апдейт сфокусирован на увеличении значимости влияния температуры на игровой процесс, а также и внедерии большего количества систем для управления температурой со стороны игрока. В связи с большим числом изменений, связанных с температурой, файлы сохранений из предыдущих версий не совместимы с данной версией игры. Нажмите на кнопку \"Предыдущая версия\" для более подробной информации о том, как вернуться на старую версию игры.\n\nОсновные аспекты обновления:\n*Новый биом: ледяной\n*Новые постройки: обогреватель, водонагреватель и фабрика текстиля\n*Новые растения\n*Новая температура Дупликанта ... и многое другое!"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
