@@ -11058,7 +11058,7 @@ msgstr ""
 
 #. STRINGS.RESEARCH.TYPES.BETA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.DESC"
-msgid "<style=\"research\">Intermediate Research</style> is required to unlock improved technologies.\nIt can be conducted at a <style=\"research\">Super Computer</style>."
+msgid "<style=\"research\">Intermediate Research</style> is required to unlock intermediate technologies.\nIt can be conducted at a <style=\"research\">Super Computer</style>."
 msgstr ""
 
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
