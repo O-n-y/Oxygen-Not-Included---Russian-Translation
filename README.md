@@ -1,8 +1,6 @@
-# Oxygen-Not-Included---Russian-Translation
+﻿# Oxygen-Not-Included---Russian-Translation
 
 Русская локализация для игры "Oxygen Not Included"
-
-Информация о переводе в Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=874932276
 
 # Участники перевода
 * Ony
@@ -11,13 +9,14 @@
 * SealOfTheTime
 * henko
 * Dr. RPgK
+* DrAlan
 
 # Скачать последнюю версию
 *Это упрощенный вариант, рекомендуется использовать github desctop или консоль гита для оперативного получения обновлений.*
-Скачать: https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/archive/master.zip
+Скачать: https://github.com/DrAlan/Oxygen-Not-Included---Russian-Translation/archive/master.zip
 
 # Как связаться (Steam):
-* Ony: http://steamcommunity.com/id/oniki/
+* Ony: http://steamcommunity.com/id/dralan3/
 
 # Стадия перевода
 
