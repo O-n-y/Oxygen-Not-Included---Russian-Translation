@@ -14188,7 +14188,67 @@ msgstr "Низкий"
 #. STRINGS.UI.JOBSCREEN_PRIORITY
 msgctxt "STRINGS.UI.JOBSCREEN_PRIORITY"
 msgid "Priority"
-msgstr "Приоритет"
+msgstr "Приоритеты"
+
+#. STRINGS.UI.JOBSSCREEN.COLUMN_SORT_BY_JOB_SKILL
+msgctxt "STRINGS.UI.JOBSSCREEN.COLUMN_SORT_BY_JOB_SKILL"
+msgid "Sort colony by {0} skill"
+msgstr "Сортировать колонию по уровню характеристики {0}"
+
+#. STRINGS.UI.JOBSSCREEN.JOB_CANT_CONSUME
+msgctxt "STRINGS.UI.JOBSSCREEN.JOB_CANT_CONSUME"
+msgid "<b>{0}</b> cannot perform \n<b>{1} Tasks</b>"
+msgstr "<b>{0}</b> не может выполнять работы \n типа <b>{1}</b>"
+
+#. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF
+msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF"
+msgid "<b>{0}</b> will not perform \n<b>{1} Tasks</b>"
+msgstr "<b>{0}</b> не будет выполнять работы \n типа <b>{1}</b>"
+
+#. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON
+msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON"
+msgid "<b>{0}</b> will perform \n<b>{1} Tasks</b>"
+msgstr "<b>{0}</b> будет выполнять работы \n типа <b>{1}</b>"
+
+#. STRINGS.UI.JOBSSCREEN.JOB_REFUSE
+msgctxt "STRINGS.UI.JOBSSCREEN.JOB_REFUSE"
+msgid "<b>{0}</b> refuses to perform \n<b>{1} Tasks</b>"
+msgstr "<b>{0}</b> отказывается выполнять работы\n типа <b>{1}/b>"
+
+#. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_OFF
+msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_OFF"
+msgid "<b>New Duplicants</b> will not perform \n<b>{0} Tasks</b> by default"
+msgstr "<b>Новые Дупликанты</b> не будут выполнять работы типа \n<b>{0}</b> по-умолчанию"
+
+#. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_ON
+msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_ON"
+msgid "<b>New Duplicants</b> will perform \n<b>{0} Tasks</b> by default"
+msgstr "<b>Новые Дупликанты</b> будут выполнять работы типа \n<b>{0}</b> по-умолчанию"
+
+#. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW
+msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW"
+msgid "Toggle all tasks for <b>new Duplicants</b>"
+msgstr "Переключить все работы для <b>новых Дупликантов</b>"
+
+#. STRINGS.UI.JOBSSCREEN.TITLE
+msgctxt "STRINGS.UI.JOBSSCREEN.TITLE"
+msgid "JOBS"
+msgstr "РАБОТЫ"
+
+#. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL
+msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL"
+msgid "Toggle all tasks colonywide"
+msgstr "Переключить все работы для всей колонии"
+
+#. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_COLUMN
+msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_COLUMN"
+msgid "Toggle <b>{0} Tasks</b> colonywide"
+msgstr "Переключить работы типа <b>{0}</b> для всей колонии"
+
+#. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ROW
+msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ROW"
+msgid "Toggle all tasks for <b>{0}</b>"
+msgstr "Переключить все работы для <b>{0}</b>"
 
 #. STRINGS.UI.LISTENTRYSTRING
 msgctxt "STRINGS.UI.LISTENTRYSTRING"
@@ -14290,6 +14350,16 @@ msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON"
 msgid "Power Grid Overlay"
 msgstr "Карта электрической сети"
 
+#. STRINGS.UI.OVERLAYS.ELECTRICAL.DIAGRAM_HEADER
+msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.DIAGRAM_HEADER"
+msgid "Energy from LEFT circuit is provided to RIGHT circuit"
+msgstr "Энергия из ЛЕВОГО провода (генератор электричества) используется ПРАВЫМ проводом (потребитель электричества)"
+
+#. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND_SWITCH
+msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND_SWITCH"
+msgid "Switch"
+msgstr "Переключатель"
+
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1"
 msgid "<b>BUILDING POWER</b>"
@@ -14325,10 +14395,20 @@ msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
 msgid "Broken"
 msgstr "Сломана"
 
+#. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8
+msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8"
+msgid "Underpowered"
+msgstr "Нехватка электричества"
+
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.NAME"
 msgid "POWER GRID OVERLAY"
 msgstr "КАРТА ЭЛЕКТРИЧЕСКОЙ СЕТИ"
+
+#. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND_SWITCH
+msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND_SWITCH"
+msgid "Activates or deactivates a circuit"
+msgstr "Включает или отключает провод"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1"
@@ -14364,6 +14444,11 @@ msgstr "Требуется больше <style=\"power\">Электричест�
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7"
 msgid "System overloaded"
 msgstr "Система перегружена"
+
+#. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8
+msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8"
+msgid "This circuit is consuming more <style=\"power\">Power</style> than it can produce"
+msgstr "Этот провод потребляет больше <style=\"power\">Электроэнергии</style>, чем он может передать"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON"
@@ -14705,6 +14790,16 @@ msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND6"
 msgid "Lethal gas concentration"
 msgstr "Летальная концентрация газа"
 
+#. STRINGS.UI.OVERLAYS.POWER.WATTS_CONSUMED
+msgctxt "STRINGS.UI.OVERLAYS.POWER.WATTS_CONSUMED"
+msgid "Watts Consumed"
+msgstr "Потреблено ватт"
+
+#. STRINGS.UI.OVERLAYS.POWER.WATTS_GENERATED
+msgctxt "STRINGS.UI.OVERLAYS.POWER.WATTS_GENERATED"
+msgid "Watts Generated"
+msgstr "Сгенерировано ватт"
+
 #. STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON"
 msgid "Priority Overlay"
@@ -15025,6 +15120,16 @@ msgctxt "STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP"
 msgid "Unlocks: {0}"
 msgstr "Открывает: {0}"
 
+#. STRINGS.UI.RESOURCESCREEN.AVAILABLE_TOOLTIP
+msgctxt "STRINGS.UI.RESOURCESCREEN.AVAILABLE_TOOLTIP"
+msgid "Available: {0}"
+msgstr "Доступно: {0}"
+
+#. STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP
+msgctxt "STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP"
+msgid "Click to expand\n------------------\nCounts resources within Duplicant reach that are not allocated to construction"
+msgstr "Нажмите, чтобы развернуть\n------------------\nУчитывает материалы, до которых Дупликант может дойти и которые не выделены под строительство"
+
 #. STRINGS.UI.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULE"
 msgid "SCHEDULE"
@@ -15140,6 +15245,21 @@ msgctxt "STRINGS.UI.SPEED_SLOW"
 msgid "SLOW"
 msgstr "МЕДЛЕННО"
 
+#. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_EXPECTATIONS
+msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_EXPECTATIONS"
+msgid "Sort by quality expectations"
+msgstr "Сортировать по уровню ожиданий"
+
+#. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_NAME
+msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_NAME"
+msgid "Sort by name"
+msgstr "Сортировать по имени"
+
+#. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_STRESS
+msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_STRESS"
+msgid "Sort by stress level"
+msgstr "Сортировать по уровню стресса"
+
 #. STRINGS.UI.TOOLS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
 msgid "Harvest"
@@ -15147,8 +15267,8 @@ msgstr "Сбор урожая"
 
 #. STRINGS.UI.TOOLS.ATTACK.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLACTION"
-msgid "DRAG TO HARVEST"
-msgstr "ВЫДЕЛИТЕ ДЛЯ СБОРА УРОЖАЯ"
+msgid "DRAG TO TOGGLE HARVEST"
+msgstr "ТАЩИТЕ ДЛЯ ПЕРЕКЛЮЧЕНИЯ ТИПА СБОРА УРОЖАЯ"
 
 #. STRINGS.UI.TOOLS.ATTACK.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLNAME"
@@ -15199,6 +15319,21 @@ msgstr "Очистить"
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME"
 msgid "Clean Up tools"
 msgstr "Инструмент \"Очистка\""
+
+#. STRINGS.UI.TOOLS.COPYSETTINGS.NAME
+msgctxt "STRINGS.UI.TOOLS.COPYSETTINGS.NAME"
+msgid "Paste Settings"
+msgstr "Вставить настройки"
+
+#. STRINGS.UI.TOOLS.COPYSETTINGS.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.COPYSETTINGS.TOOLACTION"
+msgid "DRAG TO PASTE SETTINGS"
+msgstr "ТАЩИТЕ ДЛЯ ВСТАВКИ НАСТРОЕК"
+
+#. STRINGS.UI.TOOLS.COPYSETTINGS.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.COPYSETTINGS.TOOLNAME"
+msgid "Paste Settings Tool"
+msgstr "Инструмент \"Вставка скопированный настроек\""
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
@@ -15275,10 +15410,20 @@ msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
 msgid "Dig Orders"
 msgstr "Копание"
 
+#. STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST"
+msgid "Manual Harvest"
+msgstr "Ручной сбор урожая"
+
 #. STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES"
 msgid "Gas Pipes"
 msgstr "Газопровод"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY"
+msgid "Autoharvest"
+msgstr "Автосбор урожая"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES"
@@ -15295,10 +15440,20 @@ msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
 msgid "Wires"
 msgstr "Провода"
 
+#. STRINGS.UI.TOOLS.FILTERSCREEN.OPTIONS
+msgctxt "STRINGS.UI.TOOLS.FILTERSCREEN.OPTIONS"
+msgid "Options"
+msgstr "Настройки"
+
 #. STRINGS.UI.TOOLS.GENERIC.BACK
 msgctxt "STRINGS.UI.TOOLS.GENERIC.BACK"
 msgid "Back"
 msgstr "Назад"
+
+#. STRINGS.UI.TOOLS.GENERIC.UNKNOWN
+msgctxt "STRINGS.UI.TOOLS.GENERIC.UNKNOWN"
+msgid "UNKNOWN"
+msgstr "НЕИЗВЕСТНО"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME"
@@ -15329,6 +15484,16 @@ msgstr "ВЫДЕЛИТЕ, ЧТОБЫ ВЫТЕРЕТЬ"
 msgctxt "STRINGS.UI.TOOLS.MOP.TOOLNAME"
 msgid "Mop tool"
 msgstr "Инструмент \"Вытирание\""
+
+#. STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLACTION"
+msgid "CLICK TO MOVE {0} HERE"
+msgstr "НАЖМИТЕ ДЛЯ ПЕРЕМЕЩЕНИЯ {0} СЮДА"
+
+#. STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLNAME"
+msgid "Move To Tool"
+msgstr "Инструмент Переместиться сюда"
 
 #. STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME"
@@ -15530,6 +15695,11 @@ msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY"
 msgid "High priority jobs are performed before low priority jobs. A Duplicant will always continue work on their current job until it is complete, even if a higher priority job becomes available."
 msgstr "Задачи с высоким приоритетом всегда выполняются до задач с низким приоритетом. Дупликант всегда продолжает работать над текущей задачей до ее завершения, даже если в этот момент появилась новая задача с более высоким приоритетом."
 
+#. STRINGS.UI.TOOLTIPS.JOBSSCREEN_RELEVANT_ATTRIBUTES
+msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_RELEVANT_ATTRIBUTES"
+msgid "Relevant Attributes:"
+msgstr "Релевантные характеристики:"
+
 #. STRINGS.UI.TOOLTIPS.LIGHTSOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.LIGHTSOVERLAYSTRING"
 msgid "Displays the visibility radius of light sources"
@@ -15539,6 +15709,11 @@ msgstr "Отображает радиус видимости источнико�
 msgctxt "STRINGS.UI.TOOLTIPS.LIQUIDVENTOVERLAYSTRING"
 msgid "Displays and edits liquid pipe systems"
 msgstr "Отображает и редактирует водопроводную систему"
+
+#. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_CONSUMABLES
+msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_CONSUMABLES"
+msgid "Manage Duplicant diets"
+msgstr "Управление диетой Дупликанта"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT"
