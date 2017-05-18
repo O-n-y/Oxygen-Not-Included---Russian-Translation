@@ -54,13 +54,13 @@ msgstr "Только {Assignee} может использовать эту по�
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME"
-msgid "Awaiting Decoration"
-msgstr "Ожидает декорирования"
+msgid "Incomplete Artwork"
+msgstr "Незаконченная работа"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP"
-msgid "A Duplicant must work on this to create art"
-msgstr "Для создания предмета искусства Дупликант должен над ним поработать."
+msgid "This building requires a Duplicant's artistic touch"
+msgstr "Этот объект ожидает артистического прикосновения Дупликанта"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
@@ -69,8 +69,8 @@ msgstr "Требует переворачивания"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
-msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
-msgstr "Дупликанты должны периодически перемешивать компост для производства <style=\"solid\">Удобрений</style>"
+msgid "Compost must be flipped periodically to produce fertilizer"
+msgstr "Дупликанты должны периодически перемешивать компост для производства Удобрений"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
@@ -119,8 +119,8 @@ msgstr "Постройка выключена"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP"
-msgid "This building has been disabled."
-msgstr "Эта постройка была выключена."
+msgid "Press <color=#F44A47>(ENTER)</color> to resume use"
+msgstr "Нажмите <color=#F44A47>(ENTER)</color> для возобновления работы"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME"
@@ -314,8 +314,8 @@ msgstr "Выделяет <style=\"gas\">{Element}</style>: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP"
-msgid "Producing <style=\"gas\">{Element}</style> at {FlowRate}"
-msgstr "Производит <style=\"gas\">{Element}</style> со скоростью {FlowRate}"
+msgid "Producing {Element} at a rate of {FlowRate}"
+msgstr "Производит {Element} со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME"
@@ -334,8 +334,8 @@ msgstr "Выделяет <style=\"oxygen\">Кислород</style>: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP"
-msgid "Producing <style=\"oxygen\">Oxygen</style> at {FlowRate}"
-msgstr "Производит <style=\"oxygen\">Кислород</style> со скоростью {FlowRate}"
+msgid "Producing oxygen at a rate of {FlowRate}"
+msgstr "Производит кислород со скоростью {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME"
