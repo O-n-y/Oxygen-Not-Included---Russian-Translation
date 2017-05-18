@@ -8520,7 +8520,7 @@ msgstr "Не может копать"
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC"
 msgid "This Duplicant isn't the brightest star in the solar system"
-msgstr "Этот Дупликант явно не яркая звездочка на в солнечной системе"
+msgstr "Этот Дупликант явно не яркая звездочка в солнечной системе"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME"
@@ -8750,7 +8750,7 @@ msgstr "Неотесанный"
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC"
 msgid "All the Vitamin C in space can't stop this Duplicant from getting sick"
-msgstr "Весь витамин С во вселенной не сможет сохранить этого Дупликанта от простуды"
+msgstr "Весь витамин С во Вселенной не сможет сохранить этого Дупликанта от простуды"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
