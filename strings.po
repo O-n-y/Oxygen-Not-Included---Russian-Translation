@@ -565,7 +565,7 @@ msgstr "Низкое атмосферное давление"
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.TOOLTIP"
 msgid "A minimum atmospheric pressure of {TargetPressure} is needed for this building to heat up"
-msgstr "Для обогрева этой постройки требуется минимальное давление воздуха {TargetPressure}"
+msgstr "Для обогрева этой постройки требуется минимальное атмосферное давление {TargetPressure}"
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.NAME"
@@ -1314,13 +1314,13 @@ msgstr "Ожидает Дупликанта для постройки"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.NAME"
-msgid "Under Pressure"
-msgstr "Низкое давление"
+msgid "Low Air Pressure"
+msgstr "Низкое атмосферное давление"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERPRESSURE.TOOLTIP"
-msgid "Too little air pressure to operate"
-msgstr "Недостаточное атмосферное давление, чтобы работать"
+msgid "A minimum atmospheric pressure of {TargetPressure} is needed for this building to operate"
+msgstr "Для работы этой постройки требуется минимальное атмосферное давление {TargetPressure}"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME"
@@ -1379,8 +1379,8 @@ msgstr "• {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.NAME"
-msgid "Awaiting Repair Material Delivery"
-msgstr "Ожидает доставки материалов для ремонта"
+msgid "Awaiting Repair Material Delivery\n{ItemsRemaining}\n"
+msgstr "Ожидает доставки материалов для ремонта\n{ItemsRemaining}\n"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.TOOLTIP"
@@ -1394,18 +1394,23 @@ msgstr "Мощность в ваттах: {Wattage}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP"
-msgid "This building is generating {Wattage} of <style=\"power\">Power</style>"
-msgstr "Эта постройка вырабатывает {Wattage} <style=\"power\">Электричества</style>"
+msgid "This building is generating {Wattage} of power"
+msgstr "Эта постройка вырабатывает {Wattage} электричества"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.NAME"
-msgid "Next Duplicant: {TimeRemaining}s"
-msgstr "Следующий Дупликант: {TimeRemaining}с"
+msgid "Next Duplicant: {TimeRemaining}"
+msgstr "Следующий Дупликант: {TimeRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP"
-msgid "The Printing Pod can print out new Duplicants over time.\nThe next one will be ready in {TimeRemaining}s"
-msgstr "С течением времени Биопринтер может печатать новых Дупликантов.\nСледующий Дупликант будет готов через {TimeRemaining}s"
+msgid "The Printing Pod can print out new Duplicants over time.\nThe next one will be ready in {TimeRemaining}"
+msgstr "С течением времени Биопринтер может напечатать новых Дупликантов.\nСледующий Дупликант будет готов через {TimeRemaining}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTSON.UNAVAILABLE
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.UNAVAILABLE"
+msgid "UNAVAILABLE"
+msgstr "НЕДОСТУПЕН"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME"
@@ -1469,8 +1474,8 @@ msgstr "Этот провод в хорошем состоянии"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.NAME"
-msgid "Functioning"
-msgstr "Функционирует"
+msgid "Nominal"
+msgstr "Номинальный"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP"
@@ -1489,7 +1494,7 @@ msgstr "от перегревания"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CIRCUIT_OVERLOADED
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CIRCUIT_OVERLOADED"
-msgid "because the circuit is over powered"
+msgid "because the circuit is overloaded"
 msgstr "потому что провод перегружен"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED
@@ -1524,8 +1529,8 @@ msgstr "Каждый дополнительный монитор экспоне�
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
-msgid "Can be worked by Duplicants to conduct <style=\"research\">Intermediary Research</style> and unlock new technologies."
-msgstr "Дупликанты могут выполнять <style=\"research\">Продвинутые Исследования</style> для открытия новых технологий."
+msgid "Conducts <style=\"research\">Intermediate Research</style> and unlocks new technologies when worked on by Duplicants."
+msgstr "Производит <style=\"research\">Продвинутые Исследования</style> для открытия новых технологий, при использовании Дупликантами."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
@@ -1549,8 +1554,8 @@ msgstr "Терморегулятор"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
-msgid "Oh! Citrus scented!"
-msgstr "Ох! С запахом цитрусов!"
+msgid "It's citrus scented!"
+msgstr "Это аромат цитрусовых!"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
@@ -1564,13 +1569,13 @@ msgstr "Освежитель воздуха"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
-msgid "The resulting algae still looks pretty slimy, to be honest."
-msgstr "Произведенные водоросли, честно говоря, все еще выглядят слизкими."
+msgid "Green goop goes in, green goop comes out."
+msgstr "Зеленый комок входит, зеленый комок выходит."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
-msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>.\nDrops algae every 10kg."
-msgstr "Перерабатывает <style=\"misc\">Слизь</style> в <style=\"misc\">Водоросли</style>.\nПроизводит комок водорослей каждые 10кг."
+msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>."
+msgstr "Перерабатывает <style=\"misc\">Слизь</style> в <style=\"misc\">Водоросли</style>.\n"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
@@ -1624,8 +1629,8 @@ msgstr "Блок подводной фермы"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.DESC"
-msgid "It isn't very efficient to let half your energy seep into the cosmos. Fight that entropy!"
-msgstr "Не очень-то эффективно позволять половине вашего электричества утекать в космос. Дайте решительный отпор энтропии!"
+msgid "Fight the entropy!"
+msgstr "Боритесь с энтропией!"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT"
