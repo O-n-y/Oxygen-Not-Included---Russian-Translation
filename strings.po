@@ -1644,8 +1644,8 @@ msgstr "Маленькая батарея"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC"
-msgid "Wow! Apparently size does matter."
-msgstr "Вау! Похоже, размер все-таки имеет значение."
+msgid "Size does matter."
+msgstr "Размер имеет значение."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT"
@@ -1659,12 +1659,12 @@ msgstr "Батарея"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.DESC"
-msgid "A soft patch in a hard world.\nYour Duplicants will be grateful to have their own bed."
-msgstr "Мягкий уголок в этом жестком мире.\nВаши Дупликанты будут благодарны, если у них будет их собственная кровать."
+msgid "The only soft patch in a hard, hard world."
+msgstr "Единственный мягкий уголок в этом жестком мире."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.EFFECT"
-msgid "Reduces <style=\"stress\">Stress</style> by giving Duplicants a place to rest.\n\nAt night Duplicants will automatically sleep in the cot that has been assigned to them."
+msgid "Reduces <style=\"stress\">Stress</style> by giving Duplicants a comfortable place to rest.\n\nAt night Duplicants will automatically sleep in the cot that has been assigned to them."
 msgstr "Уменьшает <style=\"stress\">Стресс</style> давая Дупликантом место для отдыха.\n\nС наступлением ночи Дупликанты автоматически отправятся спать в назначенную им кровать."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.NAME
@@ -1699,7 +1699,7 @@ msgstr "Будем надеяться что Ваши Дупликанты пр�
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT"
-msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be painted by a Duplicant."
+msgid "Increases <style=\"decor\">Decor</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be painted by a Duplicant."
 msgstr "Увеличивает <style=\"decor\">Показатель декора</style> и уменьшает <style=\"stress\">Стресс</style> Дупликантов.\n\nДолжен быть расписан Дупликантом."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME
