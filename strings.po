@@ -1172,6 +1172,11 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP"
 msgid "This pipe is delivering {Contents}"
 msgstr "Эта труба доставляет {Contents}"
 
+#. STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.EMPTY
+msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.EMPTY"
+msgid "Empty"
+msgstr "Пусто"
+
 #. STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.NAME"
 msgid "{0} of {1} at {2}"
@@ -1214,8 +1219,8 @@ msgstr "Хранится: {Stored}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP"
-msgid "This box contains {Stored} of <style=\"food\">Food</style>"
-msgstr "Этот ящик содержит {Stored} единиц <style=\"food\">Еды</style>"
+msgid "This box contains {Stored} of food"
+msgstr "Этот ящик содержит {Stored} единиц еды"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
@@ -1224,8 +1229,8 @@ msgstr "Текущее <style=\"research\">Исследование</style>: {Te
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP"
-msgid "<style=\"research\">Research</style> produced at this station will be invested in {Tech}"
-msgstr "<style=\"research\">Исследования</style>, производимые на этой станции, будут направлены на {Tech}"
+msgid "Research produced at this station will be invested in {Tech}"
+msgstr "Исследования, производимые на этой станции, будут направлены на {Tech}"
 
 #. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME"
@@ -1236,6 +1241,26 @@ msgstr "Хранится: {Stored} / {Capacity} кг"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.TOOLTIP"
 msgid "This container is storing {Stored} kg of material"
 msgstr "Этот контейнер хранит {Stored} кг материала"
+
+#. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME"
+msgid "Active"
+msgstr "Активен"
+
+#. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.TOOLTIP"
+msgid "This switch is currently toggled on"
+msgstr "Этот переключатель в данный момент включен"
+
+#. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.NAME"
+msgid "Inactive"
+msgstr "Неактивен"
+
+#. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.TOOLTIP"
+msgid "This switch is currently toggled off"
+msgstr "Этот переключатель в данный момент выключен"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
