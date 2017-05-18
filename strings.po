@@ -559,12 +559,12 @@ msgstr "Эта постройка не может нагреть окружаю�
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.NAME"
-msgid "Low Atmospheric Pressure"
+msgid "Low Air Pressure"
 msgstr "Низкое атмосферное давление"
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.TOOLTIP"
-msgid "A minimum air pressure of {TargetPressure} is needed for this building to heat up"
+msgid "A minimum atmospheric pressure of {TargetPressure} is needed for this building to heat up"
 msgstr "Для обогрева этой постройки требуется минимальное давление воздуха {TargetPressure}"
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.NAME
@@ -574,8 +574,8 @@ msgstr "Не погружено в жидкость"
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.TOOLTIP"
-msgid "This building must be submerged in <style=\"liquid\">Liquid</style> to function"
-msgstr "Эта постройка должна быть погружена в <style=\"liquid\">Жидкость</style> для фунционирования"
+msgid "TThis building must be submerged in liquid to function"
+msgstr "Эта постройка должна быть погружена в жидкость для фунционирования"
 
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME"
@@ -684,8 +684,8 @@ msgstr "Питает"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.TOOLTIP"
-msgid "This <style=\"power\">Power</style> source is supplying <style=\"power\">Power</style> consumers"
-msgstr "Этот источник <style=\"power\">Электричества</style> снабжает потребителей <style=\"power\">Электричества</style>"
+msgid "This generator is supplying energy to power consumers"
+msgstr "Этот источник электричества снабжает потребителей электричества"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME"
@@ -969,8 +969,8 @@ msgstr "Насос не в газе"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP"
-msgid "This pump must be submerged in <style=\"gas\">Gas</style> to work"
-msgstr "Этот насос должен быть погружен в <style=\"gas\">Газ</style> для функционирования"
+msgid "This pump must be submerged in gas to work"
+msgstr "Этот насос должен быть погружен в газ для функционирования"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.NAME"
@@ -979,8 +979,8 @@ msgstr "Насос не погружен в жидкость"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP"
-msgid "This pump must be submerged in <style=\"liquid\">Liquid</style> to work"
-msgstr "Этот насос должен быть погружен в <style=\"liquid\">Жидкость</style> для функционирования"
+msgid "This pump must be submerged in liquid to work"
+msgstr "Этот насос должен быть погружен в жидкость для функционирования"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.NAME"
@@ -1084,8 +1084,8 @@ msgstr "Эта постройка производит {0} электричес�
 
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME"
-msgid "Overheating"
-msgstr "Перегрев"
+msgid "Damage: Overheating""
+msgstr "Повреждение: Перегрев"
 
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP"
