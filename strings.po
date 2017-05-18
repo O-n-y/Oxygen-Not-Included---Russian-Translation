@@ -22,6 +22,26 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP"
 msgid "This door has gone into Emergency Unlock Mode\n----------\nAll Duplicants are permitted to pass through it until power is restored"
 msgstr "Эта дверь перешла в режим экстренной разблокировки\n ----------\nПока электропитание не восстановлено, Все Дупликанты имеют право проходить через нее"
 
+#. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME"
+msgid "Damage: Tantrum"
+msgstr "Урон: Вспышка гнева"
+
+#. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION"
+msgid "Building Damage: Tantrum"
+msgstr "Повреждение постройки: Вспышка гнева"
+
+#. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP"
+msgid "Stressed Duplicants are damaging these buildings:\n\n{0}"
+msgstr "Дупликанты, испытывающие стресс повредили эти постройки:\n\n{0}"
+
+#. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP"
+msgid "A stressed Duplicant is damaging this building"
+msgstr "Дупликант, испытывающий стресс повреждает эту постройку"
+
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
 msgid "Assigned to: {Assignee}"
