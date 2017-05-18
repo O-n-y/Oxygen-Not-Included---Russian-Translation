@@ -15590,6 +15590,11 @@ msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY"
 msgid "Calories Available: {0}"
 msgstr "Калорий доступно: {0}"
 
+#. STRINGS.UI.TOOLTIPS.METERSCREEN_POPULATION
+msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_POPULATION"
+msgid "Population: {0}"
+msgstr "Население: {0}"
+
 #. STRINGS.UI.TOOLTIPS.MOPBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.MOPBUTTON"
 msgid "Drag to wipe up liquid messes"
@@ -15678,6 +15683,16 @@ msgstr "Выключить Красную Тревогу"
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON"
 msgid "Enable Red Alert"
+msgstr "Включить Красную Тревогу"
+
+#. STRINGS.UI.TOOLTIPS.RED_ALERT_CONTENT
+msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_CONTENT"
+msgid "Colony enters a state of emergency. Duplicants ignore basic needs to work."
+msgstr "Колония входит в режим чрезвычайного положения. Дупликанты игнорируют базовые потребности и принимаются за работу."
+
+#. STRINGS.UI.TOOLTIPS.RED_ALERT_TITLE
+msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_TITLE"
+msgid "Toggle Red Alert"
 msgstr "Включить Красную Тревогу"
 
 #. STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING
@@ -15835,6 +15850,21 @@ msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.USING_DEFAULT"
 msgid "Default Access"
 msgstr "Обычный доступ"
 
+#. STRINGS.UI.UISIDESCREENS.ACTIVATION_RANGE_SIDE_SCREEN.ACTIVATE
+msgctxt "STRINGS.UI.UISIDESCREENS.ACTIVATION_RANGE_SIDE_SCREEN.ACTIVATE"
+msgid "Max Stress:"
+msgstr "Максимальный стресс:"
+
+#. STRINGS.UI.UISIDESCREENS.ACTIVATION_RANGE_SIDE_SCREEN.DEACTIVATE
+msgctxt "STRINGS.UI.UISIDESCREENS.ACTIVATION_RANGE_SIDE_SCREEN.DEACTIVATE"
+msgid "Min Stress:"
+msgstr "Минимальный стресс:"
+
+#. STRINGS.UI.UISIDESCREENS.ACTIVATION_RANGE_SIDE_SCREEN.NAME
+msgctxt "STRINGS.UI.UISIDESCREENS.ACTIVATION_RANGE_SIDE_SCREEN.NAME"
+msgid "Breaktime Policy"
+msgstr "Политика перерыва"
+
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNEDTO"
 msgid "Assigned to: {0}"
@@ -15854,6 +15884,16 @@ msgstr "Этот {0} должен быть в {1} зоне"
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGIONS"
 msgid "This {0} needs to be inside one of the following regions: {1}"
 msgstr "Этот {0} должен быть в одной из следующих зон: {1}"
+
+#. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.SORT_BY_ASSIGNMENT
+msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.SORT_BY_ASSIGNMENT"
+msgid "Assignment"
+msgstr "Назначение"
+
+#. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.SORT_BY_DUPLICANT
+msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.SORT_BY_DUPLICANT"
+msgid "Duplicant"
+msgstr "Дупликант"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.TITLE"
@@ -15965,6 +16005,11 @@ msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.UNASSIGNED"
 msgid "Unassigned"
 msgstr "Не назначен"
 
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS"
+msgid "{0}"
+msgstr "{0}"
+
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CANCEL
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CANCEL"
 msgid "Cancel"
@@ -16020,10 +16065,15 @@ msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPESELECTED"
 msgid "No recipe selected"
 msgstr "Рецепт не выбран"
 
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.QUEUED_MISSING_INGREDIENTS_TOOLTIP
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.QUEUED_MISSING_INGREDIENTS_TOOLTIP"
+msgid "Missing {0} of {1}\n"
+msgstr "Не хватает {0} из {1}\n"
+
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPERQUIREMENT
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPERQUIREMENT"
-msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
-msgstr "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
+msgid "<style={0}>{1}</style>: <style=\"consumed\">{2}</style> / {3}"
+msgstr "<style={0}>{1}</style>: <style=\"consumed\">{2}</style> / {3}"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS"
@@ -16039,6 +16089,21 @@ msgstr "Выберите предмет для Производства"
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE"
 msgid "{0} Recipes"
 msgstr "{0} Рецептов"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPERQUIREMENT_INSUFFICIENT
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPERQUIREMENT_INSUFFICIENT"
+msgid "This recipe requires {1} {0}\nAvailable: {2}"
+msgstr "Этот рецепт требует {1} {0}\nДоступно: {2}"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPERQUIREMENT_SUFFICIENT
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPERQUIREMENT_SUFFICIENT"
+msgid "This recipe consumes {1} of an available {2} of {0}"
+msgstr "Этот рецепт потребляет {1} из доступных {2} из {0}"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.UNITS_AND_CALS
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.UNITS_AND_CALS"
+msgid "{0} ({1})"
+msgstr "{0} ({1})"
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS"
@@ -16100,10 +16165,35 @@ msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.INITIALGROWTHTIME"
 msgid "Initial Growth: {0}"
 msgstr "Начальный рост: {0}"
 
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.HARVESTDETAILS
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.HARVESTDETAILS"
+msgid "<b>Harvest Rating Tiers</b>:"
+msgstr "<b>Уровни рейтинга урожайности</b>:"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.HIGH_YIELD
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.HIGH_YIELD"
+msgid "Excellent (80+ Points):"
+msgstr "Идеальный (80+ Очков):"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.LOW_YIELD
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.LOW_YIELD"
+msgid "Standard (0+ Points):"
+msgstr "Стандартный (0+ Очков):"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NORMAL_YIELD
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NORMAL_YIELD"
+msgid "Good (40+ Points):"
+msgstr "Хороший (40+ Очков):"
+
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NUMBEROFHARVESTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.NUMBEROFHARVESTS"
-msgid "Max Harvests: {0}"
-msgstr "Плодоносит: {0} раз(-а)"
+msgid "Harvests: {0}"
+msgstr "Сборов урожая: {0}"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.OPTIMUMCONDITIONS
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.OPTIMUMCONDITIONS"
+msgid "<style=\"harvestQuality\">Harvest Rating</style>: Max <style=\"produced\">+{0} Points</style>/cycle:"
+msgstr "<style=\"harvestQuality\">Рейтинг урожайности</style>: Максимально <style=\"produced\">+{0} очков</style>/cycle:"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTEFFECTS"
@@ -16125,6 +16215,21 @@ msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.REQUIRESFERTILIZER"
 msgid "<style=\"solid\">Fertilizer</style>"
 msgstr "<style=\"solid\">Удобрение</style>"
 
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_CEILING
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_CEILING"
+msgid "<style=\"consumed\"><b>Requires downward plot orientation.</b></style>"
+msgstr "<style=\"consumed\"><b>Требует ориентации блока вниз.</b></style>"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_FLOOR
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_FLOOR"
+msgid "<style=\"consumed\"><b>Requires upward plot orientation.</b></style>"
+msgstr "<style=\"consumed\"><b>Требует ориентации блока вверх</b></style>"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_WALL
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_WALL"
+msgid "<style=\"consumed\"><b>Requires sideways plot orientation.</b></style>"
+msgstr "<style=\"consumed\"><b>Требует боковой ориентации блока</b></style>"
+
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_DESC"
 msgid "Select a seed to plant."
@@ -16134,6 +16239,61 @@ msgstr "Укажите семя для посадки."
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_TITLE"
 msgid "Select seed"
 msgstr "Выбор семени"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.HARVESTDETAILS
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.HARVESTDETAILS"
+msgid "Yield bonuses for Harvest Ratings"
+msgstr "Бонусы за рейтинг урожайности"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.HIGH_YIELD
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.HIGH_YIELD"
+msgid "If a plant reaches maturity with more than {0} Harvest Rating Points it will produce an Excellent yield"
+msgstr "Если растение достигнет зрелости с очками урожайности больше чем {0}, оно произведет Идеальный урожай"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.LOW_YIELD
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.LOW_YIELD"
+msgid "If a plant reaches maturity with fewer than {0} Harvest Rating Points it will produce a Standard yield"
+msgstr "Если растение достигнет зрелости с очками урожайности больше чем {0}, оно произведет Стандартный урожай"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NORMAL_YIELD
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NORMAL_YIELD"
+msgid "If a plant reaches maturity with more than {0} Harvest Rating Points it will produce a Good yield"
+msgstr "Если растение достигнет зрелости с очками урожайности больше чем {0}, оно произведет Хороший урожай"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NUMBEROFHARVESTS
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NUMBEROFHARVESTS"
+msgid "This plant will yield {0} harvests in its lifecycle"
+msgstr "Это растение даст урожай {0} раз за жизненный цикл"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.OPTIMUMCONDITIONS
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.OPTIMUMCONDITIONS"
+msgid "A plant will continuously generate Harvest Rating Points when kept within ideal conditions, generating up to {1} points per condition in a day.\n\nThis plant's maximum Harvest Rating Point generation is +{0} per cycle. It will generate additional points the longer it stays within ideal conditions."
+msgstr "Растение будет постоянно генерировать очки урожайности, при содержании в идеальных условиях. Генерирует до  {1} очков на каждое условие в день.\n\nМаксимальное количество очков урожайности данного растения: +{0} за цикл. Растение будет генерировать дополнительные очки, чем дольше оно пребывает в идеальных условиях."
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANTEFFECTS
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANTEFFECTS"
+msgid "Harvest Rating Point generation and additional effects"
+msgstr "Генерирование очков урожайности и дополнительные эффекты"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANTREQUIREMENTS
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANTREQUIREMENTS"
+msgid "<b>Growth Requirements</b>:"
+msgstr "<b>Требования для роста</b>:"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD"
+msgid "<style=\"produced\">{2}</style> produced in this tier (<style=\"produced\">{1}</style> per unit)"
+msgstr "<style=\"produced\">{2}</style> производится в данном типе (<style=\"produced\">{1}</style> на единицу)"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_SEED
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_SEED"
+msgid "Can be sown to grow more of this plant"
+msgstr "Могут быть культивированы для получения большего количества растений данного типа"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_SEED_FINAL_HARVEST
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.YIELD_SEED_FINAL_HARVEST"
+msgid "{0}\n\nThese seeds will be produced in the final harvest of a plant's lifecycle"
+msgstr "{0}\n\nЭти семена будут произведены во время последнего сбора урожая из жизненного цикла растения"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOTALHARVESTCALORIES
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOTALHARVESTCALORIES"
@@ -16147,13 +16307,43 @@ msgstr "<style=\"produced\">{0}</style> (<style=\"produced\">{1}</style> за е
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD"
-msgid "Yield: {0} <style=\"food\">{1}</style>"
-msgstr "Урожайность: {0} <style=\"food\">{1}</style>"
+msgid "{1} <style=\"food\">{0}</style>"
+msgstr "{1} <style=\"food\">{0}</style>"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED"
+msgid "{1} <style=\"seed\">{0}</style>"
+msgstr "{1} <style=\"seed\">{0}</style>"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_FINAL_HARVEST
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_FINAL_HARVEST"
+msgid "{1} <style=\"seed\">{0}</style> (Final harvest only)"
+msgstr "{1} <style=\"seed\">{0}</style>  (Только последний сбор урожая)"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_SINGLE
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_SINGLE"
+msgid "<style=\"seed\">{0}</style>"
+msgstr "<style=\"seed\">{0}</style>"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_SINGLE_FINAL_HARVEST
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SEED_SINGLE_FINAL_HARVEST"
+msgid "<style=\"seed\">{0}</style> (Final harvest only)"
+msgstr "<style=\"seed\">{0}</style> (Только последний сбор урожая)"
+
+#. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SINGLE
+msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD_SINGLE"
+msgid "<style=\"food\">{0}</style>"
+msgstr "<style=\"food\">{0}</style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELDPERHARVEST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELDPERHARVEST"
 msgid "Yield: {0} <style=\"food\">{1}</style> per harvest"
 msgstr "Урожайность: {0} <style=\"food\">{1}</style> за сбор"
+
+#. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.CURRENTLYRESEARCHING
+msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.CURRENTLYRESEARCHING"
+msgid "Currently Researching"
+msgstr "Сейчас исследуется"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.NOSELECTEDRESEARCH
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.NOSELECTEDRESEARCH"
@@ -16230,30 +16420,80 @@ msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.CURRENT_TEMPERATUR
 msgid "Current Temperature:\n{0}"
 msgstr "Текущая температура:\n{0}"
 
-#. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.DECREASE_BUTTON
-msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.DECREASE_BUTTON"
-msgid "-"
-msgstr "-"
-
-#. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.INCREASE_BUTTON
-msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.INCREASE_BUTTON"
-msgid "+"
-msgstr "+"
-
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.TITLE"
-msgid "Temperature Power Switch"
-msgstr "Переключатель с датчиком температуры"
+msgid "Temperature Threshold"
+msgstr "Порог температуры"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.WARMER_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.WARMER_BUTTON"
-msgid "Warmer than"
-msgstr "Теплее чем"
+msgid "Above"
+msgstr "Выше"
 
-#. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.WARNING
-msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.WARNING"
-msgid "Thermo Switches must be connected to a <style=\"power\">Power</style> grid"
-msgstr "Термо-датчик должен быть присоединен к <style=\"power\">Электрической</style> сети"
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.ABOVE_BUTTON
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.ABOVE_BUTTON"
+msgid "Above"
+msgstr "Выше"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.ACTIVATE_IF
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.ACTIVATE_IF"
+msgid "Activate if:"
+msgstr "Активировать, если:"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.BELOW_BUTTON
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.BELOW_BUTTON"
+msgid "Below"
+msgstr "Ниже"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CURRENT_VALUE
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CURRENT_VALUE"
+msgid "Current {0}:\n{1}"
+msgstr "Сейчас {0}:\n{1}"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE"
+msgid "Pressure"
+msgstr "Атмосферное давление"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE_TOOLTIP_ABOVE
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE_TOOLTIP_ABOVE"
+msgid "Switch will be on if the pressure is above {0}"
+msgstr "Переключатель включится, если давление выше чем {0}"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE_TOOLTIP_BELOW
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE_TOOLTIP_BELOW"
+msgid "Switch will be off if the pressure is below {0}"
+msgstr "Переключатель выключится, если давление ниже чем {0}"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.STATUS_ACTIVE
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.STATUS_ACTIVE"
+msgid "Switch Active"
+msgstr "Переключатель активен"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.STATUS_INACTIVE
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.STATUS_INACTIVE"
+msgid "Switch Inactive"
+msgstr "Переключатель неактивен"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE"
+msgid "Temperature"
+msgstr "Температура"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_ABOVE
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_ABOVE"
+msgid "Switch will be on if the ambient temperature is above {0}"
+msgstr "Переключатель включится, если температура окружающей среды выше чем  {0}"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_BELOW
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_BELOW"
+msgid "Switch will be off if the ambient temperature is below {0}"
+msgstr "Переключатель выключится, если температура окружающей среды ниже чем {0}"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TITLE"
+msgid "Pressure Threshold"
+msgstr "Порог давления"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.CURRENTSTATE
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.CURRENTSTATE"
@@ -16350,6 +16590,11 @@ msgctxt "STRINGS.UI.UNITSUFFIXES.CALORIES.KILOCALORIE"
 msgid " kcal"
 msgstr " ккал"
 
+#. STRINGS.UI.UNITSUFFIXES.DISTANCE.METER
+msgctxt "STRINGS.UI.UNITSUFFIXES.DISTANCE.METER"
+msgid " m"
+msgstr " м"
+
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.JOULE
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.JOULE"
 msgid " J"
@@ -16430,6 +16675,11 @@ msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.KELVIN"
 msgid " K"
 msgstr " K"
 
+#. STRINGS.UI.UNITSUFFIXES.UNITS
+msgctxt "STRINGS.UI.UNITSUFFIXES.UNITS"
+msgid " units"
+msgstr " штук"
+
 #. STRINGS.UI.USERMENUACTIONS.ATTACK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.ATTACK.NAME"
 msgid "Attack"
@@ -16439,6 +16689,16 @@ msgstr "Атака"
 msgctxt "STRINGS.UI.USERMENUACTIONS.ATTACK.TOOLTIP"
 msgid "Attack this creature"
 msgstr "Атаковать это создание"
+
+#. STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.NAME
+msgctxt "STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.NAME"
+msgid "Disable Autoharvest"
+msgstr "Отключить Автосбор урожая"
+
+#. STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.TOOLTIP
+msgctxt "STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.TOOLTIP"
+msgid "Duplicants will require orders to harvest from this plant"
+msgstr "Дупликанты будут ждать распоряжений для сбора урожая с данного растения"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELATTACK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELATTACK.NAME"
@@ -16540,6 +16800,17 @@ msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP_OFF"
 msgid "Cancel this sweep order"
 msgstr "Отменить этот приказ на Уборку"
 
+
+#. STRINGS.UI.USERMENUACTIONS.COPY_BUILDING_SETTINGS.NAME
+msgctxt "STRINGS.UI.USERMENUACTIONS.COPY_BUILDING_SETTINGS.NAME"
+msgid "Copy Settings"
+msgstr "Копировать настройки"
+
+#. STRINGS.UI.USERMENUACTIONS.COPY_BUILDING_SETTINGS.TOOLTIP
+msgctxt "STRINGS.UI.USERMENUACTIONS.COPY_BUILDING_SETTINGS.TOOLTIP"
+msgid "Apply the settings and priorities of this building to others of the same type"
+msgstr "Применить настройки и приоритеты данной постройки к другим постройкам такого же типа"
+
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME"
 msgid "Deconstruct"
@@ -16635,6 +16906,17 @@ msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP_OFF"
 msgid "Resume the use of this building"
 msgstr "Возобновить использование этой постройки"
 
+
+#. STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.NAME
+msgctxt "STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.NAME"
+msgid "Follow Cam"
+msgstr "Следовать камерой"
+
+#. STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.TOOLTIP
+msgctxt "STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.TOOLTIP"
+msgid "Track this Duplicant with the camera"
+msgstr "Позволяет следовать камерой за Дупликантом"
+
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.NAME"
 msgid "Harvest"
@@ -16669,6 +16951,16 @@ msgstr "Управлять этим Дупликантом вручную\nУп�
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP_OFF"
 msgid "Release control of this Duplicant"
 msgstr "Отменить ручное управление этим Дупликантом"
+
+#. STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.NAME
+msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.NAME"
+msgid "Enable Autoharvest"
+msgstr "Включить Автосбор урожая"
+
+#. STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.TOOLTIP
+msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.TOOLTIP"
+msgid "Duplicants will automatically harvest this plant when it matures"
+msgstr "Дупликанты будут автоматически собирать урожай с этого растения, как только он созреет"
 
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME"
@@ -16799,6 +17091,11 @@ msgstr "Съел сегодня"
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
 msgid "The amount of <style=\"food\">Food</style> your Duplicant has eaten this cycle"
 msgstr "Количество <style=\"food\">Еды</style>, которую Ваш Дупликант съел за этот цикл"
+
+#. STRINGS.UI.VITALSSCREEN_HEALTH
+msgctxt "STRINGS.UI.VITALSSCREEN_HEALTH"
+msgid "Health"
+msgstr "Здоровье"
 
 #. STRINGS.UI.VITALSSCREEN_NAME
 msgctxt "STRINGS.UI.VITALSSCREEN_NAME"
