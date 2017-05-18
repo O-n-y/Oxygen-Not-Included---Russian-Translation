@@ -13655,6 +13655,11 @@ msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME"
 msgid "RESUME GAME"
 msgstr "ПРОДОЛЖИТЬ ИГРУ"
 
+#. STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS
+msgctxt "STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS"
+msgid "TRANSLATIONS"
+msgstr "ЛОКАЛИЗАЦИИ"
+
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
@@ -13725,6 +13730,11 @@ msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS"
 msgid "Graphics"
 msgstr "Графические настройки"
 
+#. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE
+msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE"
+msgid "Choose a different Language"
+msgstr "Выбрать другой язык"
+
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS"
 msgid "Metrics"
@@ -13740,6 +13750,11 @@ msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNITS"
 msgid "Temperature Units"
 msgstr "Отображение температуры"
 
+#. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.WORLD_GEN
+msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.WORLD_GEN"
+msgid "World Generation Key"
+msgstr "Ключ для генерации мира"
+
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
 msgid "<b>Welcome to the Thermal Upgrade!</b>\n\n{0}"
@@ -13752,13 +13767,13 @@ msgstr "ОК"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES"
-msgid "This update will focus on implementing systems to make managing temperature a more integral part of gameplay. Due to the significant amount of changes to the temperature simulation, previous save files are not compatible with this version of the game. Click on the previous version button for details on how to get access to the previous version of the game.\n\nUpdate Highlights:\n*New ice biome\n*New Space Heater, Liquid Tepidizer and Textile Factory buildings\n*New plants\n*New Duplicant temperature ...(line truncated)...
-msgstr "Этот апдейт сфокусирован на увеличении значимости влияния температуры на игровой процесс, а также внедрении большего количества систем для управления температурой со стороны игрока. В связи с большим числом изменений, связанных с температурой, файлы сохранений из предыдущих версий несовместимы с данной версией игры. Нажмите на кнопку \"Прошлая версия\" для более подробной информации о том, как вернуться на старую версию игры.\n\nОсновные аспекты обновления:\n*Новый биом: ледяной\n*Новые постройки: обогреватель, водонагреватель и фабрика текстиля\n*Новые растения\n*Новая температура Дупликанта\n\n ... и многое другое!"
+msgid "Update Features:\n\n• New items, buildings and recipes\n• Improved crop tending\n• New farming and Harvest Rating systems\n• New Consumables screen\n• New Duplicant Stress Responses\n• Additional energy source: Natural Gas\n• New power management tool: Transformer\n• Screenshot Mode: Alt-S\n• Duplicant Follow Cam"
+msgstr "Основные новшества обновления:\n\n• Новые предметы, постройки и рецепты\n• Улучшение ухода за растениями\n• Новая система сбора урожая и рейтинга урожайности\n• Новый экран \"Еда\"\n• Новые реакции на стресс Дупликантов\n• Новый источник энергии: Природный газ\n• Новый инструмент для управления электричеством: Трансформатор\n• Режим скриншота: Alt-S\n• Возможность следовать камерой за Дупликантом\n\n ... и многое другое!"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
-msgid "IMPORTANT UPDATE NOTES"
-msgstr "ВАЖНАЯ ИНФОРМАЦИЯ ОБ ОБНОВЛЕНИИ"
+msgid "AGRICULTURAL UPGRADE"
+msgstr "AGRICULTURAL UPGRADE"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT"
@@ -13835,6 +13850,46 @@ msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.TITLE"
 msgid "SAVE SLOTS"
 msgstr "СЛОТЫ СОХРАНЕНИЙ"
 
+#. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.DOWNLOAD
+msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.DOWNLOAD"
+msgid "Start Download"
+msgstr "Начать загрузку"
+
+#. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL
+msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL"
+msgid "Install"
+msgstr "Установить"
+
+#. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALLED
+msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALLED"
+msgid "Installed"
+msgstr "Установлен"
+
+#. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_PACKS
+msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_PACKS"
+msgid "Steam Workshop"
+msgstr "Мастерская Стим"
+
+#. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_STEAM
+msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_STEAM"
+msgid "Unable to get language list from Steam"
+msgstr "Невозможно установить данный языковой модуль из Стима"
+
+#. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PLEASE_RESTART
+msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PLEASE_RESTART"
+msgid "This requires a restart, press ok to continue"
+msgstr "Необходимо перезагрузить игру для применения изменений, нажмите ОК, чтобы продолжить"
+
+#. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.TITLE
+msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.TITLE"
+msgid "TRANSLATIONS"
+msgstr "ЛОКАЛИЗАЦИИ"
+
+#. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UNINSTALL
+msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UNINSTALL"
+msgid "Uninstall"
+msgstr "Удалить"
+
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS"
 msgid "Celsius"
@@ -13869,6 +13924,32 @@ msgstr "Отображать температуру в Кельвинах (K)"
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE"
 msgid "TEMPERATURE UNITS"
 msgstr "ОТОБРАЖЕНИЕ ТЕМПЕРАТУРЫ"
+
+
+#. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.CHOOSE_RANDOM_BUTTON
+msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.CHOOSE_RANDOM_BUTTON"
+msgid "Use any seed"
+msgstr "Использовать любой сид"
+
+#. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.DONE_BUTTON
+msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.DONE_BUTTON"
+msgid "Done"
+msgstr "Готово"
+
+#. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.ENABLE_BUTTON
+msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.ENABLE_BUTTON"
+msgid "Set World Generation Seed"
+msgstr "Установить сид для генерации мира"
+
+#. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TITLE
+msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TITLE"
+msgid "WORLD GENERATION OPTIONS"
+msgstr "НАСТРОЙКИ ГЕНЕРАЦИИ МИРА"
+
+#. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TOOLTIP
+msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TOOLTIP"
+msgid "If set, this will override the world generation seed"
+msgstr "Если установлено, это перезапишет сид генерации мира"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD"
@@ -13925,6 +14006,11 @@ msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.COLDBREATHER"
 msgid "<style=\"heat\">Cooling Effect</style>"
 msgstr "<style=\"heat\">Эффект охлаждения</style>"
 
+#. STRINGS.UI.GAMEOBJECTEFFECTS.COOKEDMEATTEMPORARYTRAIT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.COOKEDMEATTEMPORARYTRAIT"
+msgid "Temporarily grants the <style=\"stress\">Soul Food</style> effect"
+msgstr "Временно предоставляет эффект <style=\"stress\">Пища для души</style>"
+
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED"
 msgid "Circuit Overload Damage"
@@ -13965,6 +14051,11 @@ msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS"
 msgid "{Attribute} <style=\"{Style}\">{Value}</style>"
 msgstr "{Attribute} <style=\"{Style}\">{Value}</style>"
 
+#. STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_QUALITY
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_QUALITY"
+msgid "Quality: {0}"
+msgstr "Качество: {0}"
+
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FORGAVEATTACKER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FORGAVEATTACKER"
 msgid "Forgiveness"
@@ -13972,23 +14063,58 @@ msgstr "Прощение"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FRIEDMUSHBARREMOVESDISEASE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FRIEDMUSHBARREMOVESDISEASE"
-msgid "Removes <style=\"disease\">Disease</style> chance from <style=\"food\">Mush Bar</style>"
-msgstr "Удаляет вероятность заразиться <style=\"disease\">Болезнью</style> после употребления <style=\"food\">Мшистого Батончика</style>"
+msgid "Removes <style=\"disease\">Disease</style> potential from <style=\"food\">Food</style>"
+msgstr "Нейтрализует вероятность заразиться <style=\"disease\">Болезнью</style> после употребления <style=\"food\">Еды</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME"
 msgid "Growth: {0}"
 msgstr "Рост: {0}"
 
+#. STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_REGROWTH
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_REGROWTH"
+msgid "Lifecycle: {0} / {1}"
+msgstr "Жизненный цикл: {0} / {1}"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_SIMPLE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_SIMPLE"
+msgid "Lifecycle: {0}"
+msgstr "изненный цикл: {0}"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_FERTILIZER
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_FERTILIZER"
+msgid "<style=\"solid\">{0}</style>: <style=\"consumed\">{1}</style>"
+msgstr "<style=\"solid\">{0}</style>: <style=\"consumed\">{1}</style>"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_PRESSURE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_PRESSURE"
+msgid "<style=\"gas\">Gas</style> Pressure: {0}"
+msgstr "Давление <style=\"gas\">Газа</style>: {0}"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_TEMPERATURE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_TEMPERATURE"
+msgid "<style=\"heat\">Temperature</style>: {0} to {1}"
+msgstr "<style=\"heat\">Температура</style>: {0} до {1}"
+
 #. STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME"
 msgid "Initial Growth: {0}"
 msgstr "Начальный рост: {0}"
 
-#. STRINGS.UI.GAMEOBJECTEFFECTS.OVERHEATDAMAGE
-msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.OVERHEATDAMAGE"
-msgid "Overheat Damage"
-msgstr "Урон от перегрева"
+#. STRINGS.UI.GAMEOBJECTEFFECTS.LIFECYCLETITLE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.LIFECYCLETITLE"
+msgid "Growth:"
+msgstr "Рост:"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_DO_NOT_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_DO_NOT_HARVEST"
+msgid "Manual Harvest"
+msgstr "Ручной сбор урожая"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_MARK_FOR_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_MARK_FOR_HARVEST"
+msgid "Autoharvest"
+msgstr "Автосбор урожая"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME"
@@ -14022,8 +14148,13 @@ msgstr "Гнилой"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY"
-msgid "Produces no seeds on harvest"
-msgstr "Семена не могут быть получены при сборе урожая"
+msgid "Consumes 1 <style=\"seed\">Seed</style>"
+msgstr "Содержит 1 <style=\"seed\">Семя</style>"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FINAL_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FINAL_HARVEST"
+msgid "Final harvest yields <style=\"seed\">Seeds</style>"
+msgstr "Последний сбор урожая производит <style=\"seed\">Семена</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT"
@@ -14032,8 +14163,18 @@ msgstr "Семена содержаться внутри фрукта"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST"
-msgid "Produces seeds on harvest"
-msgstr "Семена могут быть получены при сборе урожая"
+msgid "Harvest yields <style=\"seed\">Seeds</style>"
+msgstr "<style=\"seed\">Семена</style> могут быть получены при сборе урожая"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_REQUIREMENT_CEILING
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_REQUIREMENT_CEILING"
+msgid "Plot Orientation: Downward"
+msgstr "Ориентация блока: вниз"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_REQUIREMENT_WALL
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_REQUIREMENT_WALL"
+msgid "Plot Orientation: Sideways"
+msgstr "Ориентация блока: боковая"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES"
@@ -14045,10 +14186,20 @@ msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER"
 msgid "Lowers ambient air <style=\"heat\">Temperature</style>"
 msgstr "Понижает <style=\"heat\">Температуру</style> окружающего воздуха"
 
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COOKEDMEATTEMPORARYTRAIT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COOKEDMEATTEMPORARYTRAIT"
+msgid "Temporarily grants the <style=\"stress\">Soul Food</style> effect"
+msgstr "Временно предоставляет эффект <style=\"stress\">Пища для души</style>"
+
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.EQUIPMENT_MODS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.EQUIPMENT_MODS"
-msgid "{Attribute} <style=\"{Style}\">{Value}</style>"
-msgstr "{Attribute} <style=\"{Style}\">{Value}</style>"
+msgid "{Attribute} {Value}"
+msgstr "{Attribute} {Value}"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FOOD_QUALITY
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FOOD_QUALITY"
+msgid "Quality: {0}"
+msgstr "Качество: {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FRIEDMUSHBARREMOVESDISEASE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FRIEDMUSHBARREMOVESDISEASE"
@@ -14059,6 +14210,31 @@ msgstr "Удаляет возможные <style=\"disease\">Болезни</sty
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME"
 msgid "This plant takes {0} to grow"
 msgstr "Это растение требует {0} для роста"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME_REGROWTH
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME_REGROWTH"
+msgid "This plant takes {0} to grow, and {1} to mature again after first harvest"
+msgstr "Этому растению необходимо {0} чтобы вырости и {1} чтобы созреть после первого сбора урожая"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME_SIMPLE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME_SIMPLE"
+msgid "This plant takes {0} to grow"
+msgstr "Этому растению необходимо {0} чтобы вырости"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_FERTILIZER
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_FERTILIZER"
+msgid "This plant will gain Harvest Rating Points if provided with {1} of {0}"
+msgstr "Это растение заработает очки урожайности, если снабжено {0} из {1}"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_PRESSURE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_PRESSURE"
+msgid "This plant will gain Harvest Rating Points if atmospheric pressure is kept above {0}"
+msgstr "Это растение заработает очки урожайности, если атмосферное давление будет выше {0}"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_TEMPERATURE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_TEMPERATURE"
+msgid "This plant will gain Harvest Rating Points if atmospheric temperature is kept between {0} and {1}"
+msgstr "Это растение заработает очки урожайности, если температура окружающей среды будет поддерживаться между {0} и {1}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.INITIALGROWTHTIME"
@@ -14102,8 +14278,23 @@ msgstr "Это растение хранит семена в своих плод
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
-msgid "This plant produces seeds as part of the harvesting process"
+msgid "Harvesting this plant will yield new seeds"
 msgstr "Семена этого растения можно получить при сборе урожая"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FINAL_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FINAL_HARVEST"
+msgid "This plant will yield new seeds on the final harvest of its lifecycle"
+msgstr "Это растение произведен семена на последнем сборе урожая в своем жизненном цикле"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_CEILING
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_CEILING"
+msgid "This seed must be planted in a downward facing plot\n\nPress <color=#F44A47>[O]</color> while building farm plots to rotate them"
+msgstr "Это семечко должно быть посажено в блок ориентированный вниз\n\nНажмите <color=#F44A47>[O]</color>, когда строите блок для изменения его ориентации"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_WALL
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_WALL"
+msgid "This seed must be planted in a side facing plot\n\nPress <color=#F44A47>[O]</color> while building plots to rotate them"
+msgstr "Это семечко должно быть посажено в блок боковой ориентации\n\nНажмите <color=#F44A47>[O]</color>, когда строите блок для изменения его ориентации"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.BACK"
@@ -14135,6 +14326,11 @@ msgctxt "STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE"
 msgid "Select a DNA Blueprint"
 msgstr "Выберите ДНК Основу"
 
+#. STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY
+msgctxt "STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY"
+msgid "NAME YOUR COLONY"
+msgstr "НАЗОВИТЕ ВАШУ КОЛОНИЮ"
+
 #. STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON"
 msgid "Print"
@@ -14160,6 +14356,11 @@ msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE"
 msgid "SHUFFLE"
 msgstr "МЕНЯЕМ"
 
+#. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME
+msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME"
+msgid "Randomize colony name"
+msgstr "Случайное имя колонии"
+
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Reshuffle this dupe for a different one"
@@ -14169,6 +14370,11 @@ msgstr "Сменить этого дюпа на другого"
 msgctxt "STRINGS.UI.JOBS"
 msgid "JOBS"
 msgstr "РАБОТЫ"
+
+#. STRINGS.UI.JOBSCREEN_DEFAULT
+msgctxt "STRINGS.UI.JOBSCREEN_DEFAULT"
+msgid "New Duplicants"
+msgstr "Новые Дупликанты"
 
 #. STRINGS.UI.JOBSCREEN_EVERYONE
 msgctxt "STRINGS.UI.JOBSCREEN_EVERYONE"
@@ -14203,7 +14409,7 @@ msgstr "<b>{0}</b> не может выполнять работы \n типа <
 #. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF"
 msgid "<b>{0}</b> will not perform \n<b>{1} Tasks</b>"
-msgstr "<b>{0}</b> не будет выполнять работы \n типа <b>{1}</b>"
+msgstr "<b>{0}</b> не будет выполнять работы\n типа <b>{1}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON"
@@ -14223,7 +14429,7 @@ msgstr "<b>Новые Дупликанты</b> не будут выполнят�
 #. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_ON
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_ON"
 msgid "<b>New Duplicants</b> will perform \n<b>{0} Tasks</b> by default"
-msgstr "<b>Новые Дупликанты</b> будут выполнять работы типа \n<b>{0}</b> по-умолчанию"
+msgstr "<b>Новые Дупликанты</b> будут выполнять \n<b>{0}</b> по-умолчанию"
 
 #. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW"
@@ -14243,7 +14449,7 @@ msgstr "Переключить все работы для всей колони�
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_COLUMN
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_COLUMN"
 msgid "Toggle <b>{0} Tasks</b> colonywide"
-msgstr "Переключить работы типа <b>{0}</b> для всей колонии"
+msgstr "Переключить <b>{0}</b> для всей колонии"
 
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ROW
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ROW"
@@ -16368,7 +16574,7 @@ msgstr "Сборов урожая: {0}"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.OPTIMUMCONDITIONS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.OPTIMUMCONDITIONS"
 msgid "<style=\"harvestQuality\">Harvest Rating</style>: Max <style=\"produced\">+{0} Points</style>/cycle:"
-msgstr "<style=\"harvestQuality\">Рейтинг урожайности</style>: Максимально <style=\"produced\">+{0} очков</style>/cycle:"
+msgstr "<style=\"harvestQuality\">Рейтинг урожайности</style>: Максимально \n<style=\"produced\">+{0} очков</style>/cycle:"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTEFFECTS"
@@ -16378,7 +16584,7 @@ msgstr "<b>Эффекты</b>:\n"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTREQUIREMENTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTREQUIREMENTS"
 msgid "<b>Requirements</b>:\n"
-msgstr "<b>Требования</b>:\n"
+msgstr "<b>Требования и характеристики</b>:\n"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.REGROWTHTIME
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.REGROWTHTIME"
