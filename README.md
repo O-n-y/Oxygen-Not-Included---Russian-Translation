@@ -5,12 +5,7 @@
 Информация о переводе в Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=874932276
 
 # Участники перевода
-* Ony
-* Cores
-* ShaTiK
-* SealOfTheTime
-* henko
-* Dr. RPgK
+Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK
 
 # Помощь в коррекции и правка
 pecypc, OsiWops, mmalinin
