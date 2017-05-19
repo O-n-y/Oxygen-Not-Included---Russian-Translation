@@ -1815,12 +1815,12 @@ msgstr "Дистилляционная колонна"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.ABOVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.ABOVE"
 msgid "above"
-msgstr "над"
+msgstr "Сверху"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.BELOW
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.BELOW"
 msgid "below"
-msgstr "под"
+msgstr "Снизу"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO"
@@ -13135,7 +13135,7 @@ msgstr "{adjective} {noun}"
 #. STRINGS.NAMEGEN.COLONY.NOUN.ABODE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABODE"
 msgid "Abode"
-msgstr "Над"
+msgstr "Орбита"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ABYSS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABYSS"
@@ -13145,7 +13145,7 @@ msgstr "Бездна"
 #. STRINGS.NAMEGEN.COLONY.NOUN.ACROPOLIS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ACROPOLIS"
 msgid "Acropolis"
-msgstr "Акрополь"
+msgstr "Пустыня"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ANTFARM
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ANTFARM"
@@ -13155,7 +13155,7 @@ msgstr "Муравьиная Ферма"
 #. STRINGS.NAMEGEN.COLONY.NOUN.ASTEROID
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ASTEROID"
 msgid "Asteroid"
-msgstr "Астероид"
+msgstr "Пустота"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BASE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BASE"
@@ -13165,7 +13165,7 @@ msgstr "База"
 #. STRINGS.NAMEGEN.COLONY.NOUN.BEYOND
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BEYOND"
 msgid "Beyond"
-msgstr "За пределами"
+msgstr "Запредельность"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BRIGADE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BRIGADE"
@@ -13175,7 +13175,7 @@ msgstr "Бригада"
 #. STRINGS.NAMEGEN.COLONY.NOUN.BUNKER
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BUNKER"
 msgid "Bunker"
-msgstr "Бункер"
+msgstr "Башня"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BURROW
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BURROW"
@@ -13205,7 +13205,7 @@ msgstr "Комета"
 #. STRINGS.NAMEGEN.COLONY.NOUN.COMMITTEE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COMMITTEE"
 msgid "Committee"
-msgstr "Комитет"
+msgstr "Прямая"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.COSMOS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COSMOS"
@@ -13220,7 +13220,7 @@ msgstr "Ночлежка"
 #. STRINGS.NAMEGEN.COLONY.NOUN.CRATER
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CRATER"
 msgid "Crater"
-msgstr "Кратер"
+msgstr "Пирамида"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CREW
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CREW"
@@ -13230,7 +13230,7 @@ msgstr "Команда"
 #. STRINGS.NAMEGEN.COLONY.NOUN.DIMENSION
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DIMENSION"
 msgid "Dimension"
-msgstr "Измерение"
+msgstr "Бесконечность"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.DREAMLAND
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DREAMLAND"
@@ -13245,7 +13245,7 @@ msgstr "Свалка"
 #. STRINGS.NAMEGEN.COLONY.NOUN.DWELLING
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DWELLING"
 msgid "Dwelling"
-msgstr "Жилье"
+msgstr "Территория"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.DYSTOPIA
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DYSTOPIA"
@@ -13255,7 +13255,7 @@ msgstr "Антиутопия"
 #. STRINGS.NAMEGEN.COLONY.NOUN.FACILITY
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FACILITY"
 msgid "Facility"
-msgstr "Учреждение"
+msgstr "Психбольница"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.FACTORY
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FACTORY"
@@ -13270,7 +13270,7 @@ msgstr "Крепость"
 #. STRINGS.NAMEGEN.COLONY.NOUN.FRIENDS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.FRIENDS"
 msgid "Friends"
-msgstr "Друзья"
+msgstr "Мечта Друзей"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.GALAXY
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.GALAXY"
@@ -13285,7 +13285,7 @@ msgstr "Шайка"
 #. STRINGS.NAMEGEN.COLONY.NOUN.HOME
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOME"
 msgid "Home"
-msgstr "Дом"
+msgstr "Дача"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.HOMESTEAD
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOMESTEAD"
@@ -13295,7 +13295,7 @@ msgstr "Усадьба"
 #. STRINGS.NAMEGEN.COLONY.NOUN.HOVEL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.HOVEL"
 msgid "Hovel"
-msgstr "Шалаш"
+msgstr "Вселенная"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.LAB
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.LAB"
@@ -13305,7 +13305,7 @@ msgstr "Лаборатория"
 #. STRINGS.NAMEGEN.COLONY.NOUN.LABORATORY
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.LABORATORY"
 msgid "Laboratory"
-msgstr "Лаборатория"
+msgstr "Локация"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.LEAGUE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.LEAGUE"
@@ -13320,17 +13320,17 @@ msgstr "Лунная База"
 #. STRINGS.NAMEGEN.COLONY.NOUN.PANOPTICON
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PANOPTICON"
 msgid "Panopticon"
-msgstr "Паноптикум"
+msgstr "Страна Паноптикум"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.PARADISE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PARADISE"
 msgid "Paradise"
-msgstr "Рай"
+msgstr "Райская База"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.PIGPEN
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PIGPEN"
 msgid "Pigpen"
-msgstr "Свинарник"
+msgstr "Ферма"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.PIT
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.PIT"
@@ -13345,12 +13345,12 @@ msgstr "Планета"
 #. STRINGS.NAMEGEN.COLONY.NOUN.RATS_NEST
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.RATS_NEST"
 msgid "Rat's Nest"
-msgstr "Крысиное Гнездо"
+msgstr "Крысиная Дыра"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SETTLEMENT
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SETTLEMENT"
 msgid "Settlement"
-msgstr "Поселение"
+msgstr "Деревня"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SHACK
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SHACK"
@@ -13360,7 +13360,7 @@ msgstr "Лачуга"
 #. STRINGS.NAMEGEN.COLONY.NOUN.SHELTER
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SHELTER"
 msgid "Shelter"
-msgstr "Укрытие"
+msgstr "Берлога"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACE_HUT
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACE_HUT"
@@ -13370,17 +13370,17 @@ msgstr "Космическая Берлога"
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACECAMP
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACECAMP"
 msgid "Spacecamp"
-msgstr "Космический Лагерь"
+msgstr "Космическая Колония"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACEJUNK
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEJUNK"
 msgid "Spacejunk"
-msgstr "Космический Мусор"
+msgstr "Пустота"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACEPAD
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEPAD"
 msgid "Spacepad"
-msgstr "Космический Блок"
+msgstr "Нейронная Сеть"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACEPRISON
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEPRISON"
@@ -13390,7 +13390,7 @@ msgstr "Космическая Тюрьма"
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACEROCK
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACEROCK"
 msgid "Spacerock"
-msgstr "Космический Камень"
+msgstr "Черная Дыра"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SPACESTATION
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SPACESTATION"
@@ -13410,17 +13410,17 @@ msgstr "Система"
 #. STRINGS.NAMEGEN.COLONY.NOUN.TIMELINE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.TIMELINE"
 msgid "Timeline"
-msgstr "График"
+msgstr "Временная Линия"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.TRAINWRECK
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.TRAINWRECK"
 msgid "Trainwreck"
-msgstr "Крушение Поезда"
+msgstr "Катастрофа"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.TUNNEL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.TUNNEL"
 msgid "Tunnel"
-msgstr "Тунель"
+msgstr "Шахта"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.UTOPIA
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.UTOPIA"
@@ -17152,7 +17152,7 @@ msgstr "Выберите ДНК Основу"
 #. STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY"
 msgid "NAME YOUR COLONY"
-msgstr "НАЗОВИТЕ ВАШУ КОЛОНИЮ"
+msgstr "НАЗОВИТЕ КОЛОНИЮ"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON"
