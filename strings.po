@@ -3335,7 +3335,7 @@ msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Щитовика Цв�
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME"
 msgid "Blossom Seed"
-msgstr "Семя щитовика"
+msgstr "Семя щитовика цветущего"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC"
@@ -3350,7 +3350,7 @@ msgstr "Семя шиповника"
 #. STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Pincha Pepperplant</style>.\n\nDigging up Buried Objects may uncover a Pincha Pepper Seed."
-msgstr "<style=\"seed\">Семя</style> от <style=\"plant\">Пинчи перечной</style>.\n\nри выкапывании заваленных объектов может обнаружиться семя пинчи перечной."
+msgstr "<style=\"seed\">Семя</style> от <style=\"plant\">Пинчи перечной</style>.\n\nПри выкапывании заваленных объектов может обнаружиться семя пинчи перечной."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.NAME"
@@ -3465,7 +3465,7 @@ msgstr "Растения со временем поглощают питател
 #. STRINGS.CREATURES.STATS.MATURITY.AMOUNT_DESC_FMT
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.AMOUNT_DESC_FMT"
 msgid "{0}: {1}\nNext harvest in {2}"
-msgstr "{0}: {1}\nСледующий сбор урожая в {2}"
+msgstr "{0}: {1}\nСледующий сбор урожая через {2}"
 
 #. STRINGS.CREATURES.STATS.MATURITY.GROWING
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.GROWING"
@@ -7334,8 +7334,8 @@ msgstr "Холодное окружение"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP"
-msgid "This Duplicant is about to freeze to death"
-msgstr "Этот дупликант почти замерз до смерти"
+msgid "This Duplicant cannot retain enough heat to stay warm and may be under insulated for this area\nStress Modification: {StressModification}\n\nCurrent Environmental Exchange: {currentTransferWattage}\n\nInsulation Thickness: {conductivityBarrier}"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME"
@@ -8980,7 +8980,7 @@ msgstr "Тошнючка"
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC"
 msgid "This Duplicant is very strong and cool"
-msgstr "Этот Дупликант очень селен и крут"
+msgstr "Этот Дупликант очень силен и крут"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME"
@@ -12020,7 +12020,7 @@ msgstr "Вытирать"
 #. STRINGS.MISC.POPFX.RESOURCE_EATEN
 msgctxt "STRINGS.MISC.POPFX.RESOURCE_EATEN"
 msgid "Resource Eaten"
-msgstr "Материал съеден"
+msgstr "Ресурс съеден"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME"
@@ -14340,7 +14340,7 @@ msgstr "Передовые технологии для получения бол
 #. STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME
 msgctxt "STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME"
 msgid "Filtration"
-msgstr "Фильтрация"
+msgstr "Системы очистки"
 
 #. STRINGS.RESEARCH.ADVANCEDPOWERREGULATION.DESC
 msgctxt "STRINGS.RESEARCH.ADVANCEDPOWERREGULATION.DESC"
