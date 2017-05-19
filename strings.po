@@ -3535,7 +3535,7 @@ msgstr "Более плотные барьеры проводимости уме
 #. STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_DESC_FMT
 msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_DESC_FMT"
 msgid "{0}: {1} / {2}\nPredicted: <style=\"harvestQuality\">{3}</style> ({4})"
-msgstr "{0}: {1} / {2}\nПрогнозированный:  <style=\"harvestQuality\">{3}</style> ({4})"
+msgstr "{0}: {1} / {2}\nПрогнозирован: \n<style=\"harvestQuality\">{3}</style> ({4})"
 
 #. STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_FMT
 msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_FMT"
@@ -4485,7 +4485,7 @@ msgstr "Температура перегрева"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
 msgid "This Duplicant is most proficient at {0}"
-msgstr "Этот Дупликант наиболее опытен в {0}"
+msgstr "Наибольшая характеристика этого Дупликанта: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC"
@@ -15735,7 +15735,7 @@ msgstr "Просмотр инвентаря Дупликанта"
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED"
 msgid "Unassigned"
-msgstr "Неназначенный"
+msgstr "Не назначено"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED_TOOLTIP"
@@ -16135,7 +16135,7 @@ msgstr "Сальдо"
 #. STRINGS.UI.ENDOFDAYREPORT.NEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NEXT"
 msgid "Next"
-msgstr "Далее"
+msgstr "Вперед"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.ATE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.ATE"
@@ -16185,7 +16185,7 @@ msgstr "Ваша колония сгенерировала {0} <style=\"oxygen\"
 #. STRINGS.UI.ENDOFDAYREPORT.PREV
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PREV"
 msgid "Prev"
-msgstr "Предыдуший"
+msgstr "Назад"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
@@ -18842,7 +18842,7 @@ msgstr "Отображает приоритет задач"
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid "Drag to bump job tasks up or down in importance"
-msgstr "Перетаскивайте рабочие задачи вверх или вниз для изменения их важности"
+msgstr "Перетаскивайте приоритет на задачи для повышения или понижения важности выполнения задачи"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
