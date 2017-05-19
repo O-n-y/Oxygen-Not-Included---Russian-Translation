@@ -2105,7 +2105,7 @@ msgstr "Возможно, это не самый экологичный исто
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT"
 msgid "A <style=\"power\">Power</style> source that burns <style=\"RawMineral\">Coal</style> to generate electricity."
-msgstr "Источник <style="power">Электричества</style>, который сжигает <style="RawMineral">Уголь</style> для выработки электричества."
+msgstr "Источник <style=\"power\">Электричества</style>, который сжигает <style=\"RawMineral\">Уголь</style> для выработки электричества."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
