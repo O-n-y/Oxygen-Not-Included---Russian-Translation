@@ -585,7 +585,7 @@ msgstr "Доступно <style=\"power\">Электричества</style>: {J
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP"
 msgid "{JoulesAvailable} of stored power available for use"
-msgstr "Доступно {JoulesAvailable} от общего запаса электроэнергии"
+msgstr "Доступно {JoulesAvailable} от общего запаса электричества"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME"
@@ -2870,7 +2870,7 @@ msgstr "Защитите колонию от расплавления!"
 #. STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.EFFECT"
 msgid "Automates switching <style=\"power\">Power</style> grids on or off based on ambient <style=\"heat\">Heat</style>."
-msgstr "Автоматизирует переключение сетей <style=\"power\">Электроэнергии</style> в состояние Включено или Выключено в зависимости от окружающего <style=\"heat\">Тепла</style>."
+msgstr "Автоматизирует переключение сетей <style=\"power\">Электричества</style> в состояние Включено или Выключено в зависимости от окружающего <style=\"heat\">Тепла</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.NAME"
@@ -4525,7 +4525,7 @@ msgstr "Изменение выносливости"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
 msgid "The Strength attribute determines a Duplicant's carrying capacity and combat effectiveness."
-msgstr "Атрибут Сила определяет боевую эффективность Дупликанта, а также переносимый им вес"
+msgstr "Атрибут \"Сила\" определяет боевую эффективность Дупликанта, а также переносимый им вес"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
@@ -6569,8 +6569,8 @@ msgstr "Этот Дупликант работает изо всех сил"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
-msgid "Areas with <style=\"decor\">Decor</style> values lower than a Duplicant's <style=\"decor\">Decor Expectations</style> will cause their <style=\"stress\">Stress</style>\nto rise, while high decor values will cause their stress to fall.\n\nA Duplicant's expectations will increase as they level up and become better at their jobs."
-msgstr "Зоны, значение <style=\"decor\">Декора</style> которых ниже чем <style=\"decor\">Ожидание Декора</style> Дупликанта, приводят к <style=\"stress\">Стрессу</style>\n, который будет расти, в то время как высокие значения декора заставят стресс снижаться.\n\nОжидания Дупликантов по декору будут возрастать с ростом уровня и когда они будут становиться лучше на своих работах."
+msgid "Most objects have <style=\"decor\">Decor</style> values that can increase or decrease a Duplicant's opinion of their surroundings.\n\nThis Duplicant requires {0} or higher decor values, and will become <style=\"stress\">Stressed</style> in areas with lower decor."
+msgstr "Большинство объектов имеет значение <style=\"decor\">Декора</style>, которое может увеличить или уменьшить мнение Дупликанта об окружающем пространстве.\n\nЭтот Дупликант трубует рейтинг декора {0} или выше, и получит <style=\"stress\">Стресс</style> в зонах с меньшим рейтингом декора."
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
@@ -6645,7 +6645,7 @@ msgstr "Качество еды"
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP"
 msgid "Food Quality Expectation is the minimum quality of <style=\"food\">Food</style> a Duplicant can tolerate eating.\n\nThis Duplicant requires {0} or higher food, and will become <style=\"stress\">Stressed</style> if to forced to eat lower quality foods."
-msgstr "\"Ожидаемое качество еды" - это минимальное качество <style=\"food\">Еды</style>, которое непротив употреблять Дупликант.\n\nЭтот Дупликант требует {0} или более высококачественную еду и будет испытывать <style=\"stress\">Стресс</style>, если будет вынужден есть продукты более низкого качества."
+msgstr "Ожидаемое качество еды - это минимальное качество <style=\"food\">Еды</style>, которое непротив употреблять Дупликант.\n\nЭтот Дупликант требует {0} или более высококачественную еду и будет испытывать <style=\"stress\">Стресс</style>, если будет вынужден есть продукты более низкого качества."
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY"
@@ -8915,7 +8915,7 @@ msgstr "Сова"
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC"
 msgid "This Duplicant's arms have all the tensile strength of an overcooked linguine"
-msgstr "Руки этого Дупликанта настолько же сильны, насколько и переваренные макароны"
+msgstr "Руки этого Дупликанта также сильны, как и переваренные макароны"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME"
@@ -13205,12 +13205,12 @@ msgstr "Комета"
 #. STRINGS.NAMEGEN.COLONY.NOUN.COMMITTEE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COMMITTEE"
 msgid "Committee"
-msgstr "Прямая"
+msgstr "Туманность"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.COSMOS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COSMOS"
 msgid "Cosmos"
-msgstr "Космос"
+msgstr "Атмосфера"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CRASHPAD
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CRASHPAD"
@@ -17227,12 +17227,12 @@ msgstr "Сортировать колонию по уровню характер
 #. STRINGS.UI.JOBSSCREEN.JOB_CANT_CONSUME
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_CANT_CONSUME"
 msgid "<b>{0}</b> cannot perform \n<b>{1} Tasks</b>"
-msgstr "<b>{0}</b> не может выполнять работы \n типа <b>{1}</b>"
+msgstr "<b>{0}</b> не может выполнять работы\nтипа <b>{1}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF"
 msgid "<b>{0}</b> will not perform \n<b>{1} Tasks</b>"
-msgstr "<b>{0}</b> не будет выполнять работы\n типа <b>{1}</b>"
+msgstr "<b>{0}</b> не будет выполнять работы\nтипа <b>{1}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON"
@@ -17377,7 +17377,7 @@ msgstr "Карта электрической сети"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.DIAGRAM_HEADER
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.DIAGRAM_HEADER"
 msgid "Energy from LEFT circuit is provided to RIGHT circuit"
-msgstr "Энергия из ЛЕВОГО провода (генератор электричества) используется ПРАВЫМ проводом (потребитель электричества)"
+msgstr "Энергия из ЛЕВОГО провода (генератор электричества) используется \nПРАВЫМ проводом (потребитель электричества)"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND_SWITCH
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND_SWITCH"
@@ -17472,7 +17472,7 @@ msgstr "Система перегружена"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8"
 msgid "This circuit is consuming more <style=\"power\">Power</style> than it can produce"
-msgstr "Этот провод потребляет больше <style=\"power\">Электроэнергии</style>, чем он может передать"
+msgstr "Этот провод потребляет больше <style=\"power\">Электричества</style>, чем он может передать"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON"
