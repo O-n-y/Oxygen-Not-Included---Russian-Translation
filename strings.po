@@ -10760,7 +10760,7 @@ msgstr "PanCamera"
 #. STRINGS.INPUT_BINDINGS.ROOT.PANDOWN
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANDOWN"
 msgid "PanDown"
-msgstr "PanDownз"
+msgstr "PanDown"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PANLEFT
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PANLEFT"
@@ -11640,7 +11640,7 @@ msgstr "Терпение и труд увеличили навыки следу�
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP_PST
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP_PST"
 msgid "\n\nTheir expectations have increased accordingly."
-msgstr "\n\nИх ожидания возрастли соответственно."
+msgstr "\n\nИх ожидания возросли соответственно."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY"
