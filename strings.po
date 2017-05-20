@@ -10155,7 +10155,7 @@ msgstr "Превратите вашего Дупликанта в ходячий
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT"
 msgid "Increases Decor in a small area effect around the wearer."
-msgstr "Повышает показатель Декора в небольшом радиусе от носителя."
+msgstr "Повышает показатель декора в небольшом радиусе от носителя."
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME"
@@ -10170,7 +10170,7 @@ msgstr "Стильный костюм"
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
 msgid "Increases Decor in a small area effect around the wearer."
-msgstr "Повышает показатель Декора в небольшом радиусе от носителя."
+msgstr "Повышает показатель декора в небольшом радиусе от носителя."
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.DESC"
@@ -11065,7 +11065,7 @@ msgstr "Щетинистая ягодка"
 #. STRINGS.ITEMS.FOOD.ROTPILE.DESC
 msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.DESC"
 msgid "An inedible glop of former foodstuff.\n\nRot piles break down into <style=\"solid\">Polluted Dirt</style> over time."
-msgstr "Несъедобная куча бывших продуктов питания. \n\nГнилые кучи разбиваются на блоки <style=\"solid\">Загрязненой Земли</style> со временем."
+msgstr "Несъедобная куча бывших продуктов питания. \n\nГнилые кучи разбиваются на блоки <style=\"solid\">Загрязненой земли</style> со временем."
 
 #. STRINGS.ITEMS.FOOD.ROTPILE.NAME
 msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.NAME"
