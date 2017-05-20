@@ -2230,7 +2230,7 @@ msgstr "Транспортирует <style="liquid">Жидкость</style> м
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME"
 msgid "Insulated Liquid Pipe"
-msgstr "Теплоизолированная водопроводная труба"
+msgstr "Теплоизоляционная водопроводная труба"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.DESC"
@@ -7900,12 +7900,12 @@ msgstr "Этому Дупликанту нечего есть в колонии"
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME"
 msgid "No restrooms"
-msgstr "Нет санузлов"
+msgstr "Нет туалетов"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_NAME"
 msgid "No restrooms built"
-msgstr "Не построены санузлы"
+msgstr "Не построены туалеты"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP"
@@ -12610,7 +12610,7 @@ msgstr "Жидкость"
 #. STRINGS.MISC.TAGS.LIQUIFIABLE
 msgctxt "STRINGS.MISC.TAGS.LIQUIFIABLE"
 msgid "Liquifiable"
-msgstr "Растапливаемый"
+msgstr "Растопимый"
 
 #. STRINGS.MISC.TAGS.MESSSTATION
 msgctxt "STRINGS.MISC.TAGS.MESSSTATION"
@@ -13720,7 +13720,7 @@ msgstr "Джо"
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JULIAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JULIAN"
 msgid "Ju-Lian"
-msgstr "Джу-Лиан"
+msgstr "Джулиан"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KERNLE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KERNLE"
@@ -13935,7 +13935,7 @@ msgstr "Дар"
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.UNISEX.DUMPLING
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.UNISEX.DUMPLING"
 msgid "Dumpling"
-msgstr "Пельмень"
+msgstr "Дамплинг"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.UNISEX.FARAH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.UNISEX.FARAH"
@@ -14460,7 +14460,7 @@ msgstr "{0} требуется"
 #. STRINGS.RESEARCH.PERCOLATION.DESC
 msgctxt "STRINGS.RESEARCH.PERCOLATION.DESC"
 msgid "Waste management techniques to keep your base clean and livable."
-msgstr "Техника управление отходами. Сделаем вашу базу чистой и пригодной для жизни."
+msgstr "Техника управление отходами, чтобы сделать вашу базу чистой и пригодной для жизни."
 
 #. STRINGS.RESEARCH.PERCOLATION.NAME
 msgctxt "STRINGS.RESEARCH.PERCOLATION.NAME"
@@ -15100,7 +15100,7 @@ msgstr "Требует соединения с генератором, прои�
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESSEED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESSEED"
 msgid "Must receive a plant seed"
-msgstr "Необходимо получить семя растения"
+msgstr "Требует посаженного семени"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY"
@@ -16115,7 +16115,7 @@ msgstr "Время бездействия: "
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} idling over the course of the day"
-msgstr "Ваш Дупликант бесполезно провел {0} времени в течение дня"
+msgstr "Ваш Дупликант провел бездействуя {0} времени в течение дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
@@ -16295,7 +16295,7 @@ msgstr "Выполнено"
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE"
 msgid "Start background music every morning"
-msgstr "Включать фоновую музыку каждое утро"
+msgstr "Начинать фоновую музыку каждое утро"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP"
@@ -17187,7 +17187,7 @@ msgstr "Случайное имя колонии"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Reshuffle this dupe for a different one"
-msgstr "Сменить этого простофилю на другого"
+msgstr "Сменить этого Дупликанта на другого"
 
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
@@ -18902,7 +18902,7 @@ msgstr "Нажмите, чтобы свернуть"
 #. STRINGS.UI.TOOLTIPS.RESOURCECATEGORY.DESC
 msgctxt "STRINGS.UI.TOOLTIPS.RESOURCECATEGORY.DESC"
 msgid "Counts resources within Duplicant reach that are not allocated to construction"
-msgstr "Считает только ресурсы в зоне досигаемости Дуплиrанта, которые не зарезервированы под строительство"
+msgstr "Считает только ресурсы в зоне досигаемости Дупликанта, которые не зарезервированы под строительство"
 
 #. STRINGS.UI.TOOLTIPS.RESOURCECATEGORY.EXPAND
 msgctxt "STRINGS.UI.TOOLTIPS.RESOURCECATEGORY.EXPAND"
@@ -19702,7 +19702,7 @@ msgstr "Время до активации: {0}"
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.TIMETODEACTIVATE
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.TIMETODEACTIVATE"
 msgid "Time until deactivation: {0}"
-msgstr "Время до деактивации: {0}"
+msgstr "Время до отключения: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.TITLE"
@@ -19952,7 +19952,7 @@ msgstr "Прочистить туалет"
 #. STRINGS.UI.USERMENUACTIONS.CLEANTOILET.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEANTOILET.TOOLTIP"
 msgid "Remove waste from this toilet"
-msgstr "Убрать стоки из данного санузла"
+msgstr "Убрать стоки из данного туалета"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.NAME"
