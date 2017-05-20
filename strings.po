@@ -9010,7 +9010,7 @@ msgstr "Балерина"
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC"
 msgid "Things won't be pretty if this Duplicant gets too stressed"
-msgstr "Ваши дела станут плохи, если этот Дублиант окажется в слишком большом стрессе"
+msgstr "Ваши дела станут плохи, если этот Дупликант окажется в слишком большом стрессе"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME"
