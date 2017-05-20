@@ -3025,7 +3025,7 @@ msgstr "Съедобный партенокарпический фрукт, ко
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME"
 msgid "Buried Muckroot"
-msgstr "Закопанный гнойкорень"
+msgstr "Закопанный гнилькорень"
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC"
@@ -3300,7 +3300,7 @@ msgstr "Семя мучного дерева"
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Wheezewort</style>.\n\nDigging up Buried Objects may uncover a Wheezewort Seed."
-msgstr "<style=\"seed\">Семя</style> от <style=\"plant\">Хладнодыха</style>.\n\nПри выкапывании заваленных объектов может обнаружиться семя хладодыха."
+msgstr "<style=\"seed\">Семя</style> от <style=\"plant\">Хладодыха</style>.\n\nПри выкапывании заваленных объектов может обнаружиться семя хладодыха."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME"
