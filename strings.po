@@ -5750,7 +5750,7 @@ msgstr "Товарищи этого Дупликанта испытывают о
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME"
 msgid "Trench Stench"
-msgstr "Немытый"
+msgstr "Мерзкий запах"
 
 #. STRINGS.DUPLICANTS.DISEASES.RECUPERATING
 msgctxt "STRINGS.DUPLICANTS.DISEASES.RECUPERATING"
@@ -7920,12 +7920,12 @@ msgstr "Здесь нет туалетов, доступных этому Дуп
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME"
 msgid "Restroom out of order"
-msgstr "Санузел вышел из строя"
+msgstr "Туалет вышел из строя"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_NAME"
 msgid "Restrooms out of order"
-msgstr "Санузлы вышли из строя"
+msgstr "Туалеты вышли из строя"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_TOOLTIP"
@@ -7935,7 +7935,7 @@ msgstr "Эти Дупликанты хотят использовать выше
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.TOOLTIP"
 msgid "The only toilets in this Duplicant's reach are out of order"
-msgstr "Санузлы в зоне доступности данного Дупликанта вышли из строя"
+msgstr "Туалеты в зоне доступности данного Дупликанта вышли из строя"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PACIFYDELIVERSTATUS.NAME"
@@ -19947,7 +19947,7 @@ msgstr "Отменяет этот приказ выкапывания"
 #. STRINGS.UI.USERMENUACTIONS.CLEANTOILET.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEANTOILET.NAME"
 msgid "Clean Toilet"
-msgstr "Прочистить санузел"
+msgstr "Прочистить туалет"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEANTOILET.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEANTOILET.TOOLTIP"
