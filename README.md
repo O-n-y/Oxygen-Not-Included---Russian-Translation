@@ -5,15 +5,10 @@
 Информация о переводе в Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=874932276
 
 # Участники перевода
-* Ony
-* Cores
-* ShaTiK
-* SealOfTheTime
-* henko
-* Dr. RPgK
+Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK
 
 # Помощь в коррекции и правка
-pecypc, OsiWops, mmalinin
+pecypc, OsiWops, mmalinin, strategdzr
 
 # Из Воркшопа Стим
 Подписаться на мод: http://steamcommunity.com/sharedfiles/filedetails/?id=927642162
@@ -82,7 +77,6 @@ pecypc, OsiWops, mmalinin
 # Базовые понятия
 * Duplicant - Дупликант
 * Power - Электричество
-* Mush bar - Мшистый батончик
 * Tile - Блок
 * Wire - Провод
 * Insulation - Теплоизоляция
@@ -97,7 +91,29 @@ pecypc, OsiWops, mmalinin
 * Disease - Болезнь
 * Skill \ Attribute - Навык \ Характеристика
 * Liquid Pipes - Водопроводные трубы
+* Liquid Pipe - Водопроводная труба
 * Novice Research - Базовое Исследование
+
+# Животный мир, Растения, Еда
 * Meal Lice - Мукоед
 * Mealwood - Мучное дерево
-* Liquid Pipe - Водопроводная труба
+* Muckroot - Гнилькорень
+* Sleet Wheat - Морозная пшеница
+* Sleet Wheat Grain - Зерно морозной пшеницы
+* Peppernut - Перечный орех
+* Pincha Pepperplant- Пинча перечная
+* Thimble Reed - Прядун
+* Wheezewort - Хладодых
+* Swamp Lily - Болотная Лилия
+* Muckroot - Гнилькорень
+* Palmera Tree - Дерево Пальмера
+* Bristle Blossom - Щитовик Цветущий
+* Bristle Briar - Шиповник
+* Mush bar - Мшистый батончик
+* Bristle Berry - Щетинистая ягодка
+* Stuffed Berry - Фаршированная ягодка
+* Gristle Berry - Хрустящая Ягодка
+* Frost Bun - Ледяная булочка
+* Liceloaf - Батончик из мукоедов
+
+
