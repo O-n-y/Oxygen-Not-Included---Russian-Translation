@@ -4290,7 +4290,7 @@ msgstr "$value% Скорость приготовления еды"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC"
 msgid "<style=\"decor\">Decor</style> affects a Duplicant's Room Opinion."
-msgstr "<style=\"decor\">Декор</style> влияет на то, как Дуплкант оценивает комнату"
+msgstr "<style=\"decor\">Декор</style> влияет на то, как Дупликант оценивает комнату"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME"
@@ -6955,7 +6955,7 @@ msgstr "Ми-Ма"
 #. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC"
 msgid "People usually expect a Duplicant named \"{0}\" to be tough, but they're all pretty huge wimps."
-msgstr "Люди думают, что Дуплкант по имени \"{0}\" будет суровым, но они все ужасные слабаки."
+msgstr "Люди думают, что Дупликант по имени \"{0}\" будет суровым, но они все ужасные слабаки."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME"
@@ -11605,7 +11605,7 @@ msgstr "Доступные для печати Дупликанты были р�
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME"
 msgid "Duplicants' expectations increased"
-msgstr "Ожидания Дуплкантов повысились"
+msgstr "Ожидания Дупликантов повысились"
 
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP"
@@ -11845,7 +11845,7 @@ msgstr "Следующие ресурсы расплавились:"
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
 msgid "Duplicants crave structure and will only eat, sleep, work or bathe during the times you allot for these activities.\n\nTo make the best use of your time, open the <color=#833A5FFF>SCHEDULE TAB</color> [U] to adjust your colony's agenda and plan how your Duplicants should utilize their day."
-msgstr "Дупликанты жаждут порядка. Вы сами говорите им, когда они будут есть, спать, работать или мыться.\n\nЧтобы наилучшим образом распорядиться временем откройте <color=#833A5FFF>РАСПИСАНИЕ</color> [U] - в нем Вы можете распланировать, чем Ваши Дуплканты будут заниматься в течение дня"
+msgstr "Дупликанты жаждут порядка. Вы сами говорите им, когда они будут есть, спать, работать или мыться.\n\nЧтобы наилучшим образом распорядиться временем откройте <color=#833A5FFF>РАСПИСАНИЕ</color> [U] - в нем Вы можете распланировать, чем Ваши Дупликанты будут заниматься в течение дня"
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME"
@@ -11910,7 +11910,7 @@ msgstr "Структурная целостность постройки был�
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY"
 msgid "Duplicants will perform pending job tasks in order of highest priority to lowest. For example, Duplicants will always harvest <style=\"food\">food</style> before they build, and always build new structures before they dig.\n\nOpen the <color=#833A5FFF>JOBS TAB</color> [J] to set which job tasks Duplicants may perform, or specialize skilled Duplicants for specific types of work."
-msgstr "Дупликанты всегда выполняют поставленные задачи в порядке приоритета - от высшего к низшему. Например, Дупликанты всегда будут сначала собирать <style=\"food\">урожай</style> и потом строить, а строить они будут до того, как приступят к земляным работам.\n\nВ <color=#833A5FFF>ПАНЕЛИ РАБОТ</color> [J] Вы можете указать, какие виды работы Дуплканты могут выполнять - или сделать из опытного Дупликанта специалиста в определенной области."
+msgstr "Дупликанты всегда выполняют поставленные задачи в порядке приоритета - от высшего к низшему. Например, Дупликанты всегда будут сначала собирать <style=\"food\">урожай</style> и потом строить, а строить они будут до того, как приступят к земляным работам.\n\nВ <color=#833A5FFF>ПАНЕЛИ РАБОТ</color> [J] Вы можете указать, какие виды работы Дупликанты могут выполнять - или сделать из опытного Дупликанта специалиста в определенной области."
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME"
@@ -18162,7 +18162,7 @@ msgstr "РАСПИСАНИЕ"
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION"
 msgid "EAT:\nDuring Mealtime Duplicants will head to their assigned mess halls and eat."
-msgstr "ОБЕД:\nВо время обеденного перерыва Дуплканты отправляются есть за заданный им обеденный стол."
+msgstr "ОБЕД:\nВо время обеденного перерыва Дупликанты отправляются есть за заданный им обеденный стол."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME"
