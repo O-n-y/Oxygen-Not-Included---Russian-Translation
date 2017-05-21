@@ -1675,7 +1675,7 @@ msgstr "Потребляет один <style=\"misc\">Топливный бру�
 #. STRINGS.BUILDINGS.PREFABS.BURNER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.NAME"
 msgid "Burner"
-msgstr ""
+msgstr "Сжигатель"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
@@ -1690,7 +1690,7 @@ msgstr "Будем надеяться что Ваши Дупликанты пр�
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT"
 msgid "Increases <style=\"decor\">Decor</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be painted by a Duplicant."
-msgstr "Увеличивает <style=\"decor\">Показатель декора</style> и уменьшает <style=\"stress\">Стресс</style> Дупликантов.\n\nДолжен быть расписан Дупликантом."
+msgstr "Увеличивает <style=\"decor\">Показатель Декора</style> и уменьшает <style=\"stress\">Стресс</style> Дупликантов.\n\nДолжен быть расписан Дупликантом."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME"
@@ -1715,7 +1715,7 @@ msgstr "Этот свет имитирует естественную надзе
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT"
 msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
-msgstr "Увеличивает <style=\"decor\">Показатель декора</style> и уменьшает <style=\"stress\">Стресс</style> излучая <style=\"light\">Свет</style>."
+msgstr "Увеличивает <style=\"decor\">Показатель Декора</style> и уменьшает <style=\"stress\">Стресс</style> излучая <style=\"light\">Свет</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
@@ -1955,7 +1955,7 @@ msgstr "Дупликанты готовы до хрипоты спорить, в
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
 msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicant <style=\"stress\">Stress</style>."
-msgstr "Увеличивает <style=\"decor\">Показатель декора</style> и уменьшает <style=\"stress\">Стресс</style>."
+msgstr "Увеличивает <style=\"decor\">Показатель Декора</style> и уменьшает <style=\"stress\">Стресс</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME"
@@ -2580,7 +2580,7 @@ msgstr "Делает ваших Дупликантов быстрее, силь�
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT"
 msgid "Uses <style=\"RawMetal\">Raw Metal</style> or <style=\"RefinedMetal\">Refined Metal</style> to craft <style=\"equipment\">Multitools</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Дупликанты не будут готовить, пока рецепты не поставлены в очередь."
+msgstr "Использует <style=\"RawMetal\">Металл</style> или <style=\"RefinedMetal\">Очищенный металл</style> для изготовления <style=\"equipment\">Мультитула</style>.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME"
@@ -2770,7 +2770,7 @@ msgstr "Позволяет плавить различные материалы"
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.EFFECT"
 msgid "Converts <style=\"RawMetal\">Raw Metal</style> into <style=\"RefinedMetal\">Refined Metal</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Дупликанты не будут готовить, пока рецепты не поставлены в очередь."
+msgstr "Конвертирует <style=\"RawMetal\">Металл</style> в <style=\"RefinedMetal\">Очищенный металл</style>.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.NAME"
@@ -2815,7 +2815,7 @@ msgstr "Экзокостюм позволяет Дупликантам дыша�
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT"
 msgid "Uses <style=\"RawMetal\">Raw Metal</style> or <style=\"RefinedMetal\">Refined Metal</style> to craft protective <style=\"equipment\">Exosuits</style> for Duplicants.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Дупликанты не будут готовить, пока рецепты не поставлены в очередь."
+msgstr "Использует <style=\"RawMetal\">Металл</style> или <style=\"RefinedMetal\">Очищенный металл</style> для изготовления защитных <style=\"equipment\">Экзокостюмов</style> для Дубликантов.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME"
@@ -3610,7 +3610,7 @@ msgstr "Прогнозируемый рейтинг урожайности: {0} 
 #. STRINGS.CREATURES.STATS.YIELDBONUS.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.TOOLTIP"
 msgid "Plants will gain Harvest Rating Points while kept in ideal conditions\nA high Harvest Rating will improve the crop yield of a mature plant"
-msgstr ""
+msgstr "Растения будут получать рейтинг урожайности только в идеальных условиях\nВысокий рейтинг урожайности увеличит урожай со взрослого растения"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME"
@@ -3885,7 +3885,7 @@ msgstr "Текущее физическое состояние: {healthStateTool
 #. STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.LINE_ITEM"
 msgid "    • {0}\n"
-msgstr ""
+msgstr "    • {0}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.NAME"
@@ -4305,7 +4305,7 @@ msgstr "Если требования Дупликанта не удовлетв
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
 msgid "Decor Expectation"
-msgstr "Требования к декору"
+msgstr "Требования к Декору"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC"
@@ -4315,7 +4315,7 @@ msgstr "Дистанция эффекта <style=\"decor\">Декора</style>"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME"
 msgid "Decor Radius"
-msgstr "Радиус декора"
+msgstr "Радиус Декора"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC"
@@ -5865,12 +5865,12 @@ msgstr "Сжигает калории"
 #. STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.NAME"
 msgid "Center of Attention"
-msgstr ""
+msgstr "Центр Внимания"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.TOOLTIP"
 msgid "This Duplicant feels like someone is watching them..."
-msgstr ""
+msgstr "Этот Дупликант чувствует, что кто-то наблюдает за ним..."
 
 #. STRINGS.DUPLICANTS.MODIFIERS.CLAUSTROPHOBIC.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CLAUSTROPHOBIC.CAUSE"
@@ -6570,12 +6570,12 @@ msgstr "Этот Дупликант работает изо всех сил"
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
 msgid "Most objects have <style=\"decor\">Decor</style> values that can increase or decrease a Duplicant's opinion of their surroundings.\n\nThis Duplicant requires {0} or higher decor values, and will become <style=\"stress\">Stressed</style> in areas with lower decor."
-msgstr "Большинство объектов имеет значение <style=\"decor\">Декора</style>, которое может увеличить или уменьшить мнение Дупликанта об окружающем пространстве.\n\nЭтот Дупликант требует рейтинг декора {0} или выше, и получит <style=\"stress\">Стресс</style> в зонах с меньшим рейтингом декора."
+msgstr "Большинство объектов имеет значение <style=\"decor\">Декора</style>, которое может увеличить или уменьшить мнение Дупликанта об окружающем пространстве.\n\nЭтот Дупликант требует рейтинг Декора {0} или выше, и получит <style=\"stress\">Стресс</style> в зонах с меньшим рейтингом Декора."
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
 msgid "Decor Expectation"
-msgstr "Ожидания по декору"
+msgstr "Ожидания по Декору"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
@@ -6890,7 +6890,7 @@ msgstr "{0} просто хочет, чтобы все были счастлив
 #. STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.NAME"
 msgid "Leira"
-msgstr ""
+msgstr "Лейра"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.DESC"
@@ -7035,7 +7035,7 @@ msgstr "Вонючка"
 #. STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.DESC"
 msgid "A {0}'s monotonous voice and lack of facial expression makes it impossible for others to tell when he's messing with them."
-msgstr ""
+msgstr "Монотонный голос и ничего не выражающее лицо {0}'а не позволяют другим говорить, когда он возится с ними."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.NAME"
@@ -7110,7 +7110,7 @@ msgstr "Декор"
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
 msgid "Decor\n----------\nDuplicants become stressed in areas where decor doesn't meet their expectations"
-msgstr "Декор\n----------\nДупликанты будут получать стресс, находясь в комнатах, имеющих значение декора ниже их ожиданий"
+msgstr "Декор\n----------\nДупликанты будут получать стресс, находясь в комнатах, имеющих значение Декора ниже их ожиданий"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
@@ -7335,7 +7335,7 @@ msgstr "Холодное окружение"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP"
 msgid "This Duplicant cannot retain enough heat to stay warm and may be under insulated for this area\nStress Modification: {StressModification}\n\nCurrent Environmental Exchange: {currentTransferWattage}\n\nInsulation Thickness: {conductivityBarrier}"
-msgstr ""
+msgstr "Этот Дупликант не может сохранять достаточно тепла и может быть изолирован для этой зоны\nМодификатор стресса: {StressModification}\n\nТекущий Экологический обмен: {currentTransferWattage}\n\nТолщина изоляции: {conductivityBarrier}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME"
@@ -7980,12 +7980,12 @@ msgstr "Последняя еда этого Дупликанта не опра�
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME"
 msgid "Drab decor"
-msgstr "Однообразный декор"
+msgstr "Однообразный Декор"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP"
 msgid "This Duplicant finds the lack of Decor in this area depressing"
-msgstr "Этот Дупликант депрессирует из-за отсутствия в комнате декора"
+msgstr "Этот Дупликант депрессирует из-за отсутствия в комнате Декора"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME"
@@ -8560,7 +8560,7 @@ msgstr "Отвратительная еда"
 #. STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP"
 msgid "Poor Decor"
-msgstr "Плохой декор"
+msgstr "Плохой Декор"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP"
@@ -9975,7 +9975,7 @@ msgstr "Загрязненная земля"
 #. STRINGS.ELEMENTS.TUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.DESC"
 msgid "(W) An extremely tough crystalline <style=\"RawMetal\">Metal</style>.\n\nTungsten is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "(W) Очень прочный кристаллический <style=\"RawMetal\">Металл</style>.\n\nВольфрам подходит для создания <style=\"power\">Электрических</style> систем."
 
 #. STRINGS.ELEMENTS.TUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.NAME"
@@ -10155,7 +10155,7 @@ msgstr "Превратите вашего Дупликанта в ходячий
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT"
 msgid "Increases Decor in a small area effect around the wearer."
-msgstr "Повышает показатель декора в небольшом радиусе от носителя."
+msgstr "Повышает показатель Декора в небольшом радиусе от носителя."
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME"
@@ -10170,7 +10170,7 @@ msgstr "Стильный костюм"
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
 msgid "Increases Decor in a small area effect around the wearer."
-msgstr "Повышает показатель декора в небольшом радиусе от носителя."
+msgstr "Повышает показатель Декора в небольшом радиусе от носителя."
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.DESC"
@@ -10345,7 +10345,7 @@ msgstr "Точка"
 #. STRINGS.INPUT.RIGHT_ALT
 msgctxt "STRINGS.INPUT.RIGHT_ALT"
 msgid "R-Alt"
-msgstr ""
+msgstr "R-Alt"
 
 #. STRINGS.INPUT.RIGHT_CTRL
 msgctxt "STRINGS.INPUT.RIGHT_CTRL"
@@ -10360,7 +10360,7 @@ msgstr "R-Shift"
 #. STRINGS.INPUT.SPACE
 msgctxt "STRINGS.INPUT.SPACE"
 msgid "Space"
-msgstr "Space"
+msgstr "Пробел"
 
 #. STRINGS.INPUT.TAB
 msgctxt "STRINGS.INPUT.TAB"
@@ -11945,12 +11945,12 @@ msgstr "При строительстве обратите внимание на
 #. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME"
 msgid "TIP: Building Temperature"
-msgstr ""
+msgstr "ПОДСКАЗКА: Температура здания"
 
 #. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP"
 msgid "Learn how to prevent meltdowns"
-msgstr ""
+msgstr "Узнайте, как предотвратить расплавления"
 
 #. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME"
@@ -12655,7 +12655,7 @@ msgstr "Фосфор"
 #. STRINGS.MISC.TAGS.PLUMBABLE
 msgctxt "STRINGS.MISC.TAGS.PLUMBABLE"
 msgid "Plumbable"
-msgstr ""
+msgstr "Свинцешар"
 
 #. STRINGS.MISC.TAGS.PRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.PRECIOUSMETAL"
@@ -12665,7 +12665,7 @@ msgstr "Благородный металл"
 #. STRINGS.MISC.TAGS.RAWPRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.RAWPRECIOUSMETAL"
 msgid "Raw Precious Metal"
-msgstr "Благородный металл"
+msgstr "Сырой Благородный металл"
 
 #. STRINGS.MISC.TAGS.REFINEDMETAL
 msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
@@ -14645,7 +14645,7 @@ msgstr "Декор"
 #. STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP"
 msgid "Spruce up your colony with some lovely interior decorating."
-msgstr "Добавьте в вашу колонию прекрасный декор интерьера."
+msgstr "Добавьте в вашу колонию прекрасный Декор интерьера."
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME"
@@ -14940,12 +14940,12 @@ msgstr "Может хранить {0} электричества, когда п�
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
 msgid "Decreases Decor values by {0} in a {1} tile radius"
-msgstr "Снижает значения декора на {0} в радиусе {1} блоков"
+msgstr "Снижает значения Декора на {0} в радиусе {1} блоков"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
 msgid "Improves Decor values by {0} in a {1} tile radius"
-msgstr "Увеличивает значение декора на {0} в радиусе {1} блоков"
+msgstr "Увеличивает значение Декора на {0} в радиусе {1} блоков"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST"
@@ -15155,7 +15155,7 @@ msgstr "{0}: {1}"
 #. STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE"
 msgid " {0} {1}"
-msgstr "{0} {1}"
+msgstr " {0} {1}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE"
@@ -17317,7 +17317,7 @@ msgstr "Не поддается измерению"
 #. STRINGS.UI.OVERLAYS.DECOR.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.BUTTON"
 msgid "Decor Overlay"
-msgstr "Карта декора"
+msgstr "Карта Декора"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLOTHING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLOTHING"
@@ -17332,7 +17332,7 @@ msgstr "Мусор"
 #. STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR"
 msgid "High Decor"
-msgstr "Высокий декор"
+msgstr "Высокий Декор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HOVERTITLE"
@@ -17347,7 +17347,7 @@ msgstr "Освещение"
 #. STRINGS.UI.OVERLAYS.DECOR.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LOWDECOR"
 msgid "Low Decor"
-msgstr "Низкий декор"
+msgstr "Низкий Декор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.NAME
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.NAME"
@@ -17357,12 +17357,12 @@ msgstr "КАРТА ДЕКОРА"
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR"
 msgid "Areas with sufficient decor values"
-msgstr "Зоны с достаточным уровнем декора"
+msgstr "Зоны с достаточным уровнем Декора"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR"
 msgid "Areas with insufficient decor values"
-msgstr "Зоны с недостаточным уровнем декора"
+msgstr "Зоны с недостаточным уровнем Декора"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOTAL
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOTAL"
@@ -18617,7 +18617,7 @@ msgstr "Выделите, чтобы разобрать постройки и в
 #. STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING"
 msgid "Displays decor values"
-msgstr "Отображает значения декора"
+msgstr "Отображает значения Декора"
 
 #. STRINGS.UI.TOOLTIPS.DEPRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DEPRIORITIZEBUTTON"
