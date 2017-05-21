@@ -1675,7 +1675,7 @@ msgstr "Потребляет один <style=\"misc\">Топливный бру�
 #. STRINGS.BUILDINGS.PREFABS.BURNER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.NAME"
 msgid "Burner"
-msgstr ""
+msgstr "Сжигатель"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
@@ -3610,7 +3610,7 @@ msgstr "Прогнозируемый рейтинг урожайности: {0} 
 #. STRINGS.CREATURES.STATS.YIELDBONUS.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.TOOLTIP"
 msgid "Plants will gain Harvest Rating Points while kept in ideal conditions\nA high Harvest Rating will improve the crop yield of a mature plant"
-msgstr ""
+msgstr "Растения будут получать рейтинг урожайности только в идеальных условиях\nВысокий рейтинг урожайности увеличит урожай со взрослого растения"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME"
@@ -3885,7 +3885,7 @@ msgstr "Текущее физическое состояние: {healthStateTool
 #. STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.LINE_ITEM"
 msgid "    • {0}\n"
-msgstr ""
+msgstr "    • {0}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.NAME"
@@ -5865,12 +5865,12 @@ msgstr "Сжигает калории"
 #. STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.NAME"
 msgid "Center of Attention"
-msgstr ""
+msgstr "Центр Внимания"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.TOOLTIP"
 msgid "This Duplicant feels like someone is watching them..."
-msgstr ""
+msgstr "Этот Дупликант чувствует, что кто-то наблюдает за ним..."
 
 #. STRINGS.DUPLICANTS.MODIFIERS.CLAUSTROPHOBIC.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CLAUSTROPHOBIC.CAUSE"
@@ -6890,7 +6890,7 @@ msgstr "{0} просто хочет, чтобы все были счастлив
 #. STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.NAME"
 msgid "Leira"
-msgstr ""
+msgstr "Лейра"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.DESC"
@@ -7035,7 +7035,7 @@ msgstr "Вонючка"
 #. STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.DESC"
 msgid "A {0}'s monotonous voice and lack of facial expression makes it impossible for others to tell when he's messing with them."
-msgstr ""
+msgstr "Однообразный голос и ничего не выражающее лицо {0}'а не позволяют другим говорить, когда он возится с ними."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.NAME"
@@ -7335,7 +7335,7 @@ msgstr "Холодное окружение"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP"
 msgid "This Duplicant cannot retain enough heat to stay warm and may be under insulated for this area\nStress Modification: {StressModification}\n\nCurrent Environmental Exchange: {currentTransferWattage}\n\nInsulation Thickness: {conductivityBarrier}"
-msgstr ""
+msgstr "Этот Дупликант не может сохранять достаточно тепла и может быть изолирован для этой зоны\nМодификатор стресса: {StressModification}\n\nТекущий Экологический обмен: {currentTransferWattage}\n\nТолщина изоляции: {conductivityBarrier}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME"
@@ -9975,7 +9975,7 @@ msgstr "Загрязненная земля"
 #. STRINGS.ELEMENTS.TUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.DESC"
 msgid "(W) An extremely tough crystalline <style=\"RawMetal\">Metal</style>.\n\nTungsten is suitable for building <style=\"power\">Power</style> systems."
-msgstr ""
+msgstr "(W) Очень прочный кристаллический <style=\"RawMetal\">Металл</style>.\n\nВольфрам подходит для создания <style=\"power\">Электрических</style> систем."
 
 #. STRINGS.ELEMENTS.TUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.NAME"
@@ -10345,7 +10345,7 @@ msgstr "Точка"
 #. STRINGS.INPUT.RIGHT_ALT
 msgctxt "STRINGS.INPUT.RIGHT_ALT"
 msgid "R-Alt"
-msgstr ""
+msgstr "Правый Alt"
 
 #. STRINGS.INPUT.RIGHT_CTRL
 msgctxt "STRINGS.INPUT.RIGHT_CTRL"
@@ -11945,12 +11945,12 @@ msgstr "При строительстве обратите внимание на
 #. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME"
 msgid "TIP: Building Temperature"
-msgstr ""
+msgstr "ПОДСКАЗКА: Температура здания"
 
 #. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP"
 msgid "Learn how to prevent meltdowns"
-msgstr ""
+msgstr "Узнайте, как предотвратить расплавления"
 
 #. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME"
@@ -12505,7 +12505,7 @@ msgstr "Хлорная известь"
 #. STRINGS.MISC.TAGS.BREATHABLE
 msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
 msgid "Breathable Gas"
-msgstr "Газ, пригодный для дыхания"
+msgstr "Пригоден для дыхания"
 
 #. STRINGS.MISC.TAGS.BUILDABLEPROCESSED
 msgctxt "STRINGS.MISC.TAGS.BUILDABLEPROCESSED"
@@ -12655,7 +12655,7 @@ msgstr "Фосфор"
 #. STRINGS.MISC.TAGS.PLUMBABLE
 msgctxt "STRINGS.MISC.TAGS.PLUMBABLE"
 msgid "Plumbable"
-msgstr ""
+msgstr "Свинцешар"
 
 #. STRINGS.MISC.TAGS.PRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.PRECIOUSMETAL"
@@ -12665,7 +12665,7 @@ msgstr "Благородный металл"
 #. STRINGS.MISC.TAGS.RAWPRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.RAWPRECIOUSMETAL"
 msgid "Raw Precious Metal"
-msgstr "Благородный металл"
+msgstr "Сырой Благородный металл"
 
 #. STRINGS.MISC.TAGS.REFINEDMETAL
 msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
@@ -12710,7 +12710,7 @@ msgstr "Токсичный"
 #. STRINGS.MISC.TAGS.UNBREATHABLE
 msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
 msgid "Unbreathable"
-msgstr "Непригодный для дыхания газ"
+msgstr "Не пригоден для дыхания"
 
 #. STRINGS.MISC.TAGS.UNSTABLE
 msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
@@ -17177,7 +17177,7 @@ msgstr "ВЫБЕРИТЕ ЭКИПАЖ, ЧТОБЫ НАЧАТЬ"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE"
 msgid "SHUFFLE"
-msgstr "МЕНЯЕМ"
+msgstr "СЛУЧАЙНО"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME"
@@ -18737,7 +18737,7 @@ msgstr "Отображает компоненты системы водопро�
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_CONSUMABLES
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_CONSUMABLES"
 msgid "Manage Duplicant diets"
-msgstr "Управление диетой Дупликанта"
+msgstr "Управление диетой Дупликантов"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT"
