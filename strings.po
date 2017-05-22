@@ -11219,8 +11219,8 @@ msgstr "Ресурс доступен"
 
 #. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP"
-msgid "These resources are now available:"
-msgstr "Следующие ресурсы теперь доступны:"
+msgid "These resources have become available:"
+msgstr "Следующие ресурсы стали доступны:"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
