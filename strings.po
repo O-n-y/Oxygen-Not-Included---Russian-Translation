@@ -1,4 +1,4 @@
-"Application: Oxygen Not Included Build AU-217326"
+"Application: Oxygen Not Included Build AU-217565"
 "POT Version: 2.0"
 "Language: ru"
 
