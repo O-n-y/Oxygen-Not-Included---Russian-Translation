@@ -13060,7 +13060,7 @@ msgstr "Супер"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER_DUPER
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER_DUPER"
 msgid "Super Duper"
-msgstr "Супер Дупер"
+msgstr "Супер-Пупер"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY"
@@ -14605,7 +14605,7 @@ msgstr "Наука"
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
 msgid "Unlock new technologies through the power of science!"
-msgstr "Открывают новые технологии силой науки!"
+msgstr "Силой науки открывают новые технологии!"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
@@ -15985,7 +15985,7 @@ msgstr "Точки испарения: {0}"
 #. STRINGS.UI.ELEMENTAL.VAPOURIZATIONPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.VAPOURIZATIONPOINT.TOOLTIP"
 msgid "The selected item will evaporate into a gas at {0}"
-msgstr "Выбранный объект испарится в газ при {0}"
+msgstr "Выбранный объект превратится в газ при {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
@@ -15995,7 +15995,7 @@ msgstr "Приход"
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME"
 msgid "Calorie Generation:"
-msgstr "Калорий Сгенерировано:"
+msgstr "Калорий сгенерировано:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
@@ -16315,7 +16315,7 @@ msgstr "Версия игры: "
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES"
 msgid "Accept Changes?"
-msgstr "Принять Изменения?"
+msgstr "Принять изменения?"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON"
@@ -16436,7 +16436,6 @@ msgstr "ЗАГРУЗИТЬ ИГРУ"
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION"
 msgid "<b><color=#ff0000>This save file is from a previous version of the game and is no longer supported.</color></b>\n\nYou may revert to the previous build to play your old save. Please follow the link below for details."
 msgstr "<b><color=#ff0000>Это сохранение из прошлой версии игры, которая более не поддерживается.</color></b>\n\Вы можете откатиться на прошлую версию и продолжить играть на этом сохранении. Более подробная информация доступная по ссылке, расположенной ниже."
-
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
@@ -16786,7 +16785,7 @@ msgstr "ЗАГРУЗКА МИРА..."
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT"
 msgid "A new world is about to be created. Please select its size."
-msgstr "Новый мир готов к созданию. Выберите размер мира."
+msgstr "Новый мир готов к созданию. Пожалуйста, выберите размер мира."
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE"
@@ -18691,7 +18690,7 @@ msgstr "Должно быть построено в незанятом прос�
 #. STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY"
 msgid "Press <color=#F44A47>[O]</color> to Rotate"
-msgstr "Нажмите <color=#833A5FFF>[O]</color>, чтобы повернуть объект"
+msgstr "Нажмите <color=#F44A47>[O]</color>, чтобы повернуть объект"
 
 #. STRINGS.UI.TOOLTIPS.INFOPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.INFOPANEL"
@@ -19161,7 +19160,7 @@ msgstr "Выбросить"
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.EQUIP_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.EQUIP_BUTTON"
 msgid "Equip"
-msgstr "Одеть"
+msgstr "Надеть"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.NONE_EQUIPPED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.NONE_EQUIPPED"
@@ -19191,7 +19190,7 @@ msgstr "(Владелец)"
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE"
 msgid "Equip {0}"
-msgstr "Одеть {0}"
+msgstr "Надеть {0}"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.UNASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.UNASSIGNED"
@@ -19421,17 +19420,17 @@ msgstr "Бонусы за рейтинг урожайности"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.HIGH_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.HIGH_YIELD"
 msgid "If a plant reaches maturity with more than {0} Harvest Rating Points it will produce an Excellent yield"
-msgstr "Если растение достигнет зрелости с очками урожайности больше чем {0}, оно произведет Идеальный урожай"
+msgstr "Если растение достигнет зрелости с очками урожайности больше чем {0}, оно произведет идеальный урожай"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.LOW_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.LOW_YIELD"
 msgid "If a plant reaches maturity with fewer than 40 Harvest Rating Points it will produce a Standard yield"
-msgstr "Если растение достигнет зрелости с очками урожайности больше чем 40, оно произведет Стандартный урожай"
+msgstr "Если растение достигнет зрелости с очками урожайности больше чем 40, оно произведет стандартный урожай"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NORMAL_YIELD
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NORMAL_YIELD"
 msgid "If a plant reaches maturity with more than {0} Harvest Rating Points it will produce a Good yield"
-msgstr "Если растение достигнет зрелости с очками урожайности больше чем {0}, оно произведет Хороший урожай"
+msgstr "Если растение достигнет зрелости с очками урожайности больше чем {0}, оно произведет хороший урожай"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NUMBEROFHARVESTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NUMBEROFHARVESTS"
@@ -19656,12 +19655,12 @@ msgstr "Температура"
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_ABOVE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_ABOVE"
 msgid "Switch will be on if the ambient temperature is above {0}"
-msgstr "Переключатель включится, если температура окружающей среды выше чем {0}"
+msgstr "Переключатель включится, если температура окружающей среды выше, чем {0}"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_BELOW
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_BELOW"
 msgid "Switch will be off if the ambient temperature is below {0}"
-msgstr "Переключатель выключится, если температура окружающей среды ниже чем {0}"
+msgstr "Переключатель выключится, если температура окружающей среды ниже, чем {0}"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TITLE"
@@ -19711,7 +19710,7 @@ msgstr "Переключатель с таймером"
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.WARNING
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.WARNING"
 msgid "Switch must be connected to a <style=\"power\">Power</style> grid"
-msgstr "Переключатель должен быть подсоединенным к <style=\"power\">Электрической</style> сети для работы"
+msgstr "Для работы переключателя он должен быть соединен с <style=\"power\">Электрической</style> сетью"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON"
