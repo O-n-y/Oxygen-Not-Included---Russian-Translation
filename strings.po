@@ -1730,7 +1730,7 @@ msgstr "Какой смысл выживания после космическо
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT"
 msgid "Tailors enhanced clothing items for Duplicants.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Портные расширили список предметов одежды для Дупликантов.\n\n Дупликанты не будут изготавливать предметы, если рецепты не поставлены в очередь."
+msgstr "Портные расширили список предметов одежды для Дупликантов.\n\nДупликанты не будут изготавливать предметы, если рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME"
@@ -1770,7 +1770,7 @@ msgstr "Компост"
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC"
 msgid "Make asteroid cuisine marginally more palatable."
-msgstr "Делает астероидную кухню чуть более приемлевой."
+msgstr "Делает астероидную кухню чуть более приемлемой."
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT"
@@ -2735,7 +2735,7 @@ msgstr "Нефункциональный объект сомнительной �
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT"
 msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be sculpted by a Duplicant."
-msgstr "Увеличивает мнение о <style=\"decor\">Декоре</style> и уменьшает <style=\"stress\">Стресс</style> Дупликантов.\n\nДолжен быть вырезан из камня Дупликантом."
+msgstr "Увеличивает показатель <style=\"decor\">Декора</style> и уменьшает <style=\"stress\">Стресс</style> Дупликантов.\n\nДолжен быть вырезан из камня Дупликантом."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME"
@@ -3020,7 +3020,7 @@ msgstr "Прядун"
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC"
 msgid "An edible parthenocarpic fruit that cannot reproduce in the wild.\n\nIt can be harvested for a single, nonrenewable serving of <style=\"food\">Food</style>."
-msgstr "Съедобный партенокарпический фрукт, который не может быть воспроизведен в дикой природе.\n\nОн может быть собран только один раз, невозобновляемый источник <style=\"food\">Еды</style>."
+msgstr "Съедобный партенокарпический фрукт, который не может быть выращен в дикой природе.\n\nОн может быть собран только один раз, невозобновляемый источник <style=\"food\">Еды</style>."
 
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME"
@@ -4750,7 +4750,7 @@ msgstr "Убрать"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
 msgid "Manually enable, disable or adjust building switches and filters."
-msgstr "Ручное включение, выключение, настройка переключателей и фильтров в постройках."
+msgstr "Ручное включение, выключение или настройка переключателей и фильтров в постройках."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME"
@@ -15610,7 +15610,7 @@ msgstr "Потенциальное потребление электричест
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP"
 msgid "The total amount of power that can be used by this circuit if all connected buildings are active"
-msgstr "Общаий объем электричества, который может быть использован данной сетью, в случае активной работы всех подключенных построек"
+msgstr "Общий объем электричества, который может быть использован данной сетью, в случае активной работы всех подключенных построек"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP"
@@ -15690,7 +15690,7 @@ msgstr "Просмотреть психологическое состояния
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP"
 msgid "This Duplicant has been assigned a {0}.\nEffects:{1}"
-msgstr "Этот Дупликант был назначен к {0}\nЭффекты:{1}"
+msgstr "Этот Дупликант был назначен к {0}.\nЭффекты:{1}"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP"
@@ -17086,7 +17086,7 @@ msgstr "Температура окружающей среды должна бы
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
 msgid "This plant requires {1} {0} for basic growth"
-msgstr "Это растение требует {1} {0}, чтобы расти""
+msgstr "Это растение требует {1} {0}, чтобы расти"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
@@ -17356,7 +17356,7 @@ msgstr "КАРТА ДЕКОРА"
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR"
 msgid "Areas with sufficient decor values\n------------------\nLighting and aesthetically pleasing buildings increase decor"
-msgstr "Зоны с достаточным уровнем декора\n------------------\nОсвещение и эстетически привлекательные здания увеличивают декор"
+msgstr "Зоны с достаточным уровнем декора\n------------------\nОсвещение и эстетически привлекательные постройки увеличивают декор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR"
