@@ -1,4 +1,4 @@
-"Application: Oxygen Not Included Build AU-217326"
+"Application: Oxygen Not Included Build AU-217565"
 "POT Version: 2.0"
 "Language: ru"
 
@@ -19,7 +19,7 @@ msgstr "Нет ограничений доступа"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP"
-msgid "This door has gone into Emergency Unlock Mode\n----------\nAll Duplicants are permitted to pass through it until power is restored"
+msgid "This door has granted Emergency Access Permissions\n----------\nAll Duplicants are permitted to pass through it until power is restored"
 msgstr "Эта дверь перешла в режим экстренной разблокировки\n ----------\nПока электропитание не восстановлено, Все Дупликанты имеют право проходить через нее"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
@@ -89,7 +89,7 @@ msgstr "Ожидает компоста"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.TOOLTIP"
-msgid ""More waste material is required to begin the composting process"
+msgid "More waste material is required to begin the composting process"
 msgstr "Необходимо больше компоста, чтобы начать процесс переработки"
 
 #. STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.NAME
@@ -504,8 +504,8 @@ msgstr "Воздуховод заблокирован избыточным да�
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.TOOLTIP"
-msgid "Vent cannot function at current pressure"
-msgstr "Воздуховод не работает при текущем давлении"
+msgid "Area's ambient pressure is too high to emit additional gas\nReduce pressure by pumping gas away or clearing more space"
+msgstr "Атмосферное давление окружающей среды слишком высоко, выделение дополнительного газа невозможно\nУменьшите давление, откачивая газ из атмосферы, или освободите больше пространства"
 
 #. STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.NAME"
@@ -564,7 +564,7 @@ msgstr "Не погружено в жидкость"
 
 #. STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_LIQUID.TOOLTIP"
-msgid "TThis building must be submerged in liquid to function"
+msgid "This building must be submerged in liquid to function"
 msgstr "Эта постройка должна быть погружена в жидкость для функционирования"
 
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME
@@ -714,8 +714,8 @@ msgstr "Для следующих построек необходимые мат
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.TOOLTIP"
-msgid "Materials for this building are beyond reach or unavailable"
-msgstr "Материалы для этой постройки недоступны, или до них невозможно добраться"
+msgid "Crucial materials for this building are beyond reach or unavailable"
+msgstr "Необходимы для данной постройки материалы недоступны, или до них невозможно добраться"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM"
@@ -849,7 +849,7 @@ msgstr "Семена не выбраны"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP"
-msgid "Dig up wild plants to obtain seeds"
+msgid "Uproot wild plants to obtain seeds"
 msgstr "Выкапывайте дикие растения для получения семян"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSREGION.NAME
@@ -1074,12 +1074,12 @@ msgstr "Эта постройка производит {0} электричес�
 
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME"
-msgid "Damage: Overheating""
+msgid "Damage: Overheating"
 msgstr "Повреждение: Перегрев"
 
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP"
-msgid "This building is taking damage and will meltdown if not cooled
+msgid "This building is taking damage and will meltdown if not cooled"
 msgstr "Эта постройка получает урон и расплавится, если не будет остужена"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
@@ -1664,8 +1664,8 @@ msgstr "Койка"
 
 #. STRINGS.BUILDINGS.PREFABS.BURNER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.DESC"
-msgid "Some people just want to see the world burn."
-msgstr "Некоторые люди просто хотят видеть мир в огне."
+msgid "Some people just want to watch the world burn."
+msgstr "Некоторые люди просто хотят наблюдать, как мир горит в огне."
 
 #. STRINGS.BUILDINGS.PREFABS.BURNER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.EFFECT"
@@ -1709,12 +1709,12 @@ msgstr "Грубая картина"
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC"
-msgid "This light imitates the Duplicants' natural aboveground habitat.\nSort of. Maybe."
+msgid "This light imitates Duplicants' natural aboveground habitat.\nSort of. Maybe."
 msgstr "Этот свет имитирует естественную надземную среду обитания Дупликантов.\nВроде того. Наверное."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT"
-msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
+msgid "Improves <style=\"decor\">Decor</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
 msgstr "Увеличивает показатель <style=\"decor\">Декора</style> и уменьшает <style=\"stress\">Стресс</style> излучая <style=\"light\">Свет</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
@@ -1724,8 +1724,8 @@ msgstr "Потолочная лампа"
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.DESC"
-msgid "What's the point of surviving a cosmic catastrophe if you can't look stylish?"
-msgstr "Какой смысл выживания после космической катастрофы, если вы не можете выглядеть стильно?"
+msgid "What's the point of surviving cosmic catastrophe if you don't look cute?"
+msgstr "Какой смысл выживания после космической катастрофы, если вы не можете выглядеть мило?"
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT"
@@ -1739,8 +1739,8 @@ msgstr "Фабрика текстиля"
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC"
-msgid "Everyone appreciates a little clean air."
-msgstr "Немного чистого воздуха - то, что может оценить всякий."
+msgid "It's time to clear the air."
+msgstr "Время очистить воздух."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT"
@@ -1754,12 +1754,12 @@ msgstr "Скруббер воздуха"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
-msgid "Don't waste your waste!"
-msgstr "Не выбрасывайте ваши отбросы!"
+msgid "Don't put your waste to waste."
+msgstr "Не выбрасывайте ваши отбросы."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
-msgid "Breaks <style=\"solid\">Contaminated Dirt</style> down into <style=\"solid\">Fertilizer</style>."
+msgid "Breaks <style=\"solid\">Polluted Dirt</style> down into <style=\"solid\">Fertilizer</style>."
 msgstr "Перерабатывает <style=\"solid\">Загрязненную землю</style> в <style=\"solid\">Удобрения</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
@@ -1769,13 +1769,13 @@ msgstr "Компост"
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC"
-msgid "Two wrongs don't make a right, but two mush bars apparently make one okay meal."
-msgstr "Минус на минус плюса не дают. Но мшистый батончик на мшистый батончик дают. Ну, не плюс, но блюдо выходит приличным."
+msgid "Make asteroid cuisine marginally more palatable."
+msgstr "Делает астероидную кухню чуть более приемлевой."
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT"
-msgid "Converts two <style=\"food\">Mush Bars</style> into one improved <style=\"food\">Deep Fried Mush Bar</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Конвертирует два <style=\"food\">Мшистых Батончика</style> в один улучшенный <style=\"food\">Мшистый Батончик Глубокой прожарки</style>.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
+msgid "Cooks improved <style=\"food\">Food</style> recipes using multiple ingredients.\n\nDuplicants will not fabricate unless recipes are queued."
+msgstr "Готовит улучшенную <style=\"food\">Еду</style> из рецептов, использующих несколько ингредиентов.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
@@ -1804,7 +1804,7 @@ msgstr "Пышет жаром, пышет паром."
 
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT"
-msgid "Separates any <style=\"liquid\">Contaminated Water</style> piped through it into <style=\"gas\">Steam</style> and <style=\"solid\">Contaminated Dirt</style>."
+msgid "Separates any <style=\"liquid\">Polluted Water</style> piped through it into <style=\"gas\">Steam</style> and <style=\"solid\">Polluted Dirt</style>."
 msgstr "Разделяет прогнанную через нее <style=\"liquid\">Загрязненную воду</style> на <style=\"gas\">Пар</style> и <style=\"solid\">Загрязненную землю</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.NAME
@@ -1829,23 +1829,23 @@ msgstr "Авто"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE"
-msgid "Close Door"
-msgstr "Дверь закрыта"
+msgid "Lock"
+msgstr "Закрыто"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN"
-msgid "Open Door"
-msgstr "Дверь открыта"
+msgid "Open"
+msgstr "Открыто"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.DESC"
-msgid "Makes a decent bedroom door, if you don't mind the occasional voyeur."
-msgstr "Неплохая дверь для спальни, если, конечно, Вы не против вуайериста-другого."
+msgid "Lesser creatures are incapable of operating it.\nMust be the lack of thumbs."
+msgstr "Меньшие существа неспособны пользоваться ею.\nДолжно быть из-за отсутствия пальцев."
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.EFFECT"
-msgid "Encloses rooms without blocking the flow of <style=\"gas\">Gas</style> or <style=\"liquid\">Liquid</style>."
-msgstr "Отделяет помещение, но не перекрывает поток <style=\"gas\">Газа</style> или <style=\"liquid\">Жидкости</style>."
+msgid "Encloses rooms without blocking the flow of <style=\"gas\">Gas</style> or <style=\"liquid\">Liquid</style>.\n\nWild creatures cannot pass through doors."
+msgstr "Отделяет помещение, не перекрывая поток <style=\"gas\">Газа</style> или <style=\"liquid\">Жидкости</style>.\n\nДикие существа не могут проходить сквозь двери."
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.LEFT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.LEFT"
@@ -1874,7 +1874,7 @@ msgstr "справа"
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC"
-msgid "Water goes in one end, life-sustaining oxygen comes out the other."
+msgid "Water goes in, life-sustaining oxygen comes out."
 msgstr "Вода поступает с одного конца, животворящий кислород выходит с другого."
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT
@@ -1904,13 +1904,13 @@ msgstr "Шахта"
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC"
-msgid "Shag rugs are out. Farm floors are all the rage now!"
-msgstr "Ворсистые ковры уже не в моде. Последний писк: вместо обычного пола - ферма!"
+msgid "Shag rugs are out. Farm floors are all the rage!"
+msgstr "Ворсистые ковры уже не в моде. Последний писк: вместо обычного пола - блок-ферма!"
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT"
-msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nCan be used as floor tile."
-msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда в него посажены <style=\"seed\">Семена</style>.\n\nМожет быть использовано как блок для пола."
+msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nCan be used as floor tile.\n\nCan be rotated before construction."
+msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда в него посажено <style=\"seed\">Семя</style>.\n\nМожет быть использовано как блок для пола.\n\nПеред постройкой можно повернуть."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
@@ -1919,13 +1919,13 @@ msgstr "Блок-ферма"
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC"
-msgid "Don't breathe too deeply."
-msgstr "Не вдыхайте слишком глубоко."
+msgid "Provides plants with all the nutrients they need to live a happy little plant life."
+msgstr "Обеспечивает растения всеми необходимыми питательными веществами, чтобы жить счастливой маленькой растительной жизнью."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT"
-msgid "Uses <style=\"liquid\">Polluted Water</style> to produce <style=\"solid\">Fertilizer</style>.\nDrops fertilizer every 10kg."
-msgstr "Использует <style=\"liquid\">Загрязненную воду</style> для производства <style=\"solid\">Удобрений</style>.\nПроизводит комок удобрений каждые 10кг."
+msgid "Uses <style=\"liquid\">Polluted Water</style> to produce <style=\"solid\">Fertilizer</style>."
+msgstr "Использует <style=\"liquid\">Загрязненную воду</style> для производства <style=\"solid\">Удобрений</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME"
@@ -1934,12 +1934,12 @@ msgstr "Изготовитель удобрений"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC"
-msgid "Now your Duplicants can read all those books they don't have!"
-msgstr "Теперь ваши Дупликанты могут прочесть все те книги, которых у них нет!"
+msgid "Shine a light on a dark situation."
+msgstr "Пролейте свет на темную ситуацию."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT"
-msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
+msgid "Improves <style=\"decor\">Decor</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
 msgstr "Увеличивает показатель <style=\"decor\">Декора</style> и уменьшает <style=\"stress\">Стресс</style>, излучая <style=\"light\">Свет</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME
@@ -11219,8 +11219,8 @@ msgstr "Ресурс доступен"
 
 #. STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.AVAILABLE.TOOLTIP"
-msgid "These resources are now available:"
-msgstr "Следующие ресурсы теперь доступны:"
+msgid "These resources have become available:"
+msgstr "Следующие ресурсы стали доступны:"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
@@ -11574,13 +11574,13 @@ msgstr "Лечится"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP"
-msgid "The Duplicant is recovering from an injury"
+msgid "This Duplicant is recovering from an injury"
 msgstr "Дупликант поправляется после ранения"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.NAME"
-msgid "New trait developed"
-msgstr "Появилась новая черта"
+msgid "New trait"
+msgstr "Новая черта"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.SUFFIX
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.SUFFIX"
@@ -11589,7 +11589,7 @@ msgstr " появилась {0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP"
-msgid "These Duplicants' injuries weren't set properly. They developed a new trait as a result:"
+msgid "These Duplicants' injuries weren't set and healed improperly. They developed traits as a result:"
 msgstr "Ранения следующих Дупликантов плохо зажили. В результате у них появились новые черты:"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME
@@ -11599,8 +11599,8 @@ msgstr "Новые Дупликанты были реабсорбированы"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP"
-msgid "The printable Duplicants have been reabsorbed"
-msgstr "Доступные для печати Дупликанты были реабсорбированы"
+msgid "The printable Duplicants have been Oozed"
+msgstr "Доступные для печати Дупликанты были переработаны"
 
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME"
@@ -11629,8 +11629,8 @@ msgstr "Навык увеличен"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX"
-msgid " - {0} is now at {1}"
-msgstr " - {0} теперь {1}"
+msgid " - {0} raised to {1}"
+msgstr " - {0} возрасло до {1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP"
@@ -11669,22 +11669,22 @@ msgstr "Следующие ресурсы недоступны:"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
-msgid "<style=\"liquid\">Contaminated Water</style> is a yucky substance that emits <style=\"gas\">Contaminated Oxygen</style> and can cause <style=\"disease\">Disease</style> in your Duplicants.\n\nSmall accidents can be cleaned up by clicking and dragging with the <color=#833A5FFF>MOP TOOL</color> [M], while larger bodies may be worth filtering. Dirty water also <style=\"stress\">Stresses</style> out any Duplicants that come into contact with it, so it is best removed quickly for your colony's safety."
-msgstr "<style=\"liquid\">Загрязненная вода</style> - гадкая субстанция, испускающая <style=\"gas\">Загрязненный Кислород</style>. Может вызывать <style=\"disease\">Болезни</style> у Ваших Дупликантов.\n\nНебольшие 'происшествия' можно устранить при помощи инструмента <color=#833A5FFF>ШВАБРА</color>. Для этого выберите этот инструмент на нижней панели или нажмите [M] и выделите участок, который необходимо прибрать. Большие же объемы <style=\"liquid\">Загрязненной воды</style>стоит отфильтровать. Контакт с грязной водой вызывает <style=\"stress\">Стресс</style> у Ваших Дупликантов - поэтому рекомендуем как можно быстрее убирать такую воду из Вашей колонии."
+msgid "<style=\"liquid\">Polluted Water</style> is a yucky substance that emits <style=\"gas\">Polluted Oxygen</style> and can cause <style=\"disease\">Disease</style> in your Duplicants.\n\nSmall accidents can be cleaned up by clicking and dragging with the <color=#833A5FFF>MOP TOOL</color> <color=#F44A47>[M]</color>, while larger bodies may be worth filtering. Polluted water also <style=\"stress\">Stresses</style> out any Duplicants that come into contact with it, so it is best removed quickly for your colony's safety."
+msgstr "<style=\"liquid\">Загрязненная вода</style> - гадкая субстанция, выделяющая <style=\"gas\">Загрязненный Кислород</style>. Может вызывать <style=\"disease\">Болезни</style> у Ваших Дупликантов.\n\nНебольшие \"происшествия\" можно устранить при помощи инструмента <color=#833A5FFF>ВЫТЕРЕТЬ</color> <color=#F44A47>[M]</color>, при этом большие объемы, возможно стоит фильтровать. Контакт с загрязненной водой вызывает <style=\"stress\">Стресс</style> у Ваших Дупликантов, поэтому для безопасности вашей колонии, лучше как можно быстрее убрать такую воду."
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
-msgid "TIP: Contaminated Water"
+msgid "TIP: Polluted Water"
 msgstr "ПОДСКАЗКА: Загрязненная вода"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP"
-msgid "Learn how to prevent <style=\"disease\">Disease</style> outbreaks"
-msgstr "Узнайте как предотвращать вспышки <style=\"disease\">Болезней</style>"
+msgid "Learn how to prevent disease outbreaks"
+msgstr "Узнайте как предотвращать вспышки заболеваний"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME"
-msgid "Duplicants are nearly dry"
+msgid "Duplicants nearly dry"
 msgstr "Дупликанты почти высохли"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.TOOLTIP
@@ -11709,8 +11709,8 @@ msgstr "Колонии требуется источник еды"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP"
-msgid "Your colony will exhaust their <style=\"food\">Food</style> if they don't find a steady food source"
-msgstr "Запасы провианта Вашей колонии иссякнут, если Вы не найдете постоянный источник еды"
+msgid "Your colony will exhaust their <style=\"food\">Food</style> supply if they don't find a steady food source"
+msgstr "Запасы <style=\"food\">Еды</style> Вашей колонии иссякнут, если Вы не найдете постоянный источник их производства"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME"
@@ -11719,8 +11719,8 @@ msgstr "Недостаточное производство кислорода"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP"
-msgid "Your colony has produced {EmittingRate} of <style=\"oxygen\">Oxygen</style> today\nYour Duplicants have consumed {ConsumptionRate} of <style=\"oxygen\">Oxygen</style> today"
-msgstr "Сегодня Ваша колония произвела {EmittingRate} <style=\"oxygen\">Кислорода</style> \nСегодня Ваши Дупликанты потребили {ConsumptionRate} <style=\"oxygen\">Кислорода</style> "
+msgid "Your colony has produced {EmittingRate} of <style=\"oxygen\">Oxygen</style> today\nYour Duplicants have consumed {ConsumptionRate} of <style=\"oxygen\">Oxygen</style>"
+msgstr "Сегодня Ваша колония произвела {EmittingRate} <style=\"oxygen\">Кислорода</style>\nВаши Дупликанты потребили {ConsumptionRate} <style=\"oxygen\">Кислорода</style> "
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
@@ -11774,13 +11774,13 @@ msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.NAME"
-msgid "No storage regions designated"
-msgstr "Нет обозначенных зон хранения"
+msgid "No storage designated"
+msgstr "Не выбрано место для хранения"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.TOOLTIP"
-msgid "You have no defined storage regions.\nUse the <color=#833A5FFF>CREATE STORAGE TOOL</color> [Y] to create storage for these items:\n{0}"
-msgstr "У Вас нет обозначенных зон хранения.\nИспользуйте <color=#833A5FFF>Инструмент создания хранилищ</color> [Y] для создания хранилища для следующих предметов:\n{0}"
+msgid "You have no defined storage regions.\nUse the <color=#833A5FFF>CREATE STORAGE TOOL</color> <color=#F44A47>[Y]</color> to create storage for these items:\n{0}"
+msgstr "У Вас нет обозначенных зон хранения.\nИспользуйте инструмент <color=#833A5FFF>СОЗДАТЬ ХРАНИЛИЩЕ</color> <color=#F44A47>[Y]</color> для создания хранилища для следующих ресурсов:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME"
@@ -11789,8 +11789,8 @@ msgstr "Вывод заблокирован"
 
 #. STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.TOOLTIP"
-msgid "A blocked pipe is stopping this system from functioning"
-msgstr "Забившаяся труба остановила работу этой системы"
+msgid "Blocked pipes have stopped these systems from functioning:"
+msgstr "Заблокированные трубы остановили работу этой системы:"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY"
@@ -11819,7 +11819,7 @@ msgstr "Во время тревоги приоритетной для Ваши�
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY"
-msgid "Eureka!\n<style=\"research\">{0} Technology</style> was unlocked through the power of science!\n\nNew buildings have become available:\n<style=\"misc\">{1}</style>"
+msgid "Eureka!\n<style=\"research\">{0} Technology</style> has been unlocked through the power of science.\n\nNew buildings have become available:\n<style=\"misc\">{1}</style>"
 msgstr "Эврика!\nСилой научного познания была открыта Технология: <style=\"research\">{0}</style>!\n\nСтали доступны новые постройки:\n<style=\"misc\">{1}</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
@@ -11844,8 +11844,8 @@ msgstr "Следующие ресурсы расплавились:"
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
-msgid "Duplicants crave structure and will only eat, sleep, work or bathe during the times you allot for these activities.\n\nTo make the best use of your time, open the <color=#833A5FFF>SCHEDULE TAB</color> [U] to adjust your colony's agenda and plan how your Duplicants should utilize their day."
-msgstr "Дупликанты жаждут порядка. Вы сами говорите им, когда они будут есть, спать, работать или мыться.\n\nЧтобы наилучшим образом распорядиться временем откройте <color=#833A5FFF>РАСПИСАНИЕ</color> [U] - в нем Вы можете распланировать, чем Ваши Дупликанты будут заниматься в течение дня"
+msgid "Duplicants crave structure and will only eat, sleep, work or bathe during the times you allot for these activities.\n\nTo make the best use of your time, open the <color=#833A5FFF>SCHEDULE TAB</color> <color=#F44A47>[U]</color> to adjust your colony's agenda and plan how your Duplicants should utilize their day."
+msgstr "Дупликанты жаждут порядка. Вы сами говорите им, когда они будут есть, спать, работать или мыться.\n\nЧтобы наилучшим образом распорядиться временем откройте <color=#833A5FFF>РАСПИСАНИЕ</color> <color=#F44A47>[U]</color> - в нем Вы можете распланировать, чем Ваши Дупликанты будут заниматься в течение дня."
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME"
@@ -11859,8 +11859,8 @@ msgstr "Узнайте как распланировать время Ваших
 
 #. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.MESSAGEBODY"
-msgid "Duplicants are incredibly resourceful and will automatically use any materials in their reach. However, a Duplicant's productivity can be improved by storing resources closer to where they'll need them.\n\nUse the <color=#833A5FFF>STORAGE REGION TOOL</color> [Y + T] to mark an area as storage, and the <color=#833A5FFF>STORAGE OVERLAY</color> [F6] to assign resource types to it."
-msgstr "Дупликанты невероятно находчивы и автоматически будут использовать любые материалы, до каких могут добраться. Вместе с тем, Вы можете повысить продуктивность Дупликантов, если Вы будете хранить ресурсы там, где они нужны.\n\nИспользуйте  <color=#833A5FFF>ИНСТРУМЕНТ ЗОН ХРАНЕНИЯ</color> [Y + T] для обозначения зон хранения. Далее используйте <color=#833A5FFF>КАРТУ ХРАНИЛИЩ</color> [F6] чтобы выбрать, какие ресурсы будут размещаться в данном хранилище."
+msgid "Duplicants are incredibly resourceful and will automatically use any materials in their reach. However, a Duplicant's productivity can be improved by storing resources closer to where they'll need them.\n\nUse the <color=#833A5FFF>STORAGE REGION TOOL</color> <color=#F44A47>[Y + T]</color> to mark an area as storage, and the <color=#833A5FFF>STORAGE OVERLAY</color> <color=#F44A47>[F6]</color> to assign resource types to it."
+msgstr "Дупликанты невероятно находчивы и автоматически будут использовать любые материалы, до каких могут добраться. Вместе с тем, Вы можете повысить продуктивность Дупликантов, если Вы будете хранить ресурсы там, где они нужны.\n\nИспользуйте  <color=#833A5FFF>ИНСТРУМЕНТ ЗОНЫ ХРАНЕНИЯ</color> <color=#F44A47>[Y + T]</color> для обозначения зон хранения и <color=#833A5FFF>КАРТУ ХРАНИЛИЩ</color>  <color=#F44A47>[F6]</color> чтобы выбрать, какие ресурсы будут размещаться в данном хранилище."
 
 #. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.NAME"
@@ -11904,13 +11904,13 @@ msgstr "Структурные повреждения"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP"
-msgid "A building's structural integrity has been compromised"
+msgid "These buildings' structural integrity has been compromised"
 msgstr "Структурная целостность постройки была нарушена"
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY"
-msgid "Duplicants will perform pending job tasks in order of highest priority to lowest. For example, Duplicants will always harvest <style=\"food\">food</style> before they build, and always build new structures before they dig.\n\nOpen the <color=#833A5FFF>JOBS TAB</color> [J] to set which job tasks Duplicants may perform, or specialize skilled Duplicants for specific types of work."
-msgstr "Дупликанты всегда выполняют поставленные задачи в порядке приоритета - от высшего к низшему. Например, Дупликанты всегда будут сначала собирать <style=\"food\">урожай</style> и потом строить, а строить они будут до того, как приступят к земляным работам.\n\nВ <color=#833A5FFF>ПАНЕЛИ РАБОТ</color> [J] Вы можете указать, какие виды работы Дупликанты могут выполнять - или сделать из опытного Дупликанта специалиста в определенной области."
+msgid "Duplicants will perform pending job tasks in order of highest priority to lowest. For example, Duplicants will always harvest <style=\"food\">food</style> before they build, and always build new structures before they dig.\n\nOpen the <color=#833A5FFF>JOBS TAB</color> <color=#F44A47>[J]</color> to set which job tasks Duplicants may perform, or specialize skilled Duplicants for specific types of work."
+msgstr "Дупликанты выполняют поставленные задачи в порядке приоритета - от высшего к низшему. Например, Дупликанты всегда будут сначала <style=\"food\">Собирать урожай</style> перед тем как строить, а строить новые постройки всегда перед тем как копать.\n\nВ <color=#833A5FFF>ПАНЕЛИ РАБОТЫ</color> <color=#F44A47>[J]</color> Вы можете указать, какие виды работ Дупликанты могут выполнять - или сделать из опытного Дупликанта специалиста в определенной области."
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME"
@@ -11979,8 +11979,8 @@ msgstr "Воздуховод заблокирован"
 
 #. STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.TOOLTIP"
-msgid "A blocked pipe is stopping this system from functioning"
-msgstr "Заблокированная труба не дает этой системе функционировать"
+msgid "Blocked pipes have stopped these systems from functioning:"
+msgstr "Заблокированные трубы не дают этой системе функционировать:"
 
 #. STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.NAME"
@@ -11989,13 +11989,13 @@ msgstr "Воздуховод заблокирован высоким давле�
 
 #. STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.TOOLTIP"
-msgid "A pipe system has exited the ideal pressure range"
-msgstr "Система вышла из идеального диапазона давлений"
+msgid "These pipe systems have exited the ideal pressure range:"
+msgstr "Эта система труб вышла из диапазона иделаьного давления:"
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY"
-msgid "Duplicants are generally self-motivated and do not need to be individually managed in order to perform tasks in the colony.\n\nYou can use the <color=#833A5FFF>DIG TOOL</color> [G] and the <color=#833A5FFF>BUILD MENU</color> in the lower left of the screen to begin planning job tasks. Once you have a few placed, your Duplicants will automatically get to work for you."
-msgstr "Дупликанты в целом достаточно инициативны и не требуют индивидуального контроля для выполнения задач в колонии.\n\nПри помощи инструментов <color=#833A5FFF>КОПАТЬ</color> [G] и <color=#833A5FFF>СТРОИТЬ</color> вы можете запланировать различные задачи. После того, как задача была запланирована, Ваши Дупликанты автоматически начнут работу."
+msgid "Duplicants are self-motivated and do not need to be individually managed in order to perform tasks in the colony.\n\nYou can use the <color=#833A5FFF>DIG TOOL</color> <color=#F44A47>[G]</color> and the <color=#833A5FFF>BUILD MENU</color> in the lower left of the screen to begin planning job tasks. Once you have a few placed, your Duplicants will automatically get to work for you."
+msgstr "Дупликанты в целом достаточно инициативны и не требуют индивидуального контроля для выполнения задач в колонии.\n\nПри помощи инструментов <color=#833A5FFF>КОПАТЬ</color> [G] и <color=#833A5FFF>СТРОИТЕЛЬНОГО МЕНЮ</color> вы можете запланировать различные задачи. После того, как задача была запланирована, Ваши Дупликанты автоматически начнут работу."
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME"
@@ -12059,8 +12059,8 @@ msgstr "Выделяет <style=\"gas\">{Element}</style>: {FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.TOOLTIP"
-msgid "Producing <style=\"gas\">{Element}</style> at {FlowRate}"
-msgstr "Производит <style=\"gas\">{Element}</style> at {FlowRate}"
+msgid "Producing {Element} at a rate of {FlowRate}"
+msgstr "Производит {Element} со скоростью: {FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.NAME"
@@ -12109,8 +12109,8 @@ msgstr "{Category}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.TOOLTIP"
-msgid "This object belongs to the {Category} resource category"
-msgstr "Этот объект принадлежит к {Category} категории ресурсов"
+msgid "The selected item belongs to the {Category} resource category"
+msgstr "Выбранный объект принадлежит к категории ресурсов: {Category}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.NAME"
@@ -12119,8 +12119,8 @@ msgstr "{Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.TOOLTIP"
-msgid "This object has a mass of {Mass}"
-msgstr "Масса этого объекта составляет {Mass}"
+msgid "The selected item has a mass of {Mass}"
+msgstr "Масса выбранного объекта: {Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.NAME"
@@ -12129,8 +12129,8 @@ msgstr "{Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.TOOLTIP"
-msgid "This object is currently {Temp}"
-msgstr "Температура этого объекта в данный момент {Temp}"
+msgid "The selected item is currently {Temp}"
+msgstr "Температура выбранного объекта: {Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME"
@@ -12139,8 +12139,8 @@ msgstr "Сильно"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP"
-msgid "This Duplicant is in serious need of <style=\"medicine\">Medical</style> attention"
-msgstr "Этому Дупликанту очень нужна <style=\"medicine\">Медицинская</style> помощь"
+msgid "This Duplicant is in serious need of medical attention"
+msgstr "Этому Дупликанту очень нужна медицинская помощь"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.NAME"
@@ -12159,8 +12159,8 @@ msgstr "Парализующее"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.TOOLTIP"
-msgid "This Duplicant will die if they do not receive <style=\"medicine\">Medical</style> attention"
-msgstr "Этот Дупликант умрет, если не получит <style=\"medicine\">Медицинскую</style> помощь"
+msgid "This Duplicant will die if they do not receive medical attention"
+msgstr "Этот Дупликант умрет, если не получит медицинскую помощь"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.NAME"
@@ -12219,7 +12219,7 @@ msgstr "Используйте инструмент \"Сбор урожая\", �
 
 #. STRINGS.MISC.STATUSITEMS.OPERATING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.NAME"
-msgid "Being Used"
+msgid "In Use"
 msgstr "Используется"
 
 #. STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP
@@ -12234,8 +12234,8 @@ msgstr "{Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP"
-msgid "This object has a mass of {Mass}"
-msgstr "Масса этого объекта составляет {Mass}"
+msgid "The selected item has a mass of {Mass}"
+msgstr "Масса выбранного объекта: {Mass}"
 
 #. STRINGS.MISC.STATUSITEMS.ORETEMP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.NAME"
@@ -12244,8 +12244,8 @@ msgstr "{Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP"
-msgid "This object is currently {Temp}"
-msgstr "Температура этого объекта в данный момент {Temp}"
+msgid "The selected item is currently {Temp}"
+msgstr "Температура выбранного объекта: {Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.NAME"
@@ -12284,8 +12284,8 @@ msgstr "Выделяет <style=\"oxygen\">Кислород</style>: {FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.TOOLTIP"
-msgid "Producing <style=\"oxygen\">Oxygen</style> at {FlowRate}"
-msgstr "Производит <style=\"oxygen\">Кислород</style> до {FlowRate}"
+msgid "Producing oxygen at a rate of {FlowRate}"
+msgstr "Производит кислород со скоростью: {FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.NAME"
@@ -12414,8 +12414,8 @@ msgstr "Вентилирование"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP"
-msgid "This spout is releasing gas"
-msgstr "Этот желоб выпускает газ"
+msgid "This geyser is erupting"
+msgstr "Этот гейзер извергается"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME"
@@ -12429,13 +12429,13 @@ msgstr "Высокое давление. Желоб не может выпуск
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME"
-msgid "Pressure rising"
+msgid "Rising pressure"
 msgstr "Повышение давления"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP"
-msgid "Gas pressure is building"
-msgstr "Давление газа нарастает"
+msgid "This geyser's internal pressure is steadily building"
+msgstr "Внутреннее давление этого гейзера постоянно растет"
 
 #. STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.NAME"
@@ -14369,7 +14369,7 @@ msgstr "Сельское хозяйство - шедевральное иску�
 
 #. STRINGS.RESEARCH.FARMINGTECH.NAME
 msgctxt "STRINGS.RESEARCH.FARMINGTECH.NAME"
-msgid "Farming Tech"
+msgid "Farming"
 msgstr "Сельское хозяйство"
 
 #. STRINGS.RESEARCH.FINEDINING.DESC
@@ -14534,12 +14534,12 @@ msgstr "Открывают примитивные технологии."
 
 #. STRINGS.RESEARCH.TYPES.BETA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.DESC"
-msgid "<style=\"research\">Intermediary Research</style> is required to unlock intermediate technologies.\nIt can be conducted at an <style=\"research\">Super Computer</style>."
-msgstr "<style=\"research\">Расширенное исследование</style> требуется для открытия технологий среднего уровня.\nИх можно провести в <style=\"research\">Суперкомпьютере</style>."
+msgid "<style=\"research\">Intermediate Research</style> is required to unlock improved technologies.\nIt can be conducted at a <style=\"research\">Super Computer</style>."
+msgstr "<style=\"research\">Расширенное исследование</style> требуется для открытия улучшенных технологий.\nЕго можно провести на <style=\"research\">СуперЭВМ</style>."
 
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.NAME"
-msgid "Intermediary Research"
+msgid "Intermediate Research"
 msgstr "Расширенное исследование"
 
 #. STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC
@@ -15519,7 +15519,7 @@ msgstr "Детали"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY"
-msgid "Nothing"
+msgid "None"
 msgstr "Ничего"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP
@@ -15534,8 +15534,8 @@ msgstr "Электричество"
 
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP"
-msgid "View how much <style=\"power\">Power</style> this building consumes"
-msgstr "Посмотреть, сколько <style=\"power\">Электричества</style> потребляет эта постройка"
+msgid "View how much power this building consumes"
+msgstr "Посмотреть, сколько электричества потребляет эта постройка"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES"
@@ -15544,8 +15544,8 @@ msgstr "<style=\"power\">Электричества</style> запасено: {0
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP"
-msgid "Amount of <style=\"power\">Power</style> stored in batteries"
-msgstr "Объем <style=\"power\">Электричества</style>, запасенный в батареях"
+msgid "Amount of power stored in batteries"
+msgstr "Объем электричества, запасенный в батареях"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES"
@@ -15604,18 +15604,18 @@ msgstr "Нет генераторов в системе"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED"
-msgid "Potential <style=\"power\">Power</style> consumed: {0}"
-msgstr "Предполагаемое потребление <style=\"power\">Электричества</style>: {0}"
+msgid "Potential power consumed: {0}"
+msgstr "Потенциальное потребление электричества: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP"
-msgid "The total amount of <style=\"power\">Power</style> that can be used by this circuit if all connected buildings are active"
-msgstr "Общая сумма <style=\"power\">Электричества</style> может быть использована в системе в случае активной работы всех подключенных построек"
+msgid "The total amount of power that can be used by this circuit if all connected buildings are active"
+msgstr "Общаий объем электричества, который может быть использован данной сетью, в случае активной работы всех подключенных построек"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP"
-msgid "Monitor the <style=\"power\">Power</style> this building is generating"
-msgstr "Просмотр количества <style=\"power\">Электричества</style>, вырабатываемого этой постройкой"
+msgid "Monitor the power this building is generating"
+msgstr "Мониторинг объема электричества, вырабатываемого этой постройкой"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED"
@@ -15624,8 +15624,8 @@ msgstr "<style=\"power\">Электричества</style> потреблено
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED_TOOLTIP"
-msgid "The total amount of <style=\"power\">Power</style> used by this circuit"
-msgstr "Общая сумма <style=\"power\">Электричества</style>, используемого этой системой"
+msgid "The total amount of power used by this circuit"
+msgstr "Общий объем электричества, используемого этой сеть."
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED"
@@ -15634,8 +15634,8 @@ msgstr "<style=\"power\">Электричества</style> сгенериров
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP"
-msgid "The total amount of <style=\"power\">Power</style> generated by this circuit"
-msgstr "Общая сумма <style=\"power\">Электричества</style>, генерируемого этой системой"
+msgid "The total amount of power generated by this circuit"
+msgstr "Общая сумма электричества, генерируемого этой сетью"
 
 #. STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME"
@@ -15689,13 +15689,13 @@ msgstr "Просмотреть психологическое состояния
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP"
-msgid "This Duplicant has been assigned a {0}"
-msgstr "Этот Дупликант был назначен к {0}"
+msgid "This Duplicant has been assigned a {0}.\nEffects:{1}"
+msgstr "Этот Дупликант был назначен к {0}\nЭффекты:{1}"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP"
-msgid "This Duplicant has been equipped with a <style=\"equipment\">{0}</style>"
-msgstr "Этот Дупликант был оснащен <style=\"equipment\">{0}</style>"
+msgid "This Duplicant has been equipped with a {0}"
+msgstr "Этот Дупликант был оснащен {0}"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT"
@@ -15724,13 +15724,13 @@ msgstr "Нет оснащения"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NOEQUIPMENT_TOOLTIP"
-msgid "This Duplicant has not been equipped with a <style=\"equipment\">Tool</style>"
-msgstr "Этот Дупликант не оснащен <style=\"equipment\">Инструментом</style>"
+msgid "This Duplicant has not been equipped with a tool"
+msgstr "Этот Дупликант не был оснащен инструментом"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.TOOLTIP"
-msgid "View this Duplicant's inventory"
-msgstr "Просмотр инвентаря Дупликанта"
+msgid "View this Duplicant's personal amenities"
+msgstr "Просмотр собственности этого Дупликанта"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.UNASSIGNED"
@@ -15769,8 +15769,8 @@ msgstr "Инфо"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP"
-msgid "Status and basic information"
-msgstr "Статус и базовая информация"
+msgid "View the status of the selected item"
+msgstr "Просмотр статуса и базовой информации выбранного объекта"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES"
@@ -15869,13 +15869,13 @@ msgstr "Печать Дупликанта"
 
 #. STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.NAME"
-msgid "Conductivity Barrier Thickness: {0}"
-msgstr "Толщина барьера проводимости: {0}"
+msgid "Insulation Thickness: {0}"
+msgstr "Толщина изоляции: {0}"
 
 #. STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.TOOLTIP"
-msgid "Barrier thickness dampens the rate of <style=\"heat\">Heat</style> conduction"
-msgstr "Толщина барьера понижает скорость передачи <style=\"heat\">Тепла</style>"
+msgid "Thicker insulation reduces an item's Thermal Conductivity"
+msgstr "Более толстая изоляция снижает термическую проводимость объекта"
 
 #. STRINGS.UI.ELEMENTAL.DEWPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.DEWPOINT.NAME"
@@ -15884,8 +15884,8 @@ msgstr "Точка росы: {0}"
 
 #. STRINGS.UI.ELEMENTAL.DEWPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.DEWPOINT.TOOLTIP"
-msgid "Dew point describes the temperature at which this substance will condense into a liquid"
-msgstr "Точка росы характеризует температуру, при которой эта субстанция будет конденсироваться в жидкость"
+msgid "The selected item will condense into a liquid at {0}"
+msgstr "Выбранный объект растает и перейдет в жидкое состояние при температуре: {0}"
 
 #. STRINGS.UI.ELEMENTAL.FREEZEPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.FREEZEPOINT.NAME"
@@ -15894,8 +15894,8 @@ msgstr "Точка замерзания: {0}"
 
 #. STRINGS.UI.ELEMENTAL.FREEZEPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.FREEZEPOINT.TOOLTIP"
-msgid "Freeze point describes the temperature at which this substance will cool into a solid"
-msgstr "Точка замерзания характеризует температуру, при которой субстанция будет охлаждена до твердого тела"
+msgid "The selected item will cool into a solid at {0}"
+msgstr "Выбранный объект замерзнет и перейдет в твердое состояние при температуре: {0}"
 
 #. STRINGS.UI.ELEMENTAL.MASS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.NAME"
@@ -15904,8 +15904,8 @@ msgstr "Масса: {0}"
 
 #. STRINGS.UI.ELEMENTAL.MASS.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.TOOLTIP"
-msgid "This object has a mass of {0}"
-msgstr "Масса объекта {0}"
+msgid "The selected item has a mass of {0}"
+msgstr "Масса выбранного объекта: {0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME"
@@ -15914,8 +15914,8 @@ msgstr "Температура плавления: {0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP"
-msgid "Melting point describes the temperature at which this substance will melt into a liquid"
-msgstr "Температура плавления показывает ту температуру, которая нужна для перехода из твердого состояния в жидкость"
+msgid "The selected item will melt into a liquid at {0}"
+msgstr "Выбранный объект расплавится и перейдет в жидкое состояние при температуре: {0}"
 
 #. STRINGS.UI.ELEMENTAL.OVERHEATPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.OVERHEATPOINT.NAME"
@@ -15924,8 +15924,8 @@ msgstr "Модификатор перегрева: {0}"
 
 #. STRINGS.UI.ELEMENTAL.OVERHEATPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.OVERHEATPOINT.TOOLTIP"
-msgid "Different construction materials have different effects on the temperature ranges a building can withstand"
-msgstr "Разные строительные материалы по-разному влияют на диапазоны температур, которые может выдержать постройка"
+msgid "This building will overheat and take damage if its temperature reaches {0}\n\nBuilding with better building materials can increase overheat temperature"
+msgstr "Эта постройка перегреется и начнет получать урон, если достигнет температуры: {0}\n\nПостройки, сделаннаы из более качественных материалов могут иметь более высокую температуру перегрева"
 
 #. STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.NAME"
@@ -15934,8 +15934,8 @@ msgstr "Основной элемент: {0}"
 
 #. STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.TOOLTIP"
-msgid "This substance is primarily made of {0}"
-msgstr "Это вещество главным образом сделано из {0}"
+msgid "The selected item is primarily composed of {0}"
+msgstr "Основной материал выбранного объекта: {0}"
 
 #. STRINGS.UI.ELEMENTAL.SHC.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.NAME"
@@ -15944,8 +15944,8 @@ msgstr "Удельная теплоемкость: {0}"
 
 #. STRINGS.UI.ELEMENTAL.SHC.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.TOOLTIP"
-msgid "Specific heat capacity is the amount of energy required to raise this object's temperature"
-msgstr "Удельная теплоемкость - это количество энергии, необходимое для повышения температуры объекта на 1 градус"
+msgid "The minimum amount of energy needed to raise the selected item's temperature is {0}"
+msgstr "Минимальный объем энергии, необходимый, чтобы повысить температуру выбранного объекта: {0}"
 
 #. STRINGS.UI.ELEMENTAL.TEMPERATURE.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.TEMPERATURE.NAME"
@@ -15954,8 +15954,8 @@ msgstr "Температура: {0}"
 
 #. STRINGS.UI.ELEMENTAL.TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.TEMPERATURE.TOOLTIP"
-msgid "This substance has a temperature of {0}"
-msgstr "Это вещество имеет температуру {0}"
+msgid "The selected item's current temperature is {0}"
+msgstr "Температура выбранного объекта: {0}"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME"
@@ -15964,13 +15964,13 @@ msgstr "Теплопроводность: {0}"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP"
-msgid "Thermal conductivity indicates the maximum rate at which this substance can conduct <style=\"heat\">Heat</style>"
-msgstr "Теплопроводность показывает максимальную скорость, с которой субстанция может проводить <style=\"heat\">Тепло</style>"
+msgid "The selected item can conduct heat at a rate of {0}"
+msgstr "Теплопроводность выбранного объекта: {0}"
 
 #. STRINGS.UI.ELEMENTAL.UNITS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.UNITS.NAME"
-msgid "Units: {0}"
-msgstr "Единиц: {0}"
+msgid "Stack Units: {0}"
+msgstr "Единиц в стопке: {0}"
 
 #. STRINGS.UI.ELEMENTAL.UNITS.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.UNITS.TOOLTIP"
@@ -15984,8 +15984,8 @@ msgstr "Точки испарения: {0}"
 
 #. STRINGS.UI.ELEMENTAL.VAPOURIZATIONPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.VAPOURIZATIONPOINT.TOOLTIP"
-msgid "Vaporization point describes the temperature at which this substance will evaporate into a gas"
-msgstr "Точки испарения характеризует температуру, при которой это вещество будет испаряться в газ"
+msgid "The selected item will evaporate into a gas at {0}"
+msgstr "Выбранный объект испарится в газ при {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
@@ -16490,8 +16490,8 @@ msgstr "Готово"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON"
-msgid "Enable"
-msgstr "Включить"
+msgid "Send Metrics Data"
+msgstr "Отправлять данные метрики"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE"
@@ -16500,8 +16500,8 @@ msgstr "ВЫБОР СИСТЕМЫ ИЗМЕРЕНИЙ"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP"
-msgid "Collect metrics to help us improve the game"
-msgstr "Собирать данные, чтобы помочь нам улучшить игру"
+msgid "If enabled, metrics data will be sent for the purpose of improving the game."
+msgstr "Если включено, метрические данные будут отправлены, чтобы помочь нам улучшить игру"
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY"
@@ -16560,8 +16560,8 @@ msgstr "Выбрать другой язык"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS"
-msgid "Metrics"
-msgstr "Система измерений"
+msgid "Send Metrics Data"
+msgstr "Отправить данные метрики"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE"
@@ -16580,8 +16580,8 @@ msgstr "Ключ для генерации мира"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
-msgid "<b>Welcome to the Thermal Upgrade!</b>\n\n{0}"
-msgstr "<b>Добро пожаловать в Термальный Апгрейд!</b>\n\n{0}"
+msgid "<b>Welcome to the Agricultural Upgrade!</b>\n\n{0}"
+msgstr "<b>Добро пожаловать в Агокультурный Апгрейд!</b>\n\n{0}"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
@@ -16720,7 +16720,7 @@ msgstr "Цельсий"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
-msgid "Change temperature unit to Celsius (°)"
+msgid "Change temperature unit to Celsius (В°C)"
 msgstr "Отображать температуру в Цельсиях (°)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
@@ -16730,7 +16730,7 @@ msgstr "Фаренгейт"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
-msgid "Change temperature unit to Fahrenheit (°F)"
+msgid "Change temperature unit to Fahrenheit (В°F)"
 msgstr "Отображать температуру в Фаренгейтах (°F)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
@@ -16747,7 +16747,6 @@ msgstr "Отображать температуру в Кельвинах (K)"
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE"
 msgid "TEMPERATURE UNITS"
 msgstr "ОТОБРАЖЕНИЕ ТЕМПЕРАТУРЫ"
-
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.CHOOSE_RANDOM_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.CHOOSE_RANDOM_BUTTON"
@@ -16836,7 +16835,7 @@ msgstr "Временно предоставляет эффект <style=\"stress
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED"
-msgid "Circuit Overload Damage"
+msgid "Overload Damage"
 msgstr "Повреждение от перегрузки цепи"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_BOILED
@@ -16851,8 +16850,8 @@ msgstr "Повреждение от переохлаждения"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE"
-msgid "Liquid Pressure Damage"
-msgstr "Повреждение от избыточного давления жидкости"
+msgid "Pressure Damage"
+msgstr "Повреждение от избыточного давления"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION"
@@ -16946,18 +16945,18 @@ msgstr "Отрастание: {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE"
-msgid "Pressure: {0} of any gas"
-msgstr "Давление: {0} любого газа"
+msgid "<style=\"gas\">Gas</style> Pressure: {0} minimum"
+msgstr "Давление <style=\"gas\">Газа</style>: {0} минимум"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION"
-msgid "Submersed in liquid"
-msgstr "Погружено в жидкость"
+msgid "<style=\"liquid\">Liquid</style> Submersion"
+msgstr "Погружено в <style=\"liquid\">Жидкость</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE"
-msgid "Temperature: {0} to {1}"
-msgstr "Температура: {0} до {1}"
+msgid "<style=\"heat\">Temperature</style>: {0} to {1}"
+msgstr "<style=\"heat\">Температура</style>: {0} до {1}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRESFERTILIZER"
@@ -16981,8 +16980,8 @@ msgstr "Последний сбор урожая производит <style=\"s
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT"
-msgid "Seeds contained in fruit"
-msgstr "Семена содержатся внутри фрукта"
+msgid "Fruit produces <style=\"seed\">Seeds</style>"
+msgstr "Фрукт производит <style=\"seed\">Семена</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST"
@@ -17006,8 +17005,8 @@ msgstr "<style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER"
-msgid "Lowers ambient air <style=\"heat\">Temperature</style>"
-msgstr "Понижает <style=\"heat\">Температуру</style> окружающего воздуха"
+msgid "Lowers ambient air temperature"
+msgstr "Понижает температуру воздуха в окружающей среде"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COOKEDMEATTEMPORARYTRAIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COOKEDMEATTEMPORARYTRAIT"
@@ -17061,38 +17060,38 @@ msgstr "Это растение заработает очки урожайнос
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.INITIALGROWTHTIME"
-msgid "This plant takes {0} to grow once replanted"
-msgstr "Это растение требует {0} для роста после пересадки"
+msgid "This plant takes {0} to mature again once replanted"
+msgstr "Это растение требует {0}, чтобы созреть вновь после пересадки"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REGROWTHTIME"
-msgid "This plant takes {0} to grow once harvested"
-msgstr "Это растение требует {0} для роста после сбора урожая"
+msgid "This plant takes {0} to mature again once harvested"
+msgstr "Это растение требует {0}, чтобы созреть вновь после сбора урожая"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE"
-msgid "This plant must be in an atmosphere of at least {0} of any gas"
-msgstr "Это растение должно быть в атмосфере, по крайней мере, {0} любого газа"
+msgid "Atmospheric gas pressure must be at least {0} for basic growth"
+msgstr "Атмосферное давление окружающей среды должно быть {0} или более, чтобы расти"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION"
-msgid "This plant must be fully submersed to grow"
-msgstr "Это растение должно быть полностью погружено, чтобы расти"
+msgid "This plant must be fully submerged in liquid for basic growth"
+msgstr "Это растение должно быть полностью погружено в жидкость, чтобы расти"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE"
-msgid "This plant must be kept between {0} and {1} to grow"
-msgstr "Это растение должно быть между {0} и {1}, чтобы расти"
+msgid "Atmospheric temperature must be kept between {0} and {1} for basic growth"
+msgstr "Температура окружающей среды должна быть между {0} и {1}, чтобы расти"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
-msgid "This plant requires {1} <style=\"solid\">{0}</style> in order to grow"
-msgstr "Это растение требует {1} <style=\"solid\">{0}</style>, чтобы расти""
+msgid "This plant requires {1} {0} for basic growth"
+msgstr "Это растение требует {1} {0}, чтобы расти""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
-msgid "This plant may be transplanted, but has no further reproductive features"
-msgstr "Это растение может быть пересажено, но не имеет никаких репродуктивных функций"
+msgid "This plant can be replanted but will produce no further seeds"
+msgstr "Это растение может быть пересажено, но не произведет больше семян"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FINAL_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FINAL_HARVEST"
@@ -17101,8 +17100,8 @@ msgstr "Это растение произведет новые семена п�
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT"
-msgid "This plant stores its seeds in its fruit. The fruit must be consumed to release the seeds"
-msgstr "Это растение хранит семена в своих плодах. Для получения семени фрукт должен быть съеден"
+msgid "Consuming this plant's fruit will yield new plant seeds"
+msgstr "При поедании плодов этого растения вы получите семена"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
@@ -17136,8 +17135,8 @@ msgstr "Вы уверены, что хотите отклонить всех? П
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
-msgid "Reject Duplicants?"
-msgstr "Отказаться от Дупликантов?"
+msgid "Reject All Duplicants?"
+msgstr "Отказаться от всех Дупликантов?"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.EMBARK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.EMBARK"
@@ -17186,7 +17185,7 @@ msgstr "Случайное имя колонии"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
-msgid "Reshuffle this dupe for a different one"
+msgid "Shuffle for a different Duplicant"
 msgstr "Сменить этого Дупликанта на другого"
 
 #. STRINGS.UI.JOBS
@@ -17326,7 +17325,7 @@ msgstr "Одежда ({0})"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLUTTER
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
-msgid "Clutter"
+msgid "Debris"
 msgstr "Мусор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR
@@ -17356,13 +17355,13 @@ msgstr "КАРТА ДЕКОРА"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR"
-msgid "Areas with sufficient decor values"
-msgstr "Зоны с достаточным уровнем декора"
+msgid "Areas with sufficient decor values\n------------------\nLighting and aesthetically pleasing buildings increase decor"
+msgstr "Зоны с достаточным уровнем декора\n------------------\nОсвещение и эстетически привлекательные здания увеличивают декор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR"
-msgid "Areas with insufficient decor values"
-msgstr "Зоны с недостаточным уровнем декора"
+msgid "Areas with insufficient decor values\n------------------\nResources on the floor are considered \"debris\" and will decrease decor"
+msgstr "Зоны с недостаточным уровнем декора\n------------------\nМатериалы на полу считаются \"мусором\" и уменьшают декор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOTAL
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOTAL"
@@ -17401,23 +17400,23 @@ msgstr "Производитель"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4"
-msgid "<b>CIRCUIT POWER</b>"
-msgstr "<b>ИНФОРМАЦИЯ О СЕТИ</b>"
+msgid "<b>CIRCUIT POWER LOAD</b>"
+msgstr "<b>ИНФОРМАЦИЯ О ЗАГРУЗКЕ СЕТИ</b>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5"
-msgid "Stable"
-msgstr "Стабильна"
+msgid "Energy Surplus"
+msgstr "Избыток электричества"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6"
-msgid "Straining"
+msgid "Strained"
 msgstr "Под нагрузкой"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
-msgid "Broken"
-msgstr "Сломана"
+msgid "Overloaded"
+msgstr "Перегружена"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8"
@@ -17441,12 +17440,12 @@ msgstr "Отображает использует или потребляет п
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
-msgid "Uses <style=\"power\">Power</style> from circuit"
+msgid "Uses <style=\"power\">Power</style> from a circuit"
 msgstr "Получает <style=\"power\">Электричество</style> из сети"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3"
-msgid "Generates <style=\"power\">Power</style> for circuit"
+msgid "Generates <style=\"power\">Power</style> for a circuit"
 msgstr "Производит <style=\"power\">Электричество</style> для сети"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND4
@@ -17456,18 +17455,18 @@ msgstr "Отображает мощность <style=\"power\">Электрич�
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5"
-msgid "Optimal <style=\"power\">Power</style> usage"
-msgstr "Оптимальное использование <style=\"power\">Электричества</style>"
+msgid "This circuit is producing more <style=\"power\">Power</style> than it can consume"
+msgstr "Эта сеть производит больше <style=\"power\">Электричества</style>, чем может потребить"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6"
-msgid "Requires more <style=\"power\">Power</style>"
-msgstr "Требуется больше <style=\"power\">Электричества</style>"
+msgid "This circuit is consuming nearly all the <style=\"power\">Power</style> it produces"
+msgstr "Эта сеть потребляет практически все <style=\"power\">Электричество</style>, которое производит"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7"
-msgid "System overloaded"
-msgstr "Система перегружена"
+msgid "Too much <style=\"power\">Power</style> being drawn from system"
+msgstr "Слишком много <style=\"power\">Электричества</style> потребляется сетью."
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8"
