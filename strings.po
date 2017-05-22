@@ -7815,7 +7815,7 @@ msgstr "Выходит из зоны, где требуется <style=\"equipme
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP"
 msgid "This Duplicant is leaving an area where an exosuit was required"
-msgstr "Этот Дупликант покидает зону, где требовался экзокостюм"
+msgstr "Этот Дупликант покидает зону, где требовался Экзокостюм"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME"
@@ -17487,7 +17487,7 @@ msgstr "Экзокостюм не требуется"
 #. STRINGS.UI.OVERLAYS.EXOSUIT.EXOSUITREQUIRED
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.EXOSUITREQUIRED"
 msgid "Exosuit required"
-msgstr "Требуется экзокостюм"
+msgstr "Требуется Экзокостюм"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.NAME
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.NAME"
