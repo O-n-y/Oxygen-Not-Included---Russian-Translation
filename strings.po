@@ -16560,8 +16560,8 @@ msgstr "Выбрать другой язык"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS"
-msgid "Metrics"
-msgstr "Система измерений"
+msgid "Send Metrics Data"
+msgstr "Отправить данные метрики"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE"
@@ -16580,8 +16580,8 @@ msgstr "Ключ для генерации мира"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
-msgid "<b>Welcome to the Thermal Upgrade!</b>\n\n{0}"
-msgstr "<b>Добро пожаловать в Термальный Апгрейд!</b>\n\n{0}"
+msgid "<b>Welcome to the Agricultural Upgrade!</b>\n\n{0}"
+msgstr "<b>Добро пожаловать в Агокультурный Апгрейд!</b>\n\n{0}"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
@@ -16720,7 +16720,7 @@ msgstr "Цельсий"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
-msgid "Change temperature unit to Celsius (°)"
+msgid "Change temperature unit to Celsius (В°C)"
 msgstr "Отображать температуру в Цельсиях (°)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
@@ -16730,7 +16730,7 @@ msgstr "Фаренгейт"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
-msgid "Change temperature unit to Fahrenheit (°F)"
+msgid "Change temperature unit to Fahrenheit (В°F)"
 msgstr "Отображать температуру в Фаренгейтах (°F)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
@@ -16747,7 +16747,6 @@ msgstr "Отображать температуру в Кельвинах (K)"
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE"
 msgid "TEMPERATURE UNITS"
 msgstr "ОТОБРАЖЕНИЕ ТЕМПЕРАТУРЫ"
-
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.CHOOSE_RANDOM_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.CHOOSE_RANDOM_BUTTON"
@@ -16836,7 +16835,7 @@ msgstr "Временно предоставляет эффект <style=\"stress
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED"
-msgid "Circuit Overload Damage"
+msgid "Overload Damage"
 msgstr "Повреждение от перегрузки цепи"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_BOILED
@@ -16851,8 +16850,8 @@ msgstr "Повреждение от переохлаждения"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE"
-msgid "Liquid Pressure Damage"
-msgstr "Повреждение от избыточного давления жидкости"
+msgid "Pressure Damage"
+msgstr "Повреждение от избыточного давления"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION"
@@ -16946,18 +16945,18 @@ msgstr "Отрастание: {0}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE"
-msgid "Pressure: {0} of any gas"
-msgstr "Давление: {0} любого газа"
+msgid "<style=\"gas\">Gas</style> Pressure: {0} minimum"
+msgstr "Давление <style=\"gas\">Газа</style>: {0} минимум"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION"
-msgid "Submersed in liquid"
-msgstr "Погружено в жидкость"
+msgid "<style=\"liquid\">Liquid</style> Submersion"
+msgstr "Погружено в <style=\"liquid\">Жидкость</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE"
-msgid "Temperature: {0} to {1}"
-msgstr "Температура: {0} до {1}"
+msgid "<style=\"heat\">Temperature</style>: {0} to {1}"
+msgstr "<style=\"heat\">Температура</style>: {0} до {1}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRESFERTILIZER"
@@ -16981,8 +16980,8 @@ msgstr "Последний сбор урожая производит <style=\"s
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT"
-msgid "Seeds contained in fruit"
-msgstr "Семена содержатся внутри фрукта"
+msgid "Fruit produces <style=\"seed\">Seeds</style>"
+msgstr "Фрукт производит <style=\"seed\">Семена</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST"
@@ -17006,8 +17005,8 @@ msgstr "<style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER"
-msgid "Lowers ambient air <style=\"heat\">Temperature</style>"
-msgstr "Понижает <style=\"heat\">Температуру</style> окружающего воздуха"
+msgid "Lowers ambient air temperature"
+msgstr "Понижает температуру воздуха в окружающей среде"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COOKEDMEATTEMPORARYTRAIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COOKEDMEATTEMPORARYTRAIT"
@@ -17061,38 +17060,38 @@ msgstr "Это растение заработает очки урожайнос
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.INITIALGROWTHTIME"
-msgid "This plant takes {0} to grow once replanted"
-msgstr "Это растение требует {0} для роста после пересадки"
+msgid "This plant takes {0} to mature again once replanted"
+msgstr "Это растение требует {0}, чтобы созреть вновь после пересадки"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REGROWTHTIME"
-msgid "This plant takes {0} to grow once harvested"
-msgstr "Это растение требует {0} для роста после сбора урожая"
+msgid "This plant takes {0} to mature again once harvested"
+msgstr "Это растение требует {0}, чтобы созреть вновь после сбора урожая"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE"
-msgid "This plant must be in an atmosphere of at least {0} of any gas"
-msgstr "Это растение должно быть в атмосфере, по крайней мере, {0} любого газа"
+msgid "Atmospheric gas pressure must be at least {0} for basic growth"
+msgstr "Атмосферное давление окружающей среды должно быть {0} или более, чтобы расти"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION"
-msgid "This plant must be fully submersed to grow"
-msgstr "Это растение должно быть полностью погружено, чтобы расти"
+msgid "This plant must be fully submerged in liquid for basic growth"
+msgstr "Это растение должно быть полностью погружено в жидкость, чтобы расти"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE"
-msgid "This plant must be kept between {0} and {1} to grow"
-msgstr "Это растение должно быть между {0} и {1}, чтобы расти"
+msgid "Atmospheric temperature must be kept between {0} and {1} for basic growth"
+msgstr "Температура окружающей среды должна быть между {0} и {1}, чтобы расти"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
-msgid "This plant requires {1} <style=\"solid\">{0}</style> in order to grow"
-msgstr "Это растение требует {1} <style=\"solid\">{0}</style>, чтобы расти""
+msgid "This plant requires {1} {0} for basic growth"
+msgstr "Это растение требует {1} {0}, чтобы расти""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
-msgid "This plant may be transplanted, but has no further reproductive features"
-msgstr "Это растение может быть пересажено, но не имеет никаких репродуктивных функций"
+msgid "This plant can be replanted but will produce no further seeds"
+msgstr "Это растение может быть пересажено, но не произведет больше семян"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FINAL_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FINAL_HARVEST"
@@ -17101,8 +17100,8 @@ msgstr "Это растение произведет новые семена п�
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT"
-msgid "This plant stores its seeds in its fruit. The fruit must be consumed to release the seeds"
-msgstr "Это растение хранит семена в своих плодах. Для получения семени фрукт должен быть съеден"
+msgid "Consuming this plant's fruit will yield new plant seeds"
+msgstr "При поедании плодов этого растения вы получите семена"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
@@ -17136,8 +17135,8 @@ msgstr "Вы уверены, что хотите отклонить всех? П
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
-msgid "Reject Duplicants?"
-msgstr "Отказаться от Дупликантов?"
+msgid "Reject All Duplicants?"
+msgstr "Отказаться от всех Дупликантов?"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.EMBARK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.EMBARK"
@@ -17186,7 +17185,7 @@ msgstr "Случайное имя колонии"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
-msgid "Reshuffle this dupe for a different one"
+msgid "Shuffle for a different Duplicant"
 msgstr "Сменить этого Дупликанта на другого"
 
 #. STRINGS.UI.JOBS
@@ -17326,7 +17325,7 @@ msgstr "Одежда ({0})"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLUTTER
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
-msgid "Clutter"
+msgid "Debris"
 msgstr "Мусор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR
@@ -17356,13 +17355,13 @@ msgstr "КАРТА ДЕКОРА"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR"
-msgid "Areas with sufficient decor values"
-msgstr "Зоны с достаточным уровнем декора"
+msgid "Areas with sufficient decor values\n------------------\nLighting and aesthetically pleasing buildings increase decor"
+msgstr "Зоны с достаточным уровнем декора\n------------------\nОсвещение и эстетически привлекательные здания увеличивают декор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR"
-msgid "Areas with insufficient decor values"
-msgstr "Зоны с недостаточным уровнем декора"
+msgid "Areas with insufficient decor values\n------------------\nResources on the floor are considered \"debris\" and will decrease decor"
+msgstr "Зоны с недостаточным уровнем декора\n------------------\nМатериалы на полу считаются \"мусором\" и уменьшают декор"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOTAL
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOTAL"
@@ -17401,23 +17400,23 @@ msgstr "Производитель"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4"
-msgid "<b>CIRCUIT POWER</b>"
-msgstr "<b>ИНФОРМАЦИЯ О СЕТИ</b>"
+msgid "<b>CIRCUIT POWER LOAD</b>"
+msgstr "<b>ИНФОРМАЦИЯ О ЗАГРУЗКЕ СЕТИ</b>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5"
-msgid "Stable"
-msgstr "Стабильна"
+msgid "Energy Surplus"
+msgstr "Избыток электричества"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6"
-msgid "Straining"
+msgid "Strained"
 msgstr "Под нагрузкой"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
-msgid "Broken"
-msgstr "Сломана"
+msgid "Overloaded"
+msgstr "Перегружена"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8"
@@ -17441,12 +17440,12 @@ msgstr "Отображает использует или потребляет п
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
-msgid "Uses <style=\"power\">Power</style> from circuit"
+msgid "Uses <style=\"power\">Power</style> from a circuit"
 msgstr "Получает <style=\"power\">Электричество</style> из сети"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3"
-msgid "Generates <style=\"power\">Power</style> for circuit"
+msgid "Generates <style=\"power\">Power</style> for a circuit"
 msgstr "Производит <style=\"power\">Электричество</style> для сети"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND4
@@ -17456,18 +17455,18 @@ msgstr "Отображает мощность <style=\"power\">Электрич�
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5"
-msgid "Optimal <style=\"power\">Power</style> usage"
-msgstr "Оптимальное использование <style=\"power\">Электричества</style>"
+msgid "This circuit is producing more <style=\"power\">Power</style> than it can consume"
+msgstr "Эта сеть производит больше <style=\"power\">Электричества</style>, чем может потребить"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6"
-msgid "Requires more <style=\"power\">Power</style>"
-msgstr "Требуется больше <style=\"power\">Электричества</style>"
+msgid "This circuit is consuming nearly all the <style=\"power\">Power</style> it produces"
+msgstr "Эта сеть потребляет практически все <style=\"power\">Электричество</style>, которое производит"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7"
-msgid "System overloaded"
-msgstr "Система перегружена"
+msgid "Too much <style=\"power\">Power</style> being drawn from system"
+msgstr "Слишком много <style=\"power\">Электричества</style> потребляется сетью."
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8"
