@@ -3834,13 +3834,13 @@ msgstr "Это существо пытается избежать боя"
 
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.NAME"
-msgid "Fresh"
-msgstr "Свежее"
+msgid "Fresh {RotPercentage}"
+msgstr "Свежее {RotPercentage}"
 
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP"
-msgid "Now would be a good time to eat this"
-msgstr "Сейчас хорошее время, чтобы съесть это"
+msgid "Get'em while they're hot!"
+msgstr "Ешьте, пока горячее!"
 
 #. STRINGS.CREATURES.STATUSITEMS.GROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GROWING.NAME"
