@@ -8,7 +8,7 @@
 Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK
 
 # Помощь в коррекции и правка
-pecypc, OsiWops, mmalinin, strategdzr
+pecypc, OsiWops, mmalinin, strategdzr, dmtazetdinov 
 
 # Из Воркшопа Стим
 Подписаться на мод: http://steamcommunity.com/sharedfiles/filedetails/?id=927642162
