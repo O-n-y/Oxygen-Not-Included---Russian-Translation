@@ -3610,11 +3610,7 @@ msgstr "Прогнозируемый рейтинг урожайности: {0} 
 #. STRINGS.CREATURES.STATS.YIELDBONUS.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.TOOLTIP"
 msgid "Plants will gain Harvest Rating Points while kept in ideal conditions\nA high Harvest Rating will improve the crop yield of a mature plant"
-<<<<<<< HEAD
-msgstr "Растения будут получать рейтинг урожайности только в идеальных условиях\nВысокий рейтинг урожайности увеличит урожай со взрослого растения"
-=======
 msgstr "Растения будут получать рейтинг урожайности, пока они содержатся в идеальных условиях.\nВысокий рейтинг урожайности увеличит урожай, производимый созревшим растением."
->>>>>>> O-n-y/master
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME"
@@ -5869,11 +5865,7 @@ msgstr "Сжигает калории"
 #. STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.NAME"
 msgid "Center of Attention"
-<<<<<<< HEAD
-msgstr "Центр Внимания"
-=======
 msgstr "Центр внимания"
->>>>>>> O-n-y/master
 
 #. STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.TOOLTIP"
@@ -7043,11 +7035,7 @@ msgstr "Вонючка"
 #. STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.DESC"
 msgid "A {0}'s monotonous voice and lack of facial expression makes it impossible for others to tell when he's messing with them."
-<<<<<<< HEAD
-msgstr "Однообразный голос и ничего не выражающее лицо {0}'а не позволяют другим говорить, когда он возится с ними."
-=======
 msgstr "Монотонный голос и каменное выражения лица {0} несколько затрудняют общение. Никогда не поймешь - он всерьез или просто издевается."
->>>>>>> O-n-y/master
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.NAME"
@@ -7347,11 +7335,7 @@ msgstr "Холодное окружение"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP"
 msgid "This Duplicant cannot retain enough heat to stay warm and may be under insulated for this area\nStress Modification: {StressModification}\n\nCurrent Environmental Exchange: {currentTransferWattage}\n\nInsulation Thickness: {conductivityBarrier}"
-<<<<<<< HEAD
-msgstr "Этот Дупликант не может сохранять достаточно тепла и может быть изолирован для этой зоны\nМодификатор стресса: {StressModification}\n\nТекущий Экологический обмен: {currentTransferWattage}\n\nТолщина изоляции: {conductivityBarrier}"
-=======
 msgstr "Этот Дупликант не может поглотить достаточно тепла, чтобы не замерзнуть. Возможно стоит изолировать его от данной области.\nМодификация стресса: {StressModification}\n\nТекущий теплообмен окружающей среды: {currentTransferWattage}\n\nУровень теплоизоляции: {conductivityBarrier}"
->>>>>>> O-n-y/master
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME"
@@ -9991,11 +9975,7 @@ msgstr "Загрязненная земля"
 #. STRINGS.ELEMENTS.TUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.DESC"
 msgid "(W) An extremely tough crystalline <style=\"RawMetal\">Metal</style>.\n\nTungsten is suitable for building <style=\"power\">Power</style> systems."
-<<<<<<< HEAD
-msgstr "(W) Очень прочный кристаллический <style=\"RawMetal\">Металл</style>.\n\nВольфрам подходит для создания <style=\"power\">Электрических</style> систем."
-=======
 msgstr "(W) Очень прочный кристаллический <style=\"RawMetal\">Металл</style>.\n\nВольфрам отлично подходит для строительства <style=\"power\">Электрических</style> систем."
->>>>>>> O-n-y/master
 
 #. STRINGS.ELEMENTS.TUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.NAME"
@@ -10365,11 +10345,7 @@ msgstr "Точка"
 #. STRINGS.INPUT.RIGHT_ALT
 msgctxt "STRINGS.INPUT.RIGHT_ALT"
 msgid "R-Alt"
-<<<<<<< HEAD
-msgstr "Правый Alt"
-=======
 msgstr "R-Alt"
->>>>>>> O-n-y/master
 
 #. STRINGS.INPUT.RIGHT_CTRL
 msgctxt "STRINGS.INPUT.RIGHT_CTRL"
@@ -12679,11 +12655,7 @@ msgstr "Фосфор"
 #. STRINGS.MISC.TAGS.PLUMBABLE
 msgctxt "STRINGS.MISC.TAGS.PLUMBABLE"
 msgid "Plumbable"
-<<<<<<< HEAD
-msgstr "Свинцешар"
-=======
 msgstr "Размещаемый отвесно"
->>>>>>> O-n-y/master
 
 #. STRINGS.MISC.TAGS.PRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.PRECIOUSMETAL"
@@ -12693,11 +12665,7 @@ msgstr "Благородный металл"
 #. STRINGS.MISC.TAGS.RAWPRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.RAWPRECIOUSMETAL"
 msgid "Raw Precious Metal"
-<<<<<<< HEAD
-msgstr "Сырой Благородный металл"
-=======
 msgstr "Сырой благородный металл"
->>>>>>> O-n-y/master
 
 #. STRINGS.MISC.TAGS.REFINEDMETAL
 msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
