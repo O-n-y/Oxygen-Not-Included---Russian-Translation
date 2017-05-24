@@ -2164,8 +2164,8 @@ msgstr "Идеально подходит для тяжелых электром
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.EFFECT"
-msgid "Carries more <style=\"power\">Wattage</style> than regular Electrical Wire without overloading.\n\nCannot be run through Tile."
-msgstr "Пропускает больше <style=\"power\">Электричества</style>, чем обычные провода, без перегрузки.\n\nНе Может быть проложен через блоки пола и стен."
+ msgid "Carries more <style=\"power\">Wattage</style> than regular Electrical Wire without overloading.\n\nCan be run through Tile."
+msgstr "Пропускает больше <style=\"power\">Электричества</style>, чем обычные провода, без перегрузки.\n\nМожет быть проложен через блоки пола и стен."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME"
@@ -3834,13 +3834,13 @@ msgstr "Это существо пытается избежать боя"
 
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.NAME"
-msgid "Fresh {RotPercentage}"
-msgstr "Свежее {RotPercentage}"
+msgid "Fresh"
+msgstr "Свежее"
 
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP"
-msgid "Get'em while they're hot!"
-msgstr "Ешьте, пока горячее!"
+msgid "Now would be a good time to eat this"
+msgstr "Сейчас хорошее время, чтобы съесть это"
 
 #. STRINGS.CREATURES.STATUSITEMS.GROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GROWING.NAME"
