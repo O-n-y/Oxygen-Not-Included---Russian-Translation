@@ -55,7 +55,7 @@ msgstr "Только {Assignee} может использовать эту по�
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME"
 msgid "Incomplete Artwork"
-msgstr "Незаконченное произведение искусства"
+msgstr "Незаконченное творчество"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP"
@@ -755,7 +755,7 @@ msgstr "Эта постройка разрушается"
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME"
 msgid "Missing Foundation"
-msgstr "Отсутствует фундамент"
+msgstr "Отсутствует основание"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
@@ -8690,7 +8690,7 @@ msgstr "Не может копать"
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC"
 msgid "This Duplicant isn't the brightest star in the solar system"
-msgstr "Этот Дупликант явно неяркая звездочка в солнечной системе"
+msgstr "Этот Дупликант явно не яркая звездочка в солнечной системе"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME"
@@ -11255,7 +11255,7 @@ msgstr "Здания обрушились"
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.TOOLTIP"
 msgid "These buildings have collapsed from a lack of foundation:\n{0}"
-msgstr "Следующие постройки обрушились из-за того, что не имели фундамента:\n{0}"
+msgstr "Следующие постройки обрушились из-за того, что не имели основания:\n{0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGOVERHEATED.NAME"
@@ -14605,7 +14605,7 @@ msgstr "Наука"
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
 msgid "Unlock new technologies through the power of science!"
-msgstr "Силой науки открывают новые технологии!"
+msgstr "Открывает новые технологии силой науки!"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
@@ -19710,7 +19710,7 @@ msgstr "Переключатель с таймером"
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.WARNING
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.WARNING"
 msgid "Switch must be connected to a <style=\"power\">Power</style> grid"
-msgstr "Для работы переключателя он должен быть соединен с <style=\"power\">Электрической</style> сетью"
+msgstr "Для работы переключатель должен быть подсоединен к <style=\"power\">Электрической</style> сети"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON"
