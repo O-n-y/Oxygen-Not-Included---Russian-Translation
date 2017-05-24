@@ -3005,7 +3005,7 @@ msgstr "Это растение произведет {0} больше {1}"
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC"
 msgid "An aquatic <style=\"plant\">Plant</style>, that can be grown domestically in Aquatic Farm Tiles.\n\nThimble Reeds produce raw cellulose fiber that can be used in the production of <style=\"equipment\">Clothing</style> and textiles."
-msgstr "Водное <style=\"plant\">Растение</style>, которые могут быть культивированы в блоках подводной фермы.\n\nПрядун производит целлюлозное волокно, которое может быть использовано для производства <style=\"equipment\">Одежды</style> и текстиля."
+msgstr "Водное <style=\"plant\">Растение</style>, которое может быть культивировано в блоках подводной фермы.\n\nПрядун производит целлюлозное волокно, которое может быть использовано для производства <style=\"equipment\">Одежды</style> и текстиля."
 
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC"
@@ -6935,7 +6935,7 @@ msgstr "Макс"
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC"
 msgid "{0}s have a face only a twelve tonne DNA Replicator could love."
-msgstr "У {0}а такая рожа, полюбить которую может только двенадцатитонный ДНК-Репликатор."
+msgstr "У {0}а такая рожа, полюбить которую может только двенадцатитонный ДНК-репликатор."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME"
@@ -8735,7 +8735,7 @@ msgstr "Заучка"
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC"
 msgid "Some Duplicants are just full of it"
-msgstr "Некоторые просто полны этого"
+msgstr "Некоторые Дубликанты просто полны этого"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME"
@@ -9015,7 +9015,7 @@ msgstr "Ваши дела станут плохи, если этот Дупли�
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME"
 msgid "Ugly Crier"
-msgstr "Страшный Плакса"
+msgstr "Страшный плакса"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
@@ -9425,7 +9425,7 @@ msgstr "Лед"
 #. STRINGS.ELEMENTS.IGNEOUSROCK.DESC
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.DESC"
 msgid "A composite of solidified volcanic rock.\n\nIgneous Rock is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr "Смесь затвердевших вулканических пород.\n\nВулканическая Порода полезна в качестве <style=\"RawMineral\">Строительного Материала</style>."
+msgstr "Смесь затвердевших вулканических пород.\n\nВулканическая порода полезна в качестве <style=\"RawMineral\">Строительного материала</style>."
 
 #. STRINGS.ELEMENTS.IGNEOUSROCK.NAME
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.NAME"
@@ -9445,7 +9445,7 @@ msgstr "Железо"
 #. STRINGS.ELEMENTS.IRONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.IRONGAS.DESC"
 msgid "(Fe) A common industrial <style=\"RawMetal\">Metal</style>, heated into a <style=\"gas\">Gas</style>."
-msgstr "(Fe) Распространенный промышленный <style=\"RawMetal\">Металл</style>, нагретый до <style=\"gas\">газообразного</style> состояния."
+msgstr "(Fe) Распространенный промышленный <style=\"RawMetal\">Металл</style>, нагретый до <style=\"gas\">Газообразного</style> состояния."
 
 #. STRINGS.ELEMENTS.IRONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.IRONGAS.NAME"
@@ -9455,7 +9455,7 @@ msgstr "Железо"
 #. STRINGS.ELEMENTS.IRONINGOT.DESC
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.DESC"
 msgid "Refined <style=\"RawMetal\">Iron Ore</style>."
-msgstr "Переработанная <style=\"RawMetal\">Железная Руда</style>"
+msgstr "Переработанная <style=\"RawMetal\">Железная руда</style>"
 
 #. STRINGS.ELEMENTS.IRONINGOT.NAME
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.NAME"
@@ -9615,7 +9615,7 @@ msgstr "Медь"
 #. STRINGS.ELEMENTS.MOLTENGLASS.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGLASS.DESC"
 msgid "A composite of granular rock heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "Композит гранулированной породы, нагретый до состояния <style=\"liquid\">Жидкости</style>."
+msgstr "Композит гранулированной породы, нагретый до состояния <style=\"liquid\">Жидкого</style> состояния."
 
 #. STRINGS.ELEMENTS.MOLTENGLASS.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENGLASS.NAME"
@@ -9645,7 +9645,7 @@ msgstr "Железо"
 #. STRINGS.ELEMENTS.MOLTENSTEEL.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.DESC"
 msgid "A <style=\"RawMetal\">Metal</style> alloy of iron and carbon, heated into a hazardous <style=\"liquid\">Liquid</style> state."
-msgstr "<style=\"RawMetal\">Металлический</style> сплав железа и углерода, нагретый до опасно горячей <style=\"liquid\">Жидкости</style>."
+msgstr "<style=\"RawMetal\">Металлический</style> сплав железа и углерода, нагретый до опасно горячего <style=\"liquid\">Жидкого</style> состояния."
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.NAME"
@@ -9655,7 +9655,7 @@ msgstr "Сталь"
 #. STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC"
 msgid "(W) A crystalline <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "(W) Кристаллический <style=\"RawMetal\">Металл</style>, нагретый до состояния <style=\"liquid\">Жидкости</style>."
+msgstr "(W) Кристаллический <style=\"RawMetal\">Металл</style>, нагретый до состояния <style=\"liquid\">Жидкого</style> состояния."
 
 #. STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME"
@@ -9665,7 +9665,7 @@ msgstr "Вольфрам"
 #. STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.DESC"
 msgid "(WSe2) An inorganic <style=\"RawMetal\">Metal</style> compound heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "(WSe2) Неорганический сплав <style=\"RawMetal\">Металла</style>, нагретый до состояния <style=\"liquid\">Жидкости</style>.""
+msgstr "(WSe2) Неорганический сплав <style=\"RawMetal\">Металла</style>, нагретый до состояния <style=\"liquid\">Жидкого</style> состояния."
 
 #. STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.NAME"
