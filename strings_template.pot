@@ -1,5 +1,6 @@
 msgid ""
 msgstr ""
+"Application: Oxygen Not Included AU-217845"
 "POT Version: 2.0"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
