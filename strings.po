@@ -2815,7 +2815,7 @@ msgstr "Экзокостюм позволяет Дупликантам дыша�
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT"
 msgid "Uses <style=\"RawMetal\">Raw Metal</style> or <style=\"RefinedMetal\">Refined Metal</style> to craft protective <style=\"equipment\">Exosuits</style> for Duplicants.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Использует <style=\"RawMetal\">Металл</style> или <style=\"RefinedMetal\">Очищенный металл</style> для изготовления защитных <style=\"equipment\">Экзокостюмов</style> для Дубликантов.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
+msgstr "Использует <style=\"RawMetal\">Металл</style> или <style=\"RefinedMetal\">Очищенный металл</style> для изготовления защитных <style=\"equipment\">Экзокостюмов</style> для Дупликантов.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME"
@@ -3265,7 +3265,7 @@ msgstr "Скважина, извергающая пропан."
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME"
 msgid "Propane Spout"
-msgstr "Скважина пропана"
+msgstr "Гейзер пропана"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.DESC"
@@ -8735,7 +8735,7 @@ msgstr "Заучка"
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC"
 msgid "Some Duplicants are just full of it"
-msgstr "Некоторые Дубликанты просто полны этого"
+msgstr "Некоторые Дупликанты просто полны этого"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME"
@@ -9615,7 +9615,7 @@ msgstr "Медь"
 #. STRINGS.ELEMENTS.MOLTENGLASS.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGLASS.DESC"
 msgid "A composite of granular rock heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "Композит гранулированной породы, нагретый до состояния <style=\"liquid\">Жидкого</style> состояния."
+msgstr "Композит гранулированной породы, нагретый до <style=\"liquid\">Жидкого</style> состояния."
 
 #. STRINGS.ELEMENTS.MOLTENGLASS.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENGLASS.NAME"
@@ -9655,7 +9655,7 @@ msgstr "Сталь"
 #. STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC"
 msgid "(W) A crystalline <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "(W) Кристаллический <style=\"RawMetal\">Металл</style>, нагретый до состояния <style=\"liquid\">Жидкого</style> состояния."
+msgstr "(W) Кристаллический <style=\"RawMetal\">Металл</style>, нагретый до <style=\"liquid\">Жидкого</style> состояния."
 
 #. STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME"
@@ -9665,7 +9665,7 @@ msgstr "Вольфрам"
 #. STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.DESC"
 msgid "(WSe2) An inorganic <style=\"RawMetal\">Metal</style> compound heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "(WSe2) Неорганический сплав <style=\"RawMetal\">Металла</style>, нагретый до состояния <style=\"liquid\">Жидкого</style> состояния."
+msgstr "(WSe2) Неорганический сплав <style=\"RawMetal\">Металла</style>, нагретый до <style=\"liquid\">Жидкого</style> состояния."
 
 #. STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.NAME"
@@ -13060,7 +13060,7 @@ msgstr "Супер"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER_DUPER
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER_DUPER"
 msgid "Super Duper"
-msgstr "Супер-Пупер"
+msgstr "Супер-Дупер"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY"
@@ -15985,7 +15985,7 @@ msgstr "Точки испарения: {0}"
 #. STRINGS.UI.ELEMENTAL.VAPOURIZATIONPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.VAPOURIZATIONPOINT.TOOLTIP"
 msgid "The selected item will evaporate into a gas at {0}"
-msgstr "Выбранный объект превратится в газ при {0}"
+msgstr "Выбранный объект испарится в газ при {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
@@ -16785,7 +16785,7 @@ msgstr "ЗАГРУЗКА МИРА..."
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT"
 msgid "A new world is about to be created. Please select its size."
-msgstr "Новый мир готов к созданию. Пожалуйста, выберите размер мира."
+msgstr "Новый мир готов к созданию. Выберите размер мира."
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE"
@@ -18750,7 +18750,7 @@ msgstr "Управление приоритетами работ Дуплика�
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH"
 msgid "Build a Research Station to unlock\n------------------\nResearch buildings can be found in the Stations Tab <color=#F44A47>[9]</color> of the Build Menu"
-msgstr "Для разблокировки постройте <style=\"research\">Станцию Науки/style>\n------------------\nВсе научные постройки расположены в категории Наука <color=#F44A47>[9]</color> строительного меню"
+msgstr "Для разблокировки постройте станцию науки\n------------------\nВсе научные постройки расположены в категории наука <color=#F44A47>[9]</color> строительного меню"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH"
