@@ -4172,6 +4172,66 @@ msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
 msgid "Current conditions prevent this plant from growing further"
 msgstr "Текущие условия не позволяют этому растению расти дальше"
 
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM"
+msgid "    • {0}: {1}\n"
+msgstr "    • {0}: {1}\n"
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.NAME"
+msgid "Wrong Fertilizer"
+msgstr "Неправильные удобрения"
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.TOOLTIP"
+msgid "This plant is being fed the wrong nutrients. It requires:\n{Required}\nA dupe should be sent to empty the storage."
+msgstr "Это растение накорплено неподходящими питательными веществами. Оно требует:\n{Required}\nДля исправления этой ситуации, отправьте Дупликанта опустошить хранилище."
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.LINE_ITEM
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.LINE_ITEM"
+msgid "    • {0}: {1}\n"
+msgstr "    • {0}: {1}\n"
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.NAME"
+msgid "Wrong Fertilizer"
+msgstr "Неправильные удобрения"
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.TOOLTIP"
+msgid "This plant is being fed the wrong nutrients. It requires:\n{Required}\nA dupe should be sent to empty the storage."
+msgstr "Это растение накорплено неподходящими питательными веществами. Оно требует:\n{Required}\nДля исправления этой ситуации, отправьте Дупликанта опустошить хранилище."
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.LINE_ITEM
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.LINE_ITEM"
+msgid "    • {0}: {1}\n"
+msgstr "    • {0}: {1}\n"
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.NAME"
+msgid "Wrong Irrigation"
+msgstr "Неправильное орошение"
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.TOOLTIP"
+msgid "This plant is being fed the wrong nutrients. It requires:\n{Required}\nA dupe should be sent to empty the storage."
+msgstr "Это растение накорплено неподходящими питательными веществами. Оно требует:\n{Required}\nДля исправления этой ситуации, отправьте Дупликанта опустошить хранилище."
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.LINE_ITEM
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.LINE_ITEM"
+msgid "    • {0}: {1}\n"
+msgstr "    • {0}: {1}\n"
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME"
+msgid "Wrong Irrigation"
+msgstr "Неправильное орошение"
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.TOOLTIP"
+msgid "This plant is being fed the wrong nutrients. It requires:\n{Required}\nA dupe should be sent to empty the storage."
+msgstr "Это растение накорплено неподходящими питательными веществами. Оно требует:\n{Required}\nДля исправления этой ситуации, отправьте Дупликанта опустошить хранилище."
+
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC"
 msgid "The Air Consumption attribute determines how much <style=\"oxygen\">Oxygen</style> per minute a Duplicant requires to live."
