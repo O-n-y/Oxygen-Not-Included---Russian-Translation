@@ -16719,8 +16719,8 @@ msgstr "Цельсий"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
-msgid "Change temperature unit to Celsius (В°C)"
-msgstr "Отображать температуру в Цельсиях (°)"
+msgid "Change temperature unit to Celsius (°C)"
+msgstr "Отображать температуру в Цельсиях (°C)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT"
