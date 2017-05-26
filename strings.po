@@ -424,8 +424,8 @@ msgstr "Очередь задач пуста"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.TOOLTIP"
-msgid "Queue a recipe to begin fabrication"
-msgstr "Поставьте рецепт в очередь, чтобы начать производство"
+msgid "Select a recipe to begin fabrication"
+msgstr "Выберите рецепт и поставьте в очередь, чтобы начать производство"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NAME"
