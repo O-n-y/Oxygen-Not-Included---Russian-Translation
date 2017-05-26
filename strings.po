@@ -4104,8 +4104,8 @@ msgstr "Это еда совсем не первой свежести, и Дуп
 
 #. STRINGS.CREATURES.STATUSITEMS.STALE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.NAME"
-msgid "Stale"
-msgstr "Лежалое"
+msgid "Stale {RotPercentage}"
+msgstr "Лежалое {RotPercentage}"
 
 #. STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP"
@@ -7010,7 +7010,7 @@ msgstr "{0}ы в целом добрые ребята. И наиболее эф�
 #. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME"
 msgid "Rowan"
-msgstr "Рован"
+msgstr "Ровэн"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC"
