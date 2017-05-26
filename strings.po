@@ -1874,13 +1874,13 @@ msgstr "справа"
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC"
-msgid "Water goes in, life-sustaining oxygen comes out."
-msgstr "Вода поступает с одного конца, животворящий кислород выходит с другого."
+msgid "Water goes in, oxygen comes out.\nAnd hydrogen. Deadly, deadly hydrogen."
+msgstr "Вода поступает с одного конца, животворящий кислород выходит с другого.\nИ водород. Смертельный, смертельный водород."
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT"
-msgid "Produces a steady supply of <style=\"oxygen\">Oxygen</style> using piped in <style=\"liquid\">Water</style>.\n\nBecomes idle when the room enters maximum air pressure range."
-msgstr "Производит стабильный поток <style=\"oxygen\">Кислорода</style> используя <style=\"liquid\">Воду</style> из трубы.\n\nПереходит в режим бездействия, когда комната достигает максимального давления воздуха."
+msgid "Produces <style=\"oxygen\">Oxygen</style> and <style=\"gas\">Hydrogen</style> using piped in <style=\"liquid\">Water</style>.\n\nBecomes idle when the room enters maximum air pressure range."
+msgstr "Производит стабильный поток <style=\"oxygen\">Кислорода</style> и <style=\"gas\">Водорода</style>, используя <style=\"liquid\">Воду</style> из трубы.\n\nПереходит в режим бездействия, когда комната достигает максимального давления воздуха."
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME"
