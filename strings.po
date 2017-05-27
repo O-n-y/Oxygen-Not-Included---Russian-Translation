@@ -2531,7 +2531,7 @@ msgstr "Мед. кровать"
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC"
 msgid "These mesh tiles always go with the flow."
-msgstr "Эти сетчатые блоки всегда идут с потоком."
+msgstr "Эти каркасные блоки всегда идут с потоком."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT"
