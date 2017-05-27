@@ -2220,7 +2220,7 @@ msgstr "Гидропонная ферма"
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC"
 msgid "Ensure your gases stay piping hot.\nOr cold.\nOr what have you."
-msgstr "Гарантирует, что Ваши газы остануться горячичи.\nИли холодными.\nИли что там у вас."
+msgstr "Гарантирует, что Ваши газы остануться горячиии.\nИли холодными.\nИли что там у вас."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT"
@@ -2235,7 +2235,7 @@ msgstr "Теплоизоляционная газопроводная труба
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC"
 msgid "Ensure your liquids stay piping hot.\nOr cold.\nOr what have you."
-msgstr "Гарантирует, что Ваши жидкости остануться горячичи.\nИли холодными.\nИли что там у вас."
+msgstr "Гарантирует, что Ваши жидкости остануться горячими.\nИли холодными.\nИли что там у вас."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT"
