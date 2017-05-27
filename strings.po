@@ -9804,7 +9804,7 @@ msgstr "Песчаник"
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC"
-msgid "A hardened composite of sediment layers.\n\nSedimentary Rock is useful as a <style=\"RawMineral\">Construction Material</style>."
+msgid "Sedimentary Rock is a hardened composite of sediment layers.\n\nIt is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr "Осадочная порода - это укрепленное соединение осадочных слоев.\n\nОна используется в качестве <style=\"RawMineral\">Строительного Материала</style>."
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME
