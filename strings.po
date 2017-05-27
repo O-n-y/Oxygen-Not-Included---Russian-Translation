@@ -2875,7 +2875,7 @@ msgstr "Автоматизирует переключение <style=\"power\">�
 #. STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPERATURECONTROLLEDSWITCH.NAME"
 msgid "Thermo Switch"
-msgstr "Термопереключатель"
+msgstr "Термо-датчик"
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
@@ -9795,7 +9795,7 @@ msgstr "Песок"
 #. STRINGS.ELEMENTS.SANDSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.DESC"
 msgid "A composite of relatively soft sedimentary rock.\n\nSandstone is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr "Смесь относительно мягких осадочных пород.\n\nПесчаник полезен в качестве <style=\"RawMineral\">Строительного материала</style>."
+msgstr "Песчаник - это соединение достаточно мягких осадочных пород.\n\nОн используется в качестве <style=\"RawMineral\">Строительного Материала</style>."
 
 #. STRINGS.ELEMENTS.SANDSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.NAME"
@@ -9805,7 +9805,7 @@ msgstr "Песчаник"
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC"
 msgid "A hardened composite of sediment layers.\n\nSedimentary Rock is useful as a <style=\"RawMineral\">Construction Material</style>."
-msgstr "Укрепленная смесь осадочных слоев.\n\nОсадочная Порода полезна в качестве <style=\"RawMineral\">Строительного материала</style>."
+msgstr "Осадочная порода - это укрепленное соединение осадочных слоев.\n\nОна используется в качестве <style=\"RawMineral\">Строительного Материала</style>."
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME"
@@ -9965,7 +9965,7 @@ msgstr "Сталь"
 #. STRINGS.ELEMENTS.TOXICSAND.DESC
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.DESC"
 msgid "A <style=\"disease\">Disease</style> infested amalgam of toxic waste.\n\nEmits <style=\"disease\">Contaminated Oxygen</style> over time."
-msgstr "<style=\"disease\">Зараженная</style> амальгама токсичных отходов.\n\nИспускает <style=\"disease\">Загрязненный кислород</style>."
+msgstr "Загрязненная земля - зараженная <style=\"disease\">Болезнями</style> амальгама токсичных отходов.\n\nСпустя время, выделяет <style=\"disease\">Загрязненный Кислород</style>."
 
 #. STRINGS.ELEMENTS.TOXICSAND.NAME
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.NAME"
