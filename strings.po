@@ -9406,12 +9406,12 @@ msgstr "Золото"
 #. STRINGS.ELEMENTS.GOLDAMALGAM.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.DESC"
 msgid "A conductive amalgam of gold and mercury.\n\nGold Amalgam is suitable for building <style=\"power\">Power</style> systems."
-msgstr "Проводящая смесь золота и ртути.\n\nЗолотая амальгама подходит для создания <style=\"power\">Электрических</style> сетей."
+msgstr "Проводящая смесь золота и ртути.\n\nАмальгама золота подходит для создания <style=\"power\">Электрических</style> сетей."
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.NAME"
 msgid "Gold Amalgam"
-msgstr "Золотая амальгама"
+msgstr "Амальгама золота"
 
 #. STRINGS.ELEMENTS.GOLDGAS.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.DESC"
