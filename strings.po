@@ -2446,7 +2446,7 @@ msgstr "Водосток"
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
 msgid "Running on this wheel produces electricity.\nAnd smelly Duplicants."
-msgstr "Бег на этом колесе производит электричество.\nИ пахнущих Дупликантов.""
+msgstr "Бег на этом колесе производит электричество.\nИ пахнущих Дупликантов."
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT"
