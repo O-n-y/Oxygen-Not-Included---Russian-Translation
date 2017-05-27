@@ -2675,7 +2675,7 @@ msgstr "Автоматизирует переключение <style=\"power\">�
 #. STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHLIQUID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHLIQUID.NAME"
 msgid "Hydro Switch"
-msgstr "Водяной переключатель"
+msgstr "Датчик воды"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
@@ -8069,8 +8069,8 @@ msgstr "Этому Дупликанту пришлось надолго заде
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.NAME"
-msgid "Red Alert"
-msgstr "Красная тревога"
+msgid "Red Alert!"
+msgstr "Красная Тревога!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.TOOLTIP"
@@ -9794,7 +9794,7 @@ msgstr "Песок"
 
 #. STRINGS.ELEMENTS.SANDSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.DESC"
-msgid "A composite of relatively soft sedimentary rock.\n\nSandstone is useful as a <style=\"RawMineral\">Construction Material</style>."
+msgid "Sandstone is a composite of relatively soft sedimentary rock.\n\nIt is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr "Песчаник - это соединение достаточно мягких осадочных пород.\n\nОн используется в качестве <style=\"RawMineral\">Строительного Материала</style>."
 
 #. STRINGS.ELEMENTS.SANDSTONE.NAME
@@ -9964,7 +9964,7 @@ msgstr "Сталь"
 
 #. STRINGS.ELEMENTS.TOXICSAND.DESC
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.DESC"
-msgid "A <style=\"disease\">Disease</style> infested amalgam of toxic waste.\n\nEmits <style=\"disease\">Contaminated Oxygen</style> over time."
+msgid "Polluted Dirt is a <style=\"disease\">Disease</style>-infested amalgam of toxic waste.\n\nIt emits <style=\"disease\">Polluted Oxygen</style> over time."
 msgstr "Загрязненная земля - зараженная <style=\"disease\">Болезнями</style> амальгама токсичных отходов.\n\nСпустя время, выделяет <style=\"disease\">Загрязненный Кислород</style>."
 
 #. STRINGS.ELEMENTS.TOXICSAND.NAME
