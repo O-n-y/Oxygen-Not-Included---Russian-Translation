@@ -2420,7 +2420,7 @@ msgstr "Эта металлическая труба - эквивалент пе
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.EFFECT"
 msgid "Increases or decreases the <style=\"liquid\">Liquid</style> volume in <style=\"LiquidPiping\">Pipes</style> to maintain ideal pressure."
-msgstr "Увеличивает или уменьшает объем <style=\"liquid\">Жидкости</style> в <style=\"LiquidPiping>Водопроводной трубе</style> для поддержания идеального давления."
+msgstr "Увеличивает или уменьшает объем <style=\"liquid\">Жидкости</style> в <style=\"LiquidPiping\">Водопроводной трубе</style> для поддержания идеального давления."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME"
@@ -2700,7 +2700,7 @@ msgstr "Хранить еду в ящике?\nЗвучит рациональн�
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
 msgid "Stores a small amount of <style=\"food\">Food</style>.\n\nMust be filled with Food by Duplicants."
-msgstr "Хранит небольшой объем <style=\"food\">Еды</style>.\n\nДолжна быть заполнена едой."
+msgstr "Хранит небольшой объем <style=\"food\">Еды</style>.\n\nДупликанты должны заполнить ее едой."
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
@@ -2710,7 +2710,7 @@ msgstr "Коробка для еды"
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC"
 msgid "Put your rations on ice."
-msgstr "Поместите свой паек на лед."
+msgstr "Поместите свою еду в холод."
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT"
@@ -2745,12 +2745,12 @@ msgstr "Посредственная скульптура"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC"
 msgid "An object of questionable form and no discernible function.\nDuplicants love it."
-msgstr "Нефункциональный объект сомнительной формы\nДупликанты любят такое."
+msgstr "Нефункциональный объект сомнительной формы.\nДупликанты любят такое."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT"
 msgid "Increases <style=\"decor\">Decor</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be sculpted by a Duplicant after construction."
-msgstr "Увеличивает показатель о <style=\"decor\">Декоре</style> и уменьшает <style=\"stress\">Стресс</style> Дупликантов.\n\nПосле постройки должен быть вырезан из камня Дупликантом."
+msgstr "Увеличивает показатель <style=\"decor\">Декора</style> и уменьшает <style=\"stress\">Стресс</style> Дупликантов.\n\nДолжен быть вырезан из камня Дупликантом после постройки."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME"
@@ -2810,7 +2810,7 @@ msgstr "Обогреватель"
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC"
 msgid "Keep your debris off the floor!\nCan't you see we just swept in here?"
-msgstr "Пол отдельно - мусор отдельно!\nРазве ты не видишь, что мы просто задыхаемся здесь?"
+msgstr "Пол отдельно - мусор отдельно!\nРазве ты не видишь, что мы только что прибрались?"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.EFFECT"
@@ -4274,8 +4274,8 @@ msgstr "Это растение накорплено неподходящими 
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC"
-msgid "The Air Consumption attribute determines how much <style=\"oxygen\">Oxygen</style> per minute a Duplicant requires to live."
-msgstr "Потребление воздуха определяет, сколько <style=\"oxygen\">Кислорода</style> в минуту требуется Дупликанту для того, чтобы жить."
+msgid "Air Consumption determines how much <style=\"oxygen\">Oxygen</style> a Duplicant requires per minute to live."
+msgstr "Потребление воздуха определяет, сколько <style=\"oxygen\">Кислорода</style> в минуту требуется Дупликанту, чтобы жить."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME"
@@ -4369,7 +4369,7 @@ msgstr "$value% Скорость строительства"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC"
-msgid "The Cooking attribute determines a Duplicant's <style=\"food\">Food</style> production speed."
+msgid "The Cooking attribute determines a Duplicant's speed when preparing <style=\"food\">Food</style>."
 msgstr "Атрибут \"Кулинария\" определяет, с какой скоростью Дупликант готовит <style=\"food\">Еду</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME
@@ -4389,8 +4389,8 @@ msgstr "$value% Скорость приготовления еды"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC"
-msgid "<style=\"decor\">Decor</style> affects a Duplicant's Room Opinion."
-msgstr "<style=\"decor\">Декор</style> влияет на то, как Дупликант оценивает комнату"
+msgid "<style=\"decor\">Decor</style> affects a Duplicant's <style=\"decor\">Stress</style> and their opinion of their surroundings."
+msgstr "<style=\"decor\">Декор</style> влияет <style=\"decor\">Стресс</style> Дупликанта и их мнение об окружении."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME"
@@ -4399,8 +4399,8 @@ msgstr "Декор"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC"
-msgid "Not meeting a Duplicant's expectations increases their <style=\"stress\">Stress</style>."
-msgstr "Если требования Дупликанта не удовлетворяются, у них повышается <style=\"stress\">Стресс</style>"
+msgid "Not meeting a Duplicant's <style=\"decor\">Decor</style> expectations will increase their <style=\"stress\">Stress</style>."
+msgstr "Если ожидания Дупликантов по <style=\"decor\">Декору</style> не удовлетворяются, у них повышается <style=\"stress\">Стресс</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
@@ -4409,8 +4409,8 @@ msgstr "Требования к декору"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC"
-msgid "Distance of the <style=\"decor\">Decor</style> effect."
-msgstr "Дистанция эффекта <style=\"decor\">Декора</style>"
+msgid "Distance of a item's <style=\"decor\">Decor</style> effect."
+msgstr "Расстояние эффекта предмета <style=\"decor\">Декора</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME"
@@ -4439,8 +4439,8 @@ msgstr "$value% Скорость копания"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC"
-msgid "A building at Meltdown <style=\"heat\">Temperature</style> will lose functionality and require repairs"
-msgstr "Постройка перестанет работать и потребует ремонта, если будет находиться в <style=\"heat\">Температуре</style> плавления"
+msgid "A building at Meltdown <style=\"heat\">Temperature</style> will lose functionality and take damage"
+msgstr "Постройка находящаяся при <style=\"heat\">Температуре</style> плавления потеряет функциональность и получит урон."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME"
@@ -4474,8 +4474,8 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.DESC"
-msgid "The Insulation attribute determines how much a Duplicant's temperature fluctuates with their environment's."
-msgstr "Атрибут \"Теплоизоляции\" определяет, насколько температура Дупликанта зависит от внешней среды"
+msgid "The Insulation attribute determines a Duplicant's innate ability to retain or lose body heat in any given environment."
+msgstr "Атрибут \"Теплоизоляции\" определяет врожденную способность Дупликанта сохранять или терять тепло тела при любых условиях."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME"
@@ -4494,8 +4494,8 @@ msgstr "$value% Удержания температуры"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
-msgid "The Learning attribute determines a Duplicant's skill training and <style=\"research\">Research</style> effectiveness."
-msgstr "Атрибут \"Наука\" влияет на изучение Дупликантом навыков, а также на эффективность <style=\"research\">Исследований</style>"
+msgid "The Learning attribute determines a Duplicant's <style=\"research\">Research</style> effectiveness and rate of skill level gain."
+msgstr "Атрибут \"Наука\" определяет эффективность <style=\"research\">Исследования</style> Дупликанта и скорость роста уровня мастерства."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
@@ -4574,8 +4574,8 @@ msgstr "$value% Устойчивость к болезням"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC"
-msgid "A building at Overheat <style=\"heat\">Temperature</style> begins taking damage and will meltdown if not cooled"
-msgstr "Постройка в <style=\"heat\">Температуре</style> перегрева начинает получать урон и расплавится, если не будет охлаждена"
+msgid "A building at Overheat <style=\"heat\">Temperature</style> will take damage and melt down if not cooled"
+msgstr "Постройка с <style=\"heat\">Температурой</style> перегрева начинает получать урон и расплавится, если не будет охлаждена"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.NAME"
@@ -4584,8 +4584,8 @@ msgstr "Температура перегрева"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
-msgid "This Duplicant is most proficient at {0}"
-msgstr "Наибольшая характеристика этого Дупликанта: {0}"
+msgid "This Duplicant's highest attribute is {0}\n----------\nDuplicants develop higher expectations as their profession level increases"
+msgstr "Наибольшая характеристика этого Дупликанта: {0}\n----------\nДупликанты развивают более высокие ожидания по мере увеличения их профессионального уровня"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC"
@@ -4664,8 +4664,8 @@ msgstr "Толщина барьера уменьшает скорость теп
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC"
-msgid "Modifies the speed at which a Duplicant finishes up their \"business\"."
-msgstr "Изменяет скорость, с которой Дупликант ходит \"по своим делам\"."
+msgid "Determines how long a Duplicant needs to do their \"business\"."
+msgstr "Определяет, как долго Дупликант должен заниматься \"своими делами\"."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
@@ -4739,8 +4739,8 @@ msgstr "Изготовление компоста"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC"
-msgid "Produce <style=\"food\">Food</style> for Duplicants with food preparation buildings."
-msgstr "Приготовление <style=\"food\">Еды</style> для Дупликантов в постройках приготовления пищи."
+msgid "Operate food preparation buildings to produce calories."
+msgstr "Управлйте постройками приготовления пищи для производства калорий."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
@@ -4749,8 +4749,8 @@ msgstr "Готовить"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC"
-msgid "Transport materials to critical utility buildings and high priority storage."
-msgstr "Транспортировка материалов в критические хозяйственные постройки и высокоприоритетные хранилища."
+msgid "Run resources to critical buildings and high priority storage."
+msgstr "Транспортировка ресурсов в критические постройки и высокоприоритетные хранилища."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME"
@@ -4759,8 +4759,8 @@ msgstr "Доставка"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC"
-msgid "Excavate raw materials."
-msgstr "Добыча материалов"
+msgid "Mine raw resources."
+msgstr "Добыча сырых ресурсов"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
@@ -4769,18 +4769,18 @@ msgstr "Копать"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC"
-msgid "Run on manual generators to produce <style=\"power\">Power</style>."
-msgstr "Бег в ручном генераторе для производства <style=\"power\">Энергии</style>"
+msgid "Produce power by running on manual generators."
+msgstr "Вырабатывайте электричество бегая в ручном генераторе."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.NAME"
-msgid "Generate"
+msgid "Power"
 msgstr "Производство энергии"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.DESC"
-msgid "Pick the <style=\"food\">Food</style> from <style=\"plant\">Plants</style>."
-msgstr "Сбор <style=\"food\">Еды</style> с <style=\"plant\">Растений</style>"
+msgid "Gather crops from mature plants."
+msgstr "Соберите урожай с зрелых растений."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME"
@@ -4789,8 +4789,8 @@ msgstr "Сбор урожая"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.DESC"
-msgid "Operate the hydrofan to cool areas."
-msgstr "Управлять вентилятором для охлаждения окружающего пространства."
+msgid "Operate hydrofans to cool ambient temperatures."
+msgstr "Используйте вентилятор, чтобы охладить температуру окружающей среды."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.NAME"
@@ -4809,7 +4809,7 @@ msgstr "Массаж"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MOP.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MOP.DESC"
-msgid "Clean up liquid spills."
+msgid "Clean up liquid messes."
 msgstr "Очистить пролитые жидкости."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MOP.NAME
@@ -4829,8 +4829,8 @@ msgstr "Чинить"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC"
-msgid "Work <style=\"research\">Research Stations</style> to unlock new technologies."
-msgstr "Работайте в <style=\"research\">Станциях науки</style>, чтобы открывать новые технологии."
+msgid "Use research stations to unlock new technologies."
+msgstr "Используйте станциях науки, чтобы открыть новые технологии."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME"
@@ -4839,8 +4839,8 @@ msgstr "Наука"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC"
-msgid "Move materials to noncritical buildings and normal priority storage."
-msgstr "Транспортировка материалов в некритические постройки и хранилища нормального приоритета."
+msgid "Run resources to noncritical buildings or storage."
+msgstr "Транспортировка ресурсов в некритические постройки и хранилища."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME"
@@ -4850,7 +4850,7 @@ msgstr "Убрать"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
 msgid "Manually enable, disable or adjust building switches and filters."
-msgstr "Ручное включение, выключение, настройка переключателей и фильтров в постройках."
+msgstr "Ручное включение, выключение или настройка переключателей и фильтров в постройках."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME"
@@ -5039,7 +5039,7 @@ msgstr "Уход за больным"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME"
-msgid "Drop Unused Inventory"
+msgid "Drop unused inventory"
 msgstr "Выложить ненужные предметы"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS
@@ -5319,7 +5319,7 @@ msgstr "Перезаряжает оборудование"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME"
-msgid "RecoverBreath"
+msgid "Recover breath"
 msgstr "Восстановить дыхание"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS
@@ -5459,17 +5459,17 @@ msgstr "Этому Дупликанту нужна работа, чтобы из
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME"
-msgid "StressVomit"
+msgid "Stress vomit"
 msgstr "Рвота из-за стресса"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS"
-msgid "Stress Vomiting"
+msgid "Stress vomiting"
 msgstr "Вырвало из-за стресса"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME"
-msgid "TakeMedicine"
+msgid "Take medicine"
 msgstr "Принять лекарства"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS
@@ -5539,7 +5539,7 @@ msgstr "Идет выкапывать"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.NAME"
-msgid "Use Toilet"
+msgid "Use toilet"
 msgstr "Использовать туалет"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS
@@ -5559,17 +5559,17 @@ msgstr "Блюет"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.NAME"
-msgid "Warmup"
+msgid "Warm up"
 msgstr "Разминка"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS"
-msgid "Going to warmup"
+msgid "Going to warm up"
 msgstr "Идет разминаться"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME"
-msgid "WashHands"
+msgid "Wash hands"
 msgstr "Умыть руки"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS
@@ -5699,12 +5699,12 @@ msgstr "Причина смерти неизвестна"
 
 #. STRINGS.DUPLICANTS.DEATHS.OVERHEATING.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.OVERHEATING.DESCRIPTION"
-msgid "{Target} has starved to death."
+msgid "{Target} has overheated to death."
 msgstr "{Target} умер от перегрева."
 
 #. STRINGS.DUPLICANTS.DEATHS.OVERHEATING.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.OVERHEATING.NAME"
-msgid "Starvation"
+msgid "Overheated"
 msgstr "Перегрев"
 
 #. STRINGS.DUPLICANTS.DEATHS.STARVATION.DESCRIPTION
@@ -5739,8 +5739,8 @@ msgstr "Скорость лечения (<style=\"disease\">{0}</style>): <style
 
 #. STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.DESCRIPTION"
-msgid "This Duplicant's thought processes have been slowed to a crawl by the terrible cold"
-msgstr "Мыслительные процессы в этом Дупликанте сильно замедлились до ползания из-за жуткого холода"
+msgid "This Duplicant's thought processes have been slowed to a crawl as a result of extreme cold exposure"
+msgstr "Мыслительные процессы в этом Дупликанте сильно замедлились до ползания в результате экстремального холодного воздействия"
 
 #. STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.NAME"
@@ -5749,8 +5749,8 @@ msgstr "Гипотермия"
 
 #. STRINGS.DUPLICANTS.DISEASES.CURED_POPUP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.CURED_POPUP"
-msgid "Cured of <style=\"disease\">{0}</style>"
-msgstr "Вылечился от <style=\"disease\">{0}</style>"
+msgid "Cured of {0}"
+msgstr "Вылечился от {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.CURES
 msgctxt "STRINGS.DUPLICANTS.DISEASES.CURES"
@@ -7675,7 +7675,7 @@ msgstr "Эти Дупликанты участвуют в бою с сущест
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP"
 msgid "This Duplicant is attacking a creature!"
-msgstr "Этот Дупликант атакует существо""
+msgstr "Этот Дупликант атакует существо!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME"
@@ -8450,7 +8450,7 @@ msgstr "Недотерпел"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants could not find a toilet in time.\nUse the <color=#833A5FFF>MOP TOOL</color> [M] to clean up their mess:\n"
-msgstr "Эти Дупликанты не смогли добраться до туалета вовремя.\n\nИспользуйте <color=#833A5FFF>ВЫТЕРЕТЬ</color> [M], чтобы убрать беспорядок:"
+msgstr "Эти Дупликанты не смогли добраться до туалета вовремя.\nИспользуйте <color=#833A5FFF>ВЫТЕРЕТЬ</color> [M], чтобы убрать беспорядок:\n"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP"
@@ -11090,7 +11090,7 @@ msgstr "Пищевой паек"
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC"
 msgid "Deep fried, solidified mudslop.\n\nThe inside is almost completely uncooked, despite the crunch on the outside."
-msgstr "Сильно зажаренные, затвердевшие помои.\n\Внутри практически сырые,несмотря на корочку снаружи."
+msgstr "Сильно зажаренные, затвердевшие помои.\n\nВнутри практически сырые, несмотря на корочку снаружи."
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME"
@@ -11130,7 +11130,7 @@ msgstr "Мясо"
 #. STRINGS.ITEMS.FOOD.MUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.DESC"
 msgid "An edible, putrefied mudslop that may cause <style=\"disease\">Diarrhea</style>.\n\nMush Bars are preferable to starvation, but only just barely."
-msgstr "Съедобные, перегнившие помои, могут вызвать <style=\"disease\">Диарею</style>.. \n\nМшистые батончики лучше голода, но лишь чуть-чуть."
+msgstr "Съедобные, перегнившие помои, могут вызвать <style=\"disease\">Диарею</style>.\n\nМшистые батончики лучше голода, но лишь чуть-чуть."
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
@@ -11140,7 +11140,7 @@ msgstr "Мшистый батончик"
 #. STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC"
 msgid "An edible, putrefied mudslop.\n\nMush Bars are preferable to starvation, but only just barely."
-msgstr "Съедобные, перегнившие помои. \n\nМшистые батончики лучше голода, но лишь чуть-чуть."
+msgstr "Съедобные, перегнившие помои.\n\nМшистые батончики лучше голода, но лишь чуть-чуть."
 
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC"
@@ -11170,7 +11170,7 @@ msgstr "Щетинистая ягодка"
 #. STRINGS.ITEMS.FOOD.ROTPILE.DESC
 msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.DESC"
 msgid "An inedible glop of former foodstuff.\n\nRot piles break down into <style=\"solid\">Polluted Dirt</style> over time."
-msgstr "Несъедобная куча бывших продуктов питания. \n\nГнилые кучи разбиваются на блоки <style=\"solid\">Загрязненной земли</style> со временем."
+msgstr "Несъедобная куча бывших продуктов питания.\n\nГнилые кучи разбиваются на блоки <style=\"solid\">Загрязненной земли</style> со временем."
 
 #. STRINGS.ITEMS.FOOD.ROTPILE.NAME
 msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.NAME"
@@ -11195,7 +11195,7 @@ msgstr "Запеченная <style=\"food\">Щетинистая ягодка</
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.DESC"
 msgid "A loaf of bread, lightly spiced with <style=\"food\">Pincha Peppernut</style> for a mild bite.\n\nThere's a simple joy to be had in pulling it apart in one's fingers."
-msgstr "Буханка хлеба, слегка приправленная орехом из <style=\"food\">Пинчей перечной</style> для легкого прикуса. \n\nСуществует простая радость, которую можно получить, держа ее в руке."
+msgstr "Буханка хлеба, слегка приправленная орехом из <style=\"food\">Пинчей перечной</style> для легкого прикуса.\n\nСуществует простая радость, которую можно получить, держа ее в руке."
 
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.NAME"
@@ -14355,7 +14355,7 @@ msgstr "Свободный от когтей времени."
 #. STRINGS.NAMEGEN.GRAVE.EPITAPHS.GO_ON_WITHOUT_ME
 msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.GO_ON_WITHOUT_ME"
 msgid "\"Go on without me.\""
-msgstr "\"Продолжайте без меня.\"
+msgstr "\"Продолжайте без меня.\""
 
 #. STRINGS.NAMEGEN.GRAVE.EPITAPHS.GONE_BUT_NOT_FORGOTTEN
 msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.GONE_BUT_NOT_FORGOTTEN"
@@ -15520,7 +15520,7 @@ msgstr "Ошибка сохранения: {0}"
 #. STRINGS.UI.CRASHSCREEN.THANKYOU
 msgctxt "STRINGS.UI.CRASHSCREEN.THANKYOU"
 msgid "Thank you!\n\nYou're making our game better, one crash at a time."
-msgstr "Спасибо! \n\nВы делаете нашу игру лучше, отправляя отчет раз за разом."
+msgstr "Спасибо!\n\nВы делаете нашу игру лучше, отправляя отчет раз за разом."
 
 #. STRINGS.UI.CRASHSCREEN.TITLE
 msgctxt "STRINGS.UI.CRASHSCREEN.TITLE"
@@ -16500,7 +16500,7 @@ msgstr "???"
 #. STRINGS.UI.FRONTEND.LOADING
 msgctxt "STRINGS.UI.FRONTEND.LOADING"
 msgid "Loading..."
-msgstr "Loading..."
+msgstr "Загрузка..."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
@@ -17200,7 +17200,7 @@ msgstr "Температура окружающей среды должна бы
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
 msgid "This plant requires {1} {0} for basic growth"
-msgstr "Это растение требует {1} {0}, чтобы расти""
+msgstr "Это растение требует {1} {0}, чтобы расти"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
