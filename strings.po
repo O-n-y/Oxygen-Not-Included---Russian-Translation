@@ -2535,7 +2535,7 @@ msgstr "Каркасные блоки не блокируют потоки га�
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT"
 msgid "Can be used as floor and wall tile to build rooms.\n\nDoes not obstruct the flow of <style=\"liquid\">Liquid</style> or <style=\"gas\">Gas</style>."
-msgstr "Может быть использован как блок стен или пола при строительстве комнат.\n\nНе блокирует потоки <style=\"liquid\">Жидкости</style> или <style=\"gas\">Газа</style>."
+msgstr "Может быть использован как блок стен или пола при строительстве помещений.\n\nНе блокирует потоки <style=\"liquid\">Жидкости</style> или <style=\"gas\">Газа</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME"
@@ -2900,7 +2900,7 @@ msgstr "Дупликанты находят эти блоки более при�
 #. STRINGS.BUILDINGS.PREFABS.TILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.EFFECT"
 msgid "Used as floor and wall tile to build rooms."
-msgstr "Используется в качестве стены или пола для постройки комнат."
+msgstr "Используется в качестве стены или пола для строительства помещений."
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
