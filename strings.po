@@ -2655,7 +2655,7 @@ msgstr "Существует ли что-то более приятное, че�
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT"
 msgid "Creates an airtight seal that maintains atmosphere and pressure between areas.\n\nFunctions as a Manual Airlock when no <style=\"power\">Power</style> is available.\n\nWild creatures cannot pass through doors."
-msgstr "Создает герметичное уплотнение, которое поддерживает атмосферу и давление между областями.\n\nФункионирует в качестве ручного шлюза при отсутствии <style=\"power\">Электричества</style>.\n\nДикие существа не могут проходить сквозь двери."
+msgstr "Создает герметичное уплотнение, которое поддерживает атмосферу и давление между областями.\n\nФункционирует в качестве ручного шлюза при отсутствии <style=\"power\">Электричества</style>.\n\nДикие существа не могут проходить сквозь двери."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
@@ -6280,7 +6280,7 @@ msgstr "Красная Тревога!"
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP"
 msgid "The Red Alert is stressing this Duplicant out"
-msgstr "Этот Дупликант находится в состоянии стресса из-за режима "\Красной Тревоги!\""
+msgstr "Этот Дупликант находится в состоянии стресса из-за режима \"Красной Тревоги!\""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME"
@@ -9750,7 +9750,7 @@ msgstr "Диселенид вольфрама"
 #. STRINGS.ELEMENTS.OBSIDIAN.DESC
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.DESC"
 msgid "Obsidian is a brittle composite of volcanic <style=\"solid\">Glass</style>."
-msgstr "Обсидиан- это хрупкий композит вулканического <style=\"solid\">Стекла</style>."
+msgstr "Обсидиан - это хрупкий композит вулканического <style=\"solid\">Стекла</style>."
 
 #. STRINGS.ELEMENTS.OBSIDIAN.NAME
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.NAME"
@@ -9830,7 +9830,7 @@ msgstr "Тина"
 #. STRINGS.ELEMENTS.PROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.PROPANE.DESC"
 msgid "(C3H8) Propane is a natural alkane <style=\"gas\">Gas</style>.\n\nIt is useful in <style=\"power\">Power</style> production."
-msgstr "(C3H8) Пропан- это париродный алкан в состоянии <style=\"gas\">Газа</style>.\n\nОн используется в производстве <style=\"power\">Электричества</style>."
+msgstr "(C3H8) Пропан - это париродный алкан в состоянии <style=\"gas\">Газа</style>.\n\nОн используется в производстве <style=\"power\">Электричества</style>."
 
 #. STRINGS.ELEMENTS.PROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.PROPANE.NAME"
@@ -11065,7 +11065,7 @@ msgstr "Пищевой паек"
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC"
 msgid "Deep fried, solidified mudslop.\n\nThe inside is almost completely uncooked, despite the crunch on the outside."
-msgstr "Сильно зажаренные, затвердевшие помои.\n\Внутри практически сырые,несмотря на корочку снаружи."
+msgstr "Сильно зажаренные, затвердевшие помои.\n\nВнутри практически сырые,несмотря на корочку снаружи."
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME"
@@ -11105,7 +11105,7 @@ msgstr "Мясо"
 #. STRINGS.ITEMS.FOOD.MUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.DESC"
 msgid "An edible, putrefied mudslop that may cause <style=\"disease\">Diarrhea</style>.\n\nMush Bars are preferable to starvation, but only just barely."
-msgstr "Съедобные, перегнившие помои, могут вызвать <style=\"disease\">Диарею</style>.. \n\nМшистые батончики лучше голода, но лишь чуть-чуть."
+msgstr "Съедобные, перегнившие помои, могут вызвать <style=\"disease\">Диарею</style>.\n\nМшистые батончики лучше голода, но лишь чуть-чуть."
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
@@ -11115,7 +11115,7 @@ msgstr "Мшистый батончик"
 #. STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC"
 msgid "An edible, putrefied mudslop.\n\nMush Bars are preferable to starvation, but only just barely."
-msgstr "Съедобные, перегнившие помои. \n\nМшистые батончики лучше голода, но лишь чуть-чуть."
+msgstr "Съедобные, перегнившие помои.\n\nМшистые батончики лучше голода, но лишь чуть-чуть."
 
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC"
@@ -14330,7 +14330,7 @@ msgstr "Свободный от когтей времени."
 #. STRINGS.NAMEGEN.GRAVE.EPITAPHS.GO_ON_WITHOUT_ME
 msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.GO_ON_WITHOUT_ME"
 msgid "\"Go on without me.\""
-msgstr "\"Продолжайте без меня.\"
+msgstr "\"Продолжайте без меня.\""
 
 #. STRINGS.NAMEGEN.GRAVE.EPITAPHS.GONE_BUT_NOT_FORGOTTEN
 msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.GONE_BUT_NOT_FORGOTTEN"
@@ -16475,7 +16475,7 @@ msgstr "???"
 #. STRINGS.UI.FRONTEND.LOADING
 msgctxt "STRINGS.UI.FRONTEND.LOADING"
 msgid "Loading..."
-msgstr "Loading..."
+msgstr "ЗАГРУЗКА..."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
@@ -17175,7 +17175,7 @@ msgstr "Температура окружающей среды должна бы
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
 msgid "This plant requires {1} {0} for basic growth"
-msgstr "Это растение требует {1} {0}, чтобы расти""
+msgstr "Это растение требует {1} {0}, чтобы расти"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
