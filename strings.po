@@ -5791,7 +5791,7 @@ msgstr "экстремальная внутренняя температура"
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA"
 msgid "standing in a toxic area"
-msgstr "стоит в токсичной зоне"
+msgstr "из-за нахождения в токсичной среде"
 
 #. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION"
@@ -5826,7 +5826,7 @@ msgstr "Товарищи этого Дупликанта испытывают о
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME"
 msgid "Trench Stench"
-msgstr "Источник мерзкого запаха"
+msgstr "Мерзкий запах"
 
 #. STRINGS.DUPLICANTS.DISEASES.RECUPERATING
 msgctxt "STRINGS.DUPLICANTS.DISEASES.RECUPERATING"
@@ -5851,7 +5851,7 @@ msgstr "Иррациональный страх"
 #. STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION"
 msgid "This Duplicant is a walking fungal pod"
-msgstr "Этот Дупликант идет по грибковым зарослям"
+msgstr "Этот Дупликант - ходящий источник грибковых спор"
 
 #. STRINGS.DUPLICANTS.DISEASES.SPORES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.NAME"
