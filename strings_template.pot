@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Application: Oxygen Not Included AU-217845"
+"Application: Oxygen Not Included AU-218116"
 "POT Version: 2.0"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
@@ -1890,12 +1890,12 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC"
-msgid "Water goes in, life-sustaining oxygen comes out."
+msgid "Water goes in, oxygen comes out.\nAnd hydrogen. Deadly, deadly hydrogen."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT"
-msgid "Produces a steady supply of <style=\"oxygen\">Oxygen</style> using piped in <style=\"liquid\">Water</style>.\n\nBecomes idle when the room enters maximum air pressure range."
+msgid "Produces <style=\"oxygen\">Oxygen</style> and <style=\"gas\">Hydrogen</style> using piped in <style=\"liquid\">Water</style>.\n\nBecomes idle when the room enters maximum air pressure range."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME
@@ -4211,6 +4211,66 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
 msgid "This plant has stopped growing because one of its basic requirements has not been met\n\nUnmet Condition: {0}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM"
+msgid "    • {0}: {1}\n"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.NAME"
+msgid "Wrong Fertilizer"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.TOOLTIP"
+msgid "This plant is being fed the wrong nutrients. It requires:\n{Required}\nA dupe should be sent to empty the storage."
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.LINE_ITEM
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.LINE_ITEM"
+msgid "    • {0}: {1}\n"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.NAME"
+msgid "Wrong Fertilizer"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.TOOLTIP"
+msgid "This plant is being fed the wrong nutrients. It requires:\n{Required}\nA dupe should be sent to empty the storage."
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.LINE_ITEM
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.LINE_ITEM"
+msgid "    • {0}: {1}\n"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.NAME"
+msgid "Wrong Irrigation"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.TOOLTIP"
+msgid "This plant is being fed the wrong nutrients. It requires:\n{Required}\nA dupe should be sent to empty the storage."
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.LINE_ITEM
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.LINE_ITEM"
+msgid "    • {0}: {1}\n"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME"
+msgid "Wrong Irrigation"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.TOOLTIP"
+msgid "This plant is being fed the wrong nutrients. It requires:\n{Required}\nA dupe should be sent to empty the storage."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC
