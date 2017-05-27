@@ -20,7 +20,7 @@ msgstr "Нет ограничений доступа"
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP"
 msgid "This door has granted Emergency Access Permissions\n----------\nAll Duplicants are permitted to pass through it until power is restored"
-msgstr "Эта дверь перешла в режим экстренной разблокировки\n ----------\nПока электропитание не восстановлено, все Дупликанты имеют право проходить через нее"
+msgstr "Эта дверь перешла в режим экстренной разблокировки\n----------\nПока электропитание не восстановлено, все Дупликанты имеют право проходить через нее"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME"
@@ -2219,8 +2219,8 @@ msgstr "Гидропонная ферма"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC"
-msgid "Ensure your gases stay piping hot.\nOr cold.\nOr what have you."
-msgstr "Гарантирует, что Ваши газы остануться горячими.\nИли холодными.\nИли какие они там у вас."
+msgid "Keep your gases piping hot.\nOr cold.\nOr what have you."
+msgstr "Поддерживает газ в трубах горячим.\nИли холодным.\nИли что там у вас."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT"
@@ -2234,8 +2234,8 @@ msgstr "Теплоизоляционная газопроводная труба
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC"
-msgid "Ensure your liquids stay piping hot.\nOr cold.\nOr what have you."
-msgstr "Гарантирует, что Ваши жидкости остануться горячими.\nИли холодными.\nИли что там у вас."
+msgid "Keep your liquids piping hot.\nOr cold.\nOr what have you."
+msgstr "Поддерживает жидкость в трубах горячей.\nИли холодной.\nИли что там у вас."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT"
