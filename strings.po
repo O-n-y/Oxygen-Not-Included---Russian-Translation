@@ -2105,7 +2105,7 @@ msgstr "Иногда вам просто нужно отверстие."
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT"
 msgid "Releases <style=\"gas\">Gas</style> back into the colony from <style=\"GasPiping\">Gas Pipes</style>."
-msgstr "Выпускает обратно в колонию <style=\"gas\">Газ</style> из <style=\"GasPiping\">Газопровода</style>."
+msgstr "Выпускает <style=\"gas\">Газ</style> обратно в колонию из <style=\"GasPiping\">Газопровода</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
@@ -2165,7 +2165,7 @@ msgstr "Новые Дупликанты будут выходить отсюда
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.EFFECT"
 msgid "An exceptionally advanced bioprinter of unknown origin.\n\nIt periodically produces new Duplicants."
-msgstr "Исключительно продвинутый биопринтер неизвестного происхождения.\n\nОн периодически производит новых Дупликантов."
+msgstr "Исключительно продвинутый биопринтер неизвестного происхождения.\n\nПериодически производит новых Дупликантов."
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME"
@@ -2220,7 +2220,7 @@ msgstr "Гидропонная ферма"
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC"
 msgid "Ensure your gases stay piping hot.\nOr cold.\nOr what have you."
-msgstr "Гарантирует, что Ваши газы остануться горячиии.\nИли холодными.\nИли что там у вас."
+msgstr "Гарантирует, что Ваши газы остануться горячими.\nИли холодными.\nИли что там у вас."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT"
@@ -2491,7 +2491,7 @@ msgstr "Дупликанты, как правило, несут много на�
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.EFFECT"
 msgid "Rapidly reduces <style=\"stress\">Stress</style> for one Duplicant at a time.\n\nDuplicants will automatically use massage tables if their <style=\"stress\">Stress</style> enters Breaktime range."
-msgstr "Быстро уменьшает <style=\"stress\">Стресс</style> одного Дупликанта при использовании.\n\nДупликанты будут самостоятельно посещать массажные столы, если их <style=\"stress\">Стресс</style> наступит в перерыве."
+msgstr "Быстро уменьшает <style=\"stress\">Стресс</style> одного Дупликанта при использовании.\n\nДупликанты будут самостоятельно посещать массажные столы, если их <style=\"stress\">Стресс</style> поднимится до указанного в \"Политике перерыва\" значения."
 
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME"
@@ -2531,7 +2531,7 @@ msgstr "Мед. кровать"
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC"
 msgid "These mesh tiles always go with the flow."
-msgstr "Эти каркасные блоки всегда идут с потоком."
+msgstr "Каркасные блоки не блокируют потоки газа и жидкостей."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT"
@@ -6281,7 +6281,7 @@ msgstr "Красная тревога"
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP"
 msgid "The Red Alert is stressing this Duplicant out"
-msgstr "Этот Дупликант находится в состоянии стресса из-за режима "\Красной Тревоги\""
+msgstr "Этот Дупликант находится в состоянии стресса из-за режима "\Красной тревоги\""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME"
@@ -8146,12 +8146,12 @@ msgstr "Этому Дупликанту пришлось надолго заде
 #. STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.NAME"
 msgid "Red Alert!"
-msgstr "Красная Тревога!"
+msgstr "Красная тревога!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.TOOLTIP"
 msgid "The colony is in a state of Red Alert. Duplicants will not eat, sleep, use the bathroom or engage in leisure activities while the Red Alert is active"
-msgstr "Колония в состоянии \"Красной Тревоги\". Дупликанты не будут есть, спать, использовать туалет или душ или отлынивать от работы пока \"Красная Тревога\" активна"
+msgstr "Колония в состоянии \"Красной тревоги\". Дупликанты не будут есть, спать, использовать туалет или душ или отлынивать от работы пока \"Красная тревога\" активна"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.NAME"
