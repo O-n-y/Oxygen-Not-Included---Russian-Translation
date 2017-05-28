@@ -9505,7 +9505,7 @@ msgstr "Гелий"
 #. STRINGS.ELEMENTS.HYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.DESC"
 msgid "(H) Hydrogen is the universe's most common and atomically light element in a <style=\"gas\">Gaseous</style> state."
-msgstr "Водород (H) - наиболее распространенный и атомарно легкий элемент во вселенной находящийся в состоянии <style=\"gas\">Газа</style>"
+msgstr "Водород (H) - наиболее распространенный и атомарно легкий элемент во вселенной, находящийся в состоянии <style=\"gas\">Газа</style>"
 
 #. STRINGS.ELEMENTS.HYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
