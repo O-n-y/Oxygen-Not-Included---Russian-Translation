@@ -1730,7 +1730,7 @@ msgstr "Какой смысл выживания после космическо
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT"
 msgid "Tailors enhanced clothing items for Duplicants.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Портные расширили список предметов одежды для Дупликантов.\n\n Дупликанты не будут изготавливать предметы, если рецепты не поставлены в очередь."
+msgstr "Портные расширили список предметов одежды для Дупликантов.\n\nДупликанты не будут изготавливать предметы, если рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME"
@@ -2900,7 +2900,7 @@ msgstr "Дупликанты находят эти блоки более при�
 #. STRINGS.BUILDINGS.PREFABS.TILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.EFFECT"
 msgid "Used as floor and wall tile to build rooms."
-msgstr "Используется в качестве стены или пола для строительства помещений."
+msgstr "Используется в качестве стены или пола при строительстве помещений."
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
@@ -9275,7 +9275,7 @@ msgstr "Медь"
 #. STRINGS.ELEMENTS.CREATURE.DESC
 msgctxt "STRINGS.ELEMENTS.CREATURE.DESC"
 msgid "(DuPe) Ooze is a slurry of water, carbon, and dozens and dozens of trace elements.\n\nDuplicants are printed from pure <style=\"solid\">Ooze</style>."
-msgstr "Ил (DuPe) - это суспензия воды, углерода и десятков и десятков микроэлементов.\n\n Дупликанты печатаются из чистого <style=\"solid\">Ила</style>."
+msgstr "Ил (DuPe) - это суспензия воды, углерода и десятков и десятков микроэлементов.\n\nДупликанты печатаются из чистого <style=\"solid\">Ила</style>."
 
 #. STRINGS.ELEMENTS.CREATURE.NAME
 msgctxt "STRINGS.ELEMENTS.CREATURE.NAME"
@@ -16705,7 +16705,7 @@ msgstr "ОК"
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES"
 msgid "Update Features:\n\n• New items, buildings and recipes\n• Improved crop tending\n• New farming and Harvest Rating systems\n• New Consumables screen\n• New Duplicant Stress Responses\n• Additional energy source: Natural Gas\n• New power management tool: Transformer\n• Screenshot Mode: Alt-S\n• Duplicant Follow Cam"
-msgstr "Основные новшества обновления:\n\n• Новые предметы, постройки и рецепты\n• Улучшение ухода за растениями\n• Новая система сбора урожая и рейтинга урожайности\n• Новый экран \"Еда\"\n• Новые реакции на стресс Дупликантов\n• Новый источник энергии: Природный газ\n• Новый инструмент для управления электричеством: Трансформатор\n• Режим скриншота: Alt-S\n• Возможность следовать камерой за Дупликантом\n\n ... и многое другое!"
+msgstr "Основные новшества обновления:\n\n• Новые предметы, постройки и рецепты\n• Улучшение ухода за растениями\n• Новая система сбора урожая и рейтинга урожайности\n• Новый экран \"Еда\"\n• Новые реакции на стресс Дупликантов\n• Новый источник энергии: Природный газ\n• Новый инструмент для управления электричеством: Трансформатор\n• Режим скриншота: Alt-S\n• Возможность следовать камерой за Дупликантом\n\n... и многое другое!"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
