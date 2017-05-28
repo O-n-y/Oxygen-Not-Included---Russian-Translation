@@ -1790,7 +1790,7 @@ msgstr "Тщательно пережевывая еду, вы помогает�
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
 msgid "Gives Duplicants a place to eat and reduces <style=\"stress\">Stress</style>.\n\nDuplicants will automatically eat at their assigned table when hungry."
-msgstr "Уменьшает <style=\"stress\">Стресс</style>, предоставляя дает Дупликантам место, где можно поесть.\n\nКогда Дупликанты проголодаются, они самостоятельно отправятся кушать за назначенный им стол."
+msgstr "Уменьшает <style=\"stress\">Стресс</style>, предоставляя Дупликантам место, где можно поесть.\n\nКогда Дупликанты проголодаются, они самостоятельно отправятся кушать за назначенный им стол."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
@@ -2235,7 +2235,7 @@ msgstr "Теплоизоляционная газовая труба"
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC"
 msgid "Keep your liquids piping hot.\nOr cold.\nOr what have you."
-msgstr "Сохраняет Ваши жидкости горячими.\nИли холодными.\nИли что там у вас."
+msgstr "Сохраняет ваши жидкости горячими.\nИли холодными.\nИли что там у вас."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT"
@@ -3245,7 +3245,7 @@ msgstr "Скважина нефти"
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC"
 msgid "A barbed <style=\"plant\">Plant</style> that can be domestically grown with Planter Boxes.\n\nWhen a Bristle Blossom flowers it produces an edible bud that can be harvested for <style=\"food\">Food</style>."
-msgstr "Колючее <style=\"plant\">Растение</style>, может быть выращено в ящиках для рассады.\n\nКогда зацветает Щитовик цветущий он производит съедобный бутон, которай может быть использования в качестве <style=\"food\">Еды</style>."
+msgstr "Колючее <style=\"plant\">Растение</style>, может быть выращено в ящиках для рассады.\n\nКогда зацветает Щитовик цветущий он производит съедобный бутон, который может быть использования в качестве <style=\"food\">Еды</style>."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC"
@@ -3440,7 +3440,7 @@ msgstr "Атмосферное давление"
 #. STRINGS.CREATURES.STATS.AIRPRESSURE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.AIRPRESSURE.TOOLTIP"
 msgid "The average gas density of the air surrounding this plant"
-msgstr "Средняя плотность газа, окружающего эторастение"
+msgstr "Средняя плотность газа, окружающего это растение"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER"
@@ -4585,7 +4585,7 @@ msgstr "Температура перегрева"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
 msgid "This Duplicant's highest attribute is {0}\n----------\nDuplicants develop higher expectations as their profession level increases"
-msgstr "Наибольшая характеристика этого Дупликанта: {0}\n----------\nДупликанты развивают более высокие ожидания по мере увеличения их уровня их характеристик"
+msgstr "Наибольшая характеристика этого Дупликанта: {0}\n----------\nДупликанты развивают более высокие ожидания по мере увеличения уровня их характеристик"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC"
@@ -4660,7 +4660,7 @@ msgstr "Плотность изоляции"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP"
 msgid "Insulation Thickness determines how quickly a Duplicant retains or loses body <style=\"heat\">Heat</style> in any given area.\n\nIt is the sum of a Duplicant's equipment and their natural Insulation values."
-msgstr "Плотность изоляции определяет, насколько быстро Дупликант сохраняет или теряет <style=\"heat\">Тепло</style> тела в той или иной области.\n\nОна рассчитывается из суммы значений изоляции каждого предмета снаряжения, используемого Дупликанта, а также естественного значения изоляции самого Дупликанта."
+msgstr "Плотность изоляции определяет, насколько быстро Дупликант сохраняет или теряет <style=\"heat\">Тепло</style> тела в той или иной области.\n\nОна рассчитывается из суммы значений изоляции каждого предмета снаряжения, используемого Дупликантом, а также естественного значения изоляции самого Дупликанта."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC"
@@ -4830,7 +4830,7 @@ msgstr "Чинить"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC"
 msgid "Use research stations to unlock new technologies."
-msgstr "Используйте станциях науки, чтобы открывать новые технологии."
+msgstr "Используйте станции науки, чтобы открывать новые технологии."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME"
@@ -9345,7 +9345,7 @@ msgstr "Земля"
 #. STRINGS.ELEMENTS.DIRTYICE.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.DESC"
 msgid "Polluted Ice is <style=\"disease\">Disease</style> infested water frozen into a <style=\"solid\">Solid</style> state."
-msgstr "Загрязненный лед - это токсичная вода, замороженная до <style=\"solid\">Твердого</style> состояния, являюется источником <style=\"disease\">Болезней</style>."
+msgstr "Загрязненный лед - это токсичная вода, замороженная до <style=\"solid\">Твердого</style> состояния, является источником <style=\"disease\">Болезней</style>."
 
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
@@ -9505,7 +9505,7 @@ msgstr "Гелий"
 #. STRINGS.ELEMENTS.HYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.DESC"
 msgid "(H) Hydrogen is the universe's most common and atomically light element in a <style=\"gas\">Gaseous</style> state."
-msgstr "Водород (H) - наиболее распространенный и атомарно легкий элемент в состоянии <style=\"gas\">Газа</style> во вселенной."
+msgstr "Водород (H) - наиболее распространенный и атомарно легкий элемент во вселенной находящийся в состоянии <style=\"gas\">Газа</style>"
 
 #. STRINGS.ELEMENTS.HYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
@@ -9695,7 +9695,7 @@ msgstr "Природный газ"
 #. STRINGS.ELEMENTS.MOLTENCARBON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.DESC"
 msgid "(C) Carbon is an abundant, versatile element heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "Углерод (C) - это распространенный универстальный элемент, нагретый до <style=\"liquid\">Жидкого</style> состояния"
+msgstr "Углерод (C) - это распространенный универсальный элемент, нагретый до <style=\"liquid\">Жидкого</style> состояния"
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.NAME"
