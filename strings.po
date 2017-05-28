@@ -11330,7 +11330,7 @@ msgstr "Следующие ресурсы стали доступны:"
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
 msgid "- Use the <color=#F44A47>WASD</color> keys to pan your camera and the <color=#F44A47>MOUSE WHEEL</color> to zoom in or out. <color=#F44A47>[H]</color> will return your screen to the Printing Pod.\n\n- Your simulation can be sped up or slowed down by using the speed buttons in the top left, or by pressing <color=#F44A47>[TAB]</color>.\n\n- <color=#F44A47>[SPACE]</color> will pause or resume your game."
-msgstr "- Используйте клавиши <color=#F44A47>WASD</color> для перемещения камеры и <color=#F44A47>КОЛЕСО МЫШИ</color> для приближения или отдаления камеры. Клавиша <color=#F44A47>[H]</color> сфокусирует камеру на Печатной Капсуле.\n\n- Скорость симуляции может быть увеличена или уменьшена при помощи кнопок в левом верхнем углу экрана или при помощи нажатия клавиши <color=#F44A47>[TAB]</color>.\n\n- Клавиша <color=#F44A47>[ПРОБЕЛ]</color> активирует и деактивирует режим паузы."
+msgstr "- Используйте клавиши <color=#F44A47>WASD</color> для перемещения камеры и <color=#F44A47>КОЛЕСО МЫШИ</color> для приближения или отдаления камеры. Клавиша <color=#F44A47>[H]</color> сфокусирует камеру на Биопринтере.\n\n- Скорость симуляции может быть увеличена или уменьшена при помощи кнопок в левом верхнем углу экрана или при помощи нажатия клавиши <color=#F44A47>[TAB]</color>.\n\n- Клавиша <color=#F44A47>[ПРОБЕЛ]</color> активирует и деактивирует режим паузы."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME"
@@ -12075,7 +12075,7 @@ msgstr "Неохлажденная еда"
 #. STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.TOOLTIP"
 msgid "These <style=\"food\">Food</style> items are in storage but are not refrigerated:\n"
-msgstr "Эта <style=\"food\">Еда</style> в хранилище, но не охлаждена:\n"
+msgstr "Эта <style=\"food\">Еда</style> в хранилище, но она не охлаждена:\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME"
