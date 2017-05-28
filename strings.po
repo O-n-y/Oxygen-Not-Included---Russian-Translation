@@ -2670,7 +2670,7 @@ msgstr "Для случаев, когда вы чувствуете, что ми
 #. STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.EFFECT"
 msgid "Automates switching <style=\"power\">Power</style> grids on or off based on ambient <style=\"gas\">Gas Pressure</style>."
-msgstr "Автоматизирует переключение <style=\"power\">Электричества</style> в сети на включено или выключено, исходя из <style=\"gas\">Атмосферного давления газа</style> в окружающей среде."
+msgstr "Автоматизирует переключение <style=\"power\">Электричества</style> в сети на включено или выключено, исходя из <style=\"gas\">Атмосферного давления</style> газа в окружающей среде."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.NAME"
