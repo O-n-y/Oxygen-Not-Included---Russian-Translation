@@ -3020,7 +3020,7 @@ msgstr "Это растение произведет {0} больше {1}"
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC"
 msgid "An aquatic <style=\"plant\">Plant</style> that can be domestically grown in Aquatic Farm Tiles.\n\nThimble Reeds produce indescribably soft cellulose fiber that can be used for <style=\"equipment\">Clothing</style> production."
-msgstr "Водное <style=\"plant\">Растение</style>, которое может быть выкопано и пересажено в блок подводной фермы.\n\nПрядун производит неописуемо мягкие волокна целлюлозы, которые могут быть использованы для производства <style=\"equipment\">Одежды</style>."
+msgstr "Водное <style=\"plant\">Растение</style>, которое может быть выращено в блоках подводной фермы.\n\nПрядун производит неописуемо мягкие волокна целлюлозы, которые могут быть использованы для производства <style=\"equipment\">Одежды</style>."
 
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC"
@@ -3045,7 +3045,7 @@ msgstr "Закопанный гнилькорень"
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC"
 msgid "A hardy <style=\"plant\">Plant</style> that can be domestically grown with Planter Boxes.\n\nMealwoods produce a suspiciously wriggly yet edible grain that can be harvested for <style=\"food\">Food</style>."
-msgstr "Выносливое <style=\"plant\">Растение</style>, может быть выкопано и пересажено в ящик для рассады.\n\nОно производит подозрительно подвижное съедобное зерно, которое может быть собрано в качестве <style=\"food\">Еды</style>."
+msgstr "Выносливое <style=\"plant\">Растение</style>, может быть выращено в ящиках для рассады.\n\nОно производит подозрительно подвижное съедобное зерно, которое может быть собрано в качестве <style=\"food\">Еды</style>."
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC"
@@ -3075,7 +3075,7 @@ msgstr "Хладодых"
 #. STRINGS.CREATURES.SPECIES.COLDWHEAT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDWHEAT.DESC"
 msgid "A cold-dwelling grass <style=\"plant\">Plant</style> that can be domestically grown with Planter Boxes.\n\nIt produces an edible grain that can be processed into <style=\"food\">Food</style>."
-msgstr "Обитающее в холодной среде <style=\"plant\">Растение</style>, которое может быть выкопано и пересажено в ящик для рассады.\n\nОно производит съедобное зерно, которое может быть использовано для приготовления <style=\"food\">Еды</style>."
+msgstr "Обитающее в холодной среде <style=\"plant\">Растение</style>, которое может быть выращено в ящиках для рассады.\n\nОно производит съедобное зерно, которое может быть использовано для приготовления <style=\"food\">Еды</style>."
 
 #. STRINGS.CREATURES.SPECIES.COLDWHEAT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDWHEAT.DOMESTICATEDDESC"
@@ -3200,7 +3200,7 @@ msgstr "Луковица фервина"
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DESC"
 msgid "A large, chlorine-dwelling <style=\"plant\">Plant</style> that can be domestically grown with Planter Boxes.\n\nPalmeras grow inedible buds that emit toxic hydrogen gas."
-msgstr "Большое, хлор-потребляющее <style=\"plant\">Растение</style>, которое может быть выкопано и пересажено в ящик для рассады.\n\nОтращивает несъедобные почки, которые выделяют токсичный газ - водород."
+msgstr "Большое, хлор-потребляющее <style=\"plant\">Растение</style>, которое может быть выращено в ящиках для рассады.\n\nОтращивает несъедобные почки, которые выделяют токсичный газ - водород."
 
 #. STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.JUNGLEGASPLANT.DOMESTICATEDDESC"
@@ -3245,7 +3245,7 @@ msgstr "Скважина нефти"
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC"
 msgid "A barbed <style=\"plant\">Plant</style> that can be domestically grown with Planter Boxes.\n\nWhen a Bristle Blossom flowers it produces an edible bud that can be harvested for <style=\"food\">Food</style>."
-msgstr "Колючее <style=\"plant\">Растение</style>, может быть выкопано и пересажено в ящик для рассады.\n\nКогда зацветает Щитовик цветущий он производит съедобную почку, которая может быть собрана для <style=\"food\">Пищи</style>."
+msgstr "Колючее <style=\"plant\">Растение</style>, может быть выращено в ящиках для рассады.\n\nКогда зацветает Щитовик цветущий он производит съедобную почку, которая может быть собрана для <style=\"food\">Пищи</style>."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC"
@@ -3395,7 +3395,7 @@ msgstr "Шоковый червь"
 #. STRINGS.CREATURES.SPECIES.SPICE_VINE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SPICE_VINE.DESC"
 msgid "A climbing <style=\"plant\">Vine</style> that can be domestically grown with Planter Boxes.\n\nWhen a Pincha Pepperplant matures it produces a flavorful <style=\"food\">Peppernut</style> that can be used to spice <style=\"food\">Food</style>."
-msgstr "Взбирающаяся <style=\"plant\">Лоза</style>, которая может быть выкопано и пересажено в ящики для рассады.\n\nКогда Пинча перечная созревает, она производит душистый <style=\"food\">Перечный орех</style>, который может быть использован в качестве приправы для <style=\"food\">Еды</style>."
+msgstr "Взбирающаяся <style=\"plant\">Лоза</style>, которая может быть выращено в ящиках для рассады.\n\nКогда Пинча перечная созревает, она производит душистый <style=\"food\">Перечный орех</style>, который может быть использован в качестве приправы для <style=\"food\">Еды</style>."
 
 #. STRINGS.CREATURES.SPECIES.SPICE_VINE.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SPICE_VINE.DOMESTICATEDDESC"
@@ -3420,7 +3420,7 @@ msgstr "Скважина пара"
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC"
 msgid "An elegant, warm climate <style=\"plant\">Plant</style> that can be domestically grown with Planter Boxes.\n\nSwamp Lilies produce long, fragrant leaves with medicinal properties."
-msgstr "Элегантное <style=\"plant\">Растение</style>, обитающее в теплом климате. Может быть выкопано и пересажено в ящик для рассады.\n\nБолотная лилия отращивает длинные ароматные листья с лечебными свойствами."
+msgstr "Элегантное <style=\"plant\">Растение</style>, обитающее в теплом климате. Может быть выращено в ящике для рассады.\n\nБолотная лилия отращивает длинные ароматные листья с лечебными свойствами."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC"
@@ -9140,7 +9140,7 @@ msgstr "Дохляк"
 #. STRINGS.ELEMENTS.ALGAE.DESC
 msgctxt "STRINGS.ELEMENTS.ALGAE.DESC"
 msgid "Algae is a cluster of non-motile, single-celled lifeforms.\n\nIt can be used as a renewable source of <style=\"oxygen\">Oxygen</style> when grown domestically in Algae Terrariums."
-msgstr "Водоросли - это скопление неподвижных одноклеточных форм жизни.\n\nОни могут быть использованы в качестве возобновляемого источника <style=\"oxygen\">Кислорода</style>, когда посажены в террариум водорослей"
+msgstr "Водоросли - это скопление неподвижных одноклеточных форм жизни.\n\nОни могут быть использованы в качестве возобновляемого источника <style=\"oxygen\">Кислорода</style>, при выращивании в террариуме водорослей"
 
 #. STRINGS.ELEMENTS.ALGAE.NAME
 msgctxt "STRINGS.ELEMENTS.ALGAE.NAME"
