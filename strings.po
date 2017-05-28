@@ -895,7 +895,7 @@ msgstr "Доступны новые Дупликанты"
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "The Printing Pod <color=#F44A47>[H]</color> is ready to print a new Duplicant.\nPlease select a DNA blueprint:"
-msgstr "Биопринтер <color=#F44A47>[H]</color> готов к печати нового колониста\n\nПожалуйста, выберите ДНК основу"
+msgstr "Биопринтер <color=#F44A47>[H]</color> готов к печати нового Дупликанта.\n\nПожалуйста, выберите ДНК-основу"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP"
@@ -7820,7 +7820,7 @@ msgstr "Бездействует"
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot reach any pending job tasks:"
-msgstr "Эти Дупликанты Бездействуют, так как не могут достичь места проведения работ:"
+msgstr "Эти Дупликанты бездействуют, так как не могут достичь места проведения работ:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP"
@@ -16210,7 +16210,7 @@ msgstr "<style=\"power\">Электричества</style> потеряно:"
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> today that was not used or stored in a battery"
-msgstr "Ваша колония создала {0} <style=\"power\">Электричества</style> сегодня, которое не было использовано или сохранено в батареях"
+msgstr "Ваша колония создала {0} <style=\"power\">Электричества</style> в течение дня, которое не было использовано или сохранено в батареях"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
@@ -16230,7 +16230,7 @@ msgstr "Характеристика улучшена:"
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
 msgid "Your Duplicants gained a total of {0} skill levels today"
-msgstr "Ваш Дупликант получил в общем {0} очков характеристик сегодня"
+msgstr "Ваш Дупликант получил в общем {0} очков характеристик в течение дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
@@ -17260,7 +17260,7 @@ msgstr "ПОЕХАЛИ!"
 #. STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE"
 msgid "Select a DNA Blueprint"
-msgstr "Выберите ДНК Основу"
+msgstr "Выберите ДНК-основу"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY"
@@ -19980,7 +19980,7 @@ msgstr "Атаковать это создание"
 #. STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.NAME"
 msgid "Disable Autoharvest"
-msgstr "Отключить Автосбор урожая"
+msgstr "Отключить автосбор урожая"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.TOOLTIP"
