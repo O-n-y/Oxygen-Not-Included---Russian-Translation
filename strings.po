@@ -3020,7 +3020,7 @@ msgstr "Это растение произведет {0} больше {1}"
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DESC"
 msgid "An aquatic <style=\"plant\">Plant</style> that can be domestically grown in Aquatic Farm Tiles.\n\nThimble Reeds produce indescribably soft cellulose fiber that can be used for <style=\"equipment\">Clothing</style> production."
-msgstr "Водное <style=\"plant\">Растение</style>, которое может быть выращено в блоках подводной фермы.\n\nПрядун производит неописуемо мягкое тростниковое волокно, которые могут быть использованы для производства <style=\"equipment\">Одежды</style>."
+msgstr "Водное <style=\"plant\">Растение</style>, которое может быть выращено в блоках подводной фермы.\n\nПрядун производит неописуемо мягкое тростниковое волокно, которое может быть использовано для производства <style=\"equipment\">Одежды</style>."
 
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC"
@@ -9195,7 +9195,7 @@ msgstr "Углекислый газ"
 #. STRINGS.ELEMENTS.CARBONFIBRE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.DESC"
 msgid "Carbon Fiber is a <style=\"RefinedMineral\">Manufactured Material</style> with high tensile strength."
-msgstr "Углеродное волокно" - <style=\"RefinedMineral\">Промышленный материал</style>, с высокой прочностью на растяжение."
+msgstr "Углеродное волокно - <style=\"RefinedMineral\">Промышленный материал</style>, с высокой прочностью на растяжение."
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.NAME"
@@ -9295,7 +9295,7 @@ msgstr "Нефть"
 #. STRINGS.ELEMENTS.CRUSHEDICE.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.DESC"
 msgid "(H20) A slush of crushed, semi-solid ice."
-msgstr "(H2O) Смесь крошеного льда и воды."
+msgstr "Колотый лед (H2O) - смесь крошеного льда и воды."
 
 #. STRINGS.ELEMENTS.CRUSHEDICE.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
@@ -9925,7 +9925,7 @@ msgstr "Слизь"
 #. STRINGS.ELEMENTS.SNOW.DESC
 msgctxt "STRINGS.ELEMENTS.SNOW.DESC"
 msgid "(H20) Snow is a mass of loose, crystalline ice particles.\n\nIt becomes <style=\"liquid\">Water</style> when melted."
-msgstr "(H20) Снег - это сыпучие, кристаллические частицы льда.\n\nОн становится <style=\"liquid\">Водой</style> при плавлении."
+msgstr "Снег (H20) - это сыпучие, кристаллические частицы льда.\n\nОн становится <style=\"liquid\">Водой</style> при плавлении."
 
 #. STRINGS.ELEMENTS.SNOW.NAME
 msgctxt "STRINGS.ELEMENTS.SNOW.NAME"
@@ -9935,7 +9935,7 @@ msgstr "Снег"
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC"
 msgid "(CO2) Carbon Dioxide is a toxic compound in a <style=\"solid\">Solid</style> state."
-msgstr "(CO2) Углекислый газ - это токсичное соединение в <style=\"solid\">Твердом</style> состоянии."
+msgstr "Углекислый газ (CO2) - это токсичное соединение в <style=\"solid\">Твердом</style> состоянии."
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME"
@@ -9945,7 +9945,7 @@ msgstr "Углекислый газ"
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
 msgid "(Cl) Chlorine is a toxic chemical element in a <style=\"solid\">Solid</style> state."
-msgstr "(Cl) Хлор - это токсичный химический элемент в <style=\"solid\">Твердом</style> состоянии."
+msgstr "Хлор (Cl) - это токсичный химический элемент в <style=\"solid\">Твердом</style> состоянии."
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.NAME"
@@ -9955,7 +9955,7 @@ msgstr "Хлор"
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC"
 msgid "(H) Hydrogen is the universe's most common element in a <style=\"solid\">Solid</style> state."
-msgstr "(H) Водород - это самый распространенный во вселенной элемент в <style=\"solid\">Твердом</style> состоянии."
+msgstr "Водород (H) - это самый распространенный во вселенной элемент в <style=\"solid\">Твердом</style> состоянии."
 
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME"
@@ -9965,7 +9965,7 @@ msgstr "Водород"
 #. STRINGS.ELEMENTS.SOLIDMERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.DESC"
 msgid "(Hg) Mercury is a toxic <style=\"RawMetal\">Metal</style> in a <style=\"solid\">Solid</style> state."
-msgstr "(Hg) Ртуть - это токсичный <style=\"RawMetal\">Металл</style> в <style=\"solid\">Твердом</style> состоянии."
+msgstr "Ртуть (Hg) - это токсичный <style=\"RawMetal\">Металл</style> в <style=\"solid\">Твердом</style> состоянии."
 
 #. STRINGS.ELEMENTS.SOLIDMERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.NAME"
@@ -9975,7 +9975,7 @@ msgstr "Ртуть"
 #. STRINGS.ELEMENTS.SOLIDMETHANE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMETHANE.DESC"
 msgid "(CH4) Methane is an alkane in a <style=\"solid\">Solid</style> state."
-msgstr "(CH4) Метан является алканом в <style=\"solid\">Твердом</style> состоянии."
+msgstr "Метан (CH4) - является алканом в <style=\"solid\">Твердом</style> состоянии."
 
 #. STRINGS.ELEMENTS.SOLIDMETHANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDMETHANE.NAME"
@@ -9985,7 +9985,7 @@ msgstr "Метан"
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.DESC"
 msgid "(O2) Oxygen is a breathable element in a <style=\"solid\">Solid</style> state."
-msgstr "(O2) Кислород - это пригодный для дыхания элемент в <style=\"solid\">Твердом</style> состоянии."
+msgstr "Кислород (O2) - это пригодный для дыхания элемент в <style=\"solid\">Твердом</style> состоянии."
 
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.NAME"
@@ -9995,7 +9995,7 @@ msgstr "Кислород"
 #. STRINGS.ELEMENTS.SOLIDPROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.DESC"
 msgid "(C3H8) Propane is a natural gas in a <style=\"solid\">Solid</style> state."
-msgstr "(C3H8) Пропан - это природный газ в <style=\"solid\">Твердом</style> состоянии."
+msgstr "Пропан (C3H8) - это природный газ в <style=\"solid\">Твердом</style> состоянии."
 
 #. STRINGS.ELEMENTS.SOLIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.NAME"
@@ -10025,7 +10025,7 @@ msgstr "Отсутствует"
 #. STRINGS.ELEMENTS.STEAM.DESC
 msgctxt "STRINGS.ELEMENTS.STEAM.DESC"
 msgid "(H20) Steam is water that has been heated into a scalding <style=\"gas\">Gas</style>."
-msgstr "(H2O) Пар - это вода, нагретая до обжигающего <style=\"gas\">Газа</style>."
+msgstr "Пар (H2O) - это вода, нагретая до обжигающего <style=\"gas\">Газа</style>."
 
 #. STRINGS.ELEMENTS.STEAM.NAME
 msgctxt "STRINGS.ELEMENTS.STEAM.NAME"
@@ -10075,7 +10075,7 @@ msgstr "Загрязненная земля"
 #. STRINGS.ELEMENTS.TUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.DESC"
 msgid "(W) Tungsten is an extremely tough crystalline <style=\"RawMetal\">Metal</style>.\n\nIt is suitable for building <style=\"power\">Power</style> systems."
-msgstr "(W) Вольфрам - это очень прочный кристаллический <style=\"RawMetal\">Металл</style>.\n\nОн отлично подходит для строительства <style=\"power\">Электрических</style> систем."
+msgstr "Вольфрам (W) - это очень прочный кристаллический <style=\"RawMetal\">Металл</style>.\n\nОн отлично подходит для строительства <style=\"power\">Электрических</style> систем."
 
 #. STRINGS.ELEMENTS.TUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.NAME"
@@ -10085,7 +10085,7 @@ msgstr "Вольфрам"
 #. STRINGS.ELEMENTS.TUNGSTENDISELENIDE.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTENDISELENIDE.DESC"
 msgid "(WSe2) Tungsten Diselenide is an inorganic <style=\"RawMetal\">Metal</style> compound with a crystalline structure.\n\nIt is suitable for building <style=\"power\">Power</style> systems."
-msgstr "(WSe2) Диселенид вольфрама - это неорганический композит <style=\"RawMetal\">Металла</style> с кристаллической структурой.\n\nОн отлично подходит для строительства <style=\"power\">Электрических</style> систем."
+msgstr "Диселенид вольфрама (WSe2) - это неорганический композит <style=\"RawMetal\">Металла</style> с кристаллической структурой.\n\nОн отлично подходит для строительства <style=\"power\">Электрических</style> систем."
 
 #. STRINGS.ELEMENTS.TUNGSTENDISELENIDE.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTENDISELENIDE.NAME"
@@ -10095,7 +10095,7 @@ msgstr "Диселенид вольфрама"
 #. STRINGS.ELEMENTS.TUNGSTENDISELENIDEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTENDISELENIDEGAS.DESC"
 msgid "(WSe2) Tungsten Diselenide is a superheated <style=\"RawMetal\">Metal</style> compound in a <style=\"gas\">Gaseous</style> state."
-msgstr "(WSe2) Диселенид вольфрама - это перегретый композит <style=\"RawMetal\">Металла</style> в состоянии <style=\"gas\">Газа</style>."
+msgstr "Диселенид вольфрама (WSe2) - это перегретый композит <style=\"RawMetal\">Металла</style> в состоянии <style=\"gas\">Газа</style>."
 
 #. STRINGS.ELEMENTS.TUNGSTENDISELENIDEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTENDISELENIDEGAS.NAME"
@@ -10105,7 +10105,7 @@ msgstr "Диселенид вольфрама"
 #. STRINGS.ELEMENTS.TUNGSTENGAS.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTENGAS.DESC"
 msgid "(W) Tungsten is a superheated crystalline <style=\"RawMetal\">Metal</style> in a <style=\"gas\">Gaseous</style> state."
-msgstr "(W) Вольфрам - это перегретый кристаллический <style=\"RawMetal\">Металл</style> в состоянии <style=\"gas\">Газа</style>."
+msgstr "Вольфрам (W) - это перегретый кристаллический <style=\"RawMetal\">Металл</style> в состоянии <style=\"gas\">Газа</style>."
 
 #. STRINGS.ELEMENTS.TUNGSTENGAS.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTENGAS.NAME"
@@ -10115,7 +10115,7 @@ msgstr "Вольфрам"
 #. STRINGS.ELEMENTS.UNOBTANIUM.DESC
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.DESC"
 msgid "(Nt) Neutronium is a mysterious and extremely resilient <style=\"RawMetal\">Metallic</style> element.\n\nIt cannot be excavated by any Duplicant mining tool."
-msgstr "(Nt) Нейтрониум - это мистический и невероятно упругий <style=\"RawMetal\">Металлический</style> элемент.\n\nНе может быть выкопан инструментами Дупликантов."
+msgstr "Нейтрониум (Nt) - это мистический и невероятно упругий <style=\"RawMetal\">Металлический</style> элемент.\n\nНе может быть выкопан инструментами Дупликантов."
 
 #. STRINGS.ELEMENTS.UNOBTANIUM.NAME
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.NAME"
@@ -10145,7 +10145,7 @@ msgstr "Пустота"
 #. STRINGS.ELEMENTS.WATER.DESC
 msgctxt "STRINGS.ELEMENTS.WATER.DESC"
 msgid "(H20) Clean <style=\"liquid\">Water</style>, suitable for consumption."
-msgstr "(H2O) Чистая <style=\"liquid\">Вода</style>, пригодна для потребления."
+msgstr "Чистая вода (H2O) - обыкновенная вода, пригодна для потребления."
 
 #. STRINGS.ELEMENTS.WATER.NAME
 msgctxt "STRINGS.ELEMENTS.WATER.NAME"
@@ -10155,7 +10155,7 @@ msgstr "Вода"
 #. STRINGS.ELEMENTS.WOLFRAMITE.DESC
 msgctxt "STRINGS.ELEMENTS.WOLFRAMITE.DESC"
 msgid "((Fe,Mn)WO4) Wolframite is a dense <style=\"RawMetal\">Metallic</style> element in a <style=\"solid\">Solid</style> state.\n\nIt is a source of <style=\"RawMetal\">Tungsten</style> and is suitable for building <style=\"power\">Power</style> systems."
-msgstr "((Fe,Mn)WO4) Вольфрамит - плотный <style=\"RawMetal\">Металлический</style> элемент в <style=\"solid\">Твердом</style> состоянии.\n\nЯвляется источником <style=\"RawMetal\">Вольфрама</style> и отлично подходит для строительства <style=\"power\">Электрических</style> систем."
+msgstr "Вольфрамит ((Fe,Mn)WO4) - это плотный <style=\"RawMetal\">Металлический</style> элемент в <style=\"solid\">Твердом</style> состоянии.\n\nЯвляется источником <style=\"RawMetal\">Вольфрама</style> и отлично подходит для строительства <style=\"power\">Электрических</style> систем."
 
 #. STRINGS.ELEMENTS.WOLFRAMITE.NAME
 msgctxt "STRINGS.ELEMENTS.WOLFRAMITE.NAME"
@@ -11220,7 +11220,7 @@ msgstr "Пинча перечная"
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC"
 msgid "A ball of raw cellulose used in the production of <style=\"equipment\">Clothing</style> and textiles."
-msgstr "Шар из необработанной целлюлозы, используемый при производстве <style=\"equipment\">Одежды</style> и тканей."
+msgstr "Шар из необработанного тростникового волокна, используемый при производстве <style=\"equipment\">Одежды</style> и тканей."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.NAME"
@@ -16180,7 +16180,7 @@ msgstr "<style=\"disease\">Болезнью</style> заражено:"
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP"
 msgid "{0} Duplicant(s) were cured of a <style=\"disease\">Disease</style>"
-msgstr "{0} Дупликант(ов) был(о) вылечен(о) от <style=\"disease\">Болезни</style>"
+msgstr "{0} Дупликант(ов) вылечено от <style=\"disease\">Болезни</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP"
