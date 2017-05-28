@@ -1520,7 +1520,7 @@ msgstr "Каждый дополнительный монитор экспоне�
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
 msgid "Conducts <style=\"research\">Intermediate Research</style> and unlocks new technologies when worked on by Duplicants."
-msgstr "Производит <style=\"research\">Продвинутые исследования</style> для открытия новых технологий, при использовании Дупликантами."
+msgstr "Здесь Дупликанты проводят <style=\"research\">Продвинутые исследования</style> и открывают новые технологии."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
@@ -1535,7 +1535,7 @@ msgstr "Видите, как трепыхается тот маленький ф
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
 msgid "Cools the <style=\"gas\">Gas</style> piped through it, but outputs <style=\"heat\">Heat</style> in its immediate vicinity."
-msgstr "Охлаждает проходящий через него <style=\"gas\">Газ</style>, но выделяет <style=\"heat\">Тепло</style> в непосредственной близости от самого устройства."
+msgstr "Охлаждает проходящий через него <style=\"gas\">Газ</style>, но выделяет <style=\"heat\">Тепло</style> в непосредственной близости от себя."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
@@ -1550,7 +1550,7 @@ msgstr "Это аромат цитрусовых!"
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
 msgid "Reduces the threat of <style=\"disease\">Disease</style> by filtering <style=\"gas\">Polluted Oxygen</style> out of the air."
-msgstr "Уменьшает опасность возникновения <style=\"disease\">Болезней</style>, фильтруя из воздуха <style=\"gas\">Загрязненный кислород</style>."
+msgstr "Уменьшает опасность возникновения <style=\"disease\">Болезней</style>, фильтруя <style=\"gas\">Загрязненный кислород</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
@@ -1595,7 +1595,7 @@ msgstr "Только самые натуральные средства для �
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT"
 msgid "Cures most Duplicant <style=\"disease\">Diseases</style> by producing basic <style=\"medicine\">Medicines</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Лечит большинство <style=\"disease\">Болезней</style> Дупликантов путем производства простых <style=\"medicine\">Лекарств</style>.\n\nДупликанты не будут производить лекарства пока рецепты не поставлены в очередь."
+msgstr "Лечит большинство <style=\"disease\">Болезней</style> Дупликантов путем производства простых <style=\"medicine\">Лекарств</style>.\n\nДупликанты не будут производить лекарства, пока рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME"
@@ -1610,7 +1610,7 @@ msgstr "Переполив этих растений был бы открове�
 #. STRINGS.BUILDINGS.PREFABS.AQUAFARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AQUAFARM.EFFECT"
 msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nMust be submerged in <style=\"liquid\">Liquid</style>.\n\nCan be used as floor tile."
-msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда посажено <style=\"seed\">Семя</style>.\n\nДолжен быть погружен в <style=\"liquid\">Жидкость</style>.\n\nМожет быть использован как блок пола."
+msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда в него посажено <style=\"seed\">Семя</style>.\n\nДолжен быть погружен в <style=\"liquid\">Жидкость</style>.\n\nМожет быть использован как блок пола."
 
 #. STRINGS.BUILDINGS.PREFABS.AQUAFARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AQUAFARM.NAME"
@@ -1655,7 +1655,7 @@ msgstr "Единственный мягкий уголок в этом жест�
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.EFFECT"
 msgid "Reduces <style=\"stress\">Stress</style> by giving Duplicants a comfortable place to rest.\n\nAt night Duplicants will automatically sleep in the cot that has been assigned to them."
-msgstr "Уменьшает <style=\"stress\">Стресс</style> давая Дупликантам место для отдыха.\n\nС наступлением ночи Дупликанты автоматически отправятся спать в назначенную им кровать."
+msgstr "Уменьшает <style=\"stress\">Стресс</style> давая Дупликантам место для отдыха.\n\nС наступлением ночи Дупликанты самостоятельно отправятся спать в назначенную им кровать."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.NAME"
@@ -1715,7 +1715,7 @@ msgstr "Этот свет имитирует естественную надзе
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT"
 msgid "Improves <style=\"decor\">Decor</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
-msgstr "Увеличивает показатель <style=\"decor\">Декора</style> и уменьшает <style=\"stress\">Стресс</style> излучая <style=\"light\">Свет</style>."
+msgstr "Увеличивает показатель <style=\"decor\">Декора</style> и уменьшает <style=\"stress\">Стресс</style>, излучая <style=\"light\">Свет</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
@@ -1730,7 +1730,7 @@ msgstr "Какой смысл выживания после космическо
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT"
 msgid "Tailors enhanced clothing items for Duplicants.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Портные расширили список предметов одежды для Дупликантов.\n\nДупликанты не будут изготавливать предметы, если рецепты не поставлены в очередь."
+msgstr "Портные расширили список предметов одежды для Дупликантов.\n\nДупликанты не будут изготавливать предметы, пока рецепты не поставлены в очередь."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME"
@@ -1790,7 +1790,7 @@ msgstr "Тщательно пережевывая еду, вы помогает�
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
 msgid "Gives Duplicants a place to eat and reduces <style=\"stress\">Stress</style>.\n\nDuplicants will automatically eat at their assigned table when hungry."
-msgstr "Дает Дупликантам место, где можно поесть и уменьшает <style=\"stress\">Стресс</style>.\n\nКогда Дупликанты проголодаются, они автоматически отправятся кушать за назначенный им стол."
+msgstr "Уменьшает <style=\"stress\">Стресс</style> и дает Дупликантам место, где можно поесть.\n\nКогда Дупликанты проголодаются, они самостоятельно отправятся кушать за назначенный им стол."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
@@ -1895,12 +1895,12 @@ msgstr "Вода поступает с одного конца, животвор
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT"
 msgid "Produces <style=\"oxygen\">Oxygen</style> and <style=\"gas\">Hydrogen</style> using piped in <style=\"liquid\">Water</style>.\n\nBecomes idle when the room enters maximum air pressure range."
-msgstr "Производит стабильный поток <style=\"oxygen\">Кислорода</style> и <style=\"gas\">Водорода</style>, используя <style=\"liquid\">Воду</style> из трубы.\n\nПереходит в режим бездействия, когда комната достигает максимального давления воздуха."
+msgstr "Производит стабильный поток <style=\"oxygen\">Кислорода</style> и <style=\"gas\">Водорода</style>, используя <style=\"liquid\">Воду</style> из трубы.\n\nСтановится неактивным, когда давление воздуха в комнате становится максимальным."
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME"
 msgid "Electrolyzer"
-msgstr "Электролизер"
+msgstr "Электролизёр"
 
 #. STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXCAVATORBOMB.DESC"
@@ -1925,7 +1925,7 @@ msgstr "Ворсистые ковры уже не в моде. Последни�
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT"
 msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nCan be used as floor tile.\n\nCan be rotated before construction."
-msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда в него посажено <style=\"seed\">Семя</style>.\n\nМожет быть использовано как блок для пола.\n\nПеред постройкой можно повернуть."
+msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда в него посажено <style=\"seed\">Семя</style>.\n\nМожет быть использована как блок пола.\n\nПеред постройкой можно повернуть."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
@@ -1970,7 +1970,7 @@ msgstr "Дупликанты могут согласиться, что это в
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
 msgid "Increases <style=\"decor\">Decor</style> and reduces Duplicant <style=\"stress\">Stress</style>."
-msgstr "Увеличивает показатель <style=\"decor\">Декора</style> и уменьшает <style=\"stress\">Стресс</style> Дупликанта."
+msgstr "Увеличивает показатель <style=\"decor\">Декора</style> и уменьшает <style=\"stress\">Стресс</style> Дупликантов."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME"
@@ -1985,7 +1985,7 @@ msgstr "Что вы здесь делаете - это ваше дело."
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT"
 msgid "Greatly reduces <style=\"stress\">Stress</style> and <style=\"disease\">Disease</style> by more hygienically handling Duplicant waste."
-msgstr "Значительно уменьшает <style=\"stress\">Стресс</style> и <style=\"disease\">Болезни</style> более гигиеничной обработкой отходов Дупликантов."
+msgstr "Значительно уменьшает <style=\"stress\">Стресс</style> и <style=\"disease\">Болезни</style> Дупликантов более гигиеничной обработкой отходов."
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME"
@@ -2020,7 +2020,7 @@ msgstr "Транспортирует <style=\"gas\">Газ</style> между <s
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME"
 msgid "Gas Pipe"
-msgstr "Газовая труба"
+msgstr "Газопроводная труба"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC"
@@ -2030,7 +2030,7 @@ msgstr "Не давайте этим газопроводным трубам п�
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.EFFECT"
 msgid "Runs one section of <style=\"GasPiping\">Gas Pipe</style> over another without joining their systems."
-msgstr "Позволяет проводить одну <style=\"GasPiping\">Газопроводную трубу</style> над другой, не соединяя их в одну систему."
+msgstr "Позволяет провести одну <style=\"GasPiping\">Газопроводную трубу</style> над другой, не соединяя их в одну систему."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME"
@@ -2075,7 +2075,7 @@ msgstr "Накачайте вашу колонию!"
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.EFFECT"
 msgid "Draws in <style=\"gas\">Gas</style> runs it through <style=\"GasPiping\">Gas Pipes</style>.\n\nMust be immersed in gas."
-msgstr "Закачивает <style=\"gas\">Газ</style> из окружающей среды и гонит его по соединенным <style=\"GasPiping\">Газопроводным трубам</style>.\n\nДолжен быть погружен в газ."
+msgstr "Всасывает <style=\"gas\">Газ</style> из окружающей среды и гонит его по соединенным <style=\"GasPiping\">Газопроводным трубам</style>.\n\nДолжен быть погружен в газ."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME"
@@ -2090,7 +2090,7 @@ msgstr "Эта металлическая труба - эквивалент пе
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT"
 msgid "Increases or decreases the <style=\"gas\">Gas</style> volume in <style=\"GasPiping>Pipes</style> to maintain ideal pressure."
-msgstr "Увеличивает или уменьшает объем <style=\"gas\">Газа</style> в <style=\"GasPiping>Трубах</style> для поддержания идеального давления."
+msgstr "Увеличивает или уменьшает объем <style=\"gas\">Газа</style> в <style=\"GasPiping>Газопроводных трубах</style> для поддержания идеального давления."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME"
@@ -2105,7 +2105,7 @@ msgstr "Иногда вам просто нужно отверстие."
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT"
 msgid "Releases <style=\"gas\">Gas</style> back into the colony from <style=\"GasPiping\">Gas Pipes</style>."
-msgstr "Выпускает <style=\"gas\">Газ</style> обратно в колонию из <style=\"GasPiping\">Газопровода</style>."
+msgstr "Выпускает <style=\"gas\">Газ</style> обратно в колонию из <style=\"GasPiping\">Газопроводных труб</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
@@ -2120,7 +2120,7 @@ msgstr "Это может быть и не самый экологически �
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT"
 msgid "A <style=\"power\">Power</style> source that burns <style=\"RawMineral\">Coal</style> to generate electricity."
-msgstr "Источник <style=\"power\">Электричества</style>, который сжигает <style=\"RawMineral\">Уголь</style> для выработки электричества."
+msgstr "Источник <style=\"power\">Электричества</style>, который сжигает <style=\"RawMineral\">Уголь</style> для производства электричества."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
@@ -2135,7 +2135,7 @@ msgstr "Возможность помнить о своих ушедших др�
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.EFFECT"
 msgid "Prevents <style=\"stress\">Stress</style> and the spread of <style=\"disease\">Disease</style> caused by unburied corpses.\n\nLiving Duplicants will automatically place a dead Duplicant inside."
-msgstr "Предотвращает <style=\"stress\">Стресс</style> и распространение <style=\"disease\">Болезней</style> вызванных от непогребенных тел.\n\nЖивые Дупликанты автоматически поместят умерших Дупликантов внутрь."
+msgstr "Предотвращает <style=\"stress\">Стресс</style> и распространение <style=\"disease\">Болезней</style> вызванных непогребенными телами.\n\nЖивые Дупликанты самостоятельно поместят умерших Дупликантов внутрь."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.NAME"
@@ -2195,7 +2195,7 @@ msgstr "Эй, подождите... эта штука вовсе не произ
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT"
 msgid "A <style=\"power\">Power</style> source that converts <style=\"gas\">Hydrogen</style> into electricity."
-msgstr "Генератор, который преобразует <style=\"gas\">Водород</style> в <style=\"power\">Электричество</style>."
+msgstr "Источник <style=\"power\">Электричества</style>, который преобразует <style=\"gas\">Водород</style> в <style=\"power\">Электричество</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME"
@@ -2210,7 +2210,7 @@ msgstr "Уменьшите раздражение сельского хозяй�
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.EFFECT"
 msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nAllows <style=\"liquid\">Liquid</style> delivery for plant irrigation.\n\nCan be used as floor tile.\n\nCan be rotated before construction."
-msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда в него посажено <style=\"seed\">Семя</style>.\n\nПозволяет осуществлять доставку <style=\"liquid\">Жидкости</style> для орошения.\n\nМожет быть использовано как блок для пола.\n\nПеред постройкой можно повернуть."
+msgstr "Выращивает одно <style=\"plant\">Растение</style>, когда в него посажено <style=\"seed\">Семя</style>.\n\nПозволяет осуществлять доставку <style=\"liquid\">Жидкости</style> для орошения.\n\nМожет быть использована как блок пола.\n\nПеред постройкой можно повернуть."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME"
@@ -2225,7 +2225,7 @@ msgstr "Сохраните Ваши газы горячими.\nИли холо�
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT"
 msgid "Transports <style=\"gas\">Gas</style> with minimal change in <style=\"heat\">Temperature</style>.\n\nCan be run through Tile."
-msgstr "Транспортирует <style=\"gas\">Газ</style> с минимальным изменением <style=\"heat\">Температуры</style>.\n\nМожет быть проложен через блоки."
+msgstr "Транспортирует <style=\"gas\">Газ</style> с минимальным изменением <style=\"heat\">Температуры</style>.\n\nМожет быть проложена через блоки."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME"
@@ -2240,7 +2240,7 @@ msgstr "Сохраните Ваши жидкости горячими.\nИли �
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT"
 msgid "Transports <style=\"liquid\">Liquid</style> with minimal change in <style=\"heat\">Temperature</style>.\n\nCan be run through Tile."
-msgstr "Транспортирует <style=\"liquid\">Жидкость</style> с минимальным изменением <style=\"heat\">Температуры</style>.\n\nМожет быть проложен через блоки."
+msgstr "Транспортирует <style=\"liquid\">Жидкость</style> с минимальным изменением <style=\"heat\">Температуры</style>.\n\nМожет быть проложена через блоки."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME"
@@ -2315,7 +2315,7 @@ msgstr "Позволяет легко транспортировать жидк�
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT"
 msgid "Transports <style=\"liquid\">Liquid</style> between building <style=\"LiquidPiping\">Intakes</style> and <style=\"LiquidPiping\">Outputs</style>.\n\nCan be run through Tile."
-msgstr "Транспортирует <style=\"liquid\">Жидкость</style> между <style=\"LiquidPiping\">Входными</style> и <style=\"LiquidPiping\">Выходными</style> отверстиями водопровода.\n\nМожет быть проложен через блоки."
+msgstr "Транспортирует <style=\"liquid\">Жидкость</style> между <style=\"LiquidPiping\">Входными</style> и <style=\"LiquidPiping\">Выходными</style> отверстиями водопровода.\n\nМожет быть проложена через блоки."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME"
@@ -2360,7 +2360,7 @@ msgstr "Вы когда-нибудь пробовали отделять жид�
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.EFFECT"
 msgid "Sieves the selected <style=\"liquid\">Liquid</style> out of a liquid mixture, sending it into a separate <style=\"LiquidPiping\">Pipe</style>."
-msgstr "Отделяет выбранную <style=\"liquid\">Жидкость</style> из смеси жидкостей, отправляя ее в отдельную <style=\"LiquidPiping\">Водопроводную трубу</style>."
+msgstr "Позволяет отделить выбранную <style=\"liquid\">Жидкость</style> из смеси жидкостей, отправляя ее в отдельную <style=\"LiquidPiping\">Водопроводную трубу</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME"
@@ -2435,7 +2435,7 @@ msgstr "Иногда вам просто нужно отверстие."
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.EFFECT"
 msgid "Releases <style=\"liquid\">Liquid</style> back into the colony from <style=\"LiquidPiping\">Liquid Pipes</style>."
-msgstr "Возвращает <style=\"liquid\">Воду</style> обратно в колонию из <style=\"LiquidPiping\">Водопроводных труб</style>."
+msgstr "Выпускает <style=\"liquid\">Воду</style> обратно в колонию из <style=\"LiquidPiping\">Водопроводных труб</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME"
@@ -2520,7 +2520,7 @@ msgstr "Позволяет сильно раненым Дупликантам в
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.EFFECT"
 msgid "Accelerates the regeneration of a wounded Duplicant's <style=\"Health\">Health</style>."
-msgstr "Ускоряет процесс регенерации <style=\"Health\">Здоровья</style> для раненых Дупликантов."
+msgstr "Ускоряет процесс регенерации <style=\"Health\">Здоровья</style> раненых Дупликантов."
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME"
@@ -2535,7 +2535,7 @@ msgstr "Каркасные блоки не блокируют потоки га�
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT"
 msgid "Can be used as floor and wall tile to build rooms.\n\nDoes not obstruct the flow of <style=\"liquid\">Liquid</style> or <style=\"gas\">Gas</style>."
-msgstr "Может быть использован как блок стен или пола при строительстве помещений.\n\nНе блокирует потоки <style=\"liquid\">Жидкости</style> или <style=\"gas\">Газа</style>."
+msgstr "Используется как блок пола и стен при строительстве помещений.\n\nНе блокирует потоки <style=\"liquid\">Жидкости</style> или <style=\"gas\">Газа</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME"
@@ -2555,7 +2555,7 @@ msgstr "Источник <style=\"power\">Электричества</style>, и
 #. STRINGS.BUILDINGS.PREFABS.METHANEGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METHANEGENERATOR.NAME"
 msgid "Natural Gas Generator"
-msgstr "Генератор на природном газе"
+msgstr "Газовый генератор"
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC"
@@ -2580,7 +2580,7 @@ msgstr "Дышите спокойно, осознавая, что Вы пред�
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT"
 msgid "Converts <style=\"misc\">Algae</style> into <style=\"oxygen\">Oxygen</style>.\n\nBecomes idle when the room enters maximum air pressure range."
-msgstr "Конвертирует <style=\"misc\">Водоросли</style> в <style=\"oxygen\">Кислород</style>.\n\nСтановится неактивным, когда давление воздуха в комнате становится максимальным."
+msgstr "Перерабатывает <style=\"misc\">Водоросли</style> в <style=\"oxygen\">Кислород</style>.\n\nСтановится неактивным, когда давление воздуха в комнате становится максимальным."
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
@@ -2610,7 +2610,7 @@ msgstr "Лучше отхожее место, чем в доме."
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT"
 msgid "Reduces <style=\"stress\">Stress</style> and the spread of <style=\"disease\">Disease</style> by giving Duplicants a place to relieve themselves.\n\nRequires no <style=\"GasPiping\">Piping</style>.\n\nMust be periodically emptied of <style=\"solid\">Polluted Dirt</style>."
-msgstr "Уменьшает <style=\"stress\">Стресс</style> и вероятность распространения <style=\"disease\">Болезней</style> указывая, где Дупликанты должны испражняться.\n\nНе требует <style=\"GasPiping\">Газовых труб</style>.\n\nДолжно быть периодически очищено от <style=\"solid\">Загрязненной земли</style>."
+msgstr "Уменьшает <style=\"stress\">Стресс</style> и вероятность распространения <style=\"disease\">Болезней</style> указывая, где Дупликанты должны испражняться.\n\nНе требует <style=\"GasPiping\">Газопроводных труб</style>.\n\nДолжно быть периодически очищено от <style=\"solid\">Загрязненной земли</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME"
@@ -2730,7 +2730,7 @@ msgstr "Первый химический набор Дупликантов"
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT"
 msgid "Conducts <style=\"research\">Novice Research</style> and unlocks new technologies when worked on by Duplicants."
-msgstr "Здесь Дупликанты проводят <style=\"research\">Базовые Исследования</style> и открывают новые технологии."
+msgstr "Здесь Дупликанты проводят <style=\"research\">Базовые исследования</style> и открывают новые технологии."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
@@ -2900,7 +2900,7 @@ msgstr "Дупликанты находят эти блоки более при�
 #. STRINGS.BUILDINGS.PREFABS.TILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.EFFECT"
 msgid "Used as floor and wall tile to build rooms."
-msgstr "Используется в качестве стены или пола при строительстве помещений."
+msgstr "Используется как блок пола и стен при строительстве помещений"
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
@@ -2985,7 +2985,7 @@ msgstr "Включить автопочинку"
 #. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP"
 msgid "If enabled, Duplicants will automatically repair this building when it sustains damage"
-msgstr "Если включено, Дупликанты будут автоматически чинить эту постройку в случае повреждения"
+msgstr "Если включено, Дупликанты будут самостоятельно чинить эту постройку в случае повреждения"
 
 #. STRINGS.CREATURES.CROP_EFFECTS.ADD_SEEDS.DESC
 msgctxt "STRINGS.CREATURES.CROP_EFFECTS.ADD_SEEDS.DESC"
@@ -3350,7 +3350,7 @@ msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Щитовика Цв�
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME"
 msgid "Blossom Seed"
-msgstr "Семя щитовика цветущего"
+msgstr "Семя щитовика"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC"
@@ -11965,7 +11965,7 @@ msgstr "Узнайте, как распланировать время Ваши�
 #. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.MESSAGEBODY"
 msgid "Duplicants are incredibly resourceful and will automatically use any materials in their reach. However, a Duplicant's productivity can be improved by storing resources closer to where they'll need them.\n\nUse the <color=#833A5FFF>STORAGE REGION TOOL</color> <color=#F44A47>[Y + T]</color> to mark an area as storage, and the <color=#833A5FFF>STORAGE OVERLAY</color> <color=#F44A47>[F6]</color> to assign resource types to it."
-msgstr "Дупликанты невероятно находчивы и автоматически будут использовать любые материалы, до каких могут добраться. Вместе с тем, Вы можете повысить продуктивность Дупликантов, если Вы будете хранить ресурсы там, где они нужны.\n\nИспользуйте <color=#833A5FFF>ИНСТРУМЕНТ ЗОНЫ ХРАНЕНИЯ</color> <color=#F44A47>[Y + T]</color> для обозначения зон хранения и <color=#833A5FFF>КАРТУ ХРАНИЛИЩ</color> <color=#F44A47>[F6]</color>, чтобы выбрать, какие ресурсы будут размещаться в данном хранилище."
+msgstr "Дупликанты невероятно находчивы и самостоятельно будут использовать любые материалы, до каких могут добраться. Вместе с тем, Вы можете повысить продуктивность Дупликантов, если Вы будете хранить ресурсы там, где они нужны.\n\nИспользуйте <color=#833A5FFF>ИНСТРУМЕНТ ЗОНЫ ХРАНЕНИЯ</color> <color=#F44A47>[Y + T]</color> для обозначения зон хранения и <color=#833A5FFF>КАРТУ ХРАНИЛИЩ</color> <color=#F44A47>[F6]</color>, чтобы выбрать, какие ресурсы будут размещаться в данном хранилище."
 
 #. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.NAME"
@@ -12100,7 +12100,7 @@ msgstr "Эта система труб вышла из диапазона иде
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY"
 msgid "Duplicants are self-motivated and do not need to be individually managed in order to perform tasks in the colony.\n\nYou can use the <color=#833A5FFF>DIG TOOL</color> <color=#F44A47>[G]</color> and the <color=#833A5FFF>BUILD MENU</color> in the lower left of the screen to begin planning job tasks. Once you have a few placed, your Duplicants will automatically get to work for you."
-msgstr "Дупликанты в целом достаточно инициативны и не требуют индивидуального контроля для выполнения задач в колонии.\n\nПри помощи инструментов <color=#833A5FFF>КОПАТЬ</color> [G] и <color=#833A5FFF>СТРОИТЕЛЬНОГО МЕНЮ</color> вы можете запланировать различные задачи. После того, как задача была запланирована, Ваши Дупликанты автоматически начнут работу."
+msgstr "Дупликанты в целом достаточно инициативны и не требуют индивидуального контроля для выполнения задач в колонии.\n\nПри помощи инструментов <color=#833A5FFF>КОПАТЬ</color> [G] и <color=#833A5FFF>СТРОИТЕЛЬНОГО МЕНЮ</color> вы можете запланировать различные задачи. После того, как задача была запланирована, Ваши Дупликанты самостоятельно начнут работу."
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME"
@@ -14775,7 +14775,7 @@ msgstr "Службы для легкой транспортировки газо
 #. STRINGS.UI.BUILDCATEGORIES.POWER.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.NAME"
 msgid "Power"
-msgstr "Электричество"
+msgstr "Энергия"
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP"
@@ -16180,7 +16180,7 @@ msgstr "<style=\"disease\">Болезнью</style> заражено:"
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP"
 msgid "{0} Duplicant(s) were cured of a <style=\"disease\">Disease</style>"
-msgstr "{0} Дупликант(ов) было вылечено от <style=\"disease\">Болезни</style>"
+msgstr "{0} Дупликант(ов) был(о) вылечен(о) от <style=\"disease\">Болезни</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP"
@@ -16195,12 +16195,12 @@ msgstr "<style=\"power\">Электричества</style> использует
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr "Вашей колонией потреблено {0} of <style=\"power\">Электричества</style> в течение дня"
+msgstr "Вашей колонией потреблено {0} <style=\"power\">Электричества</style> в течение дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr "Вашей колонией создано {0} of <style=\"power\">Электричества</style> в течение дня"
+msgstr "Ваша колония создала {0} <style=\"power\">Электричества</style> в течение дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
@@ -16210,7 +16210,7 @@ msgstr "<style=\"power\">Электричества</style> потеряно:"
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> today that was not used or stored in a battery"
-msgstr "Ваша колония создала {0} <style=\"power\">Электричество</style> сегодня, которое не было использовано или сохранено в батареях"
+msgstr "Ваша колония создала {0} <style=\"power\">Электричества</style> сегодня, которое не было использовано или сохранено в батареях"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
@@ -18700,7 +18700,7 @@ msgstr "Базовая величина"
 #. STRINGS.UI.TOOLTIPS.CANCELBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELBUTTON"
 msgid "Drag to cancel pending job tasks"
-msgstr "Выделите, чтобы отменить запланированные рабочие задачи"
+msgstr "Выделите, чтобы отменить запланированные задачи"
 
 #. STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON"
@@ -18855,7 +18855,7 @@ msgstr "Управление диетой Дупликанта"
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT"
 msgid "View daily Colony Reports"
-msgstr "Просмотреть Ежедневные отчеты колонии"
+msgstr "Просмотреть ежедневные отчеты колонии"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS"
@@ -18955,12 +18955,12 @@ msgstr "Отображает приоритет задач"
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid "Drag to bump job tasks up or down in importance"
-msgstr "Перетаскивайте приоритет на задачи для повышения или понижения важности выполнения задачи"
+msgstr "Выделите, для повышения или понижения приоритета выполнения задачи"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
 msgid "Drag to bump tasks up or down in importance"
-msgstr "Перетаскивайте задачи вверх или вниз для изменения их важности"
+msgstr "Перетаскивайте задачи вверх или вниз для изменения их приоритета"
 
 #. STRINGS.UI.TOOLTIPS.RANDOMIZENAME
 msgctxt "STRINGS.UI.TOOLTIPS.RANDOMIZENAME"
@@ -20225,7 +20225,7 @@ msgstr "Включить Автосбор урожая"
 #. STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.TOOLTIP"
 msgid "Duplicants will automatically harvest this plant when it matures"
-msgstr "Дупликанты будут автоматически собирать урожай с этого растения, как только он созреет"
+msgstr "Дупликанты будут самостоятельно собирать урожай с этого растения, как только он созреет"
 
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME"
