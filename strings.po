@@ -1010,7 +1010,7 @@ msgstr "Открыть панель <color=#833A5FFF>Науки</color> [R] дл
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP"
 msgid "Open the <color=#833A5FFF>Research Tree</color> [R] to select a new <style=\"research\">Research</style> project"
-msgstr "Открыть панель <color=#833A5FFF>Науки</color> [R]для выбора нового <style=\"research\">Научного</style> проекта"
+msgstr "Открыть панель <color=#833A5FFF>Науки</color> [R] для выбора нового <style=\"research\">Научного</style> проекта"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME"
@@ -1565,7 +1565,7 @@ msgstr "Зеленый комок входит, зеленый комок вых
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
 msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>."
-msgstr "Перерабатывает <style=\"misc\">Слизь</style> в <style=\"misc\">Водоросли</style>.\n"
+msgstr "Перерабатывает <style=\"misc\">Слизь</style> в <style=\"misc\">Водоросли</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
@@ -1575,7 +1575,7 @@ msgstr "Биодистиллятор"
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
 msgid "Algae colony. Duplicant colony.\nWe're more similar than we are different."
-msgstr "Колония водорослей. Колония Дупликантов.\n Общего между нами куда больше, чем кажется."
+msgstr "Колония водорослей. Колония Дупликантов.\nОбщего между нами куда больше, чем кажется."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
@@ -3325,7 +3325,7 @@ msgstr "Семя хладодыха"
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.DESC"
 msgid "The <style=\"seed\">Seeds</style> of a <style=\"plant\">Sleet Wheat</style> plant.\n\nGrain can be sown to cultivate more Sleet Wheat, or processed into <style=\"food\">Food</style>."
-msgstr "<style=\"seed\">Семена</style от растения <style=\"plant\">Морозная пшеница</style>.\n\nЗерно может быть посажено для выращивания большего количества морозной пшеницы, или использовано для производства <style=\"food\">Еды</style>."
+msgstr "<style=\"seed\">Семена</style> от растения <style=\"plant\">Морозная пшеница</style>.\n\nЗерно может быть посажено для выращивания большего количества морозной пшеницы, или использовано для производства <style=\"food\">Еды</style>."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.NAME"
@@ -5635,7 +5635,7 @@ msgstr "Этот Дупликант выглядит достаточно пос
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME"
 msgid "None"
-msgstr "Отсутствуют"
+msgstr "Отсутствует"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.DESC"
@@ -6305,7 +6305,7 @@ msgstr "Красная тревога!"
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP"
 msgid "The Red Alert is stressing this Duplicant out"
-msgstr "Этот Дупликант находится в состоянии стресса из-за режима "\Красной тревоги\""
+msgstr "Этот Дупликант находится в состоянии стресса из-за режима \"Красной тревоги\""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME"
@@ -7085,7 +7085,7 @@ msgstr "Нисбет"
 #. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC"
 msgid "{0}s always insult people by accident and exist in a perpetual state of deep regret."
-msgstr "{0} постоянно ненарочно оскорбляют окружающих и пребывают из-за этого в состоянии непрерывного, но глубокого раскаяния."
+msgstr "{0} постоянно ненарочно оскорбляет окружающих и пребывает из-за этого в состоянии непрерывного, но глубокого раскаяния."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME"
@@ -9775,7 +9775,7 @@ msgstr "Диселенид вольфрама"
 #. STRINGS.ELEMENTS.OBSIDIAN.DESC
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.DESC"
 msgid "Obsidian is a brittle composite of volcanic <style=\"solid\">Glass</style>."
-msgstr "Обсидиан- это хрупкий композит вулканического <style=\"solid\">Стекла</style>."
+msgstr "Обсидиан - это хрупкий композит вулканического <style=\"solid\">Стекла</style>."
 
 #. STRINGS.ELEMENTS.OBSIDIAN.NAME
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.NAME"
@@ -9785,7 +9785,7 @@ msgstr "Обсидиан"
 #. STRINGS.ELEMENTS.OXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.OXYGEN.DESC"
 msgid "(O2) Oxygen is an atomically lightweight and breathable <style=\"gas\">Gas</style>, necessary for sustaining life.\n\nIt tends to rise above other gases."
-msgstr "(O2) Кислород- это гегкий, пригодный для дыхания <style=\"gas\">Газ</style>, необходимый для поддержания жизни.\n\nЕму свойственно подниматься выше других газов."
+msgstr "Кислород (O2) - это атомарно легкий, пригодный для дыхания <style=\"gas\">Газ</style>, необходимый для поддержания жизни.\n\nЕму свойственно подниматься выше других газов."
 
 #. STRINGS.ELEMENTS.OXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.OXYGEN.NAME"
@@ -9795,7 +9795,7 @@ msgstr "Кислород"
 #. STRINGS.ELEMENTS.OXYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.OXYROCK.DESC"
 msgid "(Ir3O2) Oxylite is a chemical compound that slowly emits breathable <style=\"oxygen\">Oxygen</style>.\n\nThe rate of oxygen emission will increase when excavated, but it will lose mass and deplete more rapidly."
-msgstr "(Ir3O2) Оксилит - это химическое соединение, которое медленно выделяет пригодный для дыхания <style=\"oxygen\">Кислород</style>.\n\nВ выкопанном состоянии быстрее выделяет кислород и расходуется."
+msgstr "Оксилит (Ir3O2) - это химическое соединение, которое медленно выделяет пригодный для дыхания <style=\"oxygen\">Кислород</style>.\n\nВ выкопанном состоянии быстрее выделяет кислород и расходуется."
 
 #. STRINGS.ELEMENTS.OXYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.OXYROCK.NAME"
@@ -9805,7 +9805,7 @@ msgstr "Оксилит"
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.DESC"
 msgid "(PO3-4) Nodules of sedimentary rock containing high concentrations of phosphate."
-msgstr "(PO3-4) Гравий осадочных пород, содержащий большое число фосфатов."
+msgstr "Фосфатный гравий (PO3-4) - осадочая порода, содержащая большое число фосфатов."
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.NAME"
@@ -9825,7 +9825,7 @@ msgstr "Фосфорит"
 #. STRINGS.ELEMENTS.PHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.DESC"
 msgid "(P) Phosphorus is a chemical element in its <style=\"solid\">Solid</style> state."
-msgstr "(P) Фосфор - это химический элемент в его <style=\"solid\">Твердом</style> состоянии."
+msgstr "Фосфор (P) - это химический элемент в его <style=\"solid\">Твердом</style> состоянии."
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.NAME"
@@ -9835,7 +9835,7 @@ msgstr "Фосфор"
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC"
 msgid "(P) Phosphorus is a chemical element in a <style=\"gas\">Gaseous</style> state."
-msgstr "(P) Фосфор - это химический элемент в состоянии <style=\"gas\">Газа</style>."
+msgstr "Фосфор (P) - это химический элемент в состоянии <style=\"gas\">Газа</style>."
 
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME"
@@ -9855,7 +9855,7 @@ msgstr "Тина"
 #. STRINGS.ELEMENTS.PROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.PROPANE.DESC"
 msgid "(C3H8) Propane is a natural alkane <style=\"gas\">Gas</style>.\n\nIt is useful in <style=\"power\">Power</style> production."
-msgstr "(C3H8) Пропан- это париродный алкан в состоянии <style=\"gas\">Газа</style>.\n\nОн используется в производстве <style=\"power\">Электричества</style>."
+msgstr "Пропан (C3H8) - это париродный алкан в состоянии <style=\"gas\">Газа</style>.\n\nОн используется в производстве <style=\"power\">Электричества</style>."
 
 #. STRINGS.ELEMENTS.PROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.PROPANE.NAME"
@@ -9865,7 +9865,7 @@ msgstr "Пропан"
 #. STRINGS.ELEMENTS.RADIUM.DESC
 msgctxt "STRINGS.ELEMENTS.RADIUM.DESC"
 msgid "(Ra) Radium is a <style=\"light\">Light</style> emitting radioactive substance.\n\nIt is useful as a <style=\"power\">Power</style> source."
-msgstr "(Ra) Радий - это <style=\"light\">Светящееся</style>, выделяющее радиацию вещество.\n\nОн используется в качестве источника <style=\"power\">Электричества</style>"
+msgstr "Радий (Ra) - это <style=\"light\">Светящееся</style>, выделяющее радиацию вещество.\n\nОн используется в качестве источника <style=\"power\">Электричества</style>"
 
 #. STRINGS.ELEMENTS.RADIUM.NAME
 msgctxt "STRINGS.ELEMENTS.RADIUM.NAME"
@@ -11330,7 +11330,7 @@ msgstr "Следующие ресурсы стали доступны:"
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
 msgid "- Use the <color=#F44A47>WASD</color> keys to pan your camera and the <color=#F44A47>MOUSE WHEEL</color> to zoom in or out. <color=#F44A47>[H]</color> will return your screen to the Printing Pod.\n\n- Your simulation can be sped up or slowed down by using the speed buttons in the top left, or by pressing <color=#F44A47>[TAB]</color>.\n\n- <color=#F44A47>[SPACE]</color> will pause or resume your game."
-msgstr "- Используйте клавиши <color=#F44A47>WASD</color> для перемещения камеры и <color=#F44A47>КОЛЕСО МЫШИ</color> для приближения или отдаления камеры. Клавиша <color=#F44A47>[H]</color> сфокусирует камеру на Печатной Капсуле.\n\n- Скорость симуляции может быть увеличена или уменьшена при помощи кнопок в левом верхнем углу экрана или при помощи нажатия клавиши <color=#F44A47>[TAB]</color>.\n\n- Клавиша <color=#F44A47>[ПРОБЕЛ]</color> активирует и деактивирует режим паузы."
+msgstr "- Используйте клавиши <color=#F44A47>WASD</color> для перемещения камеры и <color=#F44A47>КОЛЕСО МЫШИ</color> для приближения или отдаления камеры. Клавиша <color=#F44A47>[H]</color> сфокусирует камеру на Биопринтере.\n\n- Скорость симуляции может быть увеличена или уменьшена при помощи кнопок в левом верхнем углу экрана или при помощи нажатия клавиши <color=#F44A47>[TAB]</color>.\n\n- Клавиша <color=#F44A47>[ПРОБЕЛ]</color> активирует и деактивирует режим паузы."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME"
@@ -12075,7 +12075,7 @@ msgstr "Неохлажденная еда"
 #. STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.TOOLTIP"
 msgid "These <style=\"food\">Food</style> items are in storage but are not refrigerated:\n"
-msgstr "Эта <style=\"food\">Еда</style> в хранилище, но не охлаждена:\n"
+msgstr "Эта <style=\"food\">Еда</style> в хранилище, но она не охлаждена:\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME"
@@ -15600,7 +15600,7 @@ msgstr "\n	• {0}"
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE"
 msgid "{0} at {1}"
-msgstr "{0} at {1}"
+msgstr "{0} при {1}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS"
@@ -16230,7 +16230,7 @@ msgstr "Характеристика улучшена:"
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
 msgid "Your Duplicants gained a total of {0} skill levels today"
-msgstr "Ваш Дупликант получил в общем {0} очков характеристик в течение дня"
+msgstr "Ваши Дупликанты получили {0} очков характеристик в течение дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
@@ -17340,22 +17340,22 @@ msgstr "Сортировать колонию по уровню характер
 #. STRINGS.UI.JOBSSCREEN.JOB_CANT_CONSUME
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_CANT_CONSUME"
 msgid "<b>{0}</b> cannot perform \n<b>{1} Tasks</b>"
-msgstr "<b>{0}</b> не может выполнять работы\nтипа <b>{1}</b>"
+msgstr "<b>{0}</b> не может выполнять работы \nтипа <b>{1}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF"
 msgid "<b>{0}</b> will not perform \n<b>{1} Tasks</b>"
-msgstr "<b>{0}</b> не будет выполнять работы\nтипа <b>{1}</b>"
+msgstr "<b>{0}</b> не будет выполнять работы \nтипа <b>{1}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON"
 msgid "<b>{0}</b> will perform \n<b>{1} Tasks</b>"
-msgstr "<b>{0}</b> будет выполнять работы \n типа <b>{1}</b>"
+msgstr "<b>{0}</b> будет выполнять работы \nтипа <b>{1}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_REFUSE
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_REFUSE"
 msgid "<b>{0}</b> refuses to perform \n<b>{1} Tasks</b>"
-msgstr "<b>{0}</b> отказывается выполнять работы\n типа <b>{1}/b>"
+msgstr "<b>{0}</b> отказывается выполнять работы \nтипа <b>{1}/b>"
 
 #. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_OFF
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_OFF"
@@ -19395,7 +19395,7 @@ msgstr "Выберите рецепт для производства."
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE"
 msgid "{0} Recipes"
-msgstr "{0} Рецептов"
+msgstr "{0} рецепты"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPERQUIREMENT_INSUFFICIENT
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPERQUIREMENT_INSUFFICIENT"
@@ -20725,17 +20725,17 @@ msgstr "Наращиваем беспокойство..."
 #. STRINGS.UI.WORLDGEN.PROCESSING
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING"
 msgid "Embedding metals..."
-msgstr "Встраиваем Металлы..."
+msgstr "Встраиваем металлы..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING1
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING1"
 msgid "Embedding metals..."
-msgstr "Встраиваем Металлы..."
+msgstr "Встраиваем металлы..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING2
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING2"
 msgid "Embedding metals..."
-msgstr "Встраиваем Металлы..."
+msgstr "Встраиваем металлы..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING3
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING3"
