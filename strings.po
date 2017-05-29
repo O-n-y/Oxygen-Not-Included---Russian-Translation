@@ -30,7 +30,7 @@ msgstr "Повреждено: вспышка гнева"
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION"
 msgid "Building Damage: Tantrum"
-msgstr "Постройка Повреждена: вспышка гнева"
+msgstr "Постройка повреждена: вспышка гнева"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP"
