@@ -3330,7 +3330,6 @@ msgstr "<style=\"seed\">Семена</style> от растения <style=\"plan
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.NAME"
 msgid "Sleet Wheat Grain"
-msgstr "Зерна морозной пшеницы"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.JUNGLEGASPLANT.DESC"
