@@ -1,7 +1,7 @@
-# Условия использования первода
-Перевод запрещено использовать с целью внесения изменений и\или распространения, в том числе под своим именем. 
+# РЈСЃР»РѕРІРёСЏ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ РїРµСЂРІРѕРґР°
+РџРµСЂРµРІРѕРґ Р·Р°РїСЂРµС‰РµРЅРѕ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ СЃ С†РµР»СЊСЋ РІРЅРµСЃРµРЅРёСЏ РёР·РјРµРЅРµРЅРёР№ Рё\РёР»Рё СЂР°СЃРїСЂРѕСЃС‚СЂР°РЅРµРЅРёСЏ, РІ С‚РѕРј С‡РёСЃР»Рµ РїРѕРґ СЃРІРѕРёРј РёРјРµРЅРµРј. 
 
 # Usage permissions and limitations
-Перевод разрешен и предназначен для использования в виде, в котором он существует, в игре Oxygen Not Inluded. 
-Translation not allowed to use for editing, publishing under third-party name. 
+РџРµСЂРµРІРѕРґ СЂР°Р·СЂРµС€РµРЅ Рё РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ РІ РІРёРґРµ, РІ РєРѕС‚РѕСЂРѕРј РѕРЅ СЃСѓС‰РµСЃС‚РІСѓРµС‚, РІ РёРіСЂРµ Oxygen Not Inluded. 
+Translation not allowed to use for editing, publishing under third-party name fully or partly. 
 Translation permitted and made to be used only in existing form in the game Oxygen Not Inluded.
