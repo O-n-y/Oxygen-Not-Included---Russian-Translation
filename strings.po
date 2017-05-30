@@ -4200,7 +4200,7 @@ msgstr "Неохлажденный"
 #. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP"
 msgid "Temperatures above {RotTemperature} spoil food more quickly"
-msgstr "Температура выше <style=\"heat\">{RotTemperature}</style> быстрее испортят еду"
+msgstr "Температура выше <style=\"heat\">{RotTemperature}</style> быстрее испортит еду"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.NAME"
