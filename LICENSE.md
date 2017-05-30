@@ -4,5 +4,5 @@
 
 # Usage permissions and limitations
 
-Translation not allowed to use for editing, publishing under third-party name fully or partly. 
+Translation not allowed to use for editing or/and publishing under third-party name, fully or partly.
 Translation permitted and made to be used only in existing form in the game Oxygen Not Inluded.
