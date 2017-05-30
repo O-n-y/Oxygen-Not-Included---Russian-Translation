@@ -11215,7 +11215,7 @@ msgstr "Ароматный орех <style=\"plant\">Пинчи перечной
 #. STRINGS.ITEMS.FOOD.SPICENUT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SPICENUT.NAME"
 msgid "Pincha Peppernut"
-msgstr "Пинча перечная"
+msgstr "Перечный орех"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC"
@@ -12610,7 +12610,7 @@ msgstr "Хлорная известь"
 #. STRINGS.MISC.TAGS.BREATHABLE
 msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
 msgid "Breathable Gas"
-msgstr "Газ, пригодный для дыхания"
+msgstr "Пригодный для дыхания"
 
 #. STRINGS.MISC.TAGS.BUILDABLEPROCESSED
 msgctxt "STRINGS.MISC.TAGS.BUILDABLEPROCESSED"
