@@ -11195,7 +11195,7 @@ msgstr "Запеченная <style=\"food\">Щетинистая ягодка</
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.DESC"
 msgid "A loaf of bread, lightly spiced with <style=\"food\">Pincha Peppernut</style> for a mild bite.\n\nThere's a simple joy to be had in pulling it apart in one's fingers."
-msgstr "Буханка хлеба, слегка приправленная орехом из <style=\"food\">Пинчей перечной</style> для легкого прикуса.\n\nСуществует простая радость, которую можно получить, держа ее в руке."
+msgstr "Буханка хлеба, слегка приправленная <style=\"food\">Перечным орехом</style> для легкого прикуса.\n\nСуществует простая радость, которую можно получить, держа ее в руке."
 
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.NAME"
@@ -11205,7 +11205,7 @@ msgstr "Перченый хлебушек"
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.RECIPEDESC"
 msgid "A loaf of bread, lightly spiced with <style=\"food\">Pincha Peppernut</style> for a mild bite."
-msgstr "Буханка хлеба, слегка приправленная орехом из <style=\"food\">Пинчей перечной</style> для легкого прикуса."
+msgstr "Буханка хлеба, слегка приправленная <style=\"food\">Перечным орехом</style> для легкого прикуса."
 
 #. STRINGS.ITEMS.FOOD.SPICENUT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICENUT.DESC"
