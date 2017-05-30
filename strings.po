@@ -1465,7 +1465,7 @@ msgstr "Этот провод в хорошем состоянии"
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.NAME"
 msgid "Nominal"
-msgstr "Функционирует"
+msgstr "Работает нормально"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP"
@@ -1530,7 +1530,7 @@ msgstr "СуперЭВМ"
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC"
 msgid "You'll know it's on when the little flag is wiggling."
-msgstr "Вы узнаете, что это идет, когда маленький флажок начнет трепыхаться."
+msgstr "Вы узнаете, что он включен по трепыханию маленького флажка."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
@@ -2665,7 +2665,7 @@ msgstr "Авто шлюз"
 #. STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.DESC"
 msgid "For when you feel the world pressing down on you. Or the Pascals."
-msgstr "Для случаев, когда вы чувствуете, что мир слишком давит на вас. Или это Паскали"
+msgstr "Для случаев, когда вы чувствуете, что мир слишком давит на вас. Или это Паскали."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.EFFECT"
@@ -2700,7 +2700,7 @@ msgstr "Хранить еду в ящике?\nЗвучит рациональн�
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
 msgid "Stores a small amount of <style=\"food\">Food</style>.\n\nMust be filled with Food by Duplicants."
-msgstr "Хранит небольшой объем <style=\"food\">Еды</style>.\n\nДупликанты должны заполнять его едой."
+msgstr "Хранит небольшой объем <style=\"food\">Еды</style>.\n\nДолжна быть заполнена едой Дупликантами."
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
@@ -3745,7 +3745,7 @@ msgstr "Это существо собирается укусить соблаз
 #. STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.NAME"
 msgid "Pollution Exposure"
-msgstr "Под действием загрязнения"
+msgstr "Загрязненная окружающая среда"
 
 #. STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.TOOLTIP"
@@ -4605,12 +4605,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.DESC"
 msgid "The Sneeziness attribute determines how frequently a Duplicant sneezes."
-msgstr "Атрибут \"Чихоня\" влияет на то, как часто Дупликант чихает."
+msgstr "Атрибут \"Чихание\" влияет на то, как часто Дупликант чихает."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.NAME"
 msgid "Sneeziness"
-msgstr "Чихоня"
+msgstr "Чихание"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC"
@@ -5570,7 +5570,7 @@ msgstr "Идет разминаться"
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME"
 msgid "Wash hands"
-msgstr "Мыть руки"
+msgstr "Моет руки"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS"
@@ -5645,7 +5645,7 @@ msgstr "Этот Дупликант генетически проклят рез
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.NAME
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.NAME"
 msgid "Stinkiness"
-msgstr "Вонючка"
+msgstr "Пахучесть"
 
 #. STRINGS.DUPLICANTS.DEATHS.COMBAT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.COMBAT.DESCRIPTION"
@@ -13240,7 +13240,7 @@ msgstr "{adjective} {noun}"
 #. STRINGS.NAMEGEN.COLONY.NOUN.ABODE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABODE"
 msgid "Abode"
-msgstr "Обитель"
+msgstr "Орбита"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ABYSS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABYSS"
@@ -13250,17 +13250,17 @@ msgstr "Бездна"
 #. STRINGS.NAMEGEN.COLONY.NOUN.ACROPOLIS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ACROPOLIS"
 msgid "Acropolis"
-msgstr "Акрополь"
+msgstr "Пустыня"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ANTFARM
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ANTFARM"
 msgid "Antfarm"
-msgstr "Муравьиная ферма"
+msgstr "Муравьиная Ферма"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ASTEROID
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ASTEROID"
 msgid "Asteroid"
-msgstr "Астероид"
+msgstr "Пустота"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BASE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BASE"
@@ -13270,7 +13270,7 @@ msgstr "База"
 #. STRINGS.NAMEGEN.COLONY.NOUN.BEYOND
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BEYOND"
 msgid "Beyond"
-msgstr "Загробная жизнь"
+msgstr "Запредельность"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BRIGADE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BRIGADE"
@@ -13280,7 +13280,7 @@ msgstr "Бригада"
 #. STRINGS.NAMEGEN.COLONY.NOUN.BUNKER
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BUNKER"
 msgid "Bunker"
-msgstr "Бункер"
+msgstr "Башня"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.BURROW
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.BURROW"
@@ -13290,7 +13290,7 @@ msgstr "Нора"
 #. STRINGS.NAMEGEN.COLONY.NOUN.CANTALOUPE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CANTALOUPE"
 msgid "Cantaloupe"
-msgstr "Мускусная дыня"
+msgstr "Обитель"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CITADEL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CITADEL"
@@ -13310,12 +13310,12 @@ msgstr "Комета"
 #. STRINGS.NAMEGEN.COLONY.NOUN.COMMITTEE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COMMITTEE"
 msgid "Committee"
-msgstr "Комитет"
+msgstr "Туманность"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.COSMOS
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.COSMOS"
 msgid "Cosmos"
-msgstr "Космос"
+msgstr "Атмосфера"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CRASHPAD
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CRASHPAD"
@@ -13325,7 +13325,7 @@ msgstr "Ночлежка"
 #. STRINGS.NAMEGEN.COLONY.NOUN.CRATER
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CRATER"
 msgid "Crater"
-msgstr "Кратер"
+msgstr "Пирамида"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CREW
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CREW"
@@ -13335,12 +13335,12 @@ msgstr "Команда"
 #. STRINGS.NAMEGEN.COLONY.NOUN.DIMENSION
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DIMENSION"
 msgid "Dimension"
-msgstr "Измерение"
+msgstr "Бесконечность"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.DREAMLAND
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DREAMLAND"
 msgid "Dreamland"
-msgstr "Сказочная страна"
+msgstr "Сказочная Страна"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.DUMP
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DUMP"
@@ -16865,7 +16865,7 @@ msgstr "ОТОБРАЖЕНИЕ ТЕМПЕРАТУРЫ"
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.CHOOSE_RANDOM_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.CHOOSE_RANDOM_BUTTON"
 msgid "Use any seed"
-msgstr "Использовать любое семя"
+msgstr "Использовать любой сид"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.DONE_BUTTON"
@@ -16875,7 +16875,7 @@ msgstr "Готово"
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.ENABLE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.ENABLE_BUTTON"
 msgid "Set World Generation Seed"
-msgstr "Установить семя создания мира"
+msgstr "Установить сид создания мира"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TITLE"
@@ -16885,7 +16885,7 @@ msgstr "НАСТРОЙКИ ГЕНЕРАЦИИ МИРА"
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TOOLTIP"
 msgid "If set, this will override the world generation seed"
-msgstr "Если установлено, это перезапишет семя генерации мира"
+msgstr "Если установлено, это перезапишет сид генерации мира"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD"
@@ -19500,7 +19500,7 @@ msgstr "<b>Эффекты</b>:"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTREQUIREMENTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTREQUIREMENTS"
 msgid "<b>Growth Requirements</b>:"
-msgstr "<b>Требования для роста</b>:"
+msgstr "<b>Требования и характеристики</b>:"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_CEILING
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_CEILING"
@@ -19835,7 +19835,7 @@ msgstr "Все"
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP"
 msgid "Allow storage of all resource categories in this container"
-msgstr "Разрешить хранить в данном хранилище материалы из всех категорий"
+msgstr "Разрешить хранить в данном хранилище ресурсы из всех категорий"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP"
@@ -20195,12 +20195,12 @@ msgstr "Возобновить использование этой постро�
 #. STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.NAME"
 msgid "Follow Cam"
-msgstr "Камера слежения"
+msgstr "Следовать камерой"
 
 #. STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.TOOLTIP"
 msgid "Track this Duplicant with the camera"
-msgstr "Отслеживание этого Дупликанта камерой"
+msgstr "Позволяет следить за Дупликантом с помощью камеры"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.NAME"
