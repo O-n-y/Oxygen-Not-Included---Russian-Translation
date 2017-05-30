@@ -11,6 +11,9 @@
 Translation not allowed to use for editing, publishing under third-party name. 
 Translation permitted and made to be used only in existing form in the game Oxygen Not Inluded.
 
+# Администратор и как связаться (Steam):
+* Ony: http://steamcommunity.com/id/oniki/
+
 # Участники перевода
 Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK
 
@@ -26,9 +29,6 @@ pecypc, OsiWops, mmalinin, strategdzr, dmtazetdinov
 # Скачать последнюю версию
 *Это упрощенный вариант, рекомендуется использовать github desktop или консоль гита для оперативного получения обновлений.*
 Скачать: https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/archive/master.zip
-
-# Как связаться (Steam):
-* Ony: http://steamcommunity.com/id/oniki/
 
 # Стадия перевода
 
