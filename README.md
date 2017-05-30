@@ -60,6 +60,11 @@ pecypc, OsiWops, mmalinin, strategdzr, dmtazetdinov
 * Нажмите "Send pull request"
 * Синхронизируйтесь (Sync в правом верхнем углу Github Desktop)
 
+# Внесение изменений
+* После того, как вы отправили Push в основную ветку, вы можете увидеть его в списке pull requests: 
+https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
+* Он будет рассмотрен администратором и, при необходимо скорректирован, после чего слит в основную ветку или же отклонен с комментарием, содержащим причину.
+
 
 # Инструкции по файлу перевода (от разработчиков Oxygen Not Included)
 
