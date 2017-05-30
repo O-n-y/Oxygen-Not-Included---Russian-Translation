@@ -1270,7 +1270,7 @@ msgstr "Требует очистки"
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP"
 msgid "This amenity cannot be used while full\n------------------\nEmptying it will produce <style=\"solid\">Polluted Dirt</style>"
-msgstr "Эта постройка заполнена и не может быть использована\n------------------\Ее очистка произведет <style=\"solid\">Загрязненную землю</style>"
+msgstr "Эта постройка заполнена и не может быть использована\n------------------\nЕе очистка произведет <style=\"solid\">Загрязненную землю</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
@@ -1320,7 +1320,7 @@ msgstr "Вышло из строя"
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP"
 msgid "This amenity requires maintenance"
-msgstr "Этой постройке требуется обслуживание"
+msgstr "Этой постройке требуется ремонт"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.NAME"
@@ -1395,7 +1395,7 @@ msgstr "Следующий Дупликант: {TimeRemaining}"
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP"
 msgid "The Printing Pod can print out new Duplicants over time.\nThe next one will be ready in {TimeRemaining}"
-msgstr "Только спустя некоторое время Биопринтер сможет напечатать новых Дупликантов.\nСледующий Дупликант будет готов через {TimeRemaining}"
+msgstr "Только спустя некоторое время Биопринтер сможет напечатать новых Дупликантов.\nСледующий Дупликант будет готов через: {TimeRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.UNAVAILABLE
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.UNAVAILABLE"
@@ -15625,7 +15625,7 @@ msgstr "Детали"
 #. STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY"
 msgid "None"
-msgstr "Ничего"
+msgstr "Отсутствует"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP"
