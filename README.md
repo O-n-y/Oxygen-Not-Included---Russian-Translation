@@ -11,14 +11,14 @@
 Translation not allowed to use for editing, publishing under third-party name. 
 Translation permitted and made to be used only in existing form in the game Oxygen Not Inluded.
 
-# Администратор и как связаться (Steam):
-* Ony: http://steamcommunity.com/id/oniki/
-
 # Участники перевода
 Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK
 
 # Помощь в коррекции и правка
 pecypc, OsiWops, mmalinin, strategdzr, dmtazetdinov 
+
+# Администратор и как связаться (Steam):
+* Ony: http://steamcommunity.com/id/oniki/
 
 # Из Воркшопа Стим
 Подписаться на мод: http://steamcommunity.com/sharedfiles/filedetails/?id=927642162
