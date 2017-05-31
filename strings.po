@@ -3565,7 +3565,7 @@ msgstr "Более толстый термобарьер уменьшит ско
 #. STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_DESC_FMT
 msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_DESC_FMT"
 msgid "{0}: {1} / {2}\nPredicted: <style=\"harvestQuality\">{3}</style> ({4})"
-msgstr "{0}: {1} / {2}\nПрогноз: \n<style=\"harvestQuality\">{3}</style> ({4})"
+msgstr "{0}: {1} / {2}\nПрогнозирован: \n<style=\"harvestQuality\">{3}</style> ({4})"
 
 #. STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_FMT
 msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_FMT"
@@ -18400,7 +18400,7 @@ msgstr "Сортировать по уровню стресса"
 #. STRINGS.UI.TOOLS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
 msgid "Harvest"
-msgstr "Собирать"
+msgstr "Сбор урожая"
 
 #. STRINGS.UI.TOOLS.ATTACK.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLACTION"
