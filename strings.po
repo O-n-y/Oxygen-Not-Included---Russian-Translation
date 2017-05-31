@@ -1040,7 +1040,7 @@ msgstr "Провод не подключен"
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP"
 msgid "This building has not been connected to a power grid"
-msgstr "Эта постройка не подсоединена к сети электричества"
+msgstr "Эта постройка не подсоединена к электрической сети"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING"
@@ -1270,7 +1270,7 @@ msgstr "Требует очистки"
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP"
 msgid "This amenity cannot be used while full\n------------------\nEmptying it will produce <style=\"solid\">Polluted Dirt</style>"
-msgstr "Эта постройка заполнена и не может быть использована\n------------------\Ее очистка произведет <style=\"solid\">Загрязненную землю</style>"
+msgstr "Эта постройка заполнена и не может быть использована\n------------------\nЕе очистка произведет <style=\"solid\">Загрязненную землю</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
@@ -1320,7 +1320,7 @@ msgstr "Вышло из строя"
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP"
 msgid "This amenity requires maintenance"
-msgstr "Этой постройке требуется обслуживание"
+msgstr "Этой постройке требуется ремонт"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.NAME"
@@ -1395,7 +1395,7 @@ msgstr "Следующий Дупликант: {TimeRemaining}"
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP"
 msgid "The Printing Pod can print out new Duplicants over time.\nThe next one will be ready in {TimeRemaining}"
-msgstr "Только спустя некоторое время Биопринтер сможет напечатать новых Дупликантов.\nСледующий Дупликант будет готов через {TimeRemaining}"
+msgstr "Только спустя некоторое время Биопринтер сможет напечатать новых Дупликантов.\nСледующий Дупликант будет готов через: {TimeRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.UNAVAILABLE
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.UNAVAILABLE"
@@ -3455,7 +3455,7 @@ msgstr "Потребляет"
 #. STRINGS.CREATURES.STATS.FERTILIZATION.NAME
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.NAME"
 msgid "Fertilization"
-msgstr "Удобряет"
+msgstr "Удобрение"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.TOOLTIP"
@@ -4070,7 +4070,7 @@ msgstr "Идеальное атмосферное давление"
 #. STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.TOOLTIP"
 msgid "This creature is comfortable in the current atmospheric pressure\n\nIdeal Range: {0} - {1}"
-msgstr "Это существо чувствует себя комфортно в окружающей среде с текущем атмосферным давлением.\n\nИдеальный диапазон: {0} - {1}"
+msgstr "Это существо чувствует себя комфортно при текущем атмосферном давлении.\n\nИдеальный диапазон: {0} - {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.NAME"
@@ -4080,7 +4080,7 @@ msgstr "Идеальная температура"
 #. STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.TOOLTIP"
 msgid "This creature is comfortable with the current ambient temperature\n\nIdeal Range: {0} - {1}"
-msgstr "Это существо чувствует себя комфортно в окружающей среде с текущей температурой.\n\nИдеальный диапазон: {0} - {1}"
+msgstr "Это существо чувствует себя комфортно при текущей температуре.\n\nИдеальный диапазон: {0} - {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME"
@@ -4200,7 +4200,7 @@ msgstr "Неохлажденный"
 #. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP"
 msgid "Temperatures above {RotTemperature} spoil food more quickly"
-msgstr "Температуры выше <style=\"heat\">{RotTemperature}</style> быстрее испортят еду"
+msgstr "Температура выше <style=\"heat\">{RotTemperature}</style> быстрее испортит еду"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.NAME"
@@ -5890,12 +5890,12 @@ msgstr "{Symptoms}\n\nЗаразился от {InfectionSource}\nОсталос�
 #. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE"
 msgid "May cause <style=\"disease\">{Diseases}</style>"
-msgstr "Может вызвать <style=\"disease\">{Diseases}</style>"
+msgstr "Может вызывать: <style=\"disease\">{Diseases}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE"
 msgid "May cause {Diseases}"
-msgstr "Может вызвать {Diseases}"
+msgstr "Может вызывать: {Diseases}"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
@@ -7200,7 +7200,7 @@ msgstr "Калории"
 #. STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP"
 msgid "Calories\n----------\nThis Duplicant can burn {0} before starving"
-msgstr "Калории\n----------\nЭтот Дупликант может сжечь еще {0} перед тем, как начать голодать"
+msgstr "Калории\n----------\nЭтот Дупликант может сжечь еще {0} перед тем, как начнет голодать"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.NAME"
@@ -7210,7 +7210,7 @@ msgstr "Декор"
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
 msgid "Decor\n----------\nDuplicants become stressed in areas with decor lower than their expectations\nOpen the Decor Overlay <color=#F44A47>[F8]</color> to view current decor values"
-msgstr "Декор\n----------\nДупликанты будут получать стресс, находясь в зонах, имеющих уровень декора ниже их ожиданий\n\Откройте карту декора <color=#F44A47>[F8]</color>, чтобы посмотреть текущее значение декора"
+msgstr "Декор\n----------\nДупликанты будут получать стресс, находясь в зонах, имеющих уровень декора ниже их ожиданий\nОткройте карту декора <color=#F44A47>[F8]</color>, чтобы посмотреть текущее значение декора"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
@@ -7220,7 +7220,7 @@ msgstr "Внешняя температура"
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP"
 msgid "External Temperature\n----------\nThis Duplicant's environment is {0}"
-msgstr "Внешняя температура\n----------\nОкружающей Дупликанта среды - {0}"
+msgstr "Внешняя температура\n----------\nТемпература окружающей среды - {0}"
 
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME"
@@ -7255,7 +7255,7 @@ msgstr "Выносливость"
 #. STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP"
 msgid "Stamina\n----------\nDuplicants will pass out from fatigue when stamina reaches zero"
-msgstr "Выносливость\n----------\nДупликанты потеряют сознание от усталости, когда выносливость достигнет нуля"
+msgstr "Выносливость\n----------\nДупликант потеряет сознание от усталости, когда выносливость достигнет нуля"
 
 #. STRINGS.DUPLICANTS.STATS.STRESS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.NAME"
@@ -7435,7 +7435,7 @@ msgstr "Холодное окружение"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP"
 msgid "This Duplicant cannot retain enough heat to stay warm and may be under insulated for this area\nStress Modification: {StressModification}\n\nCurrent Environmental Exchange: {currentTransferWattage}\n\nInsulation Thickness: {conductivityBarrier}"
-msgstr "Этот Дупликант не может поглотить достаточно тепла, чтобы не замерзнуть. Возможно стоит изолировать его от данной области.\nМодификация стресса: {StressModification}\n\nТекущий теплообмен окружающей среды: {currentTransferWattage}\n\nТолщина изоляции: {conductivityBarrier}"
+msgstr "Этот Дупликант не может сохранить достаточно тепла, чтобы не замерзнуть в этой среде. Возможно стоит изолировать его от данной области.\nМодификация стресса: {StressModification}\n\nТекущий теплообмен окружающей среды: {currentTransferWattage}\n\nТолщина изоляции: {conductivityBarrier}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COMPOSTFLIPSTATUS.NAME"
@@ -11195,7 +11195,7 @@ msgstr "Запеченная <style=\"food\">Щетинистая ягодка</
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.DESC"
 msgid "A loaf of bread, lightly spiced with <style=\"food\">Pincha Peppernut</style> for a mild bite.\n\nThere's a simple joy to be had in pulling it apart in one's fingers."
-msgstr "Буханка хлеба, слегка приправленная орехом из <style=\"food\">Пинчей перечной</style> для легкого прикуса.\n\nСуществует простая радость, которую можно получить, держа ее в руке."
+msgstr "Буханка хлеба, слегка приправленная <style=\"food\">Перечным орехом</style> для легкого прикуса.\n\nСуществует простая радость, которую можно получить, держа ее в руке."
 
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.NAME"
@@ -11205,7 +11205,7 @@ msgstr "Перченый хлебушек"
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.RECIPEDESC"
 msgid "A loaf of bread, lightly spiced with <style=\"food\">Pincha Peppernut</style> for a mild bite."
-msgstr "Буханка хлеба, слегка приправленная орехом из <style=\"food\">Пинчей перечной</style> для легкого прикуса."
+msgstr "Буханка хлеба, слегка приправленная <style=\"food\">Перечным орехом</style> для легкого прикуса."
 
 #. STRINGS.ITEMS.FOOD.SPICENUT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICENUT.DESC"
@@ -12815,7 +12815,7 @@ msgstr "Токсичный"
 #. STRINGS.MISC.TAGS.UNBREATHABLE
 msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
 msgid "Unbreathable"
-msgstr "Непригодный для дыхания газ"
+msgstr "Непригодный для дыхания"
 
 #. STRINGS.MISC.TAGS.UNSTABLE
 msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
@@ -15625,7 +15625,7 @@ msgstr "Детали"
 #. STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY"
 msgid "None"
-msgstr "Ничего"
+msgstr "Отсутствует"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP"
@@ -18210,7 +18210,7 @@ msgstr "Требуются {0}: {1}"
 #. STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC
 msgctxt "STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC"
 msgid "Requires {0} Research"
-msgstr "Требуется технология {0}"
+msgstr "Требуется технология: {0}"
 
 #. STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED
 msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
@@ -19395,7 +19395,7 @@ msgstr "Выберите рецепт для производства."
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE"
 msgid "{0} Recipes"
-msgstr "{0} рецепты"
+msgstr "{0}: рецепты"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPERQUIREMENT_INSUFFICIENT
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPERQUIREMENT_INSUFFICIENT"
@@ -19405,7 +19405,7 @@ msgstr "Этот рецепт требует {1} {0}\nДоступно: {2}"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPERQUIREMENT_SUFFICIENT
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPERQUIREMENT_SUFFICIENT"
 msgid "This recipe consumes {1} of an available {2} of {0}"
-msgstr "Этот рецепт потребляет {1} из доступных {2} из {0}"
+msgstr "Этот рецепт потребляет {1} {0} из доступных {2}"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.UNITS_AND_CALS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.UNITS_AND_CALS"
@@ -19490,7 +19490,7 @@ msgstr "Сборов урожая: {0}"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.OPTIMUMCONDITIONS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.OPTIMUMCONDITIONS"
 msgid "<style=\"harvestQuality\">Harvest Rating</style>: Max <style=\"produced\">+{0} Points</style>/cycle:"
-msgstr "<style=\"harvestQuality\">Рейтинг урожайности</style>: Максимально \n<style=\"produced\">+{0} очков</style>/cycle:"
+msgstr "<style=\"harvestQuality\">Рейтинг урожайности</style>: Максимально \n<style=\"produced\">+{0} очков</style>/цикл:"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.PLANTEFFECTS"
@@ -19660,12 +19660,12 @@ msgstr "ОЖИДАНИЕ ВЫКАПЫВАНИЯ: {0}"
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGREQUEST
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.AWAITINGREQUEST"
 msgid "PLANT: {0}"
-msgstr "ВЫСАДИТЬ: {0}"
+msgstr "ПОСАДИТЬ: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.ENTITYDEPOSITED
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.ENTITYDEPOSITED"
 msgid "PLANTED: {0}"
-msgstr "ВЫСАЖЕНО: {0}"
+msgstr "ПОСАЖЕНО: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.INFORMATION"
@@ -19675,7 +19675,7 @@ msgstr "ИНФОРМАЦИЯ"
 #. STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.SINGLEENTITYRECEPTACLE.TITLE"
 msgid "{0} Seeds"
-msgstr "{0} Семян"
+msgstr "{0}: семена"
 
 #. STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.GAMEOVER
 msgctxt "STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.GAMEOVER"
@@ -19840,7 +19840,7 @@ msgstr "Разрешить хранить в данном хранилище р�
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP"
 msgid "Allow storage of anything in the {0} resource category"
-msgstr "Разрешить хранить здесь что угодно из категории {0}"
+msgstr "Разрешить хранить ресурсы из категории: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.MATERIALBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.MATERIALBUTTONTOOLTIP"
