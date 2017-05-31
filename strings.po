@@ -15168,7 +15168,7 @@ msgstr "Для функционирования нужно получить <sty
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT"
 msgid "Must receive gas from a gas pipe system"
-msgstr "Необходимо получить газ из газопровода"
+msgstr "Необходимо получать газ из газопровода"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT"
@@ -15183,7 +15183,7 @@ msgstr "Необходимо отдавать газ в газопровод"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT"
 msgid "Must receive liquid from a liquid pipe system"
-msgstr "Необходимо получить жидкость из водопровода"
+msgstr "Необходимо получать жидкость из водопровода"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT"
@@ -19518,12 +19518,12 @@ msgstr "<style=\"consumed\"><b>Требует ориентации блока в
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_FLOOR
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_FLOOR"
 msgid "<style=\"consumed\"><b>Requires upward plot orientation.</b></style>"
-msgstr "<style=\"consumed\"><b>Требует ориентации блока вверх</b></style>"
+msgstr "<style=\"consumed\"><b>Требует ориентации блока вверх.</b></style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_WALL
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.ROTATION_NEED_WALL"
 msgid "<style=\"consumed\"><b>Requires sideways plot orientation.</b></style>"
-msgstr "<style=\"consumed\"><b>Требует ориентации блока вбок</b></style>"
+msgstr "<style=\"consumed\"><b>Требует ориентации блока вбок.</b></style>"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_DESC"
