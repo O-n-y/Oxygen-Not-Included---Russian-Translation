@@ -4209,8 +4209,8 @@ msgstr "Задыхается"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
-msgid "This plant has stopped growing because one of its basic requirements has not been met\n\nUnmet Condition: {0}"
-msgstr "Это растение перестало расти, потому что одно из основных требований не соблюдено\n\nНеудовлетворенные условия: {0}"
+msgid "This plant has stopped growing because one of its basic requirements has not been met"
+msgstr "Это растение перестало расти, потому что одно из основных требований не соблюдено"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM"
