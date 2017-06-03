@@ -700,7 +700,7 @@ msgstr "• {0}"
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME"
 msgid "Insufficient Resources\n{ItemsRemaining}"
-msgstr "Недостаточно ресурсов\n{ItemsRemaining}"
+msgstr "Недостаточно ресурсов:\n{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NOTIFICATION_NAME"
@@ -4315,7 +4315,7 @@ msgstr "Атрибут \"Атлетика\" определяет скорост�
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME"
 msgid "Athletics"
-msgstr "Атлетика"
+msgstr "Атлетика:"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME"
@@ -7230,7 +7230,7 @@ msgstr "Здоровье"
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.TOOLTIP"
 msgid "Health\n----------\nCombatants become incapacitated at zero health"
-msgstr "Здоровье\n----------\nДупликанты будут небоеспособны при нуле здоровья"
+msgstr "Здоровье\n----------\nДупликанты будут небоеспособны при нулевом здоровье"
 
 #. STRINGS.DUPLICANTS.STATS.MORALE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.MORALE.NAME"
@@ -9100,7 +9100,7 @@ msgstr "Гомеопат"
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
 msgid "This Duplicant is light as a feather on their feet"
-msgstr "Этот Дупликант легок при ходьбе как перышко"
+msgstr "При ходьбе этот Дупликант легок как перышко"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME"
@@ -9150,7 +9150,7 @@ msgstr "Водоросли"
 #. STRINGS.ELEMENTS.BLEACHSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.DESC"
 msgid "Bleach stone is an unstable compound that emits toxic <style=\"gas\">Chlorine Gas</style>.\n\nIt is useful in <style=\"hygiene\">Hygienic</style> processes."
-msgstr "Хлорная известь - нестабильный компонент, выделяющий токсичный газ <style=\"gas\">Хлор</style>.\n\nЭто полезно в <style=\"hygiene\">Гигиенических</style> процессах"
+msgstr "Хлорная известь - нестабильный компонент, выделяющий токсичный газ <style=\"gas\">Хлор</style>.\n\n полезно в <style=\"hygiene\">Гигиенических</style> процессах"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
@@ -9185,7 +9185,7 @@ msgstr "Уголь"
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
 msgid "(CO2) Carbon Dioxide toxic, atomically heavy chemical compound in a <style=\"gas\">Gaseous</style> state.\n\nIt tends to sink below other gases."
-msgstr "Углекислый газ (CO2) - токсичный, атомарно тяжелый химический компонент в <style=\"gas\">Газообразном</style> состоянии.\n\Он, как правило, опускается ниже других газов."
+msgstr "Углекислый газ (CO2) - токсичный, атомарно тяжелый химический компонент в <style=\"gas\">Газообразном</style> состоянии.\n\nОн, как правило, опускается ниже других газов."
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
@@ -14640,7 +14640,7 @@ msgstr "Открывают примитивные технологии."
 #. STRINGS.RESEARCH.TYPES.BETA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.DESC"
 msgid "<style=\"research\">Intermediate Research</style> is required to unlock improved technologies.\nIt can be conducted at a <style=\"research\">Super Computer</style>."
-msgstr "<style=\"research\">Расширенное исследование</style> требуется для открытия улучшенных технологий.\nЕго можно провести на <style=\"research\">СуперЭВМ</style>."
+msgstr "<style=\"research\">Расширенное исследование</style> требуется для открытия улучшенных технологий.\nЕго можно провести, используя <style=\"research\">СуперЭВМ</style>."
 
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.NAME"
@@ -17980,7 +17980,7 @@ msgstr "КАРТА ПРИОРИТЕТОВ"
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE"
 msgid "Priority 9 (Highest)"
-msgstr "Приоритет 9 (Самый высокий)"
+msgstr "Приоритет 9 (самый высокий)"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP"
@@ -17990,7 +17990,7 @@ msgstr "Приоритет 9"
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE"
 msgid "Priority 1 (Lowest)"
-msgstr "Приоритет 1 (Самый низкий)"
+msgstr "Приоритет 1 (самый низкий)"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP"
@@ -18175,17 +18175,17 @@ msgstr "+{0}"
 #. STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP"
 msgid "Set construction priority level\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr "Задайте приоритет строительства уровень1\n------------------\nПриоритет 1: Самый низкий\nПриоритет 9: Самый высокий"
+msgstr "Задайте приоритет строительства уровень1\n------------------\nПриоритет 1: самый низкий\nПриоритет 9: самый высокий"
 
 #. STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP"
 msgid "Set priority level for the currently selected tool\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr "Задайте приоритет для выбранного действия\n------------------\nПриоритет 1: Самый низкий\nПриоритет 9: Самый высокий"
+msgstr "Задайте приоритет для выбранного действия\n------------------\nПриоритет 1: самый низкий\nПриоритет 9: самый высокий"
 
 #. STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP"
 msgid "Set priority level for the currently selected object\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
-msgstr "Задайте приоритет для выбранного объекта1\n------------------\nПриоритет 1: Самый низкий\nПриоритет 9: Самый высокий"
+msgstr "Задайте приоритет для выбранного объекта1\n------------------\nПриоритет 1: самый низкий\nПриоритет 9: самый высокий"
 
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
 msgctxt "STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES"
@@ -18975,7 +18975,7 @@ msgstr "Отображает зоны, куда у Дупликантов ест
 #. STRINGS.UI.TOOLTIPS.RECIPE_QUEUE
 msgctxt "STRINGS.UI.TOOLTIPS.RECIPE_QUEUE"
 msgid "Queue 1 {0} for fabrication"
-msgstr "Поставить в очередь 1 {0} на производство"
+msgstr "Поставить в очередь на производство 1 {0}"
 
 #. STRINGS.UI.TOOLTIPS.RECIPE_QUEUE_INFINITE
 msgctxt "STRINGS.UI.TOOLTIPS.RECIPE_QUEUE_INFINITE"
@@ -20145,12 +20145,12 @@ msgstr "Скрыть пути"
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP"
 msgid "Show all areas within this Duplicant's reach"
-msgstr "Показывает все зоны, которые этот Дупликант может достигнуть"
+msgstr "Показывает все зоны, до которых этот Дупликант может добраться"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.TOOLTIP_OFF"
 msgid "Hide areas within this Duplicant's reach"
-msgstr "Скрывает зоны, которые Дупликант может достигнуть"
+msgstr "Скрывает зоны, до которых этот Дупликант может добраться"
 
 #. STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME"
