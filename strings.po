@@ -9150,7 +9150,7 @@ msgstr "Водоросли"
 #. STRINGS.ELEMENTS.BLEACHSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.DESC"
 msgid "Bleach stone is an unstable compound that emits toxic <style=\"gas\">Chlorine Gas</style>.\n\nIt is useful in <style=\"hygiene\">Hygienic</style> processes."
-msgstr "Хлорная известь - нестабильный компонент, выделяющий токсичный газ <style=\"gas\">Хлор</style>.\n\n полезно в <style=\"hygiene\">Гигиенических</style> процессах"
+msgstr "Хлорная известь - нестабильный компонент, выделяющий токсичный газ <style=\"gas\">Хлор</style>.\n\nОна полезна в <style=\"hygiene\">Гигиенических</style> процессах"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
