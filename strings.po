@@ -9855,7 +9855,7 @@ msgstr "Тина"
 #. STRINGS.ELEMENTS.PROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.PROPANE.DESC"
 msgid "(C3H8) Propane is a natural alkane <style=\"gas\">Gas</style>.\n\nIt is useful in <style=\"power\">Power</style> production."
-msgstr "Пропан (C3H8) - это париродный алкан в состоянии <style=\"gas\">Газа</style>.\n\nОн используется в производстве <style=\"power\">Электричества</style>."
+msgstr "Пропан (C3H8) - это природный алкан в состоянии <style=\"gas\">Газа</style>.\n\nОн используется в производстве <style=\"power\">Электричества</style>."
 
 #. STRINGS.ELEMENTS.PROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.PROPANE.NAME"
