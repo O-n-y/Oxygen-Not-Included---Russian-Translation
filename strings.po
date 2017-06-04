@@ -14845,22 +14845,22 @@ msgstr "Скорость бега: <style=\"produced\">+{0}</style>"
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED"
 msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
-msgstr "<style=\"{0}\">{1}</style>: <style=\"consumed\">-{2}</style>"
+msgstr "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMEDPERUSE"
 msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2} per use</style>"
-msgstr "<style=\"{0}\">{1}</style>: <style=\"consumed\">-{2} за использование</style>"
+msgstr "<style={0}>{1}</style>: <style=\"consumed\">-{2} за использование</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED"
 msgid "<style={0}>{1}</style>: <style=\"produced\">+{2}</style>"
-msgstr "<style=\"{0}\">{1}</style>: <style=\"produced\">+{2}</style>"
+msgstr "<style={0}>{1}</style>: <style=\"produced\">+{2}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTEDPERUSE"
 msgid "<style={0}>{1}</style>: <style=\"produced\">+{2} per use</style>"
-msgstr "<style=\"{0}\">{1}</style>: <style=\"produced\">+{2} за использование</style>"
+msgstr "<style={0}>{1}</style>: <style=\"produced\">+{2} за использование</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED"
@@ -14955,7 +14955,7 @@ msgstr "Лекарства"
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT"
 msgid "Supply of <style={0}>{1}</style>"
-msgstr "Поставка <style=\"{0}\">{1}</style>"
+msgstr "Поставка <style={0}>{1}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT"
@@ -15155,7 +15155,7 @@ msgstr "Использование строения уберет указанн�
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT"
 msgid "Must receive deliveries of <style={0}>{1}</style> to function"
-msgstr "Для функционирования нужно получить <style=\"{0}\">{1}</style>"
+msgstr "Для функционирования нужно получить <style={0}>{1}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT"
@@ -19380,7 +19380,7 @@ msgstr "Не хватает {0} из {1}\n"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPERQUIREMENT
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPERQUIREMENT"
 msgid "<style={0}>{1}</style>: <style=\"consumed\">{2}</style> / {3}"
-msgstr "<style=\"{0}\">{1}</style>: <style=\"consumed\">{2}</style> / {3}"
+msgstr "<style={0}>{1}</style>: <style=\"consumed\">{2}</style> / {3}"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS"
@@ -20845,7 +20845,7 @@ msgstr "БУМ!"
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT"
 msgid "Freezing ice formations..."
-msgstr "Готовим формации дьда..."
+msgstr "Готовим формации льда..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT1"
