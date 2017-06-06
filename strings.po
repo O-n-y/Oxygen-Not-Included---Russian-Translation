@@ -9080,7 +9080,7 @@ msgstr "Тошнючка"
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC"
 msgid "This Duplicant is very strong and cool"
-msgstr "Этот дубликант очень сильный и крутой"
+msgstr "Этот Дупликант очень сильный и крутой"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME"
