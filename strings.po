@@ -10685,7 +10685,7 @@ msgstr "Отладка блок теста"
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLE
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLE"
 msgid "DebugToggle"
-msgstr "Отладка переключения"
+msgstr "Переключиться в Debug режим"
 
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLEMUSIC
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGTOGGLEMUSIC"
