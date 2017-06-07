@@ -4315,7 +4315,7 @@ msgstr "Атрибут \"Атлетика\" определяет скорост�
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME"
 msgid "Athletics"
-msgstr "Атлетика:"
+msgstr "Атлетика"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME"
@@ -8800,7 +8800,7 @@ msgstr "Деревенщина"
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC"
 msgid "This Duplicant may have been a talented opera singer in another life"
-msgstr "Этот Дупликант мог бы быть талантливым оперным певцом в прошлой жизни"
+msgstr "Этот Дупликант мог бы стать талантливым оперным певцом в прошлой жизни"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME"
