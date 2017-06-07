@@ -3895,7 +3895,7 @@ msgstr "Это растение растет, потому что все его 
 #. STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.NAME"
 msgid "Harvests Remaining: {HarvestsRemaining}"
-msgstr "Осталось сбора урожая: {HarvestsRemaining}"
+msgstr "Осталось сборов урожая: {HarvestsRemaining}"
 
 #. STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.TOOLTIP"
@@ -3910,7 +3910,7 @@ msgstr "Вылупляется"
 #. STRINGS.CREATURES.STATUSITEMS.HATCHING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HATCHING.TOOLTIP"
 msgid "Here it comes!"
-msgstr "Вот он идет!"
+msgstr "На подходе!"
 
 #. STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.NAME"
@@ -3980,7 +3980,7 @@ msgstr "Просто наслаждается жизнью, понимаешь?"
 #. STRINGS.CREATURES.STATUSITEMS.INCUBATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.INCUBATING.NAME"
 msgid "Incubating"
-msgstr "Инкубация"
+msgstr "Инкубируется"
 
 #. STRINGS.CREATURES.STATUSITEMS.INCUBATING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.INCUBATING.TOOLTIP"
@@ -4000,7 +4000,7 @@ msgstr "Это существо участвует в чуде рождения 
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME"
 msgid "Foraging"
-msgstr "Фуражирование"
+msgstr "Ищет еду"
 
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP"
@@ -4145,12 +4145,12 @@ msgstr "Это еда совсем не первой свежести, и Дуп
 #. STRINGS.CREATURES.STATUSITEMS.STALE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.NAME"
 msgid "Stale {RotPercentage}"
-msgstr "Лежалое {RotPercentage}"
+msgstr "Несвежее {RotPercentage}"
 
 #. STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP"
 msgid "This food is still edible but will soon expire"
-msgstr "Эта еда приближается к своему сроку годности"
+msgstr "Эта еда скоро испортится"
 
 #. STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME"
@@ -4185,7 +4185,7 @@ msgstr "Это существо не может дышать"
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.NAME"
 msgid "Fatigued"
-msgstr "Устал"
+msgstr "Устало"
 
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP"
@@ -4275,7 +4275,7 @@ msgstr "Это растение накормлено неподходящими 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC"
 msgid "Air Consumption determines how much <style=\"oxygen\">Oxygen</style> a Duplicant requires per minute to live."
-msgstr "Потребление воздуха определяет, сколько <style=\"oxygen\">Кислорода</style> в минуту требуется Дупликанту, чтобы жить."
+msgstr "Потребление воздуха определяет, сколько <style=\"oxygen\">Кислорода</style> в минуту требуется Дупликанту для жизни."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME"
@@ -4305,7 +4305,7 @@ msgstr "Художник"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER"
 msgid "$value% Decorating Speed"
-msgstr "$value% Скорость декорирования"
+msgstr "$value% к скорости декорирования"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC"
@@ -4325,7 +4325,7 @@ msgstr "Бегун"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER"
 msgid "$value% Movement Speed"
-msgstr "$value% Скорость перемещения"
+msgstr "$value% к скорости перемещения"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC"
@@ -4365,7 +4365,7 @@ msgstr "Архитектор"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER"
 msgid "$value% Construction Speed"
-msgstr "$value% Скорость строительства"
+msgstr "$value% к скорости строительства"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC"
@@ -4385,7 +4385,7 @@ msgstr "Повар"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER"
 msgid "$value% Cooking Speed"
-msgstr "$value% Скорость приготовления еды"
+msgstr "$value% к скорости приготовления еды"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC"
@@ -4415,7 +4415,7 @@ msgstr "Расстояние, на котором будет действова�
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME"
 msgid "Decor Radius"
-msgstr "Радиус декора"
+msgstr "Область декора"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC"
@@ -4435,7 +4435,7 @@ msgstr "Шахтер"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER"
 msgid "$value% Digging Speed"
-msgstr "$value% Скорость копания"
+msgstr "$value% к скорости копания"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC"
@@ -4490,7 +4490,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER"
 msgid "$value% Temperature Retention"
-msgstr "$value% Удержания температуры"
+msgstr "$value% к удержанию температуры"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
@@ -4510,12 +4510,12 @@ msgstr "Ученый"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHPOINTS
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHPOINTS"
 msgid "$value Research Points Per Day"
-msgstr "$value Пункты исследования в день"
+msgstr "$value пункта исследования в день"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER"
 msgid "$value% Skill Leveling"
-msgstr "$value% Скорость развития навыков"
+msgstr "$value% к скорости развития навыков"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC"
@@ -4535,7 +4535,7 @@ msgstr "Техник"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER"
 msgid "$value% Tinkering Speed"
-msgstr "$value% Скорость Механики"
+msgstr "$value% к скорости механики"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC"
@@ -4570,7 +4570,7 @@ msgstr "Терапевт"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER"
 msgid "$value% Disease Resistance"
-msgstr "$value% Устойчивость к болезням"
+msgstr "$value% к устойчивости к болезням"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC"
@@ -4640,7 +4640,7 @@ msgstr "Бодибилдер"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER"
 msgid "$value Carrying Weight"
-msgstr "$value Переносимый вес"
+msgstr "$value к переносимому весу"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC"
