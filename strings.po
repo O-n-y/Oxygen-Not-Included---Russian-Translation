@@ -3240,7 +3240,7 @@ msgstr "Скважина, извергающая сырую нефть."
 #. STRINGS.CREATURES.SPECIES.OILSPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILSPOUT.NAME"
 msgid "Oil Spout"
-msgstr "Скважина нефти"
+msgstr "Нефтяная скважина"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC"
@@ -3260,7 +3260,7 @@ msgstr "Щитовик цветущий"
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC"
 msgid "A prickly, invasive weed that can be domestically grown with Flower Vases.\n\nBristle Briars exude a mind-altering pheromone that causes them to be perceived as exceptionally beautiful."
-msgstr "Колючие, инвазивные сорняки. Могут быть выкопаны и пересажены в цветочные вазы.\n\nНекоторые находят их достаточно привлекательными."
+msgstr "Колючие, инвазивные сорняки. Могут быть выращены в цветочных вазах.\n\nОни источают изменяющий сознание феромон, который заставляет воспринимать их как исключительно красивые."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DOMESTICATEDDESC"
@@ -3275,12 +3275,12 @@ msgstr "Шиповник"
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC"
 msgid "A rocky vent that spouts <style=\"gas\">Propane</style>."
-msgstr "Гейзер, извергающий <style=\"gas\">Пропан</style>."
+msgstr "Скважина, извергающая <style=\"gas\">Пропан</style>."
 
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.NAME"
 msgid "Propane Spout"
-msgstr "Гейзер пропана"
+msgstr "Пропановая скважина"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.DESC"
@@ -3375,7 +3375,7 @@ msgstr "Семя пинчи перечной"
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC"
 msgid "The <style=\"seed\">Seed</style> of a <style=\"plant\">Swamp Lily</style>.\n\nDigging up Buried Objects may uncover a Swamp Lily Seed."
-msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Болотной Лилии</style>.\n\nПри выкапывании заваленных объектов может обнаружиться семя болотной лилии."
+msgstr "<style=\"seed\">Семя</style> <style=\"plant\">Болотной лилии</style>.\n\nПри выкапывании заваленных объектов может обнаружиться семя болотной лилии."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME"
@@ -3415,7 +3415,7 @@ msgstr "Скважина, извергающая <style=\"gas\">Пар</style>."
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME"
 msgid "Steam Spout"
-msgstr "Скважина пара"
+msgstr "Паровая скважина"
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC"
@@ -3445,7 +3445,7 @@ msgstr "Средняя плотность газа, окружающего эт�
 #. STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER"
 msgid "Absorbing"
-msgstr "Абсорбирует"
+msgstr "Поглощает"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.CONSUME_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.CONSUME_MODIFIER"
@@ -3540,7 +3540,7 @@ msgstr "Процент свежести"
 #. STRINGS.CREATURES.STATS.ROT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.ROT.TOOLTIP"
 msgid "Freshness\n----------\nFood items will become stale at fifty percent freshness, and will rot at zero percent"
-msgstr "Свежесть\n----------\nЕда начнет портиться при свежести менее 50% и сгниет полностью при 0%."
+msgstr "Свежесть\n----------\nЕда начнет портиться при свежести менее 50%, и окончательно испортится при 0%."
 
 #. STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.NAME
 msgctxt "STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.NAME"
@@ -3665,7 +3665,7 @@ msgstr "Этому растению требуется минимальное а
 #. STRINGS.CREATURES.STATUSITEMS.BARREN.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.NAME"
 msgid "Barren"
-msgstr "Бесплодный"
+msgstr "Бесплодно"
 
 #. STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP"
@@ -3685,17 +3685,17 @@ msgstr "Это существо начинает задыхаться"
 #. STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME"
 msgid "Burrowed"
-msgstr "Погребен"
+msgstr "Закопано"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWED.TOOLTIP"
 msgid "Shh! It thinks it's hiding"
-msgstr "Шшш! Оно думает, оно прячется"
+msgstr "Тсс! Оно думает, что его не видно"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWING.NAME"
 msgid "Burrowing"
-msgstr "Погребение"
+msgstr "Закапывается"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWING.TOOLTIP"
@@ -3765,7 +3765,7 @@ msgstr "Дыхание этого существа охлаждает окруж
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.NAME"
 msgid "Dead"
-msgstr "Мертв"
+msgstr "Мертвое"
 
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP"
@@ -3775,7 +3775,7 @@ msgstr "Это существо уже не вернется"
 #. STRINGS.CREATURES.STATUSITEMS.DIGESTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DIGESTING.NAME"
 msgid "Digesting"
-msgstr "Переваривание"
+msgstr "Переваривает"
 
 #. STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP"
@@ -3815,7 +3815,7 @@ msgstr "Это существо нашло что-то вкусненькое"
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME"
 msgid "Emerging"
-msgstr "Появление"
+msgstr "Выходит"
 
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP"
@@ -12530,7 +12530,7 @@ msgstr "Избыточное давление"
 #. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP"
 msgid "Spout cannot vent due to high environmental pressure"
-msgstr "Высокое давление. Желоб не может выпускать. "
+msgstr "Из-за высокого давления скважина не извергается."
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME"
