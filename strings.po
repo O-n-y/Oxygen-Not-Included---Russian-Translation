@@ -8925,7 +8925,7 @@ msgstr "Нарколепсия"
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.DESC"
 msgid "This Duplicant feels suffocated in spaces less than four tiles high or three tiles wide"
-msgstr "Этот Дупликант начинает задыхаться в местах менее четырех блока в высоту или трех в ширину"
+msgstr "Этот Дупликант начинает задыхаться в местах менее четырех блоков в высоту или трех в ширину"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME"
