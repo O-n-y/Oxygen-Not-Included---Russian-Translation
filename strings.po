@@ -8200,12 +8200,12 @@ msgstr "Этот Дупликант доставляет материалы до
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.NAME"
 msgid "Repairing {Target}"
-msgstr "Чинит {Target}"
+msgstr "Ремонтирует {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REPAIRWORKSTATUS.TOOLTIP"
 msgid "This Duplicant is fixing the {Target}"
-msgstr "Этот Дупликант занимается починкой {Target}"
+msgstr "Этот Дупликант занимается ремонтом {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEDELIVERSTATUS.NAME"
@@ -8260,7 +8260,7 @@ msgstr "Серьезно ранен"
 #. STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants are badly hurt and require medical attention"
-msgstr "Эти Дупликанты серьезно ранены и требуют медицинского ухода"
+msgstr "Эти Дупликанты серьезно ранены и требуют медицинской помощи"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SEVEREWOUNDS.TOOLTIP"
@@ -8475,7 +8475,7 @@ msgstr "<style=\"stress\">Стресс</style> этих Дупликантов �
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP"
 msgid "This Duplicant is relieving their stress all over the floor"
-msgstr "Этот Дупликант извергает весь его стресс прямо на пол"
+msgstr "Этот Дупликант извергает весь свой стресс прямо на пол"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NAME"
@@ -8595,7 +8595,7 @@ msgstr "Согревается"
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.TOOLTIP"
 msgid "This Duplicant got too cold and is trying to warm up"
-msgstr "Этот Дупликант слишком замерз и пытается согреться"
+msgstr "Этот Дупликант сильно замерз и пытается согреться"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.NAME"
@@ -8620,7 +8620,7 @@ msgstr "Этот Дупликант моет руки"
 #. STRINGS.DUPLICANTS.THOUGHTS.ANGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.ANGRY.TOOLTIP"
 msgid "Angry"
-msgstr "Злой"
+msgstr "Злится"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.COLD.TOOLTIP"
@@ -8725,7 +8725,7 @@ msgstr "Анемия"
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC"
 msgid "This Duplicant collapses when put under too much pressure"
-msgstr "Этот Дупликант крошится под моральным давлением"
+msgstr "Этот Дупликант не выдерживает сильного давления"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.NAME"
@@ -8755,7 +8755,7 @@ msgstr "Бездонный желудок"
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK"
 msgid "Cannot perform job"
-msgstr "Не может выполнять работу"
+msgstr "Не может работать"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC"
@@ -8880,7 +8880,7 @@ msgstr "Может съесть что угодно без последстви�
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME"
 msgid "Iron Gut"
-msgstr "Железный желудок"
+msgstr "Стальной желудок"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC"
@@ -8945,7 +8945,7 @@ msgstr "Акрофоб"
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC"
 msgid "This Duplicant dies a bit inside when forced to wear unstylish clothing"
-msgstr "В этом Дупликанте что-то чуть-чуть умирает, если его заставить носить нестильную одежду"
+msgstr "В этом Дупликанте что-то по чуть-чуть умирает, если его заставить носить нестильную одежду"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME"
@@ -8975,7 +8975,7 @@ msgstr "Тонкокожий"
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC"
 msgid "This Duplicant is a sensitive sole and would rather walk on tile floorings than bedrock"
-msgstr "Стопы этого Дупликанта очень чувствительные, и он предпочитает ходить на плиточных полах вместо необработанных пород"
+msgstr "Стопы этого Дупликанта очень чувствительные, и он предпочитает ходить по плиточным полам вместо необработанных пород"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME"
@@ -9035,7 +9035,7 @@ msgstr "Этот Дупликант боится жестокости"
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME"
 msgid "Scaredy-Cat"
-msgstr "Трусишка"
+msgstr "Трус"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC"
@@ -9095,7 +9095,7 @@ msgstr "Сильный иммунитет этот Дупликанта спос
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME"
 msgid "Naturally Robust"
-msgstr "Гомеопат"
+msgstr "Крепкий от природы"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
@@ -9125,7 +9125,7 @@ msgstr "Этот Дупликант не уважает искусство"
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME"
 msgid "Uncultured"
-msgstr "Неотесанный"
+msgstr "Некультурный"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC"
@@ -9460,12 +9460,12 @@ msgstr "Гранит"
 #. STRINGS.ELEMENTS.HARDNESS.FIRM
 msgctxt "STRINGS.ELEMENTS.HARDNESS.FIRM"
 msgid "{0} (Firm)"
-msgstr "{0} (Крепкий)"
+msgstr "{0} (крепкий)"
 
 #. STRINGS.ELEMENTS.HARDNESS.IMPENETRABLE
 msgctxt "STRINGS.ELEMENTS.HARDNESS.IMPENETRABLE"
 msgid "{0} (Impenetrable)"
-msgstr "{0} (Непробиваемый)"
+msgstr "{0} (непробиваемый)"
 
 #. STRINGS.ELEMENTS.HARDNESS.NA
 msgctxt "STRINGS.ELEMENTS.HARDNESS.NA"
@@ -9475,22 +9475,22 @@ msgstr "Неизвестно"
 #. STRINGS.ELEMENTS.HARDNESS.NEARLYIMPENETRABLE
 msgctxt "STRINGS.ELEMENTS.HARDNESS.NEARLYIMPENETRABLE"
 msgid "{0} (Nearly Impenetrable)"
-msgstr "{0} (Почти непробиваемый)"
+msgstr "{0} (почти непробиваемый)"
 
 #. STRINGS.ELEMENTS.HARDNESS.SOFT
 msgctxt "STRINGS.ELEMENTS.HARDNESS.SOFT"
 msgid "{0} (Soft)"
-msgstr "{0} (Мягкий)"
+msgstr "{0} (мягкий)"
 
 #. STRINGS.ELEMENTS.HARDNESS.VERYFIRM
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYFIRM"
 msgid "{0} (Very Firm)"
-msgstr "{0} (Очень крепкий)"
+msgstr "{0} (очень крепкий)"
 
 #. STRINGS.ELEMENTS.HARDNESS.VERYSOFT
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYSOFT"
 msgid "{0} (Very Soft)"
-msgstr "{0} (Очень мягкий)"
+msgstr "{0} (очень мягкий)"
 
 #. STRINGS.ELEMENTS.HELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.HELIUM.DESC"
@@ -10225,7 +10225,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.DESC"
 msgid "Don't sweat it!"
-msgstr "Не пропотейте его!"
+msgstr "Не парьтесь!"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.EFFECT"
@@ -11030,7 +11030,7 @@ msgstr "<style=\"food\">Мукоеды</style>, сжатые в плотный, 
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC"
 msgid "A flavorless grain that almost never wiggles on its own."
-msgstr "Безвкусное зерно, которое почти никогда не шевелится по своему хотению."
+msgstr "Безвкусное зерно, которое почти никогда не шевелится самостоятельно."
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME"
