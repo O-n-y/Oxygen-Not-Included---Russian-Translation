@@ -3245,7 +3245,7 @@ msgstr "Нефтяная скважина"
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DESC"
 msgid "A barbed <style=\"plant\">Plant</style> that can be domestically grown with Planter Boxes.\n\nWhen a Bristle Blossom flowers it produces an edible bud that can be harvested for <style=\"food\">Food</style>."
-msgstr "Колючее <style=\"plant\">Растение</style>, может быть выращено в ящиках для рассады.\n\nКогда зацветает Щитовик цветущий он производит съедобный бутон, который может быть использования в качестве <style=\"food\">Еды</style>."
+msgstr "Колючее <style=\"plant\">Растение</style>, может быть выращено в ящиках для рассады.\n\nКогда Щитовик зацветает он производит съедобный бутон, который может быть использования в качестве <style=\"food\">Еды</style>."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC"
@@ -6275,7 +6275,7 @@ msgstr "В этой области нет воздуха, подходящего
 #. STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME"
 msgid "None"
-msgstr "Отсутствуют"
+msgstr "Отсутствует"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.PEOPLETOOCLOSEWHILESLEEPING.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PEOPLETOOCLOSEWHILESLEEPING.CAUSE"
