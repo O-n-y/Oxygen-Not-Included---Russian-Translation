@@ -590,7 +590,7 @@ msgstr "Доступно {JoulesAvailable} от общего запаса эле
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME"
 msgid "Empty Pipe"
-msgstr "Пустая труба"
+msgstr "Труба пуста"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.TOOLTIP"
@@ -1320,7 +1320,7 @@ msgstr "Вышло из строя"
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP"
 msgid "This amenity requires maintenance"
-msgstr "Этой постройке требуется ремонт"
+msgstr "Этой постройке требуется обслуживание"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.NAME"
@@ -3685,7 +3685,7 @@ msgstr "Это существо начинает задыхаться"
 #. STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME"
 msgid "Burrowed"
-msgstr "Погребено"
+msgstr "Закопалось"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWED.TOOLTIP"
@@ -3815,7 +3815,7 @@ msgstr "Это существо нашло что-то вкусненькое"
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME"
 msgid "Emerging"
-msgstr "Выделяет"
+msgstr "Откапывается"
 
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP"
@@ -15705,7 +15705,7 @@ msgstr "Нет потребителей в этой сети"
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOGENERATORS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOGENERATORS"
 msgid "No generators on this circuit"
-msgstr "Нет генераторов в этой ети"
+msgstr "Нет генераторов в этой сети"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED"
