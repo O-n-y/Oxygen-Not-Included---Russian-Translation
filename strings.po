@@ -14800,7 +14800,7 @@ msgstr "Термо"
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP"
 msgid "Guaranteed to keep your colony warm and cozy."
-msgstr "Сохраняйте свои колонии в тепле и уюте. С гарантией."
+msgstr "Сохраняйте свою колонию в тепле и уюте."
 
 #. STRINGS.UI.BUILDINGEFFECTS.ADDED_EFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ADDED_EFFECT"
@@ -14825,7 +14825,7 @@ msgstr "Назначение Дупликантов"
 #. STRINGS.UI.BUILDINGEFFECTS.BATTERYEFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.BATTERYEFFECT"
 msgid "<style=\"power\">Power</style> capacity: {0}"
-msgstr "Емкость <style=\"power\">Электричества</style>: {0}"
+msgstr "Запас <style=\"power\">Электричества</style>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.CONSUMESANYELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.CONSUMESANYELEMENT"
@@ -15010,7 +15010,7 @@ msgstr "1 непосаженное <style=\"seed\">Семя</style>"
 #. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY"
 msgid "Storage capacity: {0}"
-msgstr "Емкость хранилища: {0}"
+msgstr "Вместимость хранилища: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE"
@@ -15045,7 +15045,7 @@ msgstr "Может хранить {0} электричества, когда п�
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
 msgid "Decreases Decor values by {0} in a {1} tile radius"
-msgstr "Снижает значения декора на {0} в радиусе {1} блоков"
+msgstr "Снижает значение декора на {0} в радиусе {1} блоков"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
@@ -15055,7 +15055,7 @@ msgstr "Увеличивает значение декора на {0} в рад�
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST"
 msgid "Duplicants walk {0} faster on this tile"
-msgstr "Дупликант двигается {0} быстрее по этому блоку"
+msgstr "По этому блоку Дупликант передвигаются на {0} быстрее"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED"
@@ -15150,7 +15150,7 @@ msgstr "{0}"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVESEFFECTSUBTITLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVESEFFECTSUBTITLE"
 msgid "Use of this building will remove the listed effects"
-msgstr "Использование строения уберет указанные эффекты"
+msgstr "Использование строения уберет перечисленные эффекты"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT"
@@ -15215,7 +15215,7 @@ msgstr "Хранит до {0} материала"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STRESSREDUCEDPERMINUTE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STRESSREDUCEDPERMINUTE"
 msgid "Removes {0} of Duplicants' Stress for every uninterrupted minute of use"
-msgstr "Удаляет {0} стресса у Дупликанта за каждую непрерванную минуту использования"
+msgstr "Удаляет {0} стресса у Дупликанта за каждую минуту использования"
 
 #. STRINGS.UI.CALCULATING
 msgctxt "STRINGS.UI.CALCULATING"
