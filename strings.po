@@ -16165,12 +16165,12 @@ msgstr "Цикл {0}"
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY"
 msgid "Cycle {0} - Today"
-msgstr "Цикл {0} - сегодня"
+msgstr "Цикл {0} - Сегодня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY"
 msgid "Cycle {0} - Yesterday"
-msgstr "Цикл {0} - вчера"
+msgstr "Цикл {0} - Вчера"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME"
