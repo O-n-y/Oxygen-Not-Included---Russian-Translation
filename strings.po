@@ -9095,7 +9095,7 @@ msgstr "Сильный иммунитет этого Дупликанта спо
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME"
 msgid "Naturally Robust"
-msgstr "Крепкий от природы"
+msgstr "Природный иммунитет"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
