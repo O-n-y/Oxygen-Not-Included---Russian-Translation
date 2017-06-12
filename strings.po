@@ -9090,12 +9090,12 @@ msgstr "Силач"
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC"
 msgid "This Duplicant's hardy immune system repels most common illnesses"
-msgstr "Сильный иммунитет этот Дупликанта способен сопротивляться большинству болезней"
+msgstr "Сильный иммунитет этого Дупликанта способен сопротивляться большинству болезней"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME"
 msgid "Naturally Robust"
-msgstr "Морж"
+msgstr "Природный иммунитет"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
@@ -16500,7 +16500,7 @@ msgstr "???"
 #. STRINGS.UI.FRONTEND.LOADING
 msgctxt "STRINGS.UI.FRONTEND.LOADING"
 msgid "Loading..."
-msgstr "Loading..."
+msgstr "Загрузка..."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
