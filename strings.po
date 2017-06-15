@@ -1490,12 +1490,12 @@ msgstr "потому что провод перегружен"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED"
 msgid "when the contents of its pipes boiled"
-msgstr "когда содержимое его труб вскипает"
+msgstr ", когда содержимое его труб вскипело"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_FROZE
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_FROZE"
 msgid "when the contents of its pipes froze"
-msgstr "когда содержимое его труб замерзает"
+msgstr ", когда содержимое его труб замерзло"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE"
@@ -1505,12 +1505,11 @@ msgstr "от соседнего давления жидкости"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION"
 msgid "when a stressed Duplicant lashed out on it"
-msgstr "когда Дупликант, испытывающий стресс, накинулся на него"
+msgstr ", когда Дупликант, испытывающий стресс, накинулся на него"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP"
 msgid "{0} received damage {1}"
-msgstr "{0} получено урона {1}"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
@@ -3900,7 +3899,7 @@ msgstr "Осталось сборов урожая: {HarvestsRemaining}"
 #. STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.TOOLTIP"
 msgid "This plant will yield {HarvestsRemaining} more harvests before it dies"
-msgstr "Это растение принесет еще {HarvestsRemaining} урожаев прежде чем умереть"
+msgstr "Это растение принесет еще {HarvestsRemaining} урожаев прежде чем засохнуть"
 
 #. STRINGS.CREATURES.STATUSITEMS.HATCHING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HATCHING.NAME"
@@ -5815,7 +5814,7 @@ msgstr "экстремальная внутренняя температура"
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA"
 msgid "standing in a toxic area"
-msgstr "из-за нахождения в токсичной среде"
+msgstr "нахождения в токсичной среде"
 
 #. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION"
@@ -8505,7 +8504,7 @@ msgstr "Вымотан"
 #. STRINGS.DUPLICANTS.STATUSITEMS.TIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TIRED.TOOLTIP"
 msgid "This Duplicant could use a nice nap"
-msgstr "Этот Дупликант хотел бы неплохо вздремнуть"
+msgstr "Этот Дупликант хотел бы хорошенько поспать"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLEDELIVERSTATUS.NAME"
@@ -8885,7 +8884,7 @@ msgstr "Стальные... кишки"
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC"
 msgid "This Duplicant takes a little longer than usual to \"do their business\""
-msgstr "Этот Дупликант тратит немного больше времени, чем обычно, чтобы \"сделать свои дела\""
+msgstr "Этот Дупликант тратит больше времени, чем обычно, чтобы \"сделать свои дела\""
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME"
@@ -9025,7 +9024,7 @@ msgstr "Лапшерукий"
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
 msgid "Refuses to do job"
-msgstr "Отказывается делать работу"
+msgstr "Отказывается выполнять работу"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC"
@@ -9100,7 +9099,7 @@ msgstr "Природный иммунитет"
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
 msgid "This Duplicant is light as a feather on their feet"
-msgstr "При ходьбе этот Дупликант легок как перышко"
+msgstr "Этот Дупликант легок как перышко"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME"
@@ -12515,7 +12514,7 @@ msgstr "Данная область должна быть минимум {0} б�
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME"
 msgid "Venting"
-msgstr "Вентилирование"
+msgstr "Выброс в атмосферу"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP"
@@ -18955,7 +18954,7 @@ msgstr "Отображает приоритет задач"
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid "Drag to bump job tasks up or down in importance"
-msgstr "Выделите, для повышения или понижения приоритета выполнения задачи"
+msgstr "Выделите, чтобы повысить или понизить приоритет выполнения задачи"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
