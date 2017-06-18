@@ -5815,7 +5815,7 @@ msgstr "из-за переохлаждения"
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA"
 msgid "standing in a toxic area"
-msgstr "из-за нахождение в токсичной среде"
+msgstr "из-за нахождения в токсичной среде"
 
 #. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION"
