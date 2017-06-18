@@ -1690,7 +1690,7 @@ msgstr "Будем надеяться, что Ваши Дупликанты пр
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT"
 msgid "Increases <style=\"decor\">Decor</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be painted by a Duplicant."
-msgstr "Увеличивает показатель <style=\"decor\">Декора</style> и уменьшает <style=\"stress\">Стресс</style> Дупликантов.\n\nДолжна быть расписана Дупликантом."
+msgstr "Увеличивает показатель <style=\"decor\">Декора</style> и уменьшает <style=\"stress\">Стресс</style> Дупликантов.\n\nДолжен быть расписан Дупликантом."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME"
@@ -17550,12 +17550,11 @@ msgstr "Включает или отключает провод"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1"
 msgid "Displays whether buildings use or generate <style=\"power\">Power</style>"
-msgstr "Отображает использует или потребляет постройка <style=\"power\">Электричество</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
 msgid "Uses <style=\"power\">Power</style> from a circuit"
-msgstr "Получает <style=\"power\">Электричество</style> из сети"
+msgstr "Использует <style=\"power\">Электричество</style> из сети"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3"
@@ -17565,7 +17564,7 @@ msgstr "Производит <style=\"power\">Электричество</style>
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND4"
 msgid "Displays the <style=\"power\">Power</style> load of wiring"
-msgstr "Отображает мощность <style=\"power\">Электричества</style> в проводах"
+msgstr "Отображает мощность <style=\"power\">Электричества</style> в сети"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5"
@@ -17585,7 +17584,7 @@ msgstr "Слишком много <style=\"power\">Электричества</s
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8"
 msgid "This circuit is consuming more <style=\"power\">Power</style> than it can produce"
-msgstr "Этот провод потребляет больше <style=\"power\">Электричества</style>, чем он может передать"
+msgstr "Эта сеть потребляет больше <style=\"power\">Электричества</style>, чем может произвести"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON"
@@ -17845,7 +17844,7 @@ msgstr "Не подключено к <style=\"LiquidPiping\">Водопрово�
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED"
 msgid "Sends one filtered liquid into pipes from a building\n* Must connect to at least one <style=\"LiquidDestination\">Intake</style>"
-msgstr "Отправляет одну отфильтрованную жидкость в трубу из постройки\n* Должно быть соединено хотя бы с одним <style=\"LiquidSource\">Каналом приема</style> жидкости"
+msgstr "Отправляет одну отфильтрованную жидкость из постройки в трубу\n* Должно быть соединено хотя бы с одним <style=\"LiquidSource\">Каналом приема</style> жидкости"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK"
@@ -17855,7 +17854,7 @@ msgstr "Водопровод {0}"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.PRODUCER"
 msgid "Sends liquid into a building from pipes\n* Must connect to at least one <style=\"LiquidSource\">Output</style>"
-msgstr "Отправляет жидкость в постройку из труб\n* Должно быть соединено хотя бы с одним <style=\"LiquidSource\">Каналом отдачи</style> жидкости"
+msgstr "Отправляет жидкость в постройку из трубы\n* Должно быть соединено хотя бы с одним <style=\"LiquidSource\">Каналом отдачи</style> жидкости"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.BUTTON"
