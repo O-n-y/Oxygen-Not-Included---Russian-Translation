@@ -1380,7 +1380,7 @@ msgstr "Ожидает доставки Дупликантом следующи�
 #. STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME"
 msgid "Wattage: {Wattage}"
-msgstr "Мощность в ваттах: {Wattage}"
+msgstr "Мощность: {Wattage}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP"
@@ -3945,7 +3945,7 @@ msgstr "Жаркое окружение"
 #. STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP"
 msgid "This creature cannot let off enough heat to keep cool in this environment\n\nIt prefers temperatures between {0} and {1}"
-msgstr "Это существо не может выделить достаточное количество тепла, чтобы оставаться прохладным в этой области.\n\nОно предпочитает температуры между {0} и {1}"
+msgstr "Этому существу жарко и оно не может оставаться прохладным в этой области.\n\nОно предпочитает температуры между {0} и {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME"
@@ -5160,12 +5160,12 @@ msgstr "Идет перевернуть компост"
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME"
 msgid "Generate Power"
-msgstr "Генерировать энергию"
+msgstr "Генерировать электричество"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS"
 msgid "Going to generate power"
-msgstr "Идет генерировать энергию"
+msgstr "Идет генерировать электричество"
 
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.NAME"
@@ -17490,7 +17490,7 @@ msgstr "Карта электрической сети"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.DIAGRAM_HEADER
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.DIAGRAM_HEADER"
 msgid "Energy from LEFT circuit is provided to RIGHT circuit"
-msgstr "Энергия из ЛЕВОГО провода (генератора) используется \nПРАВЫМ проводом (потребителем)"
+msgstr "Электричество из ЛЕВОГО провода (генератора) используется \nПРАВЫМ проводом (потребителем)"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND_SWITCH
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND_SWITCH"
