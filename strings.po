@@ -1510,7 +1510,7 @@ msgstr ", когда Дупликант, испытывающий стресс, 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP"
 msgid "{0} received damage {1}"
-msgstr "{0} получен урон {1}"
+msgstr "{0} - получен урон {1}"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
@@ -2340,7 +2340,7 @@ msgstr "Перемычка водопровода"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC"
 msgid "How refreshing!\nIt's almost like a real breeze."
-msgstr "Как освежает!\nЭто почти как настоящий ветер."
+msgstr "Как освежает!\nЭто почти как настоящий бриз."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.EFFECT"
@@ -2350,7 +2350,7 @@ msgstr "Рассеивает небольшое количество <style=\"he
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME"
 msgid "Hydrofan"
-msgstr "Вентилятор"
+msgstr "Гидровентилятор"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.DESC"
@@ -2460,7 +2460,7 @@ msgstr "Ручной генератор"
 #. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.DESC"
 msgid "No gas can escape these airlocks, yet oddly you can often smell what's on the other side."
-msgstr "Ни один газ не может вырваться из этих шлюзов, но, как ни странно, вы часто чувствуете запах того, что находится на другой стороне."
+msgstr "Ни один газ не может вырваться из этих шлюзов, но, как ни странно, вы часто слышите запах того, что находится на другой стороне."
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.EFFECT"
@@ -3060,7 +3060,7 @@ msgstr "Мучное дерево"
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC"
 msgid "A fleshy, <style=\"heat\">Cold</style>-dwelling plant.\n\nWheezeworts remove ambient <style=\"heat\">Heat</style> from the air by respiring through their porous outer membranes."
-msgstr "Мясистое растение, обитает в <style=\"heat\">Холодной</style> среде.\n\nХладодых поглощает окружающее <style=\"heat\">Тепло</style> из воздуха, благодаря дыханию через пористые наружные мембраны."
+msgstr "Мясистое растение, которое обитает в <style=\"heat\">Холодной</style> среде.\n\nХладодых поглощает окружающее из воздуха <style=\"heat\">Тепло</style>, благодаря дыханию через пористые наружные мембраны."
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC"
@@ -4790,12 +4790,12 @@ msgstr "Сбор урожая"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.DESC"
 msgid "Operate hydrofans to cool ambient temperatures."
-msgstr "Использование вентилятора позволяет понизить температуру окружающей среды."
+msgstr "Использование гидровентилятора позволяет понизить температуру окружающей среды."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.NAME"
 msgid "Hydrofan"
-msgstr "Вентилятор"
+msgstr "Гидровентилятор"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC"
@@ -17225,12 +17225,12 @@ msgstr "Семена этого растения можно получить п�
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_CEILING
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_CEILING"
 msgid "This seed must be planted in a downward facing plot\n\nPress <color=#F44A47>[O]</color> while building farm plots to rotate them"
-msgstr "Это семечко должно быть посажено в блок, ориентированный вниз\n\nНажмите <color=#F44A47>[O]</color>, когда строите блок для изменения его ориентации"
+msgstr "Это семя должно быть посажено в блок, ориентированный вниз\n\nНажмите <color=#F44A47>[O]</color>, когда строите блок для изменения его ориентации"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_WALL
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_WALL"
 msgid "This seed must be planted in a side facing plot\n\nPress <color=#F44A47>[O]</color> while building plots to rotate them"
-msgstr "Это семечко должно быть посажено в блок боковой ориентации\n\nНажмите <color=#F44A47>[O]</color>, когда строите блок для изменения его ориентации"
+msgstr "Это семя должно быть посажено в блок боковой ориентации\n\nНажмите <color=#F44A47>[O]</color>, когда строите блок для изменения его ориентации"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.BACK"
