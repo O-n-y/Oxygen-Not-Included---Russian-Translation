@@ -1045,7 +1045,7 @@ msgstr "Эта постройка не подсоединена к электр�
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING"
 msgid "Exhaust produced"
-msgstr "Тепло кончилось"
+msgstr "Тепло не производится"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM"
