@@ -17550,6 +17550,7 @@ msgstr "Включает или отключает провод"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1"
 msgid "Displays whether buildings use or generate <style=\"power\">Power</style>"
+msgstr "Отображает постройки, которые используют или потребляют <style=\"power\">Электричество</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
