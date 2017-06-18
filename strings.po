@@ -3060,7 +3060,7 @@ msgstr "Мучное дерево"
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC"
 msgid "A fleshy, <style=\"heat\">Cold</style>-dwelling plant.\n\nWheezeworts remove ambient <style=\"heat\">Heat</style> from the air by respiring through their porous outer membranes."
-msgstr "Мясистое растение, которое обитает в <style=\"heat\">Холодной</style> среде.\n\nХладодых поглощает окружающее из воздуха <style=\"heat\">Тепло</style>, благодаря дыханию через пористые наружные мембраны."
+msgstr "Мясистое растение, которое обитает в <style=\"heat\">Холодной</style> среде.\n\nХладодых поглощает окружающее <style=\"heat\">Тепло</style>, благодаря дыханию через пористые наружные мембраны."
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC"
