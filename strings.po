@@ -895,7 +895,7 @@ msgstr "Доступны новые Дупликанты"
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "The Printing Pod <color=#F44A47>[H]</color> is ready to print a new Duplicant.\nPlease select a DNA blueprint:"
-msgstr "Биопринтер <color=#F44A47>[H]</color> готов к печати нового Дупликанта.\n\nПожалуйста, выберите ДНК-основу"
+msgstr "Биопринтер <color=#F44A47>[H]</color> готов к печати нового Дупликанта.\nПожалуйста, выберите ДНК-основу"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP"
@@ -2060,7 +2060,7 @@ msgstr "Это как ходить во сне!"
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
 msgid "Used as floor and wall tile to build rooms.\n\nBlocks the flow of <style=\"liquid\">Liquid</style> without obstructing the flow of <style=\"gas\">Gas</style>."
-msgstr "Используется как блок пола и стен при строительстве помещений.\n\nБлокирует прохождение <style=\"liquid\">Жидкости</style>, не перекрывая потока <style=\"gas\">Газа</style>"
+msgstr "Используется как блок пола и стен при строительстве помещений.\n\nБлокирует прохождение <style=\"liquid\">Жидкости</style>, не перекрывая потока <style=\"gas\">Газа</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
@@ -2995,7 +2995,7 @@ msgstr "<style=\"produced\">+{0}</style> <style=\"seed\">{1}</style> {2}"
 #. STRINGS.CREATURES.CROP_EFFECTS.ADD_SEEDS.FINAL_HARVEST_ONLY
 msgctxt "STRINGS.CREATURES.CROP_EFFECTS.ADD_SEEDS.FINAL_HARVEST_ONLY"
 msgid "(Final harvest only)"
-msgstr "(только при последнем сборе урожая)"
+msgstr "(Только при последнем сборе урожая)"
 
 #. STRINGS.CREATURES.CROP_EFFECTS.ADD_SEEDS.TOOLTIP
 msgctxt "STRINGS.CREATURES.CROP_EFFECTS.ADD_SEEDS.TOOLTIP"
@@ -9685,7 +9685,7 @@ msgstr "Ртуть"
 #. STRINGS.ELEMENTS.METHANE.DESC
 msgctxt "STRINGS.ELEMENTS.METHANE.DESC"
 msgid "Natural Gas is a mixture of various alkanes in a <style=\"gas\">Gaseous</style> state.\n\nIt is useful in <style=\"power\">Power</style> production."
-msgstr "Природный газ представляет собой смесь различных алканов в <style=\"gas\">Газообразном</style> состоянии.\n\nОн используется для производства <style=\"power\">Электричества</style>>."
+msgstr "Природный газ представляет собой смесь различных алканов в <style=\"gas\">Газообразном</style> состоянии.\n\nОн используется для производства <style=\"power\">Электричества</style>."
 
 #. STRINGS.ELEMENTS.METHANE.NAME
 msgctxt "STRINGS.ELEMENTS.METHANE.NAME"
@@ -16695,7 +16695,7 @@ msgstr "Ключ для генерации мира"
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
 msgid "<b>Welcome to the Agricultural Upgrade!</b>\n\n{0}"
-msgstr "<b>Добро пожаловать в Агрокультурное обновление!</b>\n\n{0}"
+msgstr "<b>Добро пожаловать в Сельскохозяйственное обновление!</b>\n\n{0}"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
@@ -16710,7 +16710,7 @@ msgstr "Основные новшества обновления:\n\n• Нов�
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
 msgid "AGRICULTURAL UPGRADE"
-msgstr "AGRICULTURAL UPGRADE"
+msgstr "СЕЛЬСКОХОЗЯЙСТВЕННОЕ ОБНОВЛЕНИЕ"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT"
@@ -19975,7 +19975,7 @@ msgstr "Атака"
 #. STRINGS.UI.USERMENUACTIONS.ATTACK.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.ATTACK.TOOLTIP"
 msgid "Attack this creature"
-msgstr "Атаковать это создание"
+msgstr "Атаковать это существо"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.NAME"
@@ -20185,7 +20185,7 @@ msgstr "Включить"
 #. STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP"
 msgid "Halt the use of this building\n------------------\nDisabled buildings consume no energy or resources"
-msgstr "Прекратить использование этой постройки\n------------------\nОтключенные постройки не потребляют энергию и ресурсы"
+msgstr "Прекратить использование этой постройки\n------------------\nОтключенные постройки не потребляют электричество и ресурсы"
 
 #. STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.ENABLEBUILDING.TOOLTIP_OFF"
