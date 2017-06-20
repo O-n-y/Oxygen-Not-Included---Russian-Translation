@@ -1475,7 +1475,7 @@ msgstr "Эта постройка работает нормально"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT"
 msgid "when an incorrect substance was piped into it"
-msgstr "когда некорректное вещество поступает в него"
+msgstr ", когда некорректное вещество поступает в него"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BUILDING_OVERHEATED
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BUILDING_OVERHEATED"
@@ -7065,7 +7065,7 @@ msgstr "Нейлс"
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC"
 msgid "This {0} once claimed he could build a laser so powerful it would rip the colony in half. No one asked him to prove it."
-msgstr "{0} однажды заявил, что он может построить лазер настолько мощный, что он разрежет колонию пополам. Никто не рискнул сказать, чтобы {0} это доказал."
+msgstr "{0} однажды заявил, что он мог бы построить такой мощный лазер, который бы разорвал колонию пополам. Никто не попросил его доказать это."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME"
