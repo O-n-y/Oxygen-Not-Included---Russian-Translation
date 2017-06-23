@@ -1490,12 +1490,12 @@ msgstr "потому что провод перегружен"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED"
 msgid "when the contents of its pipes boiled"
-msgstr "когда содержимое его труб вскипело"
+msgstr ", когда содержимое его труб вскипело"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_FROZE
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_FROZE"
 msgid "when the contents of its pipes froze"
-msgstr "когда содержимое его труб замерзло"
+msgstr ", когда содержимое его труб замерзло"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE"
@@ -1505,7 +1505,7 @@ msgstr "от соседнего давления жидкости"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION"
 msgid "when a stressed Duplicant lashed out on it"
-msgstr "когда Дупликант, испытывающий стресс, накинулся на него"
+msgstr ", когда Дупликант, испытывающий стресс, накинулся на него"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP"
@@ -7065,7 +7065,7 @@ msgstr "Нейлс"
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC"
 msgid "This {0} once claimed he could build a laser so powerful it would rip the colony in half. No one asked him to prove it."
-msgstr "{0} однажды заявил, что он мог бы построить такой мощный лазер, который бы разорвал колонию пополам. Никто не попросил его доказать это."
+msgstr "{0} однажды заявил, что он может построить лазер настолько мощный, что он разрежет колонию пополам. Никто не рискнул попросить его доказать это."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME"
