@@ -1475,7 +1475,7 @@ msgstr "Эта постройка работает нормально"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT"
 msgid "when an incorrect substance was piped into it"
-msgstr ", когда некорректное вещество поступает в него"
+msgstr "когда некорректное вещество поступает в него"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BUILDING_OVERHEATED
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BUILDING_OVERHEATED"
@@ -1490,12 +1490,12 @@ msgstr "потому что провод перегружен"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_BOILED"
 msgid "when the contents of its pipes boiled"
-msgstr ", когда содержимое его труб вскипело"
+msgstr "когда содержимое его труб вскипело"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_FROZE
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.CONDUIT_CONTENTS_FROZE"
 msgid "when the contents of its pipes froze"
-msgstr ", когда содержимое его труб замерзло"
+msgstr "когда содержимое его труб замерзло"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE"
@@ -1505,7 +1505,7 @@ msgstr "от соседнего давления жидкости"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION"
 msgid "when a stressed Duplicant lashed out on it"
-msgstr ", когда Дупликант, испытывающий стресс, накинулся на него"
+msgstr "когда Дупликант, испытывающий стресс, накинулся на него"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP"
