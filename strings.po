@@ -8175,7 +8175,7 @@ msgstr "Красная тревога!"
 #. STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.REDALERT.TOOLTIP"
 msgid "The colony is in a state of Red Alert. Duplicants will not eat, sleep, use the bathroom or engage in leisure activities while the Red Alert is active"
-msgstr "Колония в состоянии \"Красной тревоги\". дупликанты не будут есть, спать, использовать туалет или душ, отлынивать от работы пока \"Красная тревога\" активна"
+msgstr "Колония в состоянии \"Красной тревоги\". Дупликанты не будут есть, спать, использовать туалет или душ, отлынивать от работы пока \"Красная тревога\" активна"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RELAXING.NAME"
@@ -17900,22 +17900,22 @@ msgstr "КАРТА КИСЛОРОДА"
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1"
 msgid "Oxygen concentration is high and allows Duplicants to breathe"
-msgstr "Высокая концентрация кислорода. дупликанты могут свободно дышать"
+msgstr "Высокая концентрация кислорода. Дупликанты могут свободно дышать"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2"
 msgid "Oxygen concentration is sufficient and allows Duplicants to breathe"
-msgstr "Достаточная концентрация кислорода. дупликанты могут свободно дышать"
+msgstr "Достаточная концентрация кислорода. Дупликанты могут свободно дышать"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3"
 msgid "Oxygen concentration is low and is difficult for Duplicants to breathe"
-msgstr "Низкая концентрация кислорода. дупликанты дышат с трудом"
+msgstr "Низкая концентрация кислорода. Дупликанты дышат с трудом"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4"
 msgid "Oxygen is extremely low pressure or not present and will suffocate Duplicants"
-msgstr "Экстремально низкая концентрация или отсутствие кислорода. дупликанты задохнутся"
+msgstr "Экстремально низкая концентрация или отсутствие кислорода. Дупликанты задохнутся"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5"
@@ -18830,7 +18830,7 @@ msgstr "{0} не может выполнить поставленную зада
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY"
 msgid "High priority jobs are performed before low priority jobs. A Duplicant will always continue work on their current job until it is complete, even if a higher priority job becomes available."
-msgstr "Задачи с высоким приоритетом всегда выполняются до задач с низким приоритетом. дупликант всегда продолжает работать над текущей задачей до ее завершения, даже если в этот момент появилась новая задача с более высоким приоритетом."
+msgstr "Задачи с высоким приоритетом всегда выполняются до задач с низким приоритетом. Дупликант всегда продолжает работать над текущей задачей до ее завершения, даже если в этот момент появилась новая задача с более высоким приоритетом."
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_RELEVANT_ATTRIBUTES
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_RELEVANT_ATTRIBUTES"
@@ -18995,7 +18995,7 @@ msgstr "Включить \"Красную тревогу\""
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_CONTENT
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_CONTENT"
 msgid "Colony enters a state of emergency. Duplicants ignore basic needs to work."
-msgstr "Колония входит в режим чрезвычайного положения. дупликанты игнорируют базовые потребности и принимаются за работу."
+msgstr "Колония входит в режим чрезвычайного положения. Дупликанты игнорируют базовые потребности и принимаются за работу."
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_TITLE
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_TITLE"
