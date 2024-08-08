@@ -8703,6 +8703,66 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
 msgid "Houses a single <link=\"PLANTS\">Plant</link> when sown with a <link=\"PLANTS\">Seed</link>.\n\nIncreases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>."
 msgstr "Домик для одного <link=\"PLANTS\">Растения</link>, когда в него посажено <link=\"PLANTS\">Семя</link>.\n\nУвеличивает показатель <link=\"DECOR\">Декора</link>, влияющий на <link=\"MORALE\">Мораль</link> Дупликантов."
 
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.DESC"
+msgid "The original container for plants on the move."
+msgstr "Оригинальный контейнер для путешествующих растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.NAME"
+msgid "<link=\"FLOWERVASE\">Flower Pot</link>"
+msgstr "<link=\"FLOWERVASE\">Цветочный горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.DESC"
+msgid "A funky red flower pot for plants on the move."
+msgstr "Яркий красный горшок для путешествующих растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.NAME"
+msgid "<link=\"FLOWERVASE\">Bold Retro Flower Pot</link>"
+msgstr "<link=\"FLOWERVASE\">Яркий ретро горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.DESC"
+msgid "A funky green flower pot for plants on the move."
+msgstr "Яркий зеленый горшок для путешествующих растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.NAME"
+msgid "<link=\"FLOWERVASE\">Bright Retro Flower Pot</link>"
+msgstr "<link=\"FLOWERVASE\">Яркий ретро горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.DESC"
+msgid "A funky blue flower pot for plants on the move."
+msgstr "Яркий синий горшок для путешествующих растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.NAME"
+msgid "<link=\"FLOWERVASE\">Dreamy Retro Flower Pot</link>"
+msgstr "<link=\"FLOWERVASE\">Мечтательный ретро горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.DESC"
+msgid "A funky white flower pot for plants on the move."
+msgstr "Яркий белый горшок для путешествующих растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.NAME"
+msgid "<link=\"FLOWERVASE\">Elegant Retro Flower Pot</link>"
+msgstr "<link=\"FLOWERVASE\">Элегантный ретро горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.DESC"
+msgid "A funky yellow flower pot for plants on the move."
+msgstr "Яркий желтый горшок для путешествующих растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.NAME"
+msgid "<link=\"FLOWERVASE\">Sunny Retro Flower Pot</link>"
+msgstr "<link=\"FLOWERVASE\">Солнечный ретро горшок</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME"
 msgid "<link=\"FLOWERVASE\">Flower Pot</link>"
@@ -8711,12 +8771,82 @@ msgstr "<link=\"FLOWERVASE\">Цветочный горшок</link>"
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.DESC"
 msgid "Hanging pots can add some Decor to a room, without blocking buildings on the floor."
-msgstr "Подвесное кашпо добавляет немного декора комнате, без пересечения с постройками на полу."
+msgstr "Подвесное кашпо добавляет немного декора комнате, без пересечения с наполными постройками."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.EFFECT"
 msgid "Houses a single <link=\"PLANTS\">Plant</link> when sown with a <link=\"PLANTS\">Seed</link>.\n\nIncreases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be hung from a ceiling."
 msgstr "Домик для одного <link=\"PLANTS\">Растения</link>, когда в него посажено <link=\"PLANTS\">Семя</link>.\n\nУвеличивает показатель <link=\"DECOR\">Декора</link>, влияющий на <link=\"MORALE\">Мораль</link> Дупликантов.\n\nДолжно крепиться к потолку."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.BEAKER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.BEAKER.DESC"
+msgid "A measured approach to indoor plant decor."
+msgstr "Продуманный подход к декору для растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.BEAKER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.BEAKER.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Beaker Hanging Pot</link>"
+msgstr "<link=\"FLOWERVASEHANGING\">Горшок-вакутейнер</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_BLUE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_BLUE.DESC"
+msgid "Suspended vessels really elevate a plant display."
+msgstr "Подвесные горшки - это то, что повысит уровень любой коллекции растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_BLUE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_BLUE.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Dreamy Hanging Pot</link>"
+msgstr "<link=\"FLOWERVASEHANGING\">Мечтательный подвесной горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_GREEN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_GREEN.DESC"
+msgid "Suspended vessels really elevate a plant display."
+msgstr "Подвесные горшки - это то, что повысит уровень любой коллекции растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_GREEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_GREEN.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Bright Hanging Pot</link>"
+msgstr "<link=\"FLOWERVASEHANGING\">Яркий подвесной горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_RED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_RED.DESC"
+msgid "Suspended vessels really elevate a plant display."
+msgstr "Подвесные горшки - это то, что повысит уровень любой коллекции растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_RED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_RED.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Bold Hanging Pot</link>"
+msgstr "<link=\"FLOWERVASEHANGING\">Яркий подвесной горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_WHITE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_WHITE.DESC"
+msgid "Suspended vessels really elevate a plant display."
+msgstr "Подвесные горшки - это то, что повысит уровень любой коллекции растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_WHITE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_WHITE.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Elegant Hanging Pot</link>"
+msgstr "<link=\"FLOWERVASEHANGING\">Элегантный подвесной горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_YELLOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_YELLOW.DESC"
+msgid "Suspended vessels really elevate a plant display."
+msgstr "Подвесные горшки - это то, что повысит уровень любой коллекции растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_YELLOW.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_YELLOW.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Sunny Hanging Pot</link>"
+msgstr "<link=\"FLOWERVASEHANGING\">Солнечный подвесной горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RUBIKS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RUBIKS.DESC"
+msgid "The real puzzle is how to keep indoor plants alive."
+msgstr "Настоящая загадка это то, как сохранить растения в живых."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RUBIKS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RUBIKS.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Puzzle Cube Hanging Pot</link>"
+msgstr "<link=\"FLOWERVASEHANGING\">Горшок-пазл</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME"
@@ -8748,6 +8878,66 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.EFFECT"
 msgid "Houses a single <link=\"PLANTS\">Plant</link> when sown with a <link=\"PLANTS\">Seed</link>.\n\nIncreases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be hung from a wall."
 msgstr "Домик для одного <link=\"PLANTS\">Растения</link>, когда в него посажено <link=\"PLANTS\">Семя</link>.\n\nУвеличивает показатель <link=\"DECOR\">Декора</link>, влияющий на <link=\"MORALE\">Мораль</link> Дупликантов.\n\nДолжно крепиться к потолку."
 
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.DESC"
+msgid "Facilitates vertical plant displays."
+msgstr "Упрощает вертикальное размещение растений."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.NAME"
+msgid "<link=\"FLOWERVASEWALL\">Wall Pot</link>"
+msgstr "<link=\"FLOWERVASEWALL\">Настенный горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_BLUE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_BLUE.DESC"
+msgid "Vertical gardens are pretty nifty."
+msgstr "Вертикальные сады - находка для тех, у кого мало места."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_BLUE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_BLUE.NAME"
+msgid "<link=\"FLOWERVASEWALL\">Dreamy Retro Wall Pot</link>"
+msgstr "<link=\"FLOWERVASEWALL\">Мечтательный ретро горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_GREEN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_GREEN.DESC"
+msgid "Vertical gardens are pretty nifty."
+msgstr "Вертикальные сады - находка для тех, у кого мало места."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_GREEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_GREEN.NAME"
+msgid "<link=\"FLOWERVASEWALL\">Bright Retro Wall Pot</link>"
+msgstr "<link=\"FLOWERVASEWALL\">Ослепительный ретро горшок</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_RED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_RED.DESC"
+msgid "Vertical gardens are pretty nifty."
+msgstr "Вертикальные сады - находка для тех, у кого мало места."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_RED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_RED.NAME"
+msgid "<link=\"FLOWERVASEWALL\">Bold Retro Wall Pot</link>"
+msgstr "<link=\"FLOWERVASEWALL\">Горшок с дерзким характером</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_WHITE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_WHITE.DESC"
+msgid "Vertical gardens are pretty nifty."
+msgstr "Вертикальные сады - находка для тех, у кого мало места."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_WHITE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_WHITE.NAME"
+msgid "<link=\"FLOWERVASEWALL\">Elegant Retro Wall Pot</link>"
+msgstr "<link=\"FLOWERVASEWALL\">Подвесной горшок с ретро-аурой</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_YELLOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_YELLOW.DESC"
+msgid "Vertical gardens are pretty nifty."
+msgstr "Вертикальные сады - находка для тех, у кого мало места."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_YELLOW.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_YELLOW.NAME"
+msgid "<link=\"FLOWERVASEWALL\">Sunny Retro Wall Pot</link>"
+msgstr "<link=\"FLOWERVASEWALL\">Горшок-солнышко из прошлого</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.NAME"
 msgid "<link=\"FLOWERVASEWALL\">Wall Pot</link>"
@@ -8762,6 +8952,86 @@ msgstr "Уборные передают меньше микробов коже �
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT"
 msgid "Gives Duplicants a place to relieve themselves.\n\nSpreads very few <link=\"DISEASE\">Germs</link>."
 msgstr "Предоставляют Дупликантам место для гигиеничного справления их нужд.\n\nРаспространяет очень маленькое количество <link=\"DISEASE\">Микробов</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.BLUE_BABYTEARS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.BLUE_BABYTEARS.DESC"
+msgid "A private place to feel big feelings."
+msgstr "Личное место для больших эмоций."
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.BLUE_BABYTEARS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.BLUE_BABYTEARS.NAME"
+msgid "<link=\"FLUSHTOILET\">Weepy Lavatory</link>"
+msgstr "<link=\"FLUSHTOILET\">Тоскливая уборная</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.DEFAULT_FLUSHTOILET.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.DEFAULT_FLUSHTOILET.DESC"
+msgid "Lavatories transmit fewer germs to Duplicants' skin and require no emptying."
+msgstr "Туалеты передают меньше микробов на кожу Дупликантов и не требуют опустошения."
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.DEFAULT_FLUSHTOILET.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.DEFAULT_FLUSHTOILET.NAME"
+msgid "<link=\"FLUSHTOILET\">Lavatory</link>"
+msgstr "<link=\"FLUSHTOILET\">Уборная</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.GREEN_MUSH.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.GREEN_MUSH.DESC"
+msgid "Mush in, mush out."
+msgstr "Входим в мшистую глушь, выходим из мшистой глуши."
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.GREEN_MUSH.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.GREEN_MUSH.NAME"
+msgid "<link=\"FLUSHTOILET\">Mush Green Lavatory</link>"
+msgstr "<link=\"FLUSHTOILET\">Мшистая уборная</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKNAVYNOOKGREEN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKNAVYNOOKGREEN.DESC"
+msgid "Smooth moves happen here."
+msgstr "Здесь происходят плавные движения."
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKNAVYNOOKGREEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKNAVYNOOKGREEN.NAME"
+msgid "<link=\"FLUSHTOILET\">Party Dot Lavatory</link>"
+msgstr "<link=\"FLUSHTOILET\">Уборная с огоньком</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKPURPLERESIN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKPURPLERESIN.DESC"
+msgid "For those who've really got to a-go-go."
+msgstr "Для тех, кому срочно нужно."
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKPURPLERESIN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKPURPLERESIN.NAME"
+msgid "<link=\"FLUSHTOILET\">Mod Dot Lavatory</link>"
+msgstr "<link=\"FLUSHTOILET\">Модная уборная</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.PURPLE_BRAINFAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.PURPLE_BRAINFAT.DESC"
+msgid "It's like pooping inside Hexalent fruit!"
+msgstr "Каждое движение - это кусочек Гексалента!"
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.PURPLE_BRAINFAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.PURPLE_BRAINFAT.NAME"
+msgid "<link=\"FLUSHTOILET\">Faint Purple Lavatory</link>"
+msgstr "<link=\"FLUSHTOILET\">Бледно-пурпурная уборная</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.RED_ROSE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.RED_ROSE.DESC"
+msgid "The scented pink toilet paper smells like a rosebush in a sewage plant."
+msgstr "Розовая туалетная бумага: запах роз с оттенком \"нечто\""
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.RED_ROSE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.RED_ROSE.NAME"
+msgid "<link=\"FLUSHTOILET\">Puce Pink Lavatory</link>"
+msgstr "<link=\"FLUSHTOILET\">Пурпурно-розовая уборная</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.YELLOW_TARTAR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.YELLOW_TARTAR.DESC"
+msgid "Someone thought it'd be a good idea to have the outside match the inside."
+msgstr "Кто-то подумал, что неплохо было бы, чтобы внешняя часть соответствовала внутренней."
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.YELLOW_TARTAR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.YELLOW_TARTAR.NAME"
+msgid "<link=\"FLUSHTOILET\">Ick Yellow Lavatory</link>"
+msgstr "<link=\"FLUSHTOILET\">Второсортная желтая уборная</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME"
@@ -8783,10 +9053,95 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.NAME"
 msgid "<link=\"FLYINGCREATUREBAIT\">Airborne Critter Bait</link>"
 msgstr "<link=\"FLYINGCREATUREBAIT\">Приманка для воздушных существ</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.DESC"
+msgid "Some of the eliminated liquid inevitably ends up on the floor."
+msgstr "Часть испарившейся жидкости неизбежно оказывается на полу."
+
+#. STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.EFFECT"
+msgid "Uses low, even heat to eliminate moisture from eligible <link=\"FOOD\">Foods</link> and render them shelf-stable.\n\nDehydrated meals must be processed at the <link=\"FOODREHYDRATOR\">Rehydrator</link> before they can be eaten."
+msgstr "Использует равномерный нагрев для удаления влаги из <link=\"FOOD\">Еды</link>, делая ее пригодной для долгосрочного хранения.\n\nВысушенные блюда необходимо обработать в <link=\"FOODREHYDRATOR\">Регидраторе</link>, прежде чем можно будет их съесть."
+
+#. STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.NAME"
+msgid "<link=\"FOODDEHYDRATOR\">Dehydrator</link>"
+msgstr "<link=\"FOODDEHYDRATOR\">Дегидратор</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.RECIPE_NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.RECIPE_NAME"
+msgid "Dried {0}"
+msgstr "Высушенный: {0}"
+
+#. STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.RESULT_DESCRIPTION
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.RESULT_DESCRIPTION"
+msgid "Dehydrated portions of {0} do not require refrigeration."
+msgstr "Высушенные порции {0} не требуют охлаждения."
+
+#. STRINGS.BUILDINGS.PREFABS.FOODREHYDRATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOODREHYDRATOR.DESC"
+msgid "Rehydrated food is nutritious and only slightly less delicious."
+msgstr "Восстановленная еда питательна и лишь немного менее вкусна."
+
+#. STRINGS.BUILDINGS.PREFABS.FOODREHYDRATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOODREHYDRATOR.EFFECT"
+msgid "Restores moisture to convert shelf-stable packaged meals into edible <link=\"FOOD\">Food</link>."
+msgstr "Восстанавливает влагу, превращая высушенные и упакованные блюда в съедобную <link=\"FOOD\">Еду</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.FOODREHYDRATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOODREHYDRATOR.NAME"
+msgid "<link=\"FOODREHYDRATOR\">Rehydrator</link>"
+msgstr "<link=\"FOODREHYDRATOR\">Регидратор</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FOSSILDIG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG.DESC"
+msgid "It's not from around here."
+msgstr "Это не отсюда."
+
+#. STRINGS.BUILDINGS.PREFABS.FOSSILDIG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG.EFFECT"
+msgid "Contains a partial <link=\"FOSSIL\">Fossil</link> left behind by a giant critter.\n\nStudying the full skeleton could yield the information required to access a valuable new resource."
+msgstr "Содержит часть <link=\"FOSSIL\">Ископаемого</link>, оставшуюся от гигантского существа.\n\nИзучение полного скелета может дать информацию, необходимую для доступа к ценному новому ресурсу."
+
+#. STRINGS.BUILDINGS.PREFABS.FOSSILDIG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG.NAME"
+msgid "Ancient Specimen"
+msgstr "Древний образец"
+
+#. STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.DESC"
+msgid "There sure are a lot of old bones in this area."
+msgstr "В этой области точно много старых костей."
+
+#. STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.EFFECT"
+msgid "Contains a deep cache of harvestable <link=\"FOSSIL\">Fossils</link>."
+msgstr "Содержит глубокие залежи добываемых <link=\"FOSSIL\">Ископаемых</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.NAME"
+msgid "Fossil Quarry"
+msgstr "Карьер окаменелостей"
+
+#. STRINGS.BUILDINGS.PREFABS.FOUNTAINPEN.DESCRIPTION
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOUNTAINPEN.DESCRIPTION"
+msgid "Cuts through red tape better than a sword ever could."
+msgstr "Распутывает бюрократическую волокиту лучше, чем меч."
+
+#. STRINGS.BUILDINGS.PREFABS.FOUNTAINPEN.LORE_DLC2
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOUNTAINPEN.LORE_DLC2"
+msgid "The handcrafted gold nib features a triangular logo with the letters V and I inside.\n\nIts owner was too proud to report it stolen, and would be shocked to learn of its whereabouts."
+msgstr "Золотое перо ручной работы украшено треугольным логотипом с буквами V и I внутри.\n\nЕго владелец был слишком горд сообщить о краже, и был бы шокирован, узнав о его местонахождении."
+
+#. STRINGS.BUILDINGS.PREFABS.FOUNTAINPEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FOUNTAINPEN.NAME"
+msgid "Fountain Pen"
+msgstr "Перьевая ручка"
+
 #. STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.DESC"
-msgid "Nuke your food"
-msgstr "Облучи свою еду"
+msgid "Nuke your food."
+msgstr "Облучи свою еду."
 
 #. STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.EFFECT"
@@ -9208,6 +9563,116 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.EFFECT"
 msgid "Stores any <link=\"ELEMENTSGAS\">Gas</link> resources piped into it."
 msgstr "Позволяет хранить любой <link=\"ELEMENTSGAS\">Газ</link>, закаченный в него через трубу."
 
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.BLUE_BABYTEARS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.BLUE_BABYTEARS.DESC"
+msgid "A colorful reservoir keeps gases neatly organized."
+msgstr "Красочный резервуар аккуратно хранит газы."
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.BLUE_BABYTEARS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.BLUE_BABYTEARS.NAME"
+msgid "<link=\"GASRESERVOIR\">Weepy Blue Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Голубой резервуар</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.DEFAULT_GASRESERVOIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.DEFAULT_GASRESERVOIR.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr "Резервуары не принимают вручную доставленные ресурсы."
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.DEFAULT_GASRESERVOIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.DEFAULT_GASRESERVOIR.NAME"
+msgid "<link=\"GASRESERVOIR\">Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Газовый резервуар</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.GREEN_MUSH.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.GREEN_MUSH.DESC"
+msgid "A colorful reservoir keeps gases neatly organized."
+msgstr "Красочный резервуар аккуратно хранит газы."
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.GREEN_MUSH.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.GREEN_MUSH.NAME"
+msgid "<link=\"GASRESERVOIR\">Mush Green Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Зеленый резервуар</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.DESC"
+msgid "A colorful reservoir keeps gases neatly organized."
+msgstr "Красочный резервуар аккуратно хранит газы."
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.NAME"
+msgid "<link=\"GASRESERVOIR\">Bluemoon Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Лазурный резервуар</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.DESC"
+msgid "A colorful reservoir keeps gases neatly organized."
+msgstr "Красочный резервуар аккуратно хранит газы."
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.NAME"
+msgid "<link=\"GASRESERVOIR\">Golden Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Золотистый резервуар</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.DESC"
+msgid "A colorful reservoir keeps gases neatly organized."
+msgstr "Красочный резервуар аккуратно хранит газы."
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.NAME"
+msgid "<link=\"GASRESERVOIR\">Greenpea Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Гороховый резервуар</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKNAVYNOOKGREEN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKNAVYNOOKGREEN.DESC"
+msgid "Safe gas storage doesn't have to be dull."
+msgstr "Безопасное хранение газа не обязано быть скучным."
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKNAVYNOOKGREEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKNAVYNOOKGREEN.NAME"
+msgid "<link=\"GASRESERVOIR\">Party Dot Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Резервуар в горошек</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKPURPLERESIN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKPURPLERESIN.DESC"
+msgid "It sports the cheeriest of paint jobs. What a gas!"
+msgstr "Самый весёлый резервуар!"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKPURPLERESIN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKPURPLERESIN.NAME"
+msgid "<link=\"GASRESERVOIR\">Mod Dot Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Модный резервуар</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PURPLE_BRAINFAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PURPLE_BRAINFAT.DESC"
+msgid "A colorful reservoir keeps gases neatly organized."
+msgstr "Красочный резервуар аккуратно хранит газы."
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PURPLE_BRAINFAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PURPLE_BRAINFAT.NAME"
+msgid "<link=\"GASRESERVOIR\">Faint Purple Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Бледно-фиолетовый резервуар</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.RED_ROSE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.RED_ROSE.DESC"
+msgid "A colorful reservoir keeps gases neatly organized."
+msgstr "Красочный резервуар аккуратно хранит газы."
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.RED_ROSE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.RED_ROSE.NAME"
+msgid "<link=\"GASRESERVOIR\">Puce Pink Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Розовый резервуар</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.YELLOW_TARTAR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.YELLOW_TARTAR.DESC"
+msgid "A colorful reservoir keeps gases neatly organized."
+msgstr "Красочный резервуар аккуратно хранит газы."
+
+#. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.YELLOW_TARTAR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.YELLOW_TARTAR.NAME"
+msgid "<link=\"GASRESERVOIR\">Ick Yellow Gas Reservoir</link>"
+msgstr "<link=\"GASRESERVOIR\">Жёлтый резервуар</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.NAME"
 msgid "<link=\"GASRESERVOIR\">Gas Reservoir</link>"
@@ -9318,6 +9783,91 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GENETICANALYSISSTATION.NAME"
 msgid "<link=\"GENETICANALYSISSTATION\">Botanical Analyzer</link>"
 msgstr "<link=\"GENETICANALYSISSTATION\">Ботанический анализатор</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.DESC"
+msgid "What comes out depends very much on the initial temperature of what goes in."
+msgstr "Выходное вещество зависит от начальной температуры входящего."
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.EFFECT"
+msgid "Uses <link=\"HEAT\">Heat</link> from the planet's core to dramatically increase the temperature of <link=\"ELEMENTSLIQUID\">Liquid</link> inputs.\n\nMaterials will be emitted at connected Geo Vents."
+msgstr "Использует <link=\"HEAT\">Тепло</link> из ядра планеты для резкого увеличения температуры входящей <link=\"ELEMENTSLIQUID\">Жидкости</link>.\n\nРесурсы будут выбрасываться через подключенные геовенты."
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.NAME"
+msgid "<link=\"GEOTHERMALCONTROLLER\">Geothermal Heat Pump</link>"
+msgstr "<link=\"GEOTHERMALCONTROLLER\">Геотермальный насос</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.BLOCKED_DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.BLOCKED_DESC"
+msgid "Blocked geo vents can be cleared using <link=\"ELEMENTSLIQUID\">liquids</link> that are hot enough to melt <link=\"LEAD\">Lead</link>."
+msgstr "Заблокированные геовенты можно очистить с помощью <link=\"ELEMENTSLIQUID\">Жидкостей</link>, которые достаточно горячие, чтобы расплавить <link=\"LEAD\">Свинец</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.DESC"
+msgid "Geo vents must finish their current emission before accepting new materials."
+msgstr "Геовенты  закончить текущую эмиссию перед принятием новых материалов."
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.EFFECT"
+msgid "Emits high-<link=\"HEAT\">temperature</link> materials received from the Geothermal Heat Pump."
+msgstr "Выбрасывает <link=\"HEAT\">высокотемпературные</link> ресурсы, полученные от геотермального насоса."
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT"
+msgid "Material Content Monitor"
+msgstr "Монитор содержания ресурсов"
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when geo vent has materials to emit"
+msgstr "Посылает <b><style=\"logic_on\">Зелёный сигнал</style></b>, когда у геовента есть ресурсы для выброса."
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT_INACTIVE"
+msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr "В противном случае посылает <b><style=\"logic_off\">Красный сигнал</style></b>"
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.NAME"
+msgid "<link=\"GEOTHERMALVENT\">Geo Vent</link>"
+msgstr "<link=\"GEOTHERMALVENT\">Геовент</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.NAME_FMT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.NAME_FMT"
+msgid "<link=\"GEOTHERMALVENT\">Geo Vent C-{ID}</link>"
+msgstr "<link=\"GEOTHERMALVENT\">Геовент C-{ID}</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTUNER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTUNER.DESC"
+msgid "The targeted geyser receives stored amplification data when it is erupting."
+msgstr "Целевой гейзер получает данные об усилении, когда он извергается."
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTUNER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTUNER.EFFECT"
+msgid "Increases the <link=\"HEAT\">Temperature</link> and output of an analyzed <link=\"GEYSERS\">Geyser</link>.\n\nMultiple Geotuners can be directed at a single <link=\"GEYSERS\">Geyser</link> anywhere on an asteroid."
+msgstr "Увеличивает <link=\"HEAT\">Температуру</link> и выходное значение проанализированного <link=\"GEYSERS\">Гейзера</link>.\n\nНесколько Геотюнеров могут быть направлены на один <link=\"GEYSERS\">Гейзер</link> на астероиде."
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTUNER.LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTUNER.LOGIC_PORT"
+msgid "Geyser Eruption Monitor"
+msgstr "Монитор извержений гейзера"
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTUNER.LOGIC_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTUNER.LOGIC_PORT_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when geyser is erupting"
+msgstr "Посылает <b><style=\"logic_on\">Зелёный сигнал</style></b>, когда гейзер извергается."
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTUNER.LOGIC_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTUNER.LOGIC_PORT_INACTIVE"
+msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr "В противном случае посылает <b><style=\"logic_off\">Красный сигнал</style></b>"
+
+#. STRINGS.BUILDINGS.PREFABS.GEOTUNER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GEOTUNER.NAME"
+msgid "<link=\"GEOTUNER\">Geotuner</link>"
+msgstr "<link=\"GEOTUNER\">Геотюнер</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.DESC"
 msgid "Glass can be used to construct window tile."
@@ -9355,7 +9905,7 @@ msgstr "<link=\"GLASSTILE\">Блок окна</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.DESC"
-msgid "Luxury meals increase Duplicants morale and prevents them from becoming stressed."
+msgid "Luxury meals increase Duplicants' morale and prevents them from becoming stressed."
 msgstr "Роскошные блюда повышают моральный дух Дупликантов и предотвращают стресс."
 
 #. STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.EFFECT
@@ -9383,6 +9933,36 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.NAME"
 msgid "<link=\"GRAVE\">Tasteful Memorial</link>"
 msgstr "<link=\"GRAVE\">Мемориал памяти</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.EFFECT"
+msgid "A clothing storage unit.\n\nIt contains ultra-soft sleepwear."
+msgstr "Шкаф для пижамы.\n\nСодержит ультрамягкую одежду для сна."
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.NAME"
+msgid "Pajama Cubby"
+msgstr "Шкафчик для пижам"
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.EFFECT"
+msgid "An experimental DNA manipulator.\n\nAnalyzes <link=\"CREATURES\">Critters</link> to transform base morphs into random variants of their species."
+msgstr "Экспериментальный манипулятор ДНК.\n\nАнализирует <link=\"CREATURES\">Существ</link>, чтобы преобразовать базовые формы в случайные варианты их видов."
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.NAME"
+msgid "<link=\"GRAVITASCREATUREMANIPULATOR\">Critter Flux-O-Matic</link>"
+msgstr "<link=\"GRAVITASCREATUREMANIPULATOR\">Флукс-О-Матик для существ</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC"
 msgid ""
@@ -9397,6 +9977,21 @@ msgstr "Офисная дверь в помещение офиса, которо
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.NAME"
 msgid "Gravitas Door"
 msgstr "Дверь Гравитас"
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.EFFECT"
+msgid "An overhead light therapy lamp designed to soothe the minds."
+msgstr "Светотерапевтическая лампа, созданная для расслабления разума."
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.NAME"
+msgid "LED Light"
+msgstr "Светодиодная лампа"
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASPEDESTAL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASPEDESTAL.DESC"
@@ -9420,8 +10015,8 @@ msgstr "<link=\"ITEMPEDESTAL\">Пьедестал</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.DESC"
-msgid "Duplicants can survive space travel inside this protective nosecone... Hopefully."
-msgstr "Дупликанты могут выжить в космическом путешествии находясь внутри этого защитного жилого модуля... Надеюсь."
+msgid "Allows Duplicants to survive space travel... Hopefully."
+msgstr "Позволяет Дупликантам выжить в космическом путешествии находясь внутри этого защитного жилого модуля... Надеюсь."
 
 #. STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.EFFECT"
@@ -9675,8 +10270,8 @@ msgstr "Расслабляет Дупликантов массажируя ст�
 
 #. STRINGS.BUILDINGS.PREFABS.HOTTUB.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HOTTUB.EFFECT"
-msgid "Requires <link=\"LIQUIDPIPING\">Pipes</link> to and from tub and <link=\"POWER\">Power</link> to run the jets.\n\nWater must be a comfortable temperature and will cool rapidly.\n\nIncreases Duplicant <link=\"MORALE\">Morale</link>."
-msgstr "Требует <link=\"LIQUIDPIPING\">трубопровода</link> к и из джакузи, а также источника <link=\"POWER\">электричества</link> для запуска струй.\n\nВода должна иметь комфортную температуру и быстро охлаждаться.\n\nУвеличает <link=\"MORALE\">Мораль</link> Дупликантов."
+msgid "Requires <link=\"LIQUIDPIPING\">Pipes</link> to and from tub and <link=\"POWER\">Power</link> to run the jets.\n\nWater must be a comfortable temperature and will cool rapidly.\n\nIncreases Duplicant <link=\"MORALE\">Morale</link> and leaves them feeling deliciously warm."
+msgstr "Требует <link=\"LIQUIDPIPING\">Трубопроводов</link> к и из джакузи и источник <link=\"POWER\">Электричества</link> для работы струй.\n\nВода должна быть комфортной температуры, но остынет достаточно быстро.\n\nПовышает <link=\"MORALE\">Мораль</link> Дупликантов и дарит им приятное тепло."
 
 #. STRINGS.BUILDINGS.PREFABS.HOTTUB.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HOTTUB.NAME"
@@ -9729,8 +10324,8 @@ msgstr "Сжигает <link=\"LIQUIDHYDROGEN\">Жидкий водород</lin
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.NAME"
-msgid "<link=\"HYDROGENENGINE\">Hydrogen Engine</link>"
-msgstr "<link=\"HYDROGENENGINE\">Водородный двигатель</link>"
+msgid "<link=\"HYDROGENENGINECLUSTER\">Hydrogen Engine</link>"
+msgstr "<link=\"HYDROGENENGINECLUSTER\">Водородный двигатель</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC"
@@ -9739,7 +10334,7 @@ msgstr "Водородные генераторы являются особен�
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT"
-msgid "Converts <link=\"HYDROGEN\">Hydrogen</link> into electrical <link=\"POWER\">Power</link>."
+msgid "Converts <link=\"HYDROGEN\">Hydrogen Gas</link> into electrical <link=\"POWER\">Power</link>."
 msgstr "Перерабатывает <link=\"HYDROGEN\">Водород</link> в <link=\"POWER\">Электричество</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME
@@ -9777,15 +10372,30 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.NAME"
 msgid "<link=\"ICECOOLEDFAN\">Ice-E Fan</link>"
 msgstr "<link=\"ICECOOLEDFAN\">Вентилятор льда</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.ICEKETTLE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICEKETTLE.DESC"
+msgid "The water never gets hot enough to burn the tongue."
+msgstr "Вода никогда не бывает горячей, чтобы обжечь язык."
+
+#. STRINGS.BUILDINGS.PREFABS.ICEKETTLE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICEKETTLE.EFFECT"
+msgid "Consumes <link=\"WOOD\">Wood</link> to melt <link=\"ICE\">Ice</link> into <link=\"WATER\">Water</link>, which can be bottled for transport."
+msgstr "Потребляет <link=\"WOOD\">Древесину</link> для плавления <link=\"ICE\">Льда</link> в <link=\"WATER\">Воду</link>, которую можно разлить в бутылки для транспортировки."
+
+#. STRINGS.BUILDINGS.PREFABS.ICEKETTLE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICEKETTLE.NAME"
+msgid "<link=\"ICEKETTLE\">Ice Liquefier</link>"
+msgstr "<link=\"ICEKETTLE\">Размягчитель льда</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.ICEMACHINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICEMACHINE.DESC"
-msgid "Ice makers can be used as a small renewable source of ice."
-msgstr "Ледогенераторы используются в качестве небольших возобновляемых источников льда."
+msgid "Ice makers can be used as a small renewable source of ice and snow."
+msgstr "Ледогенераторы используются в качестве небольших возобновляемых источников льда и снега."
 
 #. STRINGS.BUILDINGS.PREFABS.ICEMACHINE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICEMACHINE.EFFECT"
-msgid "Converts <link=\"WATER\">Water</link> into <link=\"ICE\">Ice</link>."
-msgstr "Конвертирует <link=\"WATER\">Воду</link> в <link=\"ICE\">Лед</link>."
+msgid "Converts <link=\"WATER\">Water</link> into <link=\"ICE\">Ice</link> or <link=\"SNOW\">Snow</link>."
+msgstr "Конвертирует <link=\"WATER\">Воду</link> в <link=\"ICE\">Лед</link> или <link=\"SNOW\">Снег</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.ICEMACHINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICEMACHINE.NAME"
@@ -9811,6 +10421,46 @@ msgstr "Значительно увеличивает показатель <link
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.EXCELLENTQUALITYNAME"
 msgid "Genius Ice Sculpture"
 msgstr "Гениальная ледяная скульптура"
+
+#. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_1.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_1.DESC"
+msgid "These incisors are the stuff of dental legend."
+msgstr "Эти резцы – настоящая зубная легенда."
+
+#. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_1.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_1.NAME"
+msgid "<link=\"ICESCULPTUREAMAZING1\">Exquisite Chompers</link>"
+msgstr "<link=\"ICESCULPTUREAMAZING1\">Изысканные Челюсти</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_2.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_2.DESC"
+msgid "A charming depiction of the mighty Pokeshell in mid-rampage."
+msgstr "Очаровательное изображение могучего Кребса в разгаре ярости."
+
+#. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_2.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_2.NAME"
+msgid "<link=\"ICESCULPTUREAMAZING2\">Frosty Crustacean</link>"
+msgstr "<link=\"ICESCULPTUREAMAZING2\">Ледяной Рак</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_3.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_3.DESC"
+msgid "Some aquarists posit that Pacus are the original creators of the game now known as \"Tag.\""
+msgstr "Некоторые аквариумисты считают, что Паку – первооткрыватели игры, ныне известной как «Салки»."
+
+#. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_3.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_3.NAME"
+msgid "<link=\"ICESCULPTUREAMAZING3\">The Chase</link>"
+msgstr "<link=\"ICESCULPTUREAMAZING3\">Погоня</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_CRAP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_CRAP.DESC"
+msgid "It's structurally unsound, but otherwise not entirely terrible."
+msgstr "Конструкция ненадежна, но в целом не так уж и плоха."
+
+#. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_CRAP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_CRAP.NAME"
+msgid "<link=\"ICESCULPTURECRAP\">Cubi I</link>"
+msgstr "<link=\"ICESCULPTURECRAP\">Кубик І</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.NAME"
@@ -9896,6 +10546,26 @@ msgstr "Отображается {0}"
 msgctxt "STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.EFFECT"
 msgid "Displays a single object, doubling its <link=\"DECOR\">Decor</link> value.\n\nObjects with negative Decor will gain some positive Decor when displayed."
 msgstr "Представляет один объект, удваивая его значение <link=\"DECOR\">Декора</link>.\n\n Уродливые предметы могут стать немного привлекательнее, если их положить на пьедестал."
+
+#. STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.FACADES.DEFAULT_ITEMPEDESTAL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.FACADES.DEFAULT_ITEMPEDESTAL.DESC"
+msgid "Perception can be drastically changed by a bit of thoughtful presentation."
+msgstr "Восприятие можно кардинально изменить с помощью продуманной презентации."
+
+#. STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.FACADES.DEFAULT_ITEMPEDESTAL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.FACADES.DEFAULT_ITEMPEDESTAL.NAME"
+msgid "<link=\"ITEMPEDESTAL\">Pedestal</link>"
+msgstr "<link=\"ITEMPEDESTAL\">Пьедестал</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.FACADES.HAND.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.FACADES.HAND.DESC"
+msgid "This pedestal cradles precious objects in the palm of its hand."
+msgstr "Этот пьедестал держит драгоценные предметы в своей ладони."
+
+#. STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.FACADES.HAND.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.FACADES.HAND.NAME"
+msgid "<link=\"ITEMPEDESTAL\">Hand of Dupe Pedestal</link>"
+msgstr "<link=\"ITEMPEDESTAL\">Рука Дупликанта</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.NAME"
@@ -10087,6 +10757,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.DESC"
 msgid "A platform from which rockets can be launched and on which they can land."
 msgstr "Платформа, с которой можно запускать шаттлы и на которую они могут приземляться."
 
+#. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.EFFECT"
+msgid "Precursor to construction of all other Rocket modules.\n\nAllows Rockets to launch from or land on the host Planetoid.\n\nAutomatically links up to <link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Port</link><link=\"MODULARLAUNCHPADPORTSOLID\">s</link> built to either side of the platform."
+msgstr "Предшественник для строительства всех остальных модулей Шаттла.\n\nПозволяет Шаттлам взлетать с или приземляться на планетоид.\n\nАвтоматически соединяется с <link=\"MODULARLAUNCHPADPORTSOLID\">Портами шаттла</link>, построенными по бокам платформы."
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET"
@@ -10145,7 +10819,7 @@ msgstr "Доки антирадиационных костюмов могут п
 
 #. STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.EFFECT"
-msgid "Stores <link=\"LEADSUIT\">Lead Suits</link> and refuels them  with <link=\"OXYGEN\">Oxygen</link>.\n\nEmpties suits of <link=\"DIRTYWATER\">Polluted Water</link>.\n\nBuild next to a <link=\"LEADSUITMARKER\">Lead Suit Checkpoint</link> to make Duplicants change into suits when passing by."
+msgid "Stores <link=\"LEADSUIT\">Lead Suits</link> and refuels them with <link=\"OXYGEN\">Oxygen</link>.\n\nEmpties suits of <link=\"DIRTYWATER\">Polluted Water</link>.\n\nBuild next to a <link=\"LEADSUITMARKER\">Lead Suit Checkpoint</link> to make Duplicants change into suits when passing by."
 msgstr "Хранит <link=\"LEADSUIT\">Антирадиационные костюмы</link>, заправляет их <link=\"OXYGEN\">Кислородом</link>.\n\nОчищает костюмы от <link=\"DIRTYWATER\">Загрязненной воды</link>.\n\nПостройте рядом с <link=\"LEADSUITMARKER\">Контрольным пунктом антирадиационных костюмов</link>, чтобы Дупликанты переодевались в них, проходя мимо."
 
 #. STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.NAME
@@ -10675,8 +11349,23 @@ msgstr "Сенсор звездной локации может сигнализ
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.EFFECT"
-msgid "Send <b><style=\"logic_on\">Green Signals</style></b> at the chosen starmap locations and <b><style=\"logic_off\">Red Signals</style></b> everywhere else."
+msgid "Send <b><style=\"logic_on\">Green Signals</style></b> at the chosen Starmap locations and <b><style=\"logic_off\">Red Signals</style></b> everywhere else."
 msgstr "Отправляет <b><style=\"logic_on\">Зеленый сигнал</style></b> в выбранных местах звездной карты и <b><style=\"logic_off\">Красный сигнал</style></b> где-либо еще."
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.LOGIC_PORT"
+msgid "Starmap Location Sensor"
+msgstr "Датчик расположения на звездной карте"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.LOGIC_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.LOGIC_PORT_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b>when a spacecraft is at the chosen Starmap locations"
+msgstr "Отправляет <b><style=\"logic_on\">Зеленый сигнал</style></b>, когда шаттл находится в выбранных точках на звездной карте"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.LOGIC_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.LOGIC_PORT_INACTIVE"
+msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr "В противном случае отправляет <b><style=\"logic_off\">Красный сигнал</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.NAME"
@@ -11278,6 +11967,36 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.NAME"
 msgid "<link=\"LOGICINTERASTEROIDSENDER\">Automation Broadcaster</link>"
 msgstr "<link=\"LOGICINTERASTEROIDSENDER\">Передатчик автоматики</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.DESC"
+msgid "Light sensors can tell surface bunker doors above solar panels to open or close based on solar light levels."
+msgstr "Датчики света могут управлять дверями бункера, расположенными над солнечными панелями, открывая или закрывая их в зависимости от интенсивности солнечного света."
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.EFFECT"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when ambient <link=\"LIGHT\">Brightness</link> enters the chosen range."
+msgstr "Отправляет <b><style=\"logic_on\">Зеленый сигнал</style></b> или <b><style=\"logic_off\">Красный сигнал</style></b>, когда окружающая <link=\"LIGHT\">Яркость</link> попадает в выбранный диапазон."
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT"
+msgid "Ambient <link=\"LIGHT\">Brightness</link>"
+msgstr "Окружающая <link=\"LIGHT\">Яркость</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if ambient <link=\"LIGHT\">Brightness</link> is within the selected range"
+msgstr "Отправляет <b><style=\"logic_on\">Зеленый сигнал</style></b>, если окружающая <link=\"LIGHT\">Яркость</link> находится в выбранном диапазоне"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT_INACTIVE"
+msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr "В противном случае отправляет <b><style=\"logic_off\">Красный сигнал</style></b>"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.NAME"
+msgid "<link=\"LOGICLIGHTSENSOR\">Light Sensor</link>"
+msgstr "<link=\"LOGICLIGHTSENSOR\">Датчик света</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.DESC"
 msgid "A Memory stores a Green Signal received in the Set Port (S) until the Reset Port (R) receives a Green Signal."
@@ -11285,8 +12004,8 @@ msgstr "Память хранит зеленый сигнал, полученн�
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.EFFECT"
-msgid "Contains an internal Memory, and will output whatever signal is stored in that Memory. Signals sent to the Inputs <i>only</i> affect the Memory, and do not pass through to the Output. \n\nSending a <b><style=\"logic_on\">Green Signal</style></b> to the Set Port (S) will set the memory to <b><style=\"logic_on\">Green</style></b>. \n\nSending a <b><style=\"logic_on\">Green Signal</style></b> to the Reset Port (R) will reset the memory back to <b><style=\"logic_off\">Red</style></b>."
-msgstr "Содержит блок внутренней памяти и будет отправлять сохраненный в ней сигнал.\nСигналы, отправляемые из входных отверстий влияют <i>только</i> на память и не проходят через выходные отверстия. \nОтправка <b><style=\"logic_on\">Зеленого сигнала</style></b> через порт записи (S) установит память в <b><style=\"logic_on\">Зеленый сигнал</style></b>.\nОтправка <b><style=\"logic_on\">Зеленого сигнала</style></b> через порт сброса (R), сбросит память обратно в <b><style=\"logic_off\">Красный сигнал</style></b>."
+msgid "Contains an internal Memory, and will output whatever signal is stored in that Memory.\n\nSignals sent to the Inputs <i>only</i> affect the Memory, and do not pass through to the Output. \n\nSending a <b><style=\"logic_on\">Green Signal</style></b> to the Set Port (S) will set the memory to <b><style=\"logic_on\">Green</style></b>. \n\nSending a <b><style=\"logic_on\">Green Signal</style></b> to the Reset Port (R) will reset the memory back to <b><style=\"logic_off\">Red</style></b>."
+msgstr "Содержит блок внутренней памяти и будет отправлять сохраненный в ней сигнал.\n\nСигналы, отправляемые из входных отверстий влияют <i>только</i> на память и не проходят через выходные отверстия. \nОтправка <b><style=\"logic_on\">Зеленого сигнала</style></b> через порт записи (S) установит память в <b><style=\"logic_on\">Зеленый сигнал</style></b>.\nОтправка <b><style=\"logic_on\">Зеленого сигнала</style></b> через порт сброса (R), сбросит память обратно в <b><style=\"logic_off\">Красный сигнал</style></b>."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.NAME"
@@ -11818,15 +12537,180 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.NAME"
 msgid "<link=\"LOGICWIREBRIDGE\">Automation Wire Bridge</link>"
 msgstr "<link=\"LOGICWIREBRIDGE\">Провод-мост автоматики</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.LONELYMAILBOX.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LONELYMAILBOX.DESC"
+msgid "There's nothing quite like receiving homemade gifts in the mail."
+msgstr "Нет ничего лучше, чем получать подарки из дома по почте."
+
+#. STRINGS.BUILDINGS.PREFABS.LONELYMAILBOX.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LONELYMAILBOX.EFFECT"
+msgid "Displays a single edible object."
+msgstr "Отображает один съедобный предмет."
+
+#. STRINGS.BUILDINGS.PREFABS.LONELYMAILBOX.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LONELYMAILBOX.NAME"
+msgid "Mailbox"
+msgstr "Почтовый ящик"
+
+#. STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE.DESC"
+msgid "Its occupant has been alone for so long, he's forgotten what friendship feels like."
+msgstr "Его обитатель был один так долго, что забыл, что такое дружба."
+
+#. STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE.EFFECT"
+msgid "A large transport unit from the facility's sub-sub-basement.\n\nIt has been modified into a crude yet functional temporary shelter."
+msgstr "Большой транспортный блок из под-подвального помещения.\n\nОн был модифицирован в грубое, но функциональное временное укрытие."
+
+#. STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE.NAME"
+msgid "<link=\"LONELYMINIONHOUSE\">Gravitas Shipping Container</link>"
+msgstr "<link=\"LONELYMINIONHOUSE\">Контейнер Gravitas</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE_COMPLETE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE_COMPLETE.DESC"
+msgid "Someone lived inside it for a while."
+msgstr "Кто-то жил внутри этого контейнера какое-то время."
+
+#. STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE_COMPLETE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE_COMPLETE.EFFECT"
+msgid "A super-spacious container for the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing."
+msgstr "Супер-просторный контейнер для <link=\"ELEMENTSSOLID\">Твердотелых материалов</link> на ваш выбор."
+
+#. STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE_COMPLETE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LONELYMINIONHOUSE_COMPLETE.NAME"
+msgid "<link=\"LONELYMINIONHOUSECOMPLETE\">Gravitas Shipping Container</link>"
+msgstr "<link=\"LONELYMINIONHOUSECOMPLETE\">Контейнер Gravitas</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.DESC"
-msgid "Duplicants prefer comfy beds to cots and gain more stamina from sleeping in them."
+msgid "Duplicants prefer comfy beds to cots and wake up more rested after sleeping in them."
 msgstr "Дупликанты предпочитают удобные кровати койкам и восстанавливают больше выносливости спят в них."
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.EFFECT"
-msgid "Provides a sleeping area for one Duplicant and restores additional <link=\"STAMINA\">Stamina</link>.\n\nDuplicants will automatically sleep in their assigned beds at night."
-msgstr "Предоставляет место для сна одного Дупликанта и восстанавливает больше <link=\"STAMINA\">Выносливости</link>.\n\nС наступлением ночи Дупликанты самостоятельно отправятся спать в назначенную им кровать."
+msgid "Provides a sleeping area for one Duplicant and restores additional stamina.\n\nDuplicants will automatically sleep in their assigned beds at night."
+msgstr "Предоставляет место для сна одного Дупликанта и восстанавливает больше выносливости.\n\nС наступлением ночи Дупликанты самостоятельно отправятся спать в назначенную им кровать."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOAT.DESC"
+msgid "Ahoy! Set sail for zzzzz's."
+msgstr "Ахо! В путь к снам."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOAT.NAME"
+msgid "<link=\"LUXURYBED\">Dreamboat Bed</link>"
+msgstr "<link=\"LUXURYBED\">Кровать-мечта</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOUNCY_BED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOUNCY_BED.DESC"
+msgid "An inflatable party prop makes a surprisingly good bed."
+msgstr "Надувной атрибут вечеринки оказывался отличной кроватью."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOUNCY_BED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.BOUNCY_BED.NAME"
+msgid "<link=\"LUXURYBED\">Bouncy Castle Bed</link>"
+msgstr "<link=\"LUXURYBED\">Кровать-батут</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.DEFAULT_LUXURYBED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.DEFAULT_LUXURYBED.DESC"
+msgid "Much comfier than a cot."
+msgstr "Гораздо удобнее, чем раскладушка."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.DEFAULT_LUXURYBED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.DEFAULT_LUXURYBED.NAME"
+msgid "<link=\"LUXURYBED\">Comfy Bed</link>"
+msgstr "<link=\"LUXURYBED\">Удобная кровать</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.GRANDPRIX.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.GRANDPRIX.DESC"
+msgid "Where every Duplicant wakes up a winner."
+msgstr "Где каждый Дупликант просыпается победителем."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.GRANDPRIX.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.GRANDPRIX.NAME"
+msgid "<link=\"LUXURYBED\">Grand Prix Bed</link>"
+msgstr "<link=\"LUXURYBED\">Кровать Гран-при</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.GREEN_MUSH.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.GREEN_MUSH.DESC"
+msgid "The mattress is so soft, it's almost impossible to climb out of."
+msgstr "Матрас настолько мягкий, что выбраться из него почти невозможно."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.GREEN_MUSH.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.GREEN_MUSH.NAME"
+msgid "<link=\"LUXURYBED\">Comfy Mush Bed</link>"
+msgstr "<link=\"LUXURYBED\">Мягкая кровать</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.HAND.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.HAND.DESC"
+msgid "It's so nice to be held."
+msgstr "Так приятно быть в обьятиях."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.HAND.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.HAND.NAME"
+msgid "<link=\"LUXURYBED\">Cradled Bed</link>"
+msgstr "<link=\"LUXURYBED\">Уютное грездышко</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PUFT_BED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PUFT_BED.DESC"
+msgid "A comfy, if somewhat 'fragrant', place to sleep."
+msgstr "Удобное, хотя и немного 'ароматное', место для сна."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PUFT_BED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PUFT_BED.NAME"
+msgid "<link=\"LUXURYBED\">Puft Bed</link>"
+msgstr "<link=\"LUXURYBED\">Кровать Пуфа</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PURPLE_BRAINFAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PURPLE_BRAINFAT.DESC"
+msgid "A soft landing spot for swooners."
+msgstr "Мягкое место для отдыха."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PURPLE_BRAINFAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PURPLE_BRAINFAT.NAME"
+msgid "<link=\"LUXURYBED\">Comfy Fainting Bed</link>"
+msgstr "<link=\"LUXURYBED\">Кровать для забвения</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RED_ROSE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RED_ROSE.DESC"
+msgid "A pink-hued bed for rosy dreams."
+msgstr "Розовая кровать для сладких снов."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RED_ROSE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RED_ROSE.NAME"
+msgid "<link=\"LUXURYBED\">Comfy Puce Bed</link>"
+msgstr "<link=\"LUXURYBED\">Пушистая кровать-уют</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.ROCKET_BED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.ROCKET_BED.DESC"
+msgid "Launches sleepy Duplicants into a deep-space slumber."
+msgstr "Запускает сонных Дупликантов в глубокий космос."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.ROCKET_BED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.ROCKET_BED.NAME"
+msgid "<link=\"LUXURYBED\">S.S. Napmaster Bed</link>"
+msgstr "<link=\"LUXURYBED\">Ковчег Снов</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RUBIKS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RUBIKS.DESC"
+msgid "A little pattern recognition at bedtime soothes the mind."
+msgstr "Небольшая игра с узорами перед сном успокаивает ум."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RUBIKS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RUBIKS.NAME"
+msgid "<link=\"LUXURYBED\">Puzzle Cube Bed</link>"
+msgstr "<link=\"LUXURYBED\">Кровать-головоломка</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.YELLOW_TARTAR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.YELLOW_TARTAR.DESC"
+msgid "When life is icky, bed rest is the only answer."
+msgstr "Когда жизнь неприятна, отдых в кровати — единственное решение."
+
+#. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.YELLOW_TARTAR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.YELLOW_TARTAR.NAME"
+msgid "<link=\"LUXURYBED\">Comfy Ick Bed</link>"
+msgstr "<link=\"LUXURYBED\">Убежище от непогоды</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.NAME"
@@ -11890,8 +12774,8 @@ msgstr "Ручной шлюз может отделить колонию от о
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.EFFECT"
-msgid "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSGAS\">Gas</link> flow, maintaining pressure between areas.\n\nWild <link=\"CRITTERS\">Critters</link> cannot pass through doors."
-msgstr "Блокирует потоки <link=\"ELEMENTSLIQUID\">Жидкости</link> и <link=\"ELEMENTSGAS\">Газа</link>, поддерживая давление между зонами.\n\nДикие <link=\"CRITTERS\">существа</link> не могут проходить через двери."
+msgid "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSGAS\">Gas</link> flow, maintaining pressure between areas.\n\nWild <link=\"CREATURES\">Critters</link> cannot pass through doors."
+msgstr "Блокирует потоки <link=\"ELEMENTSLIQUID\">Жидкости</link> и <link=\"ELEMENTSGAS\">Газа</link>, поддерживая давление между зонами.\n\nДикие <link=\"CREATURES\">существа</link> не могут проходить через двери."
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME"
@@ -11917,6 +12801,76 @@ msgstr "Значительно увеличивает <link=\"DECOR\">Декор
 msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.EXCELLENTQUALITYNAME"
 msgid "Genius Marble Sculpture"
 msgstr "Гениальная скульптура из мрамора"
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_1.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_1.DESC"
+msgid "She's not afraid to take up space."
+msgstr "Она не боится занимать пространство."
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_1.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_1.NAME"
+msgid "<link=\"SCULPTUREMARBLEAMAZING1\">The Large-ish Mermaid</link>"
+msgstr "<link=\"SCULPTUREMARBLEAMAZING1\">Большеватая Русалка</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_2.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_2.DESC"
+msgid "The artist took great pleasure in conveying their displeasure."
+msgstr "Художник получил удовольствие, выражая свое недовольство."
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_2.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_2.NAME"
+msgid "<link=\"SCULPTUREMARBLEAMAZING2\">Grouchy Beast</link>"
+msgstr "<link=\"SCULPTUREMARBLEAMAZING2\">Ворчливый Зверь</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_3.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_3.DESC"
+msgid "Will not play fetch."
+msgstr "Не будет играть в апорт."
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_3.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_3.NAME"
+msgid "<link=\"SCULPTUREMARBLEAMAZING3\">The Guardian</link>"
+msgstr "<link=\"SCULPTUREMARBLEAMAZING3\">Страж</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_4.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_4.DESC"
+msgid "A masterful celebration of one of the universe's most mysterious - and flatulent - organisms."
+msgstr "Дань мастера одному из самых загадочных – и пукающих – существ во Вселенной."
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_4.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_4.NAME"
+msgid "<link=\"SCULPTUREMARBLEAMAZING4\">Truly A-Moo-Zing</link>"
+msgstr "<link=\"SCULPTUREMARBLEAMAZING4\">Настоящая А-Му-Зинг</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_5.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_5.DESC"
+msgid "A masterful celebration of the deep bond between a horticulturalist and her prize Bristle Blossom."
+msgstr "Дань мастера глубокому союзу между садовником и его призовым Щитовиком цветущим."
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_5.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_5.NAME"
+msgid "<link=\"SCULPTUREMARBLEAMAZING5\">Green Goddess</link>"
+msgstr "<link=\"SCULPTUREMARBLEAMAZING5\">Зеленая Богиня</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_CRAP_1.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_CRAP_1.DESC"
+msgid "The artist was a very fungi."
+msgstr "Художник был настоящим грибом."
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_CRAP_1.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_CRAP_1.NAME"
+msgid "<link=\"SCULPTUREMARBLECRAP1\">Lumpy Fungus</link>"
+msgstr "<link=\"SCULPTUREMARBLECRAP1\">Комковатый Гриб</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_GOOD_1.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_GOOD_1.DESC"
+msgid "It has real \"mane\" character energy."
+msgstr "У него настоящая \"манящая\" харизма."
+
+#. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_GOOD_1.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_GOOD_1.NAME"
+msgid "<link=\"SCULPTUREMARBLEGOOD1\">Unicorn Bust</link>"
+msgstr "<link=\"SCULPTUREMARBLEGOOD1\">Бюст Единорога</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.NAME"
@@ -11948,6 +12902,36 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.EFFECT"
 msgid "Rapidly reduces <link=\"STRESS\">Stress</link> for the Duplicant user.\n\nDuplicants will automatically seek a massage table when <link=\"STRESS\">Stress</link> exceeds breaktime range."
 msgstr "Быстро уменьшает <link=\"STRESS\">Стресс</link> одного Дупликанта при использовании.\n\nДупликанты будут самостоятельно посещать массажные столы, если их <link=\"STRESS\">Стресс</link> поднимется до указанного в \"Политике перерыва\" значения."
 
+#. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.DEFAULT_MASSAGETABLE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.DEFAULT_MASSAGETABLE.DESC"
+msgid "Massage tables quickly reduce extreme stress, at the cost of power production."
+msgstr "Массажные столы быстро снимают сильный стресс, но требуют значительных затрат энергии."
+
+#. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.DEFAULT_MASSAGETABLE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.DEFAULT_MASSAGETABLE.NAME"
+msgid "<link=\"MASSAGETABLE\">Massage Table</link>"
+msgstr "<link=\"MASSAGETABLE\">Массажный стол</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.MASSEUR_BALLOON.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.MASSEUR_BALLOON.DESC"
+msgid "Inflates well-being, deflates stress."
+msgstr "Увеличивает благополучие, снижает стресс."
+
+#. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.MASSEUR_BALLOON.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.MASSEUR_BALLOON.NAME"
+msgid "<link=\"MASSAGETABLE\">Inflatable Massage Table</link>"
+msgstr "<link=\"MASSAGETABLE\">Надувной массажный стол</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.SHIATSU.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.SHIATSU.DESC"
+msgid "Deep pressure for deep-seated stress."
+msgstr "Глубокое давление для глубинного стресса."
+
+#. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.SHIATSU.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.FACADES.SHIATSU.NAME"
+msgid "<link=\"MASSAGETABLE\">Shiatsu Table</link>"
+msgstr "<link=\"MASSAGETABLE\">Стол Шиацу</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME"
 msgid "<link=\"MASSAGETABLE\">Massage Table</link>"
@@ -11960,7 +12944,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.EFFECT"
-msgid "A self-sustaining machine powered by what appears to be refined <link=\"UNOBTANIUM\">Neutronium</link>.\n\nAbsorbs and neutralizes <link=\"HEAT\">Heat</link> energy when provided with piped <link=\"HYDROGEN\">Hydrogen</link>."
+msgid "A self-sustaining machine powered by what appears to be refined <link=\"UNOBTANIUM\">Neutronium</link>.\n\nAbsorbs and neutralizes <link=\"HEAT\">Heat</link> energy when provided with piped <link=\"HYDROGEN\">Hydrogen Gas</link>."
 msgstr "Автономная машина, запитанная, похоже, от очищенного <link=\"UNOBTANIUM\">Нейтрониума</link>.\n\nПри подключении к трубе, снабжающей постройку <link=\"HYDROGEN\">Водородом</link>, абсорбирует и нейтрализует <link=\"HEAT\">Тепло</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.NAME
@@ -12018,6 +13002,36 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME"
 msgid "<link=\"MEDICALCOT\">Triage Cot</link>"
 msgstr "<link=\"MEDICALCOT\">Мед. кровать</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.EFFECT"
+msgid "An organic multi-cortex repository and processing system fuelled by <link=\"OXYGEN\">Oxygen</link>.\n\nAnalyzes <link=\"DREAMJOURNAL\">Dream Journals</link> produced by Duplicants wearing <link=\"SLEEPCLINICPAJAMAS\">Pajamas</link>.\n\nProvides a sustainable boost to Duplicant skills and abilities throughout the colony."
+msgstr "Органическая система хранения и обработки мультикортексов, работающая на <link=\"OXYGEN\">Кислороде</link>.\n\nАнализирует <link=\"DREAMJOURNAL\">Дневники снов</link>, созданные Дупликантами в <link=\"SLEEPCLINICPAJAMAS\">Пижамах</link>.\n\nОбеспечивает устойчивое повышение навыков и способностей Дупликантов по всей колонии."
+
+#. STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.NAME"
+msgid "<link=\"MEGABRAINTANK\">Somnium Synthesizer</link>"
+msgstr "<link=\"MEGABRAINTANK\">Синтезатор Сомний</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.DESC"
+msgid "Mercury ceiling lights take a while to reach full brightness, but once they do...zowie!"
+msgstr "Ртутные потолочные лампы требуют времени для достижения полной яркости, но когда они это делают... вуаля!"
+
+#. STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.EFFECT"
+msgid "Uses <link=\"MERCURY\">Mercury</link> and <link=\"POWER\">Power</link> to produce <link=\"LIGHT\">Light</link>.\n\nLight reduces Duplicant stress and is required to grow certain plants."
+msgstr "Использует <link=\"MERCURY\">Ртуть</link> и <link=\"POWER\">Электричество</link> для производства <link=\"LIGHT\">Света</link>.\n\nСвет снижает стресс Дупликантов и необходим для роста определенных растений."
+
+#. STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.NAME"
+msgid "<link=\"MERCURYCEILINGLIGHT\">Mercury Ceiling Light</link>"
+msgstr "<link=\"MERCURYCEILINGLIGHT\">Ртутная потолочная лампа</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC"
 msgid "Mesh tile can be used to make Duplicant pathways in areas where liquid flows."
@@ -12073,6 +13087,76 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.EXCELLENTQUALITYNAME"
 msgid "Genius Metal Sculpture"
 msgstr "Гениальная скульптура из металла"
 
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_1.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_1.DESC"
+msgid "It's quite lovely, until someone stubs their toe on it in the dark."
+msgstr "Очень красивая, пока кто-то не ударится об нее ногой в темноте."
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_1.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_1.NAME"
+msgid "<link=\"SCULPTUREMETALAMAZING1\">Insatiable Appetite</link>"
+msgstr "<link=\"SCULPTUREMETALAMAZING1\">Неутолимый аппетит</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_2.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_2.DESC"
+msgid "Not quite expressionist, but undeniably expressive."
+msgstr "Не полная экспрессия, но определенно выразительно."
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_2.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_2.NAME"
+msgid "<link=\"SCULPTUREMETALAMAZING2\">Agape</link>"
+msgstr "<link=\"SCULPTUREMETALAMAZING2\">Агапе</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_3.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_3.DESC"
+msgid "It emits no light, but it sure does brighten up a room."
+msgstr "Не излучает света, но определенно освежает комнату."
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_3.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_3.NAME"
+msgid "<link=\"SCULPTUREMETALAMAZING3\">Friendly Flier</link>"
+msgstr "<link=\"SCULPTUREMETALAMAZING3\">Дружелюбный летун</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_4.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_4.DESC"
+msgid "A masterful likeness of the mischievous critter that Duplicants love to love."
+msgstr "Мастерская реплика озорного существа, которое Дупликанты просто обожают."
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_4.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_4.NAME"
+msgid "<link=\"SCULPTUREMETALAMAZING4\">Whatta Pip</link>"
+msgstr "<link=\"SCULPTUREMETALAMAZING4\">Вот это Пип</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_5.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_5.DESC"
+msgid "What if the entire head is one big bump?"
+msgstr "А что если всся голова - одна большая шишка?"
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_5.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_AMAZING_5.NAME"
+msgid "<link=\"SCULPTUREMETALAMAZING5\">Phrenologist's Dream</link>"
+msgstr "<link=\"SCULPTUREMETALAMAZING5\">Мечта френолога</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_CRAP_1.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_CRAP_1.DESC"
+msgid "Actually, it's a very good likeness."
+msgstr "На самом деле, похожесть потрясающая."
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_CRAP_1.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_CRAP_1.NAME"
+msgid "<link=\"SCULPTUREMETALCRAP1\">Unnatural Beauty</link>"
+msgstr "<link=\"SCULPTUREMETALCRAP1\">Ненатуральная красота</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_GOOD_1.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_GOOD_1.DESC"
+msgid "The Morb's eye is mounted on a swivel that activates at random intervals."
+msgstr "Глаз Морба установлен на поворотном механизме, который активируется случайным образом."
+
+#. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_GOOD_1.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.FACADES.SCULPTURE_METAL_GOOD_1.NAME"
+msgid "<link=\"SCULPTUREMETALGOOD1\">Beautiful Biohazard</link>"
+msgstr "<link=\"SCULPTUREMETALGOOD1\">Био-опасный красавчик</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.NAME"
 msgid "<link=\"METALSCULPTURE\">Metal Block</link>"
@@ -12123,10 +13207,140 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.EFFECT"
 msgid "Produces low quality <link=\"FOOD\">Food</link> using common ingredients.\n\nDuplicants will not fabricate items unless recipes are queued."
 msgstr "Производит низкокачественную <link=\"FOOD\">Еду</link> для Дупликантов, используя наиболее распространенные ингредиенты.\n\nДупликанты не будут готовить, пока рецепты не поставлены в очередь."
 
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.BLUE_BABYTEARS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.BLUE_BABYTEARS.DESC"
+msgid "Prioritizes nutritional value over flavor."
+msgstr "Ставит питательную ценность выше вкуса."
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.BLUE_BABYTEARS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.BLUE_BABYTEARS.NAME"
+msgid "<link=\"MICROBEMUSHER\">Weepy Blue Microbe Musher</link>"
+msgstr "<link=\"MICROBEMUSHER\">Слезливо-синий миксер микробов</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.DEFAULT_MICROBEMUSHER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.DEFAULT_MICROBEMUSHER.DESC"
+msgid "Musher recipes will keep Duplicants fed, but may impact health and morale over time."
+msgstr "Рецепты миксера микробов обеспечивают Дупликантов пищей, но могут со временем негативно сказаться на их здоровье и моральном состоянии."
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.DEFAULT_MICROBEMUSHER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.DEFAULT_MICROBEMUSHER.NAME"
+msgid "<link=\"MICROBEMUSHER\">Microbe Musher</link>"
+msgstr "<link=\"MICROBEMUSHER\">Миксер микробов</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.GREEN_MUSH.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.GREEN_MUSH.DESC"
+msgid "Edible colloids for dinner <i>again</i>?"
+msgstr "Съедобные коллоиды на ужин <i>снова</i>?"
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.GREEN_MUSH.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.GREEN_MUSH.NAME"
+msgid "<link=\"MICROBEMUSHER\">Mush Green Microbe Musher</link>"
+msgstr "<link=\"MICROBEMUSHER\">Зеленый миксер микробов</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.PURPLE_BRAINFAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.PURPLE_BRAINFAT.DESC"
+msgid "A colorful distraction from the actual quality of the food."
+msgstr "Яркое отвлечение от реального качества еды."
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.PURPLE_BRAINFAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.PURPLE_BRAINFAT.NAME"
+msgid "<link=\"MICROBEMUSHER\">Faint Purple Microbe Musher</link>"
+msgstr "<link=\"MICROBEMUSHER\">Фиолетовый миксер микробов</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.RED_ROSE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.RED_ROSE.DESC"
+msgid "Hunger strikes are not an option, but color-coordination is."
+msgstr "Голодные забастовки не вариант, но координация цветов — да."
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.RED_ROSE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.RED_ROSE.NAME"
+msgid "<link=\"MICROBEMUSHER\">Puce Pink Microbe Musher</link>"
+msgstr "<link=\"MICROBEMUSHER\">Розовый миксер микробов</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.DESC"
+msgid "Makes meals that are memorable for all the wrong reasons."
+msgstr "Приготовление еды, которая запоминается по неправильным причинам."
+
+#. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.NAME"
+msgid "<link=\"MICROBEMUSHER\">Ick Yellow Microbe Musher</link>"
+msgstr "<link=\"MICROBEMUSHER\">Желтый миксер микробов</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME"
 msgid "<link=\"MICROBEMUSHER\">Microbe Musher</link>"
 msgstr "<link=\"MICROBEMUSHER\">Миксер микробов</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.DESC"
+msgid "Duplicants can slather up with brackwax to increase their travel speed in transit tubes."
+msgstr "Дупликанты могут смазываться браковаксом для увеличения скорости передвижения в транзитных трубах."
+
+#. STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.EFFECT"
+msgid "Refines <link=\"MILK\">Brackene</link> into <link=\"BRINE\">Brine</link> and <link=\"MILKFAT\">Brackwax</link>, and emits <link=\"CARBONDIOXIDE\">Carbon Dioxide</link>."
+msgstr "Перерабатывает <link=\"MILK\">Бракен</link> в <link=\"BRINE\">Солевой раствор</link> и <link=\"MILKFAT\">Браковакс</link>, выделяя <link=\"CARBONDIOXIDE\">Углекислый газ</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.NAME"
+msgid "<link=\"MILKFATSEPARATOR\">Brackwax Gleaner</link>"
+msgstr "<link=\"MILKFATSEPARATOR\">Сборщик браковакса</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MILKFEEDER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKFEEDER.DESC"
+msgid "It's easier to tolerate overcrowding when you're all hopped up on brackene."
+msgstr "Легче терпеть переполненность, когда ты под влиянием бракена."
+
+#. STRINGS.BUILDINGS.PREFABS.MILKFEEDER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKFEEDER.EFFECT"
+msgid "Dispenses <link=\"MILK\">Brackene</link> to a wide variety of <link=\"CREATURES\">Critters</link>.\n\nAccessing the fountain significantly improves <link=\"CREATURES\">Critters</link>' moods."
+msgstr "Выдает <link=\"MILK\">Бракен</link> различным <link=\"CREATURES\">Существам</link>.\n\nДоступ к фонтану значительно улучшает настроение <link=\"CREATURES\">Существ</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.MILKFEEDER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKFEEDER.NAME"
+msgid "<link=\"MILKFEEDER\">Critter Fountain</link>"
+msgstr "<link=\"MILKFEEDER\">Фонтан для существ</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.DESC"
+msgid "The harvested liquid is basically the equivalent of soda for critters."
+msgstr "Полученная жидкость по сути является аналогом газировки для существ."
+
+#. STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.EFFECT"
+msgid "Allows Duplicants with the <link=\"RANCHING2\">Critter Ranching II</link> skill to milk <link=\"MOO\">Gassy Moos</link> for <link=\"MILK\">Brackene</link>.\n\n<link=\"MILK\">Brackene</link> can be used to refill the <link=\"MILKFEEDER\">Critter Fountain</link>."
+msgstr "Позволяет Дупликантам с навыком <link=\"RANCHING2\">Узод за сушествами II</link> доить <link=\"MOO\">Газомусов</link> для получения <link=\"MILK\">Бракена</link>.\n\n<link=\"MILK\">Бракен</link> можно использовать для пополнения <link=\"MILKFEEDER\">Фонтана для существ</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.NAME"
+msgid "<link=\"MILKINGSTATION\">Milking Station</link>"
+msgstr "<link=\"MILKINGSTATION\">Молочная станция</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MILKPRESS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKPRESS.DESC"
+msgid "For Duplicants who are too squeamish to milk critters."
+msgstr "Для Дупликантов, которые слишком брезгливы, чтобы доить существ."
+
+#. STRINGS.BUILDINGS.PREFABS.MILKPRESS.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKPRESS.EFFECT"
+msgid "Crushes <link=\"COLDWHEAT\">Sleet Wheat Grain</link> or <link=\"SPICENUT\">Pincha Peppernut</link> to extract <link=\"MILK\">Brackene</link>.\n\n<link=\"MILK\">Brackene</link> can be used to refill the <link=\"MILKFEEDER\">Critter Fountain</link>."
+msgstr "Размельчает <link=\"COLDWHEAT\">Морозную пшеницу</link> или <link=\"SPICENUT\">Перечный орех</link> для получения <link=\"MILK\">Бракена</link>.\n\n<link=\"MILK\">Бракен</link> можно использовать для пополнения <link=\"MILKFEEDER\">Фонтана для существ</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.MILKPRESS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKPRESS.NAME"
+msgid "<link=\"MILKPRESS\">Plant Pulverizer</link>"
+msgstr "<link=\"MILKPRESS\">Мельница для растений</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MILKPRESS.NUT_MILK_RECIPE_DESCRIPTION
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKPRESS.NUT_MILK_RECIPE_DESCRIPTION"
+msgid "Converts {0} to {1}"
+msgstr "Преобразует {0} в {1}"
+
+#. STRINGS.BUILDINGS.PREFABS.MILKPRESS.WHEAT_MILK_RECIPE_DESCRIPTION
+msgctxt "STRINGS.BUILDINGS.PREFABS.MILKPRESS.WHEAT_MILK_RECIPE_DESCRIPTION"
+msgid "Converts {0} to {1}"
+msgstr "Преобразует {0} в {1}"
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
@@ -12143,6 +13357,91 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
 msgid "<link=\"MINERALDEOXIDIZER\">Oxygen Diffuser</link>"
 msgstr "<link=\"MINERALDEOXIDIZER\">Раскислитель водорослей</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.DESC"
+msgid "Blastshot shells are an effective defense against incoming meteor showers."
+msgstr "Гранаты надежно защищают от метеорных атак. "
+
+#. STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.EFFECT"
+msgid "Produces <link=\"MISSILELAUNCHER\">Blastshot</link> from <link=\"REFINEDMETAL\">Refined Metals</link> combined with <link=\"PETROLEUM\">Petroleum</link>.\n\nDuplicants will not fabricate items unless recipes are queued."
+msgstr "Производит <link=\"MISSILELAUNCHER\">Гранаты</link> из <link=\"REFINEDMETAL\">Очищенныз металлов</link> и <link=\"PETROLEUM\">Керосина</link>.\n\nДупликанты не будут производить предметы, пока рецепты не будут выставлены в очередь."
+
+#. STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.NAME"
+msgid "<link=\"MISSILEFABRICATOR\">Blastshot Maker</link>"
+msgstr "<link=\"MISSILEFABRICATOR\">Производитель гранат</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.RECIPE_DESCRIPTION
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.RECIPE_DESCRIPTION"
+msgid "Produces {0} from {1} and {2}."
+msgstr "Производит {0} из {1} и {2}."
+
+#. STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.BODY.CONTAINER1
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.BODY.CONTAINER1"
+msgid "Fires <link=\"MISSILELAUNCHER\">Blastshot</link> shells at meteor showers to defend the colony from impact-related damage.\n\nRange: 16 tiles horizontally, 32 tiles vertically.\n\nMeteors that have been blown to smithereens leave behind no harvestable resources."
+msgstr "Стреляет <link=\"MISSILELAUNCHER\">Гранатами</link> по метеоритным дождям, чтобы защитить колонию от повреждений от ударов.\n\nДальность: 16 блоков горизонтально, 32 блока вертикально.\n\nМетеориты, разорванные на куски, не оставляют за собой ресурсов для сбора."
+
+#. STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.DESC"
+msgid "Some meteors drop harvestable resources when they're blown to smithereens."
+msgstr "Некоторые метеориты оставляют ресурсы, когда разлетаются на куски."
+
+#. STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.EFFECT"
+msgid "Fires <link=\"MISSILELAUNCHER\">Blastshot</link> shells at meteor showers to defend the colony from impact-related damage.\n\nRange: 16 tiles horizontally, 32 tiles vertically."
+msgstr "Стреляет <link=\"MISSILELAUNCHER\">Гранатами</link> по метеоритным дождям, чтобы защитить колонию от повреждений от ударов.\n\nДальность: 16 блоков горизонтально, 32 блока вертикально."
+
+#. STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.NAME"
+msgid "<link=\"MISSILELAUNCHER\">Meteor Blaster</link>"
+msgstr "<link=\"MISSILELAUNCHER\">Метеоритный бластер</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.TARGET_SELECTION_HEADER
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.TARGET_SELECTION_HEADER"
+msgid "Target Selection"
+msgstr "Выбор цели"
+
+#. STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.DESC"
+msgid "Like a backseat driver who actually does know better."
+msgstr "Как пассажир, который действительно знает, как лучше."
+
+#. STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.EFFECT"
+msgid "Provides guidance data to rocket pilots, to improve rocket speed.\n\nMust be operated by a Duplicant with the <link=\"ASTRONOMY\">Astronomy</link> skill.\n\nRequires a clear line of sight to space in order to function."
+msgstr "Предоставляет данные для навигации шаттлу, чтобы увеличить его скорость.\n\nДолжен управляться Дупликантом с навыком <link=\"ASTRONOMY\">Астрономия</link>.\n\nТребуется прямой вид на космос для функционирования."
+
+#. STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.NAME"
+msgid "<link=\"MISSIONCONTROL\">Mission Control Station</link>"
+msgstr "<link=\"MISSIONCONTROL\">Станции управления полетами</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MISSIONCONTROLCLUSTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSIONCONTROLCLUSTER.DESC"
+msgid "Like a backseat driver who actually does know better."
+msgstr "Как пассажир, который действительно знает, как лучше."
+
+#. STRINGS.BUILDINGS.PREFABS.MISSIONCONTROLCLUSTER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSIONCONTROLCLUSTER.EFFECT"
+msgid "Provides guidance data to rocket pilots within range, to improve rocket speed.\n\nMust be operated by a Duplicant with the <link=\"ASTRONOMY\">Astronomy</link> skill.\n\nRequires a clear line of sight to space in order to function."
+msgstr "Предоставляет данные для навигации шаттла в радиусе действия, чтобы увеличить его скорость.\n\nДолжен управляться Дупликантом с навыком <link=\"ASTRONOMY\">Астрономия</link>.\n\nТребуется прямой вид на космос для функционирования."
+
+#. STRINGS.BUILDINGS.PREFABS.MISSIONCONTROLCLUSTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MISSIONCONTROLCLUSTER.NAME"
+msgid "<link=\"MISSIONCONTROLCLUSTER\">Mission Control Station</link>"
+msgstr "<link=\"MISSIONCONTROLCLUSTER\">Кластер управления полетами</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MODULARGASINPUT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARGASINPUT.DESC"
+msgid "A hub from which to input <link=\"ELEMENTSGAS\">Gas</link>."
+msgstr "Центр для подачи <link=\"ELEMENTSGAS\">Газа</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.MODULARGASINPUT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARGASINPUT.NAME"
+msgid "<link=\"MODULARGASINPUT\">Gas Input Hub</link>"
+msgstr "<link=\"MODULARGASINPUT\">Центр подачи газа</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORT.NAME"
 msgid "<link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Port</link>"
@@ -12152,6 +13451,21 @@ msgstr "<link=\"MODULARLAUNCHPADPORTSOLID\">Порт для шаттла</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORT.NAME_PLURAL"
 msgid "<link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Ports</link>"
 msgstr "<link=\"MODULARLAUNCHPADPORTSOLID\">Порты для шаттлов</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTBRIDGE.DESC"
+msgid "Allows rocket platforms to be built farther apart."
+msgstr "Позволяет строить платформы для шаттлов на большем расстоянии друг от друга."
+
+#. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTBRIDGE.EFFECT"
+msgid "Automatically links when built to the side of a <link=\"LAUNCHPAD\">Rocket Platform</link> or any <link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Port</link>."
+msgstr "Автоматически связывается при постройке рядом с <link=\"LAUNCHPAD\">платформой для шаттлов</link> или любым <link=\"MODULARLAUNCHPADPORTSOLID\">портом для шаттлов</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTBRIDGE.NAME"
+msgid "<link=\"MODULARLAUNCHPADPORTBRIDGE\">Rocket Port Extension</link>"
+msgstr "<link=\"MODULARLAUNCHPADPORTBRIDGE\">Расширение порта для шаттлов</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTGAS.DESC"
@@ -12241,7 +13555,27 @@ msgstr "Разгружает <link=\"ELEMENTSSOLID\">Твердые матери
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLIDUNLOADER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTSOLIDUNLOADER.NAME"
 msgid "<link=\"MODULARLAUNCHPADPORTSOLIDUNLOADER\">Solid Rocket Port Unloader</link>"
-msgstr "<link=\"MODULARLAUNCHPADPORTSOLIDUNLOADER\">Станция для разгрузки твердых материалов</link>"
+msgstr "<link=\"MODULARLAUNCHPADPORTSOLIDUNLOADER\">Станция для разгрузки твердотелых ресурсов</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MODULARLIQUIDINPUT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLIQUIDINPUT.DESC"
+msgid "A hub from which to input <link=\"ELEMENTSLIQUID\">Liquids</link>."
+msgstr "Хаб для ввода <link=\"ELEMENTSLIQUID\">Жидкостей</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.MODULARLIQUIDINPUT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLIQUIDINPUT.NAME"
+msgid "<link=\"MODULARLIQUIDINPUT\">Liquid Input Hub</link>"
+msgstr "<link=\"MODULARLIQUIDINPUT\">Хаб ввода жидкостей</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MODULARSOLIDINPUT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARSOLIDINPUT.DESC"
+msgid "A hub from which to input <link=\"ELEMENTSSOLID\">Solids</link>."
+msgstr "Хаб для ввода <link=\"ELEMENTSSOLID\">твердотелых ресурсов</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.MODULARSOLIDINPUT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARSOLIDINPUT.NAME"
+msgid "<link=\"MODULARSOLIDINPUT\">Solid Input Hub</link>"
+msgstr "<link=\"MODULARSOLIDINPUT\">Хаб ввода твердых ресурсов</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.DESC"
@@ -12287,6 +13621,21 @@ msgstr "Постройка верхней части Великого монум
 msgctxt "STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.NAME"
 msgid "<link=\"MONUMENTTOP\">Monument Top</link>"
 msgstr "<link=\"MONUMENTTOP\">Верхняя часть монумента</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.DESC"
+msgid "Allows a skilled Duplicant to manufacture a steady supply of icky yet effective bots."
+msgstr "Позволяет опытному Дупликанту производить стабильное количество противных, но эффективных роботов."
+
+#. STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.EFFECT"
+msgid "Uses <link=\"ZOMBIESPORES\">Zombie Spores</link> and <link=\"STEEL\">Steel</link> to craft biofueled machines that can be sent into hostile environments.\n\nDefunct <link=\"STORYTRAITMORBROVER\">Biobots</link> drop harvestable <link=\"STEEL\">Steel</link>."
+msgstr "Использует <link=\"ZOMBIESPORES\">Зомбоспоры</link> и <link=\"STEEL\">Сталь</link> для создания биотопливных роботов, которые можно отправить в враждебные среды.\n\nНеактивные <link=\"STORYTRAITMORBROVER\">Биоботы</link> оставляют собираемую <link=\"STEEL\">Сталь</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.NAME"
+msgid "<link=\"STORYTRAITMORBROVER\">Biobot Builder</link>"
+msgstr "<link=\"STORYTRAITMORBROVER\">Фабрика биороботов</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MOULDINGTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MOULDINGTILE.DESC"
@@ -12453,6 +13802,21 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALCARGOMODULE.NAME"
 msgid "<link=\"ORBITALCARGOMODULE\">Orbital Cargo Module</link>"
 msgstr "<link=\"ORBITALCARGOMODULE\">Орбитальный грузовой модуль</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.DESC"
+msgid "Orbital Data Collection Labs record data while orbiting a Planetoid and write it to a <link=\"ORBITALRESEARCHDATABANK\">Data Bank</link>. "
+msgstr "Лаборатории сбора данных, расположенные на орбите, записывают информацию, пока оборачиваются вокруг планетоидов, и сохранают ее в <link=\"ORBITALRESEARCHDATABANK\">Банки данных</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.EFFECT"
+msgid "Creates <link=\"ORBITALRESEARCHDATABANK\">Data Banks</link> that can be consumed at a <link=\"DLC1COSMICRESEARCHCENTER\">Virtual Planetarium</link> to unlock new technologies.\n\nConsumes <link=\"POLYPROPYLENE\">Plastic</link> and <link=\"POWER\">Power</link>."
+msgstr "Создает <link=\"ORBITALRESEARCHDATABANK\">Банки данных</link>, которые можно использовать в <link=\"DLC1COSMICRESEARCHCENTER\">Планетарии</link> для открытия новых технологий.\n\nПотребляет <link=\"POLYPROPYLENE\">Пластик</link> и <link=\"POWER\">Электричество</link>."
+
+#. STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.NAME"
+msgid "<link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab</link>"
+msgstr "<link=\"ORBITALRESEARCHCENTER\">Лаборатория сбора данных на орбите</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.ORESCRUBBER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ORESCRUBBER.DESC"
 msgid "Scrubbers sanitize freshly mined materials before they're brought into the colony."
@@ -12535,8 +13899,8 @@ msgstr "Хранит <link=\"LIQUIDOXYGEN\">Жидкий кислород</link>
 
 #. STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUID.NAME"
-msgid "<link=\"LIQUIDOXIDIZERTANK\">Liquid Oxidizer Tank</link>"
-msgstr "<link=\"LIQUIDOXIDIZERTANK\">Резервуар жидкого кислорода</link>"
+msgid "<link=\"OXIDIZERTANKLIQUID\">Liquid Oxidizer Tank</link>"
+msgstr "<link=\"OXIDIZERTANKLIQUID\">Резервуар жидкого кислорода</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUIDCLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUIDCLUSTER.DESC"
@@ -12550,8 +13914,8 @@ msgstr "Хранит <link=\"LIQUIDOXYGEN\">Жидкий кислород</link>
 
 #. STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUIDCLUSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUIDCLUSTER.NAME"
-msgid "<link=\"LIQUIDOXIDIZERTANKCLUSTER\">Liquid Oxidizer Tank</link>"
-msgstr "<link=\"LIQUIDOXIDIZERTANKCLUSTER\">Резервуар для жидкого кислорода</link>"
+msgid "<link=\"OXIDIZERTANKLIQUIDCLUSTER\">Liquid Oxidizer Tank</link>"
+msgstr "<link=\"OXIDIZERTANKLIQUIDCLUSTER\">Резервуар для жидкого кислорода</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.OXYGENMASKLOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENMASKLOCKER.DESC"
@@ -12612,6 +13976,21 @@ msgstr "Синтезирует <link=\"OXYROCK\">Оксилит</link>, испо
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXYLITEREFINERY.NAME"
 msgid "<link=\"OXYLITEREFINERY\">Oxylite Refinery</link>"
 msgstr "<link=\"OXYLITEREFINERY\">Синтезатор оксилита</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.OXYSCONCE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.OXYSCONCE.DESC"
+msgid "Sconces prevent diffused oxygen from being wasted inside storage bins."
+msgstr "Светильники предотвращают потерю кислорода из оксилита, находясь в хранилищах."
+
+#. STRINGS.BUILDINGS.PREFABS.OXYSCONCE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.OXYSCONCE.EFFECT"
+msgid "Stores a small chunk of <link=\"OXYROCK\">Oxylite</link> which gradually releases <link=\"OXYGEN\">Oxygen</link> into the environment."
+msgstr "Содержит небольшую порцию <link=\"OXYROCK\">Оксилита</link>, который постепенно выделяет <link=\"OXYGEN\">Кислород</link> в окружающую среду."
+
+#. STRINGS.BUILDINGS.PREFABS.OXYSCONCE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.OXYSCONCE.NAME"
+msgid "<link=\"OXYSCONCE\">Oxylite Sconce</link>"
+msgstr "<link=\"OXYSCONCE\">Светильник с оксилитом</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PARKSIGN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PARKSIGN.DESC"
@@ -12748,10 +14127,85 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.EFFECT"
 msgid "Grows one <link=\"PLANTS\">Plant</link> from a <link=\"PLANTS\">Seed</link>."
 msgstr "Выращивает одно <link=\"PLANTS\">Растение</link> из <link=\"PLANTS\">Семени</link>."
 
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.BRISTLEBLOSSOM.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.BRISTLEBLOSSOM.DESC"
+msgid "The interior is lined with tiny barbs."
+msgstr "Внутри находятся крошечные шипы."
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.BRISTLEBLOSSOM.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.BRISTLEBLOSSOM.NAME"
+msgid "<link=\"PLANTERBOX\">Bristly Green Planter Box</link>"
+msgstr "<link=\"PLANTERBOX\">Шершавый ящик для растений</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.DEFAULT_PLANTERBOX.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.DEFAULT_PLANTERBOX.DESC"
+msgid "Domestically grown seeds mature more quickly than wild plants."
+msgstr "Семена, выращенные в домашних условиях, созревают быстрее, чем дикорастущие растения."
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.DEFAULT_PLANTERBOX.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.DEFAULT_PLANTERBOX.NAME"
+msgid "<link=\"PLANTERBOX\">Planter Box</link>"
+msgstr "<link=\"PLANTERBOX\">Ящик для растений</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.MEALWOOD.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.MEALWOOD.DESC"
+msgid "Inspired by genetically modified nature."
+msgstr "Вдохновлено генетически модифицированной природой."
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.MEALWOOD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.MEALWOOD.NAME"
+msgid "<link=\"PLANTERBOX\">Mealy Teal Planter Box</link>"
+msgstr "<link=\"PLANTERBOX\">Меланжевый ящик для растений</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SALMON_PINK.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SALMON_PINK.DESC"
+msgid "It's not exactly a subtle color."
+msgstr "Это не самый сдержанный цвет."
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SALMON_PINK.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SALMON_PINK.NAME"
+msgid "<link=\"PLANTERBOX\">Flashy Planter Box</link>"
+msgstr "<link=\"PLANTERBOX\">Яркий ящик для растений</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SLEETWHEAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SLEETWHEAT.DESC"
+msgid "The thick paint drips are invisible from a distance."
+msgstr "Толстые капли краски невидимы издалека."
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SLEETWHEAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SLEETWHEAT.NAME"
+msgid "<link=\"PLANTERBOX\">Sleet Blue Planter Box</link>"
+msgstr "<link=\"PLANTERBOX\">Синий ящик для растений</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.DESC"
+msgid "For the dreamy agriculturalist."
+msgstr "Для мечтательного агронома."
+
+#. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.NAME"
+msgid "<link=\"PLANTERBOX\">Wheezy Whorl Planter Box</link>"
+msgstr "<link=\"PLANTERBOX\">Ящик для растений с вихрем</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME"
 msgid "<link=\"PLANTERBOX\">Planter Box</link>"
 msgstr "<link=\"PLANTERBOX\">Ящик для рассады</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.DESCRIPTION
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.DESCRIPTION"
+msgid "Maintenance-free blooms that will outlive us all."
+msgstr "Цветы, не требующие ухода, которые переживут всех нас."
+
+#. STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.LORE_DLC2
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.LORE_DLC2"
+msgid "Manufactured by Home Staging Heroes Ltd. as commissioned by the Gravitas Facility, to <i>\"Make Space Feel More Like Home.\"</i>\n\nThis bouquet is designed to smell like freshly baked cookies."
+msgstr "Произведено компанией \"Домашние Герои\". по заказу Центра Gravitas, чтобы <i>\"Сделать пространство более уютным.\"</i>\n\nЭтот букет предназначен для того, чтобы пахнуть свежеиспеченным печеньем."
+
+#. STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.NAME"
+msgid "Plastic Flowers"
+msgstr "Пластиковые цветы"
 
 #. STRINGS.BUILDINGS.PREFABS.PLASTICTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLASTICTILE.DESC"
@@ -12780,8 +14234,23 @@ msgstr "Прочная дверь со сложным генетическим �
 
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME"
-msgid "<link=\"POIBUNKEREXTERIORDOOR\">Security Door</link>"
-msgstr "<link=\"POIBUNKEREXTERIORDOOR\">Дверь безопасности</link>"
+msgid "Security Door"
+msgstr "Дверь безопасности"
+
+#. STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.EFFECT"
+msgid "Large double doors identical to those you might find at the main entrance to a large facility."
+msgstr "Большие двустворчатые двери, идентичные тем, что можно найти на главном входе в крупное сооружение."
+
+#. STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.NAME"
+msgid "Showroom Doors"
+msgstr "Двери шоурума"
 
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.DESC"
@@ -12795,8 +14264,8 @@ msgstr "Прочная дверь со сложным генетическим �
 
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.NAME"
-msgid "<link=\"POIDOORINTERNAL\">Security Door</link>"
-msgstr "<link=\"POIDOORINTERNAL\">Дверь безопасности</link>"
+msgid "Security Door"
+msgstr "Дверь безопасности"
 
 #. STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.DESC"
@@ -12810,8 +14279,8 @@ msgstr "Массивные двойные двери, которые ранее 
 
 #. STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.NAME"
-msgid "<link=\"FACILITYDOOR\">Lobby Doors</link>"
-msgstr "<link=\"FACILITYDOOR\">Двери учреждения</link>"
+msgid "Lobby Doors"
+msgstr "Двери учреждения"
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.DESC"
@@ -12820,8 +14289,8 @@ msgstr "Пластик используется для производства 
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT"
-msgid "Converts <link=\"PETROLEUM\">Petroleum</link> into raw <link=\"POLYPROPYLENE\">Plastic</link>."
-msgstr "Перерабатывает <link=\"PETROLEUM\">Керосин</link> в <link=\"POLYPROPYLENE\">Пластик</link>."
+msgid "Converts <link=\"PETROLEUM\">Petroleum</link> or <link=\"SUGARWATER\">Nectar</link> into raw <link=\"POLYPROPYLENE\">Plastic</link>."
+msgstr "Перерабатывает <link=\"PETROLEUM\">Керосин</link> или <link=\"SUGARWATER\">Нектар</link> в <link=\"POLYPROPYLENE\">Пластик</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME"
@@ -12845,8 +14314,8 @@ msgstr "<link=\"POWERCONTROLSTATION\">Станция управления мощ
 
 #. STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.DESC"
-msgid "Limiting the power drawn by wires prevents them from incurring overload damage."
-msgstr "Ограничивает мощность, потребляемого проводами электричества, предотвращая их повреждение от перегрузки."
+msgid "It's a power transformer, but larger."
+msgstr "Как трансформатор, только больше."
 
 #. STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.EFFECT"
@@ -12880,8 +14349,8 @@ msgstr "Механизированный шлюз, подключенный к �
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT"
-msgid "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSGAS\">Gas</link> flow, maintaining pressure between areas.\n\nFunctions as a <link=\"MANUALPRESSUREDOOR\">Manual Airlock</link> when no <link=\"POWER\">Power</link> is available.\n\nWild <link=\"CRITTERS\">Critters</link> cannot pass through doors."
-msgstr "Блокирует потоки <link=\"ELEMENTSLIQUID\">Жидкости</link> и <link=\"ELEMENTSGAS\">Газа</link>, поддерживая атмосферное давление между зонами.\n\nФункционирует как <link=\"MANUALPRESSUREDOOR\">ручной шлюз</link>, когда нет доступа к <link=\"POWER\">Электричеству</link>.\n\nДикие существа не могут проходить через двери."
+msgid "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSGAS\">Gas</link> flow, maintaining pressure between areas.\n\nFunctions as a <link=\"MANUALPRESSUREDOOR\">Manual Airlock</link> when no <link=\"POWER\">Power</link> is available.\n\nWild <link=\"CREATURES\">Critters</link> cannot pass through doors."
+msgstr "Блокирует потоки <link=\"ELEMENTSLIQUID\">Жидкости</link> и <link=\"ELEMENTSGAS\">Газа</link>, поддерживая атмосферное давление между зонами.\n\nФункционирует как <link=\"MANUALPRESSUREDOOR\">ручной шлюз</link>, когда нет доступа к <link=\"POWER\">Электричеству</link>.\n\nДикие <link=\"CREATURES\">Существа</link> не могут проходить через двери."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
@@ -12918,6 +14387,36 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHLIQUID.NAME"
 msgid "<link=\"PRESSURESWITCHLIQUID\">Hydro Switch</link>"
 msgstr "<link=\"PRESSURESWITCHLIQUID\">Датчик воды</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERA.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERA.DESC"
+msgid "A poster promoting a local tourist attraction.\n\nActual scenery may vary."
+msgstr "Плакат, рекламирующий местную туристическую достопримечательность.\n\nФактический вид может отличаться."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERA.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERA.NAME"
+msgid "Travel Poster"
+msgstr "Туристический плакат"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERB.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERB.DESC"
+msgid "A poster promoting local wildlife.\n\nThe first in an unfinished series."
+msgstr "Плакат, рекламирующий местную дикую природу.\n\nПервый в незавершенной серии."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERB.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERB.NAME"
+msgid "Travel Poster"
+msgstr "Туристический плакат"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERLARGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERLARGE.DESC"
+msgid "A sound-absorbing panel that makes small-space living more bearable.\n\nThe artwork features a  power source."
+msgstr "Панель, поглощающая звук, которая делает жизнь в небольших помещениях более терпимой.\n\nНа картине изображен источник питания."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERLARGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERLARGE.NAME"
+msgid "Acoustic Art Panel"
+msgstr "Акустическая художественная панель"
+
 #. STRINGS.BUILDINGS.PREFABS.PROPCLOCK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCLOCK.DESC"
 msgid "A simple wall clock.\n\nIt is no longer ticking."
@@ -12927,6 +14426,16 @@ msgstr "Простые настенные часы.\n\nУже давно не х
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCLOCK.NAME"
 msgid "Clock"
 msgstr "Часы"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPCLOTHESHANGER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCLOTHESHANGER.DESC"
+msgid "Holds one <link=\"WARMVEST\">Warm Coat</link>.\n\nIt'd be silly not to use it."
+msgstr "Вмещает один <link=\"WARMVEST\">Теплый свитер</link>.\n\nБыло бы глупо не использовать его."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPCLOTHESHANGER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPCLOTHESHANGER.NAME"
+msgid "Coat Rack"
+msgstr "Вешалка для одежды"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPDESK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPDESK.DESC"
@@ -12938,6 +14447,26 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPDESK.NAME"
 msgid "Computer Desk"
 msgstr "Компьютерный стол"
 
+#. STRINGS.BUILDINGS.PREFABS.PROPDLC2DISPLAY1.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPDLC2DISPLAY1.DESC"
+msgid "An electronic display projecting the blueprint of an engineering project.\n\nIt looks like a pump of some kind."
+msgstr "Электронный дисплей, проецирующий чертеж инженерного проекта.\n\nПохоже на насос какого-то рода."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPDLC2DISPLAY1.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPDLC2DISPLAY1.NAME"
+msgid "Electronic Display"
+msgstr "Электронный дисплей"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPDLC2GEOTHERMALCART.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPDLC2GEOTHERMALCART.DESC"
+msgid "Maintenance equipment that once flushed debris out of complex mechanisms.\n\nOne of the wheels is squeaky."
+msgstr "Оборудование для технического обслуживания, которое когда-то смывало мусор из сложных механизмов.\n\nОдно из колес скрипит."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPDLC2GEOTHERMALCART.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPDLC2GEOTHERMALCART.NAME"
+msgid "Service Cart"
+msgstr "Служебная тележка"
+
 #. STRINGS.BUILDINGS.PREFABS.PROPELEVATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPELEVATOR.DESC"
 msgid "Out of service.\n\nThe buttons inside indicate it went down more than a dozen floors at one point in time."
@@ -12947,6 +14476,36 @@ msgstr "Не работает.\n\nКнопки внутри говорят о т
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPELEVATOR.NAME"
 msgid "Broken Elevator"
 msgstr "Сломанный лифт"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPEXOSETLOCKER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPEXOSETLOCKER.DESC"
+msgid "A locker made with ultra-lightweight textiles.\n\nIt contains an assortment of personal effects."
+msgstr "Шкаф из ультралегких тканей.\n\nСодержит разнообразные личные вещи."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPEXOSETLOCKER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPEXOSETLOCKER.NAME"
+msgid "Off-site Locker"
+msgstr "Личный шкаф"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPEXOSHELFLONG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPEXOSHELFLONG.DESC"
+msgid "A shelf made out of flat-packed pieces that can be assembled in various ways.\n\nThis is the long way."
+msgstr "Полка из плоских деталей, которые можно собрать по-разному.\n\nЭто длинный вариант."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPEXOSHELFLONG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPEXOSHELFLONG.NAME"
+msgid "Long Prefab Shelf"
+msgstr "Длинная сборная полка"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPEXOSHELSHORT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPEXOSHELSHORT.DESC"
+msgid "A shelf made out of flat-packed pieces that can be assembled in various ways.\n\nIt looks nice, actually."
+msgstr "Полка из плоских деталей, которые можно собрать по-разному.\n\nНа самом деле выглядит неплохо."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPEXOSHELSHORT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPEXOSHELSHORT.NAME"
+msgid "Prefab Shelf"
+msgstr "Сборная полка"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPFACILITYCHAIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPFACILITYCHAIR.DESC"
@@ -13098,7 +14657,15 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCEILINGROBOT.NAME"
 msgid "Ceiling Robot"
 msgstr "Робот-манипулятор"
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCREATUREPOSTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCREATUREPOSTER.DESC"
+msgid "An anatomical illustration of the very first <link=\"HATCH\">Hatch</link> ever produced.\n\nWhile the ratio of egg sac to brain may appear outlandish, it is in fact to scale."
+msgstr "Анатомическая иллюстрация первого <link=\"HATCH\">Норника</link>, когда-либо произведенного.\n\nХотя соотношение яйцевого мешка к мозгу может показаться странным, оно соответствует масштабу."
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCREATUREPOSTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASCREATUREPOSTER.NAME"
+msgid "Anatomy Poster"
+msgstr "Постер с анатомией"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.DESC"
@@ -13110,7 +14677,15 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDECORATIVEWINDOW.NAME"
 msgid "Window"
 msgstr "Окно"
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDESKPODIUM.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDESKPODIUM.DESC"
+msgid "A clutter-proof desk to minimize distractions.\n\nThere appears to be something stored in the computer."
+msgstr "Безупречно организованный стол, минимизирующий отвлечения.\n\nПохоже, в компьютере что-то хранится."
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDESKPODIUM.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDESKPODIUM.NAME"
+msgid "Computer Podium"
+msgstr "Компьютерный стол"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDISPLAY4.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDISPLAY4.DESC"
@@ -13122,7 +14697,25 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASDISPLAY4.NAME"
 msgid "Electronic Display"
 msgstr "Электронный дисплей"
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIREEXTINGUISHER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIREEXTINGUISHER.DESC"
+msgid "Essential lab equipment.\n\nThe inspection tag indicates it has long expired."
+msgstr "Необходимое лабораторное оборудование.\n\nМетка проверки указывает, что срок годности давно истек."
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIREEXTINGUISHER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIREEXTINGUISHER.NAME"
+msgid "Broken Fire Extinguisher"
+msgstr "Сломанный огнетушитель"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIRSTAIDKIT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIRSTAIDKIT.DESC"
+msgid "It looks like it's been used a lot."
+msgstr "Выглядит так, будто ей пользовались часто."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIRSTAIDKIT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIRSTAIDKIT.NAME"
+msgid "First Aid Kit"
+msgstr "Аптечка"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFLOORROBOT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFLOORROBOT.DESC"
@@ -13219,6 +14812,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.NAME"
 msgid "Lab Window"
 msgstr "Лабораторное окно"
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASROBTICTABLE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASROBTICTABLE.DESC"
+msgid "The work space of an extinct robotics technician who left behind some unfinished prototypes."
+msgstr "Рабочее место вымершего робототехника с неоконченными прототипами."
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASROBTICTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASROBTICTABLE.NAME"
@@ -13235,6 +14832,36 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSHELF.NAME"
 msgid "Shelf"
 msgstr "Полка"
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSMALLSEEDLOCKER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSMALLSEEDLOCKER.DESC"
+msgid "A small glass cabinet.\n\nThere's a biohazard symbol on it."
+msgstr "Небольшой стеклянный шкаф.\n\nНа нем есть символ биологической опасности."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSMALLSEEDLOCKER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSMALLSEEDLOCKER.NAME"
+msgid "Wall Cabinet"
+msgstr "Шкаф для био-образцов"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLCRATE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLCRATE.DESC"
+msgid "A packing crate intended for safety equipment.\n\nIt has been repurposed for tool storage."
+msgstr "Бывший ящик для защитной экипировки.\n\nТеперь используется для хранения инструментов."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLCRATE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLCRATE.NAME"
+msgid "Tool Crate"
+msgstr "Ящик для инструментов"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLSHELF.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLSHELF.DESC"
+msgid "A wall-mounted rack for storing and displaying useful tools at a not-so-useful height."
+msgstr "Крепящийся к стене стеллаж для хранения и демонстрации полезных инструментов на не слишком удобной высоте."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLSHELF.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLSHELF.NAME"
+msgid "Tool Rack"
+msgstr "Стеллаж для инструментов"
+
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.DESC"
 msgid ""
@@ -13249,6 +14876,66 @@ msgstr "Стена когда-то великого научного центр�
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.NAME"
 msgid "Wall"
 msgstr "Стена"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.EFFECT"
+msgid "The wall of an ambitious research and development department."
+msgstr "Стена амбициозного отдела исследований и разработок."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.NAME"
+msgid "Wall"
+msgstr "Стена"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.EFFECT"
+msgid "The wall of an ambitious research and development department."
+msgstr "Стена амбициозного отдела исследований и разработок."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.NAME"
+msgid "Wall"
+msgstr "Стена"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDCHAIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDCHAIR.DESC"
+msgid "A luxurious chair where future generations can comfortably sit and dream of home."
+msgstr "Роскошное кресло, где будущие поколения смогут удобно сидеть и мечтать о доме."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDCHAIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDCHAIR.NAME"
+msgid "Showroom Chair"
+msgstr "Кресло из шоурума"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDSOFA.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDSOFA.DESC"
+msgid "A luxurious couch where potential residents can comfortably nap and dream of home."
+msgstr "Роскошный диван, на котором потенциальные жители смогут комфортно вздремнуть и мечтать о доме."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDSOFA.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDSOFA.NAME"
+msgid "Showroom Couch"
+msgstr "Диван из шоурума"
+
+#. STRINGS.BUILDINGS.PREFABS.PROPHUMANMURPHYBED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPHUMANMURPHYBED.DESC"
+msgid "A bed that folds into the wall, for small live/work spaces.\n\nThis is the display model."
+msgstr "Кровать, которая складывается в стену, для небольших жилых/рабочих пространств.\n\nЭто демонстрационный образец."
+
+#. STRINGS.BUILDINGS.PREFABS.PROPHUMANMURPHYBED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPHUMANMURPHYBED.NAME"
+msgid "Murphy Bed"
+msgstr "Кровать-Мерфи"
 
 #. STRINGS.BUILDINGS.PREFABS.PROPLADDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPLADDER.DESC"
@@ -13360,6 +15047,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.DESC"
 msgid "It's tempting to climb inside but trust me... don't."
 msgstr "Заманчиво залезть внутрь, но поверьте мне ... не стоит."
 
+#. STRINGS.BUILDINGS.PREFABS.RAILGUN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.EFFECT"
+msgid "Launches <link=\"RAILGUNPAYLOAD\">Interplanetary Payloads</link> between Planetoids.\n\nPayloads can contain <link=\"ELEMENTSSOLID\">Solid</link>, <link=\"ELEMENTSLIQUID\">Liquid</link>, or <link=\"ELEMENTSGAS\">Gas</link> materials.\n\nCannot transport Duplicants."
+msgstr "Запускает <link=\"RAILGUNPAYLOAD\">Межпланетные Грузы</link> между планетоидов.\n\nГрузы могут содержать ресурсы в виде <link=\"ELEMENTSSOLID\">Твердотелых</link>, <link=\"ELEMENTSLIQUID\">Жидких</link>, или <link=\"ELEMENTSGAS\">Газообразных</link> веществ.\n\nНе может транспортировать Дупликантов."
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.LOGIC_PORT"
@@ -13403,13 +15094,13 @@ msgstr "<link=\"RAILGUNPAYLOADOPENER\">Распаковщик грузов</link
 
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.DESC"
-msgid "Grooming critters make them look nice, smell pretty, feel happy, and produce more."
-msgstr "Уход за существами делают их симпатичнее, лучше пахнущими, более счастливыми и больше производящими."
+msgid "A groomed critter is a happy, healthy, productive critter."
+msgstr "Тщательный уход делает питомца довольным, здоровым и трудоспособным. "
 
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT"
-msgid "Allows the assigned <link=\"RANCHER\">Rancher</link> to care for <link=\"CRITTERS\">Critters</link>.\n\nAssigned Duplicants must possess the <link=\"RANCHING1\">Critter Ranching</link> skill.\n\nThis building is a necessary component of the Stable room."
-msgstr "Позволяет назначенному <link=\"RANCHER\">животноводу</link> заботиться о <link=\"CRITTERS\">существах</link>.\n\nНазначенные Дупликанты должны иметь черту <link=\"RANCHING1\">Уход за существами</link>.\n\nЭта постройка - необходимый компонент стойл."
+msgid "Allows the assigned <link=\"RANCHER\">Rancher</link> to care for <link=\"CREATURES\">Critters</link>.\n\nAssigned Duplicants must possess the <link=\"RANCHING1\">Critter Ranching</link> skill."
+msgstr "Позволяет назначенному <link=\"RANCHER\">животноводу</link> заботиться о <link=\"CREATURES\">существах</link>.\n\nНазначенные Дупликанты должны иметь черту <link=\"RANCHING1\">Уход за существами</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME"
@@ -13440,6 +15131,76 @@ msgstr "Порча еды может замедляться при опреде�
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT"
 msgid "Stores <link=\"FOOD\">Food</link> at an ideal <link=\"HEAT\">Temperature</link> to prevent spoilage."
 msgstr "Хранит <link=\"FOOD\">Еду</link> в идеальной <link=\"HEAT\">Температуре</link>, предотвращая порчу."
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.BLUE_BABYTEARS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.BLUE_BABYTEARS.DESC"
+msgid "For food so cold, it brings a tear to the eye."
+msgstr "Для еды, от которой слезы на глазах."
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.BLUE_BABYTEARS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.BLUE_BABYTEARS.NAME"
+msgid "<link=\"REFRIGERATOR\">Weepy Blue Refrigerator</link>"
+msgstr "<link=\"REFRIGERATOR\">Плаксивый холодильник</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.DEFAULT_REFRIGERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.DEFAULT_REFRIGERATOR.DESC"
+msgid "Food spoilage can be slowed by ambient conditions as well as by refrigerators."
+msgstr "Порчу еды можно замедлить как окружающей средой, так и холодильниками."
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.DEFAULT_REFRIGERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.DEFAULT_REFRIGERATOR.NAME"
+msgid "<link=\"REFRIGERATOR\">Refrigerator</link>"
+msgstr "<link=\"REFRIGERATOR\">Холодильник</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.GREEN_MUSH.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.GREEN_MUSH.DESC"
+msgid "Honestly, this hue is particularly chilling."
+msgstr "Честно говоря, этот оттенок особенно охлаждающий."
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.GREEN_MUSH.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.GREEN_MUSH.NAME"
+msgid "<link=\"REFRIGERATOR\">Mush Green Refrigerator</link>"
+msgstr "<link=\"REFRIGERATOR\">Мшистый холодильник</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.PURPLE_BRAINFAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.PURPLE_BRAINFAT.DESC"
+msgid "This fridge makes color-coordination a (cold) snap."
+msgstr "Этот холодильник делает цветовую координацию прохладной."
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.PURPLE_BRAINFAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.PURPLE_BRAINFAT.NAME"
+msgid "<link=\"REFRIGERATOR\">Faint Purple Refrigerator</link>"
+msgstr "<link=\"REFRIGERATOR\">Розовый холодильник</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.RED_ROSE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.RED_ROSE.DESC"
+msgid "Inspired by the Duplicant poem, \"Pretty in Puce.\""
+msgstr "Вдохновленный стихотворением Дупликанта, \"Красивый в пурпурном.\""
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.RED_ROSE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.RED_ROSE.NAME"
+msgid "<link=\"REFRIGERATOR\">Puce Pink Refrigerator</link>"
+msgstr "<link=\"REFRIGERATOR\">Пурпурный холодильник</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.DESC"
+msgid "Bold on the outside, cold on the inside!"
+msgstr "Смелый снаружи, холодный изнутри!"
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.NAME"
+msgid "<link=\"REFRIGERATOR\">Bold Stripe Refrigerator</link>"
+msgstr "<link=\"REFRIGERATOR\">Холодильник в полоску</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.YELLOW_TARTAR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.YELLOW_TARTAR.DESC"
+msgid "Some Duplicants call it \"sunny\" yellow, but only because they've never seen the sun."
+msgstr "Некоторые Дупликанты называют его \"солнечным\" желтым, но только потому, что они никогда не видели солнце."
+
+#. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.YELLOW_TARTAR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.YELLOW_TARTAR.NAME"
+msgid "<link=\"REFRIGERATOR\">Ick Yellow Refrigerator</link>"
+msgstr "<link=\"REFRIGERATOR\">Желтый холодильник</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT"
@@ -36455,7 +38216,7 @@ msgstr "Содержит ресурсы, упакованные для межз�
 #. STRINGS.ITEMS.RAILGUNPAYLOAD.NAME
 msgctxt "STRINGS.ITEMS.RAILGUNPAYLOAD.NAME"
 msgid "<link=\"RAILGUNPAYLOAD\">Interplanetary Payload</link>"
-msgstr "<link=\"RAILGUNPAYLOAD\">Межпланетный полезный груз</link>"
+msgstr "<link=\"RAILGUNPAYLOAD\">Межпланетный груз</link>"
 
 #. STRINGS.LORE.BUILDINGS.Desk.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.Desk.ENTRY"
