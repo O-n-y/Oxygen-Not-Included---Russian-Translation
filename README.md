@@ -114,7 +114,8 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Research Lab - Лаборатория исследований
 * Automation - Автоматизация 
 * Sensor - Датчик  
-* Maintenance - Техническое обслуживание 
+* Maintenance - Техническое обслуживание
+* Solid Materials - Твердотелые ресурсы
 
 # Животный мир, Растения, Еда
 * Meal Lice - Мукоед
