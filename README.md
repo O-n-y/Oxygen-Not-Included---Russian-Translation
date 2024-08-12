@@ -116,6 +116,7 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Sensor - Датчик  
 * Maintenance - Техническое обслуживание
 * Solid Materials - Твердотелые ресурсы
+* Rocket - Шаттл
 
 # Животный мир, Растения, Еда
 * Meal Lice - Мукоед
