@@ -108,6 +108,13 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Liquid Pipes - Водопроводные трубы
 * Liquid Pipe - Водопроводная труба
 * Novice Research - Базовое Исследование
+* Storage - Хранилище 
+* Generator - Генератор
+* Hatchery - Инкубатор 
+* Research Lab - Лаборатория исследований
+* Automation - Автоматизация 
+* Sensor - Датчик  
+* Maintenance - Техническое обслуживание 
 
 # Животный мир, Растения, Еда
 * Meal Lice - Мукоед
@@ -130,5 +137,9 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Gristle Berry - Хрустящая Ягодка
 * Frost Bun - Ледяная булочка
 * Liceloaf - Батончик из мукоедов
-
+* Mealwood Sap - Сок мучного дерева
+* Muckroot Juice - Сок гнилкокорня 
+* Bristle Blossom Nectar - Нектар щитовика цветущего
+* Swamp Lily Bulb - Луковица болотной лилии
+* Peppernut Oil - Масло из перечного ореха
 
