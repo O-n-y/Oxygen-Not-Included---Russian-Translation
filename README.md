@@ -108,7 +108,8 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Liquid Pipes - Водопроводные трубы
 * Liquid Pipe - Водопроводная труба
 * Novice Research - Базовое Исследование
-* Storage - Хранилище 
+* Storage - Хранилище
+* Storage Bin - Склад 
 * Generator - Генератор
 * Hatchery - Инкубатор 
 * Research Lab - Лаборатория исследований
@@ -117,6 +118,12 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Maintenance - Техническое обслуживание
 * Solid Materials - Твердотелые ресурсы
 * Rocket - Шаттл
+* Rocket Platform - Платформа для шаттлов
+* Critter Cargo Bay - Отсек для существ
+* Spice Grinder - Измельчитель специй
+* Super Coolant - Супер-хладагент
+* Fullerene - Фуллерен
+* Ooze - Ил
 
 # Животный мир, Растения, Еда
 * Meal Lice - Мукоед
@@ -144,4 +151,6 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Bristle Blossom Nectar - Нектар щитовика цветущего
 * Swamp Lily Bulb - Луковица болотной лилии
 * Peppernut Oil - Масло из перечного ореха
+* Plug Slug - Плюг
+* Beeta - Биита
 
