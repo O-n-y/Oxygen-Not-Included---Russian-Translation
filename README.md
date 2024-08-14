@@ -153,4 +153,7 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Peppernut Oil - Масло из перечного ореха
 * Plug Slug - Плюг
 * Beeta - Биита
+* Bliss Burst - Радоцвет
+* Alveo Vera - Альвеух
+* Bog Bucket - Болотник
 
