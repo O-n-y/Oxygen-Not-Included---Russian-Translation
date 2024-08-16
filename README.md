@@ -156,4 +156,7 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Bliss Burst - Радоцвет
 * Alveo Vera - Альвеух
 * Bog Bucket - Болотник
+* Dasha Salt Vine - Сольдавица
+* Grubgrub - Корнефрукт
+* Brackwax - Браковакс
 
