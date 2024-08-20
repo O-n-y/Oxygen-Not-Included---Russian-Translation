@@ -124,6 +124,7 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Super Coolant - Супер-хладагент
 * Fullerene - Фуллерен
 * Ooze - Ил
+* Radbolt - Радчастица
 
 # Животный мир, Растения, Еда
 * Meal Lice - Мукоед
@@ -159,4 +160,5 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Dasha Salt Vine - Сольдавица
 * Grubgrub - Корнефрукт
 * Brackwax - Браковакс
+* Sherberry - Морозник
 
