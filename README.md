@@ -152,13 +152,32 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Bristle Blossom Nectar - Нектар щитовика цветущего
 * Swamp Lily Bulb - Луковица болотной лилии
 * Peppernut Oil - Масло из перечного ореха
-* Plug Slug - Плюг
+* Plug Slug - Плюгл
+* Smog Slug - Смогул
+* Sponge Slug - Губул
 * Beeta - Биита
 * Bliss Burst - Радоцвет
 * Alveo Vera - Альвеух
-* Bog Bucket - Болотник
+* Bog Bucket - Багровник
 * Dasha Salt Vine - Сольдавица
-* Grubgrub - Корнефрукт
+* Grubgrub - Грызогрыз
+* Sweetle - Сладкополз
 * Brackwax - Браковакс
 * Sherberry - Морозник
+* Pikeapple - Колючебус
+* Plume Squash - Плюмовая тыква
+* Spigot Seal - Сифонник
+* Grubfruit- Корнефрут
+* Tranquil Toes - Тихоцвет
+* Bonbon Tree - Дерево Бонери
+* Idylla - Мечтокрас
+* Hydrocactus - Аквалючка
+* Saturn Critter Trap - Сатурнянка
+* Lumen Quartz - Люменовый кварц
+* Shove Vole - Космолевка
+* Delecta Vole - Дэлектолевка
+* Bammoth - Баммут
+* Sanishell - Мокребс
+* Pokeshell - Кребс
+* Oakshell - Дубокребс
 
