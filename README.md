@@ -4,14 +4,7 @@
 
 Информация о переводе в Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=874932276
 *100% перевод, включающий Frosty Planet Pack и Spaced Out DLC*
-
-
-## Условия использования перевода
-Перевод запрещено использовать с целью внесения изменений и\или распространения, в том числе под своим именем. 
-Перевод разрешен и предназначен для использования только в том виде, в котором он существует, в игре Oxygen Not Inluded. 
-## Usage permissions and limitations
-Translation not allowed to use for editing or/and publishing under third-party name, fully or partly.
-Translation permitted and made to be used only in existing form in the game Oxygen Not Included.
+![100% перевод, включающий Frosty Planet Pack и Spaced Out DLC]([http://url/to/img.png](https://raw.githubusercontent.com/O-n-y/oxy.mods/master/oxy_supporred.png))
 
 # Автор перевода и как связаться (Steam):
 * Ony: http://steamcommunity.com/id/oniki/
@@ -189,3 +182,10 @@ Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK, pecypc, OsiWops, mmalinin, s
 * Hexalent - Гексалент
 * Tonic Root - Тонизирующий корень
 
+
+## Условия использования перевода
+Перевод запрещено использовать с целью внесения изменений и\или распространения, в том числе под своим именем. 
+Перевод разрешен и предназначен для использования только в том виде, в котором он существует, в игре Oxygen Not Inluded. 
+## Usage permissions and limitations
+Translation not allowed to use for editing or/and publishing under third-party name, fully or partly.
+Translation permitted and made to be used only in existing form in the game Oxygen Not Included.
