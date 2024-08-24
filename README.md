@@ -3,7 +3,7 @@
 Русская локализация для игры "Oxygen Not Included"
 
 Информация о переводе в Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=874932276
-*Актуальная версия в Steam, гит версия пока обновляться не будет.*
+*100% перевод, включающий Frosty Planet Pack и Spaced Out DLC*
 
 
 ## Условия использования перевода
@@ -13,13 +13,7 @@
 Translation not allowed to use for editing or/and publishing under third-party name, fully or partly.
 Translation permitted and made to be used only in existing form in the game Oxygen Not Included.
 
-# Участники перевода
-Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK
-
-# Помощь в коррекции и правка
-pecypc, OsiWops, mmalinin, strategdzr, dmtazetdinov 
-
-# Администратор и как связаться (Steam):
+# Автор перевода и как связаться (Steam):
 * Ony: http://steamcommunity.com/id/oniki/
 
 # Из Воркшопа Стим
@@ -67,6 +61,9 @@ pecypc, OsiWops, mmalinin, strategdzr, dmtazetdinov
 * После того, как вы отправили Push в основную ветку, вы можете увидеть его в списке pull requests: 
 https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Он будет рассмотрен администратором и, при необходимо скорректирован, после чего слит в основную ветку или же отклонен с комментарием, содержащим причину.
+
+# В разное время помогали переводу
+Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK, pecypc, OsiWops, mmalinin, strategdzr, dmtazetdinov 
 
 
 # Инструкции по файлу перевода (от разработчиков Oxygen Not Included)
