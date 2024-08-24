@@ -90,7 +90,10 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 
 
 # Базовые понятия
-* Duplicant - Дупликант
+* Duplicant - Дупликант (всегда пишится с заглавной буквы)
+* Priniting Pod - Биопринтер
+* Building - Постройка
+* Neutronium - Нейтрониум
 * Power - Электричество
 * Tile - Блок
 * Wire - Провод
@@ -180,4 +183,12 @@ https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
 * Sanishell - Мокребс
 * Pokeshell - Кребс
 * Oakshell - Дубокребс
+* Pip - Пип
+* Cuddle Pip - Мягкопип
+* Balm Lily - Бальзамная лилия
+* Sporechid - Злоцвет
+* Nosh Bean - Боб ноша
+* Jumping Joya - Прыгающий радостин
+* Hexalent - Гексалент
+* Tonic Root - Тонизирующий корень
 
