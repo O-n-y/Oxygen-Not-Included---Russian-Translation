@@ -4,7 +4,7 @@
 
 Информация о переводе в Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=874932276
 *100% перевод, включающий Frosty Planet Pack и Spaced Out DLC*
-![100% перевод, включающий Frosty Planet Pack и Spaced Out DLC]([http://url/to/img.png](https://raw.githubusercontent.com/O-n-y/oxy.mods/master/oxy_supporred.png))
+![100% перевод, включающий Frosty Planet Pack и Spaced Out DLC](https://raw.githubusercontent.com/O-n-y/oxy.mods/master/oxy_supporred.png)
 
 # Автор перевода и как связаться (Steam):
 * Ony: http://steamcommunity.com/id/oniki/
