@@ -4,7 +4,8 @@
 
 Информация о переводе в Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=874932276
 
-*100% перевод, включающий Frosty Planet Pack и Spaced Out DLC*
+*100% перевод, включающий исходный релиз Frosty Planet Pack и Spaced Out DLC*
+В процессе обновления перевода до патча 622372
 
 ![100% перевод, включающий Frosty Planet Pack и Spaced Out DLC](https://raw.githubusercontent.com/O-n-y/oxy.mods/master/oxy_supporred.png)
 
