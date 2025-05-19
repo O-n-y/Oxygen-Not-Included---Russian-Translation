@@ -14,7 +14,7 @@
 
 # Из Воркшопа Стим
 Подписаться на мод: http://steamcommunity.com/sharedfiles/filedetails/?id=927642162
-В настройках игры -> Options  -> Choose a different language - выбрать там русскую локализацию
+В настройках игры -> Options -> Choose a different language - выбрать там русскую локализацию
 Стим воркшоп работает, но с глюком, чтобы увидеть локализацию, после подписки нужно выйти из меню и зайти туда еще раз, там появится локализация - 2 раза кликните на ней, она подгрузится. 
 + После этого клиент перезапустить :)
 
@@ -42,21 +42,21 @@
 ## Начало работы и Push изменений
 * Перед началом внесения очередных изменений всегда синхронизируйтесь (Sync в правом верхнем углу Github Desktop)
 * Внесите изменения в файл strings.pot
-* Откройте Github Desktop, убедитесь что выбрана ветка master (это фаша форкнутая копия основного проекта)
+* Откройте Github Desktop, убедитесь что выбрана ветка master (это ваша форкнутая копия основного проекта)
 * Вкладка "Changes" - будет содержать список ваших изменений
 * В "Summary" укажите номера измененных строк, например: 1000-2000
 * Нажмите "Commit to master"
 * Синхронизируйтесь (Sync в правом верхнем углу Github Desktop)
-* Нажмите "Pull request" (праввый верхний угол  Github Desktop)
+* Нажмите "Pull request" (правый верхний угол  Github Desktop)
 * Убедитесь что выбран пул из master в Ony master
 * В "Summary" укажите номера измененных строк, например: 1000-2000
 * Нажмите "Send pull request"
 * Синхронизируйтесь (Sync в правом верхнем углу Github Desktop)
 
 ## Внесение изменений и Merge в основную ветку
-* После того, как вы отправили Push в основную ветку, вы можете увидеть его в списке pull requests: 
+* После того как вы отправили Push в основную ветку, вы можете увидеть его в списке pull requests: 
 https://github.com/O-n-y/Oxygen-Not-Included---Russian-Translation/pulls
-* Он будет рассмотрен администратором и, при необходимо скорректирован, после чего слит в основную ветку или же отклонен с комментарием, содержащим причину.
+* Он будет рассмотрен администратором и при необходимости скорректирован, после чего слит в основную ветку или же отклонен с комментарием, содержащим причину.
 
 # В разное время помогали переводу
 Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK, pecypc, OsiWops, mmalinin, strategdzr, dmtazetdinov 
@@ -83,7 +83,7 @@ Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK, pecypc, OsiWops, mmalinin, s
 
 
 # Базовые понятия
-* Duplicant - Дупликант (всегда пишится с заглавной буквы)
+* Duplicant - Дупликант (всегда пишется с заглавной буквы)
 * Priniting Pod - Биопринтер
 * Building - Постройка
 * Neutronium - Нейтрониум
@@ -93,7 +93,7 @@ Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK, pecypc, OsiWops, mmalinin, s
 * Insulation - Теплоизоляция
 * Entombed - Завалено
 * Fleeing - Убегает
-* Idle - Бездейсвует
+* Idle - Бездействует
 * Building - Постройка
 * Sweep - Убрать
 * Deliver - Доставка
@@ -188,7 +188,7 @@ Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK, pecypc, OsiWops, mmalinin, s
 
 ## Условия использования перевода
 Перевод запрещено использовать с целью внесения изменений и\или распространения, в том числе под своим именем. 
-Перевод разрешен и предназначен для использования только в том виде, в котором он существует, в игре Oxygen Not Inluded. 
+Перевод разрешен и предназначен для использования только в том виде, в котором он существует, в игре Oxygen Not Included. 
 ## Usage permissions and limitations
 Translation not allowed to use for editing or/and publishing under third-party name, fully or partly.
 Translation permitted and made to be used only in existing form in the game Oxygen Not Included.
